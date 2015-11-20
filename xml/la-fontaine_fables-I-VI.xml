@@ -94,6 +94,7 @@
       <div>
         <head rend="uc">Livre premier.</head>
         <div>
+          <figure><graphic url="la-fontaine_fables-I-VI-img/fable1.png"/></figure>
           <head type="sur" rend="uc">Fable I.</head>
           <head>La Cigale et la Fourmy.</head>
           <l met="7"><hi rend="b">L</hi>a Cigale ayant chanté</l>
@@ -120,6 +121,7 @@
           <l met="7">Et bien, dansez maintenant.</l>
         </div>
         <div>
+          <figure><graphic url="la-fontaine_fables-I-VI-img/fable2.png"/></figure>
           <head type="sur">II.</head>
           <head>Le Corbeau et le Renard.</head>
           <l met="10"><hi rend="b">M</hi>aistre Corbeau sur un arbre perché,</l>
@@ -142,6 +144,7 @@
           <l met="12">Jura, mais un peu tard, qu’on ne l’y prendroit plus.</l>
         </div>
         <div>
+          <figure><graphic url="la-fontaine_fables-I-VI-img/fable3.png"/></figure>
           <head type="sur">III.</head>
           <head>La Grenoüille qui se veut faire<lb/>aussi grosse que le Bœuf.</head>
           <l met="8"><hi rend="b">U</hi>ne Grenoüille vid un Bœuf,</l>
@@ -160,6 +163,7 @@
           <l met="8">Tout Marquis veut avoir des Pages.</l>
         </div>
         <div>
+          <figure><graphic url="la-fontaine_fables-I-VI-img/fable4.png"/></figure>
           <head type="sur">IV.</head>
           <head>Les deux Mulets.</head>
           <l met="12"><hi rend="b">D</hi>eux Mulets cheminoient ; l’un d’avoine chargé :  </l>
@@ -183,6 +187,7 @@
           <l met="8">Tu ne serois pas si malade.</l>
         </div>
         <div>
+          <figure><graphic url="la-fontaine_fables-I-VI-img/fable5.png"/></figure>
           <head type="sur">V.</head>
           <head>Le Loup et le Chien.</head>
           <l met="10"><hi rend="b">U</hi>n Loup n’avoit que les os et la peau,  </l>
@@ -228,6 +233,7 @@
           <l met="12"> Cela dit, Maistre Loup s’enfuit, et court encor.</l>
         </div>
         <div>
+          <figure><graphic url="la-fontaine_fables-I-VI-img/fable6.png"/></figure>
           <head type="sur">VI.</head>
           <head>La Genisse, la Chevre et la Brebis en societé avec le Lion.</head>
           <l met="12"><hi rend="b">L</hi>a Genisse, la Chevre, et leur sœur la Brebis,  </l>
@@ -250,6 +256,7 @@
           <l met="8">Je l’étrangleray tout d’abord.</l>
         </div>
         <div>
+          <figure><graphic url="la-fontaine_fables-I-VI-img/fable7.png"/></figure>
           <head type="sur">VII.</head>
           <head>La Besace.</head>
           <l met="12"><hi rend="b">J</hi>upiter dit un jour : Que tout ce qui respire </l>
@@ -289,6 +296,7 @@
           <l met="12"> Et celle de devant pour les défauts d’autruy.</l>
         </div>
         <div>
+          <figure><graphic url="la-fontaine_fables-I-VI-img/fable8.png"/></figure>
           <head type="sur">VIII.</head>
           <head>L’Hirondelle et les petits Oyseaux.</head>
           <l met="8"><hi rend="b">U</hi>ne Hirondelle en ses voyages </l>
@@ -351,6 +359,7 @@
           <l met="12"> Et ne croyons le mal que quand il est venu.</l>
         </div>
         <div>
+          <figure><graphic url="la-fontaine_fables-I-VI-img/fable9.png"/></figure>
           <head type="sur">IX.</head>
           <head>Le Rat de Ville, et le Rat des Champs.</head>
           <l met="7"><hi rend="b">A</hi>utrefois le Rat de ville  </l>
@@ -389,6 +398,7 @@
           <l met="7"> Que la crainte peut corrompre.</l>
         </div>
         <div>
+          <figure><graphic url="la-fontaine_fables-I-VI-img/fable10.png"/></figure>
           <head type="sur">X.</head>
           <head>Le Loup et l’Agneau.</head>
           <l met="12"><hi rend="b">L</hi>a raison du plus fort est toûjours la meilleure. </l>
@@ -422,6 +432,7 @@
           <l met="8">Sans autre forme de procés.</l>
         </div>
         <div>
+          <figure><graphic url="la-fontaine_fables-I-VI-img/fable11.png"/></figure>
           <head type="sur">XI.</head>
           <head>L’homme, et son Image.</head>
           <head type="sub">Pour M. L. D. D. L. R.</head>
@@ -455,6 +466,7 @@
           <l met="10"> Que chacun sçait, le Livre des Maximes.</l>
         </div>
         <div>
+          <figure><graphic url="la-fontaine_fables-I-VI-img/fable12.png"/></figure>
           <head type="sur">XII.</head>
           <head>Le Dragon à plusieurs testes, et le Dragon à plusieurs queuës.</head>
           <l met="8"><hi rend="b">U</hi>n Envoyé du Grand seigneur  </l>
@@ -487,6 +499,7 @@
           <l met="8">De vostre Empereur et du nostre.</l>
         </div>
         <div>
+          <figure><graphic url="la-fontaine_fables-I-VI-img/fable13.png"/></figure>
           <head type="sur">XIII.</head>
           <head>Les Voleurs et l’Asne.</head>
           <l met="12"><hi rend="b">P</hi>our un Asne enlevé deux voleurs se battoient :  </l>
@@ -506,6 +519,7 @@
           <l met="8">En se saisissant du Baudet.</l>
         </div>
         <div>
+          <figure><graphic url="la-fontaine_fables-I-VI-img/fable14.png"/></figure>
           <head type="sur">XIV.</head>
           <head>Simonide préservé par les Dieux.</head>
           <l met="12"><hi rend="b">O</hi>n ne peut trop loüer trois sortes de personnes ;  </l>
@@ -578,6 +592,7 @@
           <l met="8">Estoient freres et bons amis.</l>
         </div>
         <div>
+          <figure><graphic url="la-fontaine_fables-I-VI-img/fable15-16.png"/></figure>
           <head type="sur">XV.</head>
           <head>La mort et le Malheureux.</head>
         </div>
@@ -626,6 +641,7 @@
           <l met="7">C’est la devise des hommes.</l>
         </div>
         <div>
+          <figure><graphic url="la-fontaine_fables-I-VI-img/fable17.png"/></figure>
           <head type="sur">XVII.</head>
           <head>L’Homme entre deux âges, et ses deux Maistresses.</head>
           <l met="7"><hi rend="b">U</hi>n homme de moyen âge,  </l>
@@ -661,6 +677,7 @@
           <l met="12">Je vous suis obligé, Belles, de la leçon.</l>
         </div>
         <div>
+          <figure><graphic url="la-fontaine_fables-I-VI-img/fable18.png"/></figure>
           <head type="sur">XVIII.</head>
           <head>Le Renard et la Cicogne.</head>
           <l met="12"><hi rend="b">C</hi>ompere le Renard se mit un jour en frais,  </l>
@@ -693,6 +710,7 @@
           <l met="8">Attendez-vous à la pareille.</l>
         </div>
         <div>
+          <figure><graphic url="la-fontaine_fables-I-VI-img/fable19.png"/></figure>
           <head type="sur">XIX.</head>
           <head>L’Enfant et le Maistre d’Ecole.</head>
           <l met="10"><hi rend="b">D</hi>ans ce recit je pretens faire voir  </l>
@@ -724,6 +742,7 @@
           <l met="8">Tu feras aprés ta harangue.</l>
         </div>
         <div>
+          <figure><graphic url="la-fontaine_fables-I-VI-img/fable20.png"/></figure>
           <head type="sur">XX.</head>
           <head>Le Coq et la Perle.</head>
           <l met="7"><hi rend="b">U</hi>n jour un Coq détourna  </l>
@@ -740,6 +759,7 @@
           <l met="7">Seroit bien mieux mon affaire.</l>
         </div>
         <div>
+          <figure><graphic url="la-fontaine_fables-I-VI-img/fable21.png"/></figure>
           <head type="sur">XXI.</head>
           <head>Les Frelons, et les Moûches à miel.</head>
           <l met="8"><hi rend="b">À</hi>l’œuvre on connoist l’Artisan.  </l>
@@ -782,6 +802,7 @@
           <l met="8">Les écailles pour les plaideurs.</l>
         </div>
         <div>
+          <figure><graphic url="la-fontaine_fables-I-VI-img/fable22.png"/></figure>
           <head type="sur">XXII.</head>
           <head>Le Chesne et le Rozeau.</head>
           <l met="8"><hi rend="b">L</hi>e Chesne un jour dit au Rozeau :  </l>
