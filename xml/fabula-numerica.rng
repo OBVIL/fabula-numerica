@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xrem/rng2html.xsl"?>
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" 
+  xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0" 
+  xmlns:h="http://www.w3.org/1999/xhtml" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" 
+  ns="http://www.tei-c.org/ns/1.0" 
+  xml:lang="fr">
+  
+  <!--
+    SURCHARGE TEIBOOK
+    http://relaxng.org/tutorial-20011203.html#IDAVEZR
+  -->
+  <include
+    href="../../teibook/teibook.rng"
+    h:href="../../teibook/teibook.rng" 
+    h:title="Schéma Teibook">
+    <define name="l">
+      <element name="l">
+        <a:documentation>Un vers, généralement contenu dans une strophe &lt;lg></a:documentation>
+        <div xmlns="http://www.w3.org/1999/xhtml">Les indentations spécifiques sont à inscrire sous forme d’espaces insécables (caractère unicode équivalent à l’entité XML <![CDATA[&#160;]]>). Pour les vers numérotés, le numéro est inscrit dans l’attribut <a:att>n</a:att>.</div>
+        <ref name="xml-atts"/>
+        <optional>
+          <ref name="n-att"/>
+        </optional>
+        <optional>
+          <attribute name="met">
+            <choice>
+              <value>alex</value>
+              <a:documentation>alexandrin ou dodécasyllabe</a:documentation>
+              <value>hendeca</value>
+              <a:documentation>hendécasyllabe</a:documentation>
+              <value>deca</value>
+              <a:documentation>décasyllabe</a:documentation>
+              <value>ennea</value>
+              <a:documentation>ennéasyllabe</a:documentation>
+              <value>octo</value>
+              <a:documentation>octosyllabe</a:documentation>
+              <value>hepta</value>
+              <a:documentation>heptasyllabe</a:documentation>
+              <value>hexa</value>
+              <a:documentation>hexasyllabe</a:documentation>
+              <value>penta</value>
+              <a:documentation>pentasyllabe</a:documentation>
+              <value>tetra</value>
+              <a:documentation>tétrasyllabe</a:documentation>
+              <value>tri</value>
+              <a:documentation>trisyllabe</a:documentation>
+              <value>dis</value>
+              <a:documentation>dissyllabe</a:documentation>
+              <value>mono</value>
+              <a:documentation>monosyllabe</a:documentation>
+            </choice>
+          </attribute>
+        </optional>
+        <optional>
+          <attribute name="part">
+            <choice>
+              <value>Y</value>
+              <a:documentation>“Yes” (oui), fragment de vers</a:documentation>
+              <value>N</value>
+              <a:documentation>“No” (non), vers entier</a:documentation>
+              <value>I</value>
+              <a:documentation>“Initial”, début de vers</a:documentation>
+              <value>M</value>
+              <a:documentation>“Medial”, milieu de vers</a:documentation>
+              <value>F</value>
+              <a:documentation>“Final”, fin de vers</a:documentation>
+            </choice>
+          </attribute>
+        </optional>
+        <optional>
+          <attribute name="rend">
+            <choice>
+              <ref name="rend.font"/>
+              <value>refrain</value>
+            </choice>
+          </attribute>
+        </optional>
+        <ref name="flow"/>
+      </element>
+    </define>
+    
+  </include>
+  
+  <!--
+    SPÉCIFIQUE FABULA-NUMERICA
+  -->
+  
+    
+</grammar>

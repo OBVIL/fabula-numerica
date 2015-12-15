@@ -1,0 +1,1543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="fabula-numerica.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipubNew/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lat">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fabvlae Aviani</title>
+        <author key="Avianus, Flavius (03..-04..)">Flavius Avianus</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Gert-Jan van Dijk</name>
+          <resp>Transcription, relecture</resp>
+        </respStmt>
+        <respStmt>
+          <name>Antoine Biscéré</name>
+          <resp>relecture, stylage, indexation des motifs</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/fabula-numerica/la-fontaine_fables-I-VI/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="400"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Notice bibliographique</head>
+        <byline><docAuthor>A. Biscéré</docAuthor>, 21 mai 2015</byline>
+        <div>
+          <head>Biographie</head>
+          <p>Fabuliste romain de l’antiquité tardive (<num>iv<hi rend="sup">e</hi></num>-<num>v<hi rend="sup">e</hi></num> s.), Flavius Avianus est l’auteur d’un recueil de quarante-deux fables composées en distiques élégiaques.</p>
+        </div>
+        <div>
+          <head>Bibliographie</head>
+          <table>
+            <row>
+              <cell>Titre</cell>
+              <cell>[<hi rend="i">Fabulae</hi>]</cell>
+            </row>
+            <row>
+              <cell>Date</cell>
+              <cell>Vers 0400</cell>
+            </row>
+            <row>
+              <cell>Dédicataire </cell>
+              <cell>« Theodosius » (Ambrosius Macrobius Theodosius ?)</cell>
+            </row>
+            <row>
+              <cell>Langue</cell>
+              <cell>Latin</cell>
+            </row>
+            <row>
+              <cell>Forme</cell>
+              <cell>Vers (distiques élégiaques)</cell>
+            </row>
+            <row>
+              <cell>Contenu</cell>
+              <cell><hi rend="b">1.</hi> Épître dédicatoire « Ad Theodosium » ; <hi rend="b">2.</hi> Quarante-deux fables en distiques élégiaques.</cell>
+            </row>
+          </table>
+          <div>
+            <head>Tradition manuscrite</head>
+            <list type="ul">
+              <item>137 manuscrits recensés. Voir la liste établie <ref target="http://www1.uni-hamburg.de/disticha-catonis/homepage/avian-hss.html">(en ligne)</ref> par Michael Baldzuhn.</item>
+            </list>
+          </div>
+          <div>
+            <head>Éditions modernes (<num>xv<hi rend="sup">e</hi></num>-<num>xviii<hi rend="sup">e</hi></num> s., sélection – par ordre chronologique)</head>
+            <list type="ul">
+              <item>Ca. 1476-1477 – Steinhöwel, Heinrich, [<hi rend="i">Buch und Leben des hochberühmten Fabeldichters Esopi</hi>], Ulm, J. Zainer (<hi rend="i">GW</hi> <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW00351.htm">351</ref>). Édition <hi rend="i">princeps</hi> d’une sélection de vingt-sept fables d’Avianus (n<hi rend="sup">os</hi> 1-3, 5-9, 11, 13-15, 17- 20, 22, 25-29, 31, 33, 35 et 41-42).</item>
+              <item>1494 – <hi rend="i">Apologus Aviani civis Romani adolescentulis ad mores et latinum sermonem capescendos utilissimus</hi>, s. l. [Cologne, Heinrich Quentell], 1494.09.10 (<hi rend="i">GW</hi> <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW03110.htm">3110</ref>). Ex. : Munich, BSB [4 Inc.s.a. 360 a#Beibd.2] <ref target="http://daten.digitale-sammlungen.de/~db/0002/bsb00025326/images/">(en ligne)</ref> ; autres ex. : <hi rend="i">cf. ISTC</hi> nº <ref target="http://istc.bl.uk/search/search.html?operation=record&amp;rsid=200496&amp;q=0">ia01414000</ref>. Édition du recueil complet (édition <hi rend="i">princeps</hi> des n<hi rend="sup">os</hi> 4, 10, 12, 16, 21, 23-24, 30, 32, 34, 36-40).</item>
+              <item>1572 – Poelman, Theodor, <hi rend="i">Aviani aesopicarum fabularum liber a Theod. Pulmanno Craneburgio ex membranis in lucem editus</hi>, Anvers, Ch. Plantin, 1572.</item>
+              <item>1590 – Pithou, Pierre, <hi rend="i">Epigrammata et poematia vetera</hi>, Paris, D. Duvallius, 1590, p. 311‑334. Ex. : Munich, BSB [A.lat.c.6] <ref target="http://reader.digitale-sammlungen.de/resolve/display/bsb10172454.html">(en ligne)</ref>.</item>
+              <item>1610 – Nevelet, Isaac-Nicolas, <hi rend="i">Mythologia Æsopica (…) Adjiciuntur insuper Phaedri, Avieni, Abstemii, fabulae (…)</hi>, Francfort, Nic. Hoffmannus, p. 453‑485 (fables n<hi rend="sup">os</hi> 1‑42) et 658‑667 (notes). Ex. : Vienne, ÖNB [38.L.30] <ref target="http://search.obvsg.at/primo_library/libweb/action/display.do?tabs=detailsTab&amp;ct=display&amp;fn=search&amp;doc=ONB_aleph_acc003639198&amp;indx=1&amp;recIds=ONB_aleph_acc003639198&amp;recIdxs=0&amp;elementId=0&amp;renderMode=poppedOut&amp;displayMode=full&amp;frbrVersion=&amp;dscnt=0&amp;vl(1UI0)=contains&amp;scp.scps=scope%3A%28%22ONB%22%29&amp;frbg=&amp;tab=default_tab&amp;dstmp=1423036066164&amp;srt=rank&amp;mode=Basic&amp;&amp;dum=true&amp;tb=t&amp;vl(freeText0)=nevelet%20mythologia&amp;vid=ONB">(en ligne)</ref>.</item>
+              <item>1731 – Cannegieter, Hendrik, <hi rend="i">Flavii Aviani fabulae cum commentariis selectis Albini scholiastae veteris, notisque integris Isaaci Nicolai Neveletii et Caspariis Barthii, quibus animadversiones suas adjecit Henricus Cannegieter. Accedit ejusdem dissertatio de aetate et stilo Flavii Aviani</hi>, Amsterdam, M. Schagen, 1731 [<hi rend="i">reprint</hi> Osnabrück, 1976].</item>
+            </list>
+            <p rend="a7">Pour un recensement (incomplet) des éditions modernes du recueil d’Avianus, voir aussi L. Hervieux, <hi rend="i">Les fabulistes latins</hi>…, t. III : <hi rend="i">Avianus et ses anciens imitateurs, op. cit</hi>., p. 123‑144 (inventaire de trente-sept éditions entre 1494 et la fin du <num>xvii<hi rend="sup">e</hi></num> s.).</p>
+          </div>
+          <div>
+            <head>Illustration (enluminures, gravures – par ordre chronologique)</head>
+            <list type="ul">
+              <item><num>x<hi rend="sup">e</hi></num> s. – Paris, BnF [Ms. lat. nouv. acq. 1132]. <hi rend="i">Cf</hi>. <hi rend="sc">Omont</hi> 1922 ; <hi rend="sc">Goldschmidt</hi> 1947.</item>
+              <item>Trèves, Stadtbibliothek Trier, [1108/55 4°]. <hi rend="i">Cf</hi>. <hi rend="sc">Embach</hi> 2008.</item>
+              <item>Ca. 1476-1477 – Gravures sur bois du recueil de H. Steinhöwel.</item>
+            </list>
+          </div>
+          <div>
+            <head>Éditions contemporaines (<num>xix<hi rend="sup">e</hi></num>-<num>xxi<hi rend="sup">e</hi></num> s.) et traductions (sélection – par ordre chronologique rétrograde)</head>
+            <list type="ul">
+              <item>1980 – <hi rend="sc">Gaide</hi>, Françoise (éd. &amp; trad. fr.), <hi rend="i">Avianus. Fables</hi>, Paris, Les Belles Lettres, « Collection des Universités de France », 1980.</item>
+            </list>
+            <p>C.R. : J. Küppers, <hi rend="i">Gnomon</hi>, nº 53, 1981, p. 239‑245.</p>
+            <list type="ul">
+              <item>1968 – <hi rend="sc">Herrmann</hi>, Léon (éd. &amp; trad. fr.), <hi rend="i">Caius Laetus Avianus. Œuvres</hi>, Bruxelles, Latomus, « Latomus (96) », 1968. 177 p.</item>
+              <item>1958 – <hi rend="sc">Guaglianone</hi>, Antonio (éd.), <hi rend="i">Aviani Fabulae</hi>, Turin, Paravia, « Corpus Scriptorum Latinorum Paravianum », 1958. <num>lxiv</num>‑122 p.</item>
+            </list>
+            <p>C.R. : Jean G. Préaux, <hi rend="i">L’Antiquité classique</hi>, vol. 28 (nº 2), 1959, p. 435‑437 <ref target="http://www.persee.fr/web/revues/home/prescript/article/antiq_0770-2817_1959_num_28_2_3386_t1_0435_0000_3">(Persée)</ref>.</p>
+            <list type="ul">
+              <item>(1934) 1961 – <hi rend="sc">Duff</hi>, John Wight, &amp; <hi rend="sc">Duff</hi>, Arnold Mackay (éd. &amp; trad. angl.), « Avianus. Fables », [<hi rend="i">in</hi>] <hi rend="i">Minor Latin Poets</hi>, Cambridge (Mass.), Harvard University Press, « Classical Library », (1934) 1961, p. 667-749.</item>
+              <item>1894 – <hi rend="sc">Hervieux</hi>, Léopold (éd.), <hi rend="i">Les fabulistes latins depuis le siècle d’Auguste jusqu’à la fin du Moyen Âge</hi>, t. III : <hi rend="i">Avianus et ses anciens imitateurs</hi>, Paris, Firmin‑Didot, 1894 [<hi rend="i">reprint</hi> <hi rend="color_262626">Hildesheim/New York, G. Olms, 1970</hi>]. <num>iii</num>‑530 p.</item>
+              <item>1887 – <hi rend="sc">Ellis</hi>, Robinson (éd.), <hi rend="i">The Fables of Avianus, Edited with Prolegomena, Critical Apparatus, Commentary, Excursus and Index</hi>, Oxford, Clarendon Press, 1887 [<hi rend="i">reprint</hi> Hildesheim, Olms, 1966]. <num>xvii</num>-151 p.</item>
+            </list>
+            <p>C.R. : John E. B. Mayor, <hi rend="i">The Classical Review</hi>, vol. 1 (nº 7), 1887, p. 188‑193 ; Walter Ashburner, <hi rend="i">The American Journal of Philology</hi>, vol. 9 (n<hi rend="sup">o</hi> 3), 1888, p. 359‑362 ; O. Crusius, <hi rend="i">Jahrbücher für classische Philologie</hi>, nº 139, 1889, p. 641‑656.</p>
+            <list type="ul">
+              <item>1883 – <hi rend="sc">Bährens</hi>, Emil (éd.), « Aviani fabulae », [<hi rend="i">in</hi>] <hi rend="i">P</hi><anchor xml:id="_GoBack"/><hi rend="i">oetae latini minores censuit et emendavit Aemilius Baehrens</hi>, Leipzig, Teubner, « Bibliotheca Teubneriana », vol. 5, 1883, p. 31-70.</item>
+              <item>1862 – <hi rend="sc">Fröhner</hi>, Wilhelm (éd.), <hi rend="i">Aviani Fabulae XXXXII ad Theodosium. Ex recensione et cum instrumento critico Guilelmi Froehner</hi>, Leipzig, Teubner, 1862.</item>
+            </list>
+          </div>
+          <div>
+            <head>Nomenclature des fables</head>
+            <table>
+              <row>
+                <cell>Avianus</cell>
+                <cell>Index Perry</cell>
+                <cell>Sources</cell>
+              </row>
+              <row>
+                <cell>1. [De nutrice et infante]</cell>
+                <cell>P158</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>2. [De testudine et aquila]</cell>
+                <cell>P490</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>3. [De cancro suum docente filium]</cell>
+                <cell>P592</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>4. [Fabula phoebi boreaeque]</cell>
+                <cell>P46</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>5. [De asino pelle leonis induta]</cell>
+                <cell>P358 ; <hi rend="i">cf</hi>. P188</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>6. [De rana et uulpe]</cell>
+                <cell>P289</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>7. [Fabula canis mordacis]</cell>
+                <cell>P332</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>8. [De camelo]</cell>
+                <cell>P117</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>9. [De duobus sociis et ursa]</cell>
+                <cell>P65</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>10. [De caluo equite]</cell>
+                <cell>P375</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>11. [De geminis ollis]</cell>
+                <cell>P378</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>12. [De rustico et thesauro]</cell>
+                <cell>P61</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>13. [De tauro et hirco]</cell>
+                <cell>P217</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>14. [De simia]</cell>
+                <cell>P364</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>15. [De grue et pauone]</cell>
+                <cell>P294</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>16. [De quercu et harundine]</cell>
+                <cell>P70</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>17. [De uenatore et tigride]</cell>
+                <cell>P340</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>18. [De quattuor iuuencis et leone]</cell>
+                <cell>P372</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>19. [De abiete et dumis]</cell>
+                <cell>P304</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>20. [De piscatore et pisce]</cell>
+                <cell>P18</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>21. [De agricola et aue]</cell>
+                <cell>P325</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>22. [De cupido et inuido]</cell>
+                <cell>P580</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>23. [Fabula de uenditore bacchi]</cell>
+                <cell>P307</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>24. [De uenatore et leone]</cell>
+                <cell>P284</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>25. [De puero et fure]</cell>
+                <cell>P581</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>26. [De capella et leone]</cell>
+                <cell>P157</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>27. [De cornice et urna]</cell>
+                <cell>P390</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>28. [De rustico et iuuenco]</cell>
+                <cell>P582</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>29. [De uiatore et satyro]</cell>
+                <cell>P35</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>30. [De homine et porco]</cell>
+                <cell>P583</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>31. [De mure et boue]</cell>
+                <cell>P353</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>32. [De homine et plaustro]</cell>
+                <cell>P291</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>33. [De ansere oua aurea pariente]</cell>
+                <cell>P87</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>34. [De formica et cicada]</cell>
+                <cell>P373 ; <hi rend="i">cf</hi>. P112</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>35. [De simia et natis]</cell>
+                <cell>P218</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>36. [De uitulo et boue]</cell>
+                <cell>P300</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>37. [De cane et leone]</cell>
+                <cell>P346</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>38. [De pisce eunte in mare]</cell>
+                <cell>P584</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>39. [De milite et lituo]</cell>
+                <cell>P370</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>40. [De pardo et uulpe]</cell>
+                <cell>P12</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>41. [De olla cruda a fluuio rapta]</cell>
+                <cell>P368</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>42. [De lupo et haedo]</cell>
+                <cell>P261</cell>
+                <cell/>
+              </row>
+            </table>
+          </div>
+          <div>
+            <head>Remaniements et adaptations (par ordre chronologique)</head>
+            <list type="ul">
+              <item>Ca. 1100 – Poète d’Asti, <hi rend="i">Novus Avianus Astensis</hi> (adaptation en distiques élégiaques léonins des 42 fables d’Avianus)</item>
+              <item>Fin <num>xi<hi rend="sup">e</hi></num> s.-déb.<num>xii<hi rend="sup">e</hi></num> s. – <hi rend="i">Novus Avianus</hi> de Venise (latin)</item>
+              <item><num>xii<hi rend="sup">e</hi></num> s. – <hi rend="i">Novus Avianus</hi> de Vienne (latin)</item>
+              <item>Fin<num> xii<hi rend="sup">e</hi></num> s. – Alexandre Neckam, <hi rend="i">Novus Avianus</hi> (remaniements latins des 6 premières fables d’Avianus, dont une sous trois formes différentes)</item>
+              <item>Fin<num> xii<hi rend="sup">e</hi></num> s.-déb. <num>xiii<hi rend="sup">e</hi></num> s. – <hi rend="i">Anti-Avianus</hi> (latin)</item>
+              <item>Fin <num>xii<hi rend="sup">e</hi></num> s. – <hi rend="i">Avionnet de York</hi> (adaptation française de 8 fables d’Avianus)</item>
+              <item><num>xii<hi rend="sup">e</hi></num> s.-<num>xiii<hi rend="sup">e</hi></num> s. – <hi rend="i">Novus Avianus</hi> de Darmstadt (latin)</item>
+              <item><num>xiii<hi rend="sup">e</hi></num> s. – <hi rend="i">Isopet-Avionnet</hi> de Milan (comporte une adaptation franco-italienne de 30 moralités d’Avianus)</item>
+              <item>Ca. 1300-1350 – <hi rend="i">Isopet I-Avionnet</hi> (comporte une adaptation française de 18 fables d’Avianus)</item>
+              <item>Ca. 1350 – Ulrich Boner, <hi rend="i">Der Edelstein</hi> (comporte une adaptation allemande de 22 fables d’Avianus)</item>
+              <item><num>xiv<hi rend="sup">e</hi></num> s. – <hi rend="i">Avianicae fabulae</hi> (adaptation en prose de 38 fables d’Avianus)</item>
+              <item><num>xiv<hi rend="sup">e</hi></num> s. – <hi rend="i">Apologi Aviani</hi> (paraphrase en prose latine des 42 fables d’Avianus)</item>
+              <item><num>xiv<hi rend="sup">e</hi></num> s. – <hi rend="i">Super Aviani fabulis rhythmicae moralisationes</hi> (remaniements des fables d’Avianus en quatrains de vers rythmiques latins)</item>
+              <item><num>xiv<hi rend="sup">e</hi></num> s. – <hi rend="i">Super Aviani fabulis metricae moralisationes</hi> (remaniements des fables d’Avianus en quatrains de distiques élégiaques léonins)</item>
+              <item>Ca. 1476-1477 – H. Steinhöwel (comporte une adaptation allemande de 17 fables d’Avianus) et ses dérivés européens (Macho, Caxton, Leeu, Biernat de Lublin…).</item>
+              <item>1508 – Érasme, <hi rend="i">Adagiorum Chiliades tres</hi>, Venise, A. Manuce, 1508, I, 729 (« <hi rend="i">Ex eodem ore calidum et frigidum efflare</hi> »), f. 86r (éd. <hi rend="i">A.S.D</hi>., nº 730) : « <hi rend="i">Natum ex Apologo quopiam Aniani</hi> [<hi rend="i">sic</hi>] <hi rend="i">fabulatoris…</hi> ». Paraphrase en prose latine de la fable nº 29/42, reprise sous le titre « <hi rend="i">De satyro et rustico Aniani</hi> [<hi rend="i">sic</hi>] <hi rend="i">fabula, Erasmo quoque interprete</hi> » dans la plupart des éditions de l’<hi rend="i">Æsopus Dorpii</hi> à partir de 1513 (« <hi rend="i">Apologi ex Chiliadibus adagiorum Erasmi desumpti</hi> », nº 9/9) et dans le recueil de Camerarius à partir de 1538 (« <hi rend="i">Erasmicæ fabulæ</hi> » ou « <hi rend="i">Erasmi fabulæ</hi> », nº 9/9).</item>
+              <item>Avant 1509, éd. 1513 – Guillaume Hermans de Gouda, « <hi rend="i">Aniani</hi> [<hi rend="i">sic</hi>] <hi rend="i">fabulae Guielmo Hermanno</hi> (…) <hi rend="i">interprete</hi> » (remaniements en prose néolatine de 38 fables d’Avianus)</item>
+              <item>1512 – Adriaan van Baarland (Barlandus), « <hi rend="i">Aniani</hi> [<hi rend="i">sic</hi>] <hi rend="i">fabulae Hadriano Barlando interprete</hi> » (remaniements en prose néolatine de 9 fables d’Avianus, dont 4 seulement seront reprises en 1513 et dans les éditions ultérieures).</item>
+            </list>
+          </div>
+          <div>
+            <head>Études (bibliographie critique par ordre alphabétique d’auteurs, éventuellement subdivisée en sections thématiques)</head><p rend="bibliteration"><hi rend="sc">Achelis</hi>, Thomas Otto, « Die Fabeln Avians in Steinhöwel’s Æsop », <hi rend="i">Münchener Museum für Philologie des Mittelalters und der Renaissance</hi>, nº 4, 1924, p. 195‑221.</p><p rend="analysebiblio">Lenghty discussion of the twenty-seven fables from the Avianus collection that Steinhöwel chose and translated for his 1476-1477 Ulm edition. Textual problems as well as the choice of fables are discussed with an analysis of those fabular motif in Avianus, which had already appeared in early sections of Steinhöwel’s collection. Tables of concordance and keys to Halm. Extensively discussed are P70 (« The Oak and the Reed » (A-T 28C ; TMI J832) and P525 « Bald Man and the Fly » (TMI J2102.3) (P.C.).</p><bibl><hi rend="sc">Bährens</hi>, Emil, « Ad Avianum », [<title>in</title>] <title>Miscellanea critica</title>, Groningen, in aedibus J. B. Woltersii, 1878, p. 176‑194.
+              <hi rend="sc">Baldzuhn</hi>, Michæl, « “<title>Quidquid placet</title>”. Stellung und Gebrauchsformen der <title>Fabulæ Auiani</title> im Schulunterricht des 15. Jahrhunderts », [<title>in</title>] <hi rend="sc">M. Kintzinger</hi>, <hi rend="sc">S. Lorenz</hi>, &amp; <hi rend="sc">M. Walter</hi> (dir.), <title>Schule und Schüler im Mittelalter. Beiträge zur europäischen Bildungsgeschichte des 9. bis 15. Jahrhunderts</title>, Cologne/Weimar/Vienne, Böhlau, 1996, p. 327‑383.</bibl><p rend="bibliteration">—, « Avian im Gebrauch. Zur Verwendung von Schulhandschriften im Unterricht », [<hi rend="i">in</hi>] <hi rend="sc">C. Meier</hi>, <hi rend="sc">D. Hüpper</hi>, &amp; <hi rend="sc">H. Keller</hi> (dir.), <hi rend="i">Der Codex im Gebrauch. Akten des Internationalen Kolloquiums (11.-13. Juni 1992)</hi>, Munich, W. Fink, 1996, p. 183-196, &amp; p. <hi rend="sc">xxxxiv‑xlv</hi>.</p><p rend="bibliteration">—, « Schriftliche Textauslegung und mündlicher Unterricht. Das Beispiel der älteren lateinisch und volkssprachlich glossierten Aviane (9.-11. Jahrhundert) », [<hi rend="i">in</hi>] <hi rend="sc">R. Bergmann</hi>, <hi rend="sc">E. Glaser</hi>, &amp; <hi rend="sc">C. Moulin-Fankhänel</hi> (dir.), <hi rend="i">Mittelalterliche volkssprachliche Glossen. Internationale Fachkonferenz des Zentrums für Mittelalterstudien der Otto-Friedrich-Universität Bamberg, 2. bis 4. August 1999</hi>, Heidelberg, Winter, 2001, p. 485‑512.</p><p rend="bibliteration">—, « Schulunterricht und Verschriftlichungsprozess. Forschungsansätze und Forschungsergebnisse », [<hi rend="i">in</hi>] <hi rend="sc">C. Meier</hi>, <hi rend="sc">V. Honemann</hi>, <hi rend="sc">H. Keller</hi>, &amp; <hi rend="sc">R. Suntrup</hi> (dir.), <hi rend="i">Pragmatische Dimensionen mittelalterlicher Schriftkultur. Akten des Internationalen Kolloquiums (26.-29. Mai 1999)</hi>, Munich, W. Fink, 2002, p. 161‑175.</p><p rend="bibliteration">—, art. « Avian », [<hi rend="i">in</hi>] <hi rend="sc">K. Ruh</hi>, &amp; <hi rend="sc">B. Wachinger</hi> (dir.), <hi rend="i">Die deutsche Literatur des Mittelalters. Verfasserlexikon (2. völlig neu bearbeitete Auflage)</hi>, Berlin, W. de Gruyter, 1977‑2008, vol. 11, 2004, col. 195‑204.</p><p rend="bibliteration">—, <hi rend="i">Schulbücher im Trivium des Mittelalters und der Frühen Neuzeit. Die Verschriftlichung von Unterricht in der Text- und Überlieferungsgeschichte der « Fabulæ » Avians und der deutschen « Disticha Catonis »</hi>, Berlin/New York, W. de Gruyter, « Quellen und Forschungen zur Literatur- und Kulturgeschichte (44/278) », 2009, 2 vol. <num>xiii</num>‑1128 p.</p><p rend="mentioncr">C.R. : <hi rend="sc">J. Knödler</hi>, <hi rend="i"><hi rend="sc">iasl</hi> online</hi> [en ligne], 26.09.2011. <hi rend="sc">url</hi> : <ref target="http://www.iaslonline.lmu.de/index.php?vorgang_id=3296">http://www.iaslonline.lmu.de/index.php?vorgang_id=3296</ref> (15.05.2013) ; Ch. <hi rend="sc">Roth</hi>, <hi rend="i">Zeitschrift für deutsches Altertum und deutsche Literatur</hi>, nº 140, 2011, p. 359‑363.</p><bibl><hi rend="sc">Bedrick</hi>, Theodore, <title>The Prose Adaptations of Avianus</title>, Ann Arbor, University of Illinois at Urbana-Champaign (Ph.D. non-publiée), 1941. 219 p.</bibl><p rend="analysebiblio">The medieval rewritings and prose paraphrases of Avianus during the Middle Ages are discussed. The use of Avianus in schools as a medium for the instruction of Latin is highlighted (P.C.)</p><bibl><hi rend="sc">Bibring</hi>, Tovi, « Réécritures fabulistiques au Moyen <seg rend="grame">Âge. A</seg>daptations latine, vernaculaire et hébraïque d’une fable d’Avianus,  “<title>De Simia et Natis</title>” », [<title>in</title>] <hi rend="sc">N. Catellani-Dufrêne</hi>, &amp; <hi rend="sc">M. Perrin</hi> (dir.), <title>La lyre et la pourpre.</title> <emph>Poésie latine et politique de l’Antiquité latine à la Renaissance</emph>, Rennes, Presses universitaires de Rennes, 2012, p. 267‑280.</bibl><p rend="bibliteration">—, « On Heartlessness and Senselessness. An Inquiry on an Exemplary Theme : from the “Sick Lion” (the <hi rend="i">Panchatantra</hi>, Babrius, Marie de France) to the “Disobedient Boar” (Avianus, Berechiah Ha-Nakdan, <hi rend="i">Gesta romanorum</hi>) », dans M.‑Ch. <hi rend="sc">Bornes-Varol</hi>, &amp; M.‑<hi rend="sc">S. Ortola</hi> (dir.), <hi rend="i">Énoncés sapientiels et littérature exemplaire : une intertextualité complexe</hi>, Nancy, Presses universitaires de Nancy-Éditions universitaires de Lorraine, « Aliento (3) », 2013, p. 351‑384.</p><bibl><hi rend="sc">Bisanti</hi>, Armando, « La favola esopica nel Medioevo : un itinerario didattico fra teoria ed esemplificazione », [<title>in</title>] <hi rend="sc">G. Catanzaro</hi>, &amp; <hi rend="sc">F. Santucci</hi> (dir.), <title>La favolistica latina in distici elegiaci. Atti del convegno internazionale (Assisi, 26-28 ottobre 1990)</title>, Assise, Accademia Properziana del Subasio, 1991, p. 161‑212.</bibl><p rend="bibliteration">—, « Pier Damiani e una favola di Aviano », <hi rend="i">Civiltà Classica e Cristiana</hi>, vol. 14 (nº 3), 1993, p. 313‑330.</p><p rend="bibliteration">—, &amp; <hi rend="sc">Zurli</hi>, Loriano (éd.), <hi rend="i">Astensis Poetae Novus Avianus</hi>, Gênes, <hi rend="sc">d.ar.fi.cl.et. «</hi> Francesco Della Corte », « Favolisti latini medievali e umanistici (5) », 1994. 236 p.</p><p rend="bibliteration">—, « <seg rend="corsivo">Edizioni e studi sulla favolistica mediolatina », </seg><hi rend="i">Schede Medievali. Rassegna dell’Officina di studi medievali</hi>, nº 40, 2002, p. 93‑142.</p><p rend="bibliteration">—, « Il <hi rend="i">Nouus Auianus</hi> di Alessandro Neckam nel quadro delle riscritture mediolatine di Aviano », <hi rend="i">Maia. Rivista di letterature classiche</hi>, vol. 54 (nº 2), 2002, p. 295‑350.</p><p rend="bibliteration">—, « Appunti sulla fortuna mediolatina e romanza dei <hi rend="i">Noui Auiani</hi> », <hi rend="i">Maia. Rivista di letterature classiche</hi>, vol. 56 (nº 1), 2004, p. 127‑138, repris sous une forme légèrement remaniée dans <hi rend="i">Mittellateinisches Jahrbuch</hi>, vol. 39 (nº 2), 2004, p. 207‑218.</p><p rend="bibliteration">—, « Il <hi rend="i">Nouus Avianus Astensis</hi> », <hi rend="i">Maia. Rivista di letterature classiche</hi>, vol. 58 (nº 1), 2006, p. 91‑118.</p><p rend="bibliteration">—, « Sull’edizione critica del <hi rend="i">Novus Avianus Vindobonensis</hi> », <hi rend="i">Schede Medievali. Rassegna dell’Officina di studi medievali</hi>, nº 47, 2009, p. 235‑249.</p><p rend="bibliteration">—, <hi rend="i">Le Favole di Aviano e la loro fortuna nel Medioevo</hi>, Florence, <hi rend="sc">S.i.s.m.e.l.</hi>/Edizioni del Galluzzo, « Millennio Medievale (85) » &amp; « Strumenti e studi (25) », 2010. <num>xii</num>‑190 p.</p><bibl><hi rend="sc">Boivin</hi>, Jeanne-Marie, <title>Naissance de la fable en français. L’Isopet de Lyon et l’Isopet I‑Avionnet</title>, Paris, H. Champion, « Essais sur le Moyen Âge (33) », 2006. 499 p. (voir notamment : « Avianus : la fable élégiaque », p. 53‑76 ; «  Table de concordance des fables de l’<title>Avionnet</title>, d’Avianus, de l’<title>Isopet de Chartres</title>, du <title>Fragment d’York</title>, de l’Ésope de Macho et de La Fontaine », p. 451 ; « Évolution de la taille des apologues (récits &amp; moralités) et de la prise de parole directe d’Avianus à l’<title>Avionnet</title> », p. 463 ; « Les différents types de moralités : d’Avianus à l’<title>Avionnet</title> », p. 466).</bibl><p rend="mentioncr">C.R. : <hi rend="sc">L. Brun</hi>, <hi rend="i">Cahiers de Recherches Médiévales et Humanistes</hi> (en ligne), 2006. <hi rend="sc">url</hi> : <ref target="http://crm.revues.org/2713">http://crm.revues.org/2713</ref> ; <seg rend="abbrevjournaltitle">Ph. </seg><seg rend="abbrevjournaltitle"><hi rend="sc">Ménard</hi>, </seg><seg rend="abbrevjournaltitle"><hi rend="i">Zeitschrift für romanische Philologie</hi></seg>, vol. 125 (nº 4), 2009, p. 743‑745.</p><bibl><hi rend="sc">Boretsky</hi>, M. I., « Das Problem des Names des römischen Fabeldichters Avian », <title>Pytanna klasysnoji filolohiji. Questions de philologie classique</title>, nº 14, 1977, p. 83‑90 [article en ukrainien avec résumés en allemand et en russe].</bibl><p rend="analysebiblio">Avianus is confirmed as the proper name of the fourth-century fable-poet, the carrier of the Babrian tradition, very popular during the Middle Ages. Fairly extensive analysis of the arguments for and against the name and reasons for the many variants of the name found in the manuscript tradition. Good bibliography (P.C.).</p><p rend="bibliteration">—, « Essay on the Utilization of a Lexical System for the Comparative Analysis of the Fables of Avianus and Babrius », <hi rend="i">Pytanna klasysnoji Filolohiji. Questions de philologie classique</hi>, nº 15, 1978, p. 55‑78 [article en russe avec résumés en anglais et en allemand].</p><p rend="analysebiblio">Comparative study of the use of various differing terms within specific semantic categories results in a very specific close relationship between the two poets. There can be no doubt of the influence of Babrius on Avianus, the author concludes although the exact nature of this influence is not yet definable (P.C.).</p><p rend="bibliteration">—, « The Artistic Universe and Lexical Frequency in Poetic Works (on the Example of the Classical Literary Fable) », <hi rend="i">Izvestija AN SSR. Ser. literatury i Jazyka</hi>, vol. 37 (nº 5), 1978, p. 453‑461.</p><p rend="analysebiblio">An attempt to reconstruct the social and artistic milieu for the classical fabulists : Phaedrus, Babrius, and Avianus by means of lexical frequency counts (P.C.).</p><p rend="bibliteration">—, &amp; <hi rend="sc">Kronik</hi>, A. A., « Opyt analiza nekotorkh storon sotsial’no-psikhologicheskoy atmosphery antichnoy literaturnoy basni », <hi rend="i">Vesnik Drevnej Istorii</hi>, nº 145, 1978, p. 157‑168.</p><p rend="analysebiblio">This article attempts to describe and evaluate the interpersonal relationships in the fables of Phaedrus, Babrius, and Avianus by means of a close analysis of the nouns used in the fables which describe or otherwise contain information about the nature of various relationships. A clear idea of the social-psychological atmosphere of each poet is determined by a construct of nine types of relationships among which the lexical items are distributed. The authors suggest that this work is potentially important for research in other Problems connected with these fabulists (P.C.).</p><bibl><hi rend="sc">Cameron</hi>, Alan, « Macrobius, Avienus and Avianus », <title>The Classical Quarterly</title>, vol. 17 (nº 2), déc. 1967, p. 385‑399.</bibl><p rend="analysebiblio">Dating Avianus is aided by Claudian’s <hi rend="i">De bello gildonico</hi> (398) : Theodosius identified with Macrobius. Cameron suggests that Avianus used a Latin translation of Babrius (by Julius Titianus), which solves many Problems. Contains a good survey of the cluster of problems of Avianus’ name and concludes that the proper form is Avienus. (P.C.)</p><bibl><hi rend="sc">Catanzaro</hi>, Giuseppe, &amp; <hi rend="sc">Santucci</hi>, Francesco (dir.), <title>La favolistica latina in distici elegiaci. Atti del convegno internazionale (Assisi, 26-28 ottobre 1990)</title>, Assisi, Accademia properziana del Subasio, « Centro studi poesia latina in distici elegiaci (2) », 1991. 235 p. 
+                <hi rend="sc">Crusius,</hi> Otto, « Avian. XXVIII 7 », <title>Philologus. Zeitschrift für antike Literatur und ihre Rezeption</title>, vol. 47 (nº 3), 1889, p. 399.</bibl><p rend="bibliteration noindent">—, « The Fables of Avianus (Ellis) », <hi rend="i">Jahrbücher für classische Philologie</hi>, nº 139, 1889, p. 641‑656.</p><p rend="analysebiblio">Very comprehensive review of Ellis’ Oxford edition of Avianus. Crusius praises Ellis although he suggests that Ellis might have spent more time with the manuscripts and should have provided an overview on the comparative relationship between Avianus and Babrius. Crusius sees an intermediary of Titian’s Latin prose paraphrase between Avianus and Babrius. Long list of emendations, corrections. (P.C.)</p><p rend="bibliteration">—, « Zu den alten Fabeldichtern. I. Avian und die sogen. <hi rend="i">Apologi Aviani</hi> », <hi rend="i">Philologus. Zeitschrift für antike Literatur und ihre Rezeption</hi>, vol. 54 (nº 3), 1895, p. 474‑488.</p><p rend="analysebiblio">Treated Avianus and his dates and the « apologi » fables. The paraphrase of Avianus, for which Heidenhain had claimed a more complete text had been used, is demonstrated to be a relatively simple paraphrase of Avianus from a text that basically the same of our received text. Therefore we can learn little to help the Avianus tradition itself. Ends with a number of notes for the Avianus fables. (P.C.)</p><p rend="bibliteration">—, « Avianus », [<hi rend="i">in</hi>] <hi rend="sc">G. Wissowa</hi> (dir.),<hi rend="i"> Paulys Real-Encyclopädie der classischen Altertumswissenschaft. Neue Bearbeitung</hi>, Stuttgart, J. B. Metzler, vol. II (<hi rend="i">Apollon-Barbaroi</hi>), 1896, col. 2373‑2378.</p><p rend="analysebiblio">Various theories of the time and person of Avianus are discussed, including an extensive reviex of the ideas of Ellis and Cannegieter. The 42-fables Avianus collection is described in terms of its relationship to Babrius, followed by a summary of the life of the collection and its diffusion. (P.C.)</p><bibl><hi rend="sc">De Paulis</hi>, Guido, <title>Aviani Index et Lexicon</title>, Hidesheim/Zurich/New York, Olms-Weidmann, « Alpha-Omega. Reihe A. Lexika, Indizes, Konkordanzen zur klassischen Philologie (184) », 1997, <num>vi</num>-468 p.
+                  <hi rend="sc">Draheim</hi>, Johannes, « <title>De Aviani elegis</title> », <title>Jahrbücher für classische Philologie</title>, nº 143, 1891, p. 509-511.</bibl><p rend="analysebiblio">Various notes on the verse forms of Avianus’ fables as reconstructed in part from the corrupt received forms. (P.C.)</p><bibl><hi rend="sc">Embach</hi>, Michæl (éd.), <title>Der « Trierer Äsop » (StB Trier, Hs. 1108/55 4°). Eine illustrierte Fabelhandschrift im Kontext ihrer Überlieferung</title>, Trèves, Paulinus, « Kostbarkeiten der Stadtbibliothek Trier (3) », 2008. 100 p.</bibl><p rend="analysebiblio">Der dritte Band der « Kostbarkeiten der Stadtbibliothek Trier » stellt den « Trierer Äsop » vor, eine reichlich illustrierte Handschrift aus der Zeit um 1380. Der Kodex enthält illustrierte Ausgaben der Fabeln des Äsop und des Avian, jeweils in mittelalterlichen Bearbeitungen sowie ausgestattet mit knappen Auslegungen. Text und Illustrationen verweisen auf eine Verwendung im Bereich der Schule. Man vermutet, dass der Kodex im Unterricht der Trierer Abtei St. Matthias eingesetzt wurde, wo er auch entstanden sein könnte. Die Fabeln des Äsop gehören der Rezension des « Romulus » an. Sie repräsentieren den ältesten vollständig erhaltenen Überlieferungsträger dieser Rezension aus dem Mittelalter. Die Trierer Handschrift fällt in eine Phase starker Überlieferung des Äsop. Zahlreiche Handschriften und Inkunabeln aus Trierer Klöstern bezeugen eine intensive Rezeption des Textes im 14./15. Jahrhundert, sowohl in Versform wie in Prosa, kommentiert oder glossiert, als reine Textausgabe wie mit Illustrationen versehen. Darüber hinaus dokumentiert der « Trierer Äsop » exemplarisch die Transformation paganer Literatur in einen christlichen Verwendungszusammenhang (présentation d’un libraire).</p><bibl><hi rend="sc">Fröhner</hi>, Wilhelm, « Handschriftliches zum Avianus », <title>Philologus</title>, vol. 14 (n<hi rend="sup">os</hi> 1-4), 1859, p. 387.
+                    <hi rend="sc">Gaide</hi>, Françoise (éd.), <title>Avianus. Fables</title>, Paris, Les Belles Lettres, « <hi rend="sc">c.u.f.</hi> », 1980. 148 p.</bibl><p rend="mentioncr">C.R. : <hi rend="sc">J. Küppers</hi>, <hi rend="i">Gnomon</hi>, nº 53, 1981, p. 239‑245.</p><p rend="bibliteration"><hi rend="i">—</hi>, « Avianus, ses ambitions, ses résultats », [<hi rend="i">in</hi>] <hi rend="sc">G. Catanzaro</hi>, &amp; <hi rend="sc">F. Santucci</hi> (dir.), <hi rend="i">La favolistica latina in distici elegiaci. Atti del convegno internazionale (Assisi, 26-28 ottobre 1990)</hi>, Assisi, Accademia properziana del Subasio, p. 45‑61.</p><bibl><hi rend="sc">Giurdanella-Fusci</hi>, Giuseppe (éd.), <title>Babrio. Le sue favole e il loro rapporto con le esopiane e con quelle di Fedro e di Aviano</title>, Modica, C. Papa, 1910. 141 p.</bibl><p rend="analysebiblio">Investigates the sources of Babrius and his relationship to Aesopic tradition. Babrius’ connection to Phaedrus and to Avianus is outlined. Now superseded by Perry and Küppers (P.C.).</p><bibl><hi rend="sc">Goldschmidt</hi>, Adolph, <title>An Early Manuscript of the Æsop Fables of Avianus and Related Manuscripts</title>, Princeton, Princeton University Press, « Studies in Manuscript Illumination (1) », 1947. <num>vii</num>‑63 p.</bibl> 
+            <p rend="mentioncr">C.R. : J. Hammer, <hi rend="i">Scriptorium</hi>, nº 3, 1949, p. 331‑332.</p>
+            <p rend="analysebiblio">A study of a Carolingian manuscript (Ms. lat. nouv. acq. 1132 in the BN) used as the basis for the study of various illumination techniques for fables from the fifth through the fifteenth centuries. The manuscript itself is described in detail : 40 folios, written in Carolingian miniscule, with a seventeenth- or eighteenth-century binding, unknown earlier history. Full illustrations in facsimile and Goldschmidt has added headings to facilitate study with comparisons drawn from various illuminated manuscripts and the Bayeux Tapestry. (P.C.)</p>
+            <bibl><hi rend="sc">Gottschick</hi>, Reinhold, « Avians Benutzung durch Boner », <title>Zeitschrift für deutsche Philologie</title>, nº 7, 1876, p. 237‑241.</bibl> 
+            <p rend="analysebiblio">Discusses the twenty-two Avianus fables in Boner to demonstrate that, in opposition to Schönbach, Boner did not depend upon the prose paraphrases, the <hi rend="i">Apologi Aviani</hi>, rather used the fables in the received form (P.C.)</p>
+            <bibl><hi rend="sc">Gruber</hi>, Joachim, art. « Avianus », [<title>in</title>] <title>Lexikon des Mittelalters</title>, Munich/Zurich, Artemis, vol. I, 1980, col. 1298.
+              <hi rend="sc">Guaglianone</hi>, Antonio, « Gli “Epimythia” di Aviano », <title>Atti dell’Accademia Pontaniana</title>, nº 5, 1956, p. 353‑377.</bibl>
+            <p rend="analysebiblio">An edition of the epimythia of Avianus with extensive commentary and notes in an attempt to determine their authenticity. (P.C.)</p>
+            <p rend="bibliteration">—, « La tradizione manoscritta di Aviano », <hi rend="i">Rendiconti dell’Accademia di Archeologia, Lettere e Belle Arti di Napoli</hi>, nº 32, 1957, p. 5‑30.</p>
+            <p rend="analysebiblio">This essay begins with a survey of the direct tradition and the quoted and paraphrased tradition of Avianus’ fables and therewith establishes the existence of two separate recensions of the fables. These two traditions, however, show a tendency to recombine in the late Middle Ages. Guaglianone provides a list of the known manuscripts in two categories, according to the recension to which they belong. (P.C.)</p>
+            <p rend="bibliteration">—, « Alcuni codici illustrati e parziali di Aviani », <hi rend="i">Giornale italiano di filologia</hi>, nº 10, 1957, p. 225‑229.</p>
+            <p rend="analysebiblio">A note on the relationships among the Bruxelles 11193, BM Add. 33781, and Parisinus Lat. 1594 manuscripts of Avianus. (P.C.)</p>
+            <p rend="bibliteration">— (éd.), <hi rend="i">Aviani Fabulæ</hi>, Turin, J. B. Paravia, « Corpus Scriptorum Latinorum Paravianum », 1958. <num>lxiv</num>‑122 p.</p>
+            <p rend="bibliteration">—, <hi rend="i">Corpus epimythiorum in Aviani fabulas inde a saec. <num>x</num> exaratorum, iterum recensuit et italice reddidit</hi>, Naples, Armanni, 1959. 39 p.</p>
+            <p rend="bibliteration">—, <hi rend="i">I favolisti latini</hi>, Naples, Giannini, 2000. 603 p.</p>
+            <p rend="mentioncr">C.R. : <hi rend="sc">F. Ficca</hi>, <hi rend="i">Bollettino di Studi Latini</hi>, vol. 30 (n<hi rend="sup">o</hi> 2), juil.-déc. 2000, p. 687‑689.</p>
+            <bibl><hi rend="sc">Heidenhain</hi>, Friedrich, <title>Zu den Apologi Aviani (Wissenschftliche Beilage zum Programm des Königlichen Gymnasiums zu Strasburg, Ostern 1894)</title>, Strasbourg, A. Fuhrich, 1894. 15 p.</bibl> 
+            <p rend="analysebiblio">The <hi rend="i">apologi Aviani</hi> are prose reworkings of the fables of Avianus, found in two manuscripts of the Bibliothèque Nationale (Cod. Lat. 347 A and B) without nos. 19, 25, 26 and 38. Often the paraphrases are somewhat better motivated than the originals. Heidenhain feels he has found an older tradition than the verse fables in the received tradition. Avianus 9, P65 « Travelers and the Bear » (A-T 179 ; TMI J1488), for example, has a lion in the paraphrase, which is taken as evidence of an earlier tradition (P.C.).</p>
+            <p rend="bibliteration">—, « Zur Rettung des Avianus. Weitere Bemerkungen über die <hi rend="i">Apologi Aviani</hi> », <hi rend="i">Neue Jahrbücher für classische Philologie und Pädagogik</hi>, n<hi rend="sup">o</hi> 151, 1895, p. 837-855.</p>
+            <p rend="analysebiblio">Assumes that Avianus used a text as his source that was fundamentally the same as that we have today and deduces from that that a more « complete » text of Avianus lies at the basis of the text we have received. The author uses Greek loan words and seemed to know the « Romulus » tradition, having used the latter at the end of P230 « Turtle and the Eagle » (A-T 225A; TMI J512, J657.2). (P.C.)</p>
+            <bibl><hi rend="sc">Herrmann</hi>, Léon,  « Notes sur deux manuscrits anversois des fables d’Avianus », <title>Latomus</title>, nº 3, 1939, p. 119-125.</bibl> 
+            <p rend="analysebiblio">Collation of MSS 340 and 140 of the Musée Plantin-Movetus (P.C.)</p>
+            <p rend="bibliteration">—, « L’auteur du <hi rend="i">Querolus</hi> », <hi rend="i">Revue belge de philologie et d’histoire</hi>, n<hi rend="sup">o</hi>  26, 1948, p. 538-540.</p>
+            <p rend="analysebiblio">The comedy of Querolus is supposed to be the last work by the fabulist Avianus (P.C.)</p>
+            <p rend="bibliteration">— (éd.), <hi rend="i">Avianus. Œuvres</hi>, Bruxelles, Latomus, « Latomus (96) », 1968. 177 p.</p>
+            <p rend="analysebiblio">The « Œuvres » of Avianus consist not only of the fables but also of the comedy <hi rend="i">Querolus</hi> and some poems. The fables are discussed in detail in the introduction in which the authenticity of the morals is also dealt with. (P.C.)</p>
+            <p>—, « Notes sur le texte d’Avianus », <hi rend="i">Latomus</hi>, nº 28, 1969, p. 669-680.</p>
+            <p rend="analysebiblio">A series of notes to his edition of Avianus. The first section comprises various textual notes to the fables; the second on the putative authorship of <hi rend="i">Querolus</hi> ; and the third on the « poems » of Avianus (P.C.).</p>
+            <bibl><hi rend="sc">Holder</hi>, Alfred, « Zu Avianus », <title>Philologus</title>, nº 65, 1906, p. 91-96.</bibl> 
+            <p rend="analysebiblio">Avianus’ Preface and some twenty-nine fables are found in Karlsruh Codex LXXIII from the tenth Century. The manuscript appears to have no new variant readings, but the collation has value for determining the family tree of a group of manuscripts. (P.C.)</p>
+            <bibl><hi rend="sc">Huemer</hi>, Johannes, « Zu Avian », <title>Wiener Studien. Zeitschrift für klassische Philologie, Patristik und lateinische Tradition</title>, nº 2, 1880, p. 158‑160.</bibl> 
+            <p rend="analysebiblio">Presents variant readings of distiches from Avianus 22, 10-16; 21, 22; 31 and 32. (P.C.)</p>
+            <bibl><hi rend="sc">IJsewijn</hi>, Jozef, « <title>Avianus Titiani fabulas num retractauerit</title> ? », <title>Latinitas</title>, nº 29, 1981, p. 42‑43.
+              <hi rend="sc">Jenkinson</hi>, F., « The Fables of Avian », <title>The Academy</title>, nº 45, 1894, p. 129.
+              <hi rend="sc">Jones</hi>, Edith C., <title>Avianus in the Middle Ages. Manuscripts and other Evidences of Nachleben</title>, Ann Arbor, University of Illinois at Urbana-Champaign (Ph.D. non-publiée), 1944. 230 p.</bibl>
+            <p rend="bibliteration">—, « Avianus », <hi rend="i">Lexikon der Alten Welt</hi>, Zurich / Stuttgart, Artemis, 1965, col. 420 <hi rend="i">sqq</hi>.</p>
+            <bibl><hi rend="sc">Jones</hi>, William Robert, <title>The Text Tradition of Avianus</title>, Ann Arbor, University of Illinois at Urbana-Champaign (Ph.D. non-publiée), 1940. 44 p.</bibl>
+            <p rend="analysebiblio">Works out a complex classification scheme to categorize and evaluate the known manuscripts of Avianus. (P.C.)</p>
+            <p rend="bibliteration">—, « Thomas Nast and the Æsopic fables of Avianus », <hi rend="i">Classical Bulletin</hi>, nº 18, 1941, p. 18-19.</p>
+            <p rend="bibliteration">—, « Avianus, Flavianus, Theodosius, and Macrobius », [<hi rend="i">in</hi>] <hi rend="i">Classical Studies Presented to Ben Edwin Perry by his Students and Colleagues at the University of Illinois, 1924-1960</hi>, Urbana, University of Illinois Press, « Illinois Studies in Language and Literature (58) », 1969, p. 203‑209.</p>
+            <p rend="analysebiblio">Suggests the possible identification of Avianus with Flavianus, who was supposedly in favor with the Emperor Theodosius, to whom the fables of Avianus appear to have been dedicated. (P.C.)</p>
+            <bibl><hi rend="sc">Klein</hi>, Thomas (éd.), « Alexander Neckam <title>Nouus Avianus</title> », [<title>in</title>] <hi rend="sc">F. Bertini</hi> (dir.), <title>Favolisti latini medievali e umanistici VII</title>, Gênes, <hi rend="sc">d.ar.fi.cl.et. «</hi> Francesco Della Corte », « Favolisti latini medievali e umanistici (7) », 1998, p. 99‑136.
+              <hi rend="sc">Küppers</hi>, Jochem, <title>Die Fabeln Avians. Studien zu Darstellung und Erzählweise spätantiker Fabeldichtung</title>, Bonn, R. Habelt, « Habelts Dissertationsdrucke. Reihe Klassische Philologie (26) », 1977. 252 p.</bibl>
+            <p rend="mentioncr">C.R. : John <hi rend="sc">Henderson</hi>, <hi rend="i">The Classical Review</hi>, vol. 29 (nº 2), oct. 1979, p. 312‑313.</p>
+            <p rend="analysebiblio">Küppers spends much energy in reordering Avianus research by setting aside the previous work of Ellis and Herrmann especially, and to a lesser extent, Crusius and Cameron, as well as Jones and Thraede. Küppers deals with all the major issues : the name of the poet, the Theodosio problem, and the origin of the fables themselves. Küppers deals with the divergences from the Babrian original as Avianus’ own artistic contribution and argues for Avianus’ translation as Coming directly out of the Greek, rather than through a Latin intermediary. Full and useful bibliographies and indices. (P.C.)</p>
+            <bibl><hi rend="sc">Lachmann</hi>, Karl, <title>De Aviani Fabulis 4, 2, 23, 27 (Prooemium indicis lectionum aestivarum a. 1845)</title>, Berolini, 1845 (4 p.) ; repris sous le titre « De Aviani fabulis » dans <title>Kleinere Schriften zur classischen Philologie</title>, Berlin G. Heimer, t. 2, 1876, p. 51-56.
+              <hi rend="sc">Lee</hi>, A. G., « Avianus, fabula XXI, 12 », <title>Proceedings of the Cambridge Philological Society</title>, nº 181, 1950-1951, p. 3‑4.</bibl> 
+            <p rend="analysebiblio">Textual notes to P325 « Lark and Farmer » (A-T 93; TMI J1031). (P.C.)</p>
+            <bibl><hi rend="sc">Luzzatto</hi>, Maria Jogada, « Note su Aviano e sulle raccolte esopiche greco‑latine », <title>Prometheus</title>, nº 10, 1984, p. 75‑94.
+              <hi rend="sc">Malein</hi>, A., « Fragments de manuscrits d’Avianus au Musée de paléographie », <title>Comptes rendus de l’Académie des sciences de l’URSS</title>, 1926, p. 85‑87.</bibl>
+            <p/>
+            <bibl><hi rend="sc">Manitius</hi>, Maximilian, « Beiträge zur Geschichte römischer Dichter im Mittelalter. 9. Tibullus ; 10. Propertius ; 11. Serenus Sammonicus ; 12. Avianus », <title>Philologus</title>, vol. 51 (nº 3), 1892, p. 530‑535</bibl> 
+            <p rend="analysebiblio">Notes on various manuscripts of Avianus’ fables (P.C.)</p>
+            <p rend="bibliteration">—, <hi rend="i">Philologisches aus alten Bibliothekskatalogen (bis 1300)</hi>, Francfort-sur-le-Main, J. D. Sauerländer, « Rheinisches Museum für Philologie. Ergänzungsheft (47) », 1892. <num>viii</num>‑152 p.</p>
+            <p rend="analysebiblio">Contains, among much eise, an extensive listing of the manuscripts of Avianus and evaluates their availability at various times and places during the Middle Ages, especially the ninth Century. Lists and describes six manuscripts from the ninth Century, five from the tenth, seven from the eleventh, nine from the twelfth and seven from the thirteenth. (P.C.)</p>
+            <p rend="bibliteration">—, <hi rend="i">Handschriften antiker Autoren in mittelalterlichen Bibliothekskatalogen</hi>, Leipzig, Harrassowitz, « Beiheft zum Zentralblatt für Bibliothekswesen (67) », 1935. <num>xi</num>‑357 p.</p>
+            <p rend="analysebiblio">This posthumously-appearing work lists those classical authors mentioned in library catalogs from the Middle Ages to 1933. Lists Phaedrus and « Aesopus » (<hi rend="i">i.e.</hi> the Romulus tradition), with special attention given to the very widespread Avianus tradition. (P.C.)</p>
+            <bibl><hi rend="sc">Merone</hi>, E., « Suflo e sufflo (a proposito di Aviano 29, 18) », <title>Giornale italiano di filologia</title>, nº 11, 1958, p. 45‑50.</bibl> 
+            <p rend="analysebiblio">Textual notes to a passage in Avianus; concludes that no reading is clearly indicated but that some are more difficult to support. (P.C.)</p>
+            <bibl><hi rend="sc">Mordeglia</hi>, Caterina (éd.), « Il <title>Nouus Auianus</title> di Venezia », [<title>in</title>] <title>Favolisti latini medievali e umanistici XI</title>, Gênes, <hi rend="sc">d.ar.fi.cl.et. «</hi> Francesco Della Corte », « Favolisti latini medievali e umanistici (11) », 2004, p. 7‑233.</bibl>
+            <p rend="mentioncr">C.R. : J.‑<hi rend="sc">L. Charlet</hi>, <hi rend="i">Revue des Études Latines</hi>, nº 82, 2004, p. 434‑435 ; Wouter <hi rend="sc">Bracke</hi>, <hi rend="i">L’antiquité classique</hi>, nº 75, 2006, p. 666‑667.</p>
+            <p rend="bibliteration">—, « Qualche riflessione sul testo delle favole di Aviano », <hi rend="i">Paideia</hi>, nº 62, 2007, p. 509‑530.</p>
+            <p rend="bibliteration">—, « La riscrittura come forma di interpretazione : il caso delle rielaborazioni mediolatine delle favole di Aviano »,  <hi rend="i">The Journal of Medieval Latin</hi>, nº 17, 2008, p. 159‑173.</p>
+            <p rend="bibliteration">— (éd.), <emph>Le favole di Aviano e il Nouus Auianus di Venezia, Gênes, Il Melangolo, « Università (119) », 2012. 282 p.</emph></p>
+            <bibl><hi rend="sc">Morel</hi>, W., « Some Emendations in Late Latin Texts. Avianus, <title>Fabulae</title>, 40. 2 », <title>Classical Quarterly</title>, vol. 35 (n<hi rend="sup">os</hi> 3‑4), 1941, p. 136‑138. 
+              <hi rend="sc">Oldfather</hi>, William Abbott, « New Manuscript Material for the Study of Avianus », <title>Transactions and Proceedings of the American Philological Association</title>, nº 42, 1911, p. 105‑121.</bibl> 
+            <p rend="analysebiblio">Traces the history of Avianus scholarship, with particular regard to the establishment of the corpus. Lists numerous manuscripts and the Heinrich Steinhöwel’s Esopus which contains twenty-seven fables from Avianus and which is the first known (partial) edition, as well as a number of <hi rend="i">florilgeia</hi> and other collections. Five newly noted medieval texts and introductions to Avianus are described as are six collections of imitations and paraphrases. (P.C.)</p>
+            <p rend="bibliteration">—, « Bibliographical Notes on the Fables of Avianus », <hi rend="i">Papers of the Bibliographical Association of America</hi>, vol. 15 (nº 2), 1921, p. 61-72.</p>
+            <p rend="analysebiblio">Lists materials not found in Hervieux or incompletely described there. Issues a cali for a systematic bibliography of Avianus, including all incunabula and prose re-workings during the Middle Ages. (P.C.)</p>
+            <p rend="bibliteration">—, « A Fleury Text of Avianus », <hi rend="i">Philological Quarterly</hi>, 5, 1926, p. 20-28.</p>
+            <p rend="analysebiblio">Builds on Rand’s assumption that the Codex Leidensis Vossianus Lat. Q 86 came from Fleury. Oldest known manuscript comes from St. Gallen from which emanate three branches in the manuscript tradition. (P.C.)</p>
+            <p rend="bibliteration">—, « An Angular Form of a Rare Abbreviation of –s », <hi rend="i">Speculum</hi>, vol. 1 (nº 4), 1926, p. 443‑444.</p>
+            <p rend="bibliteration">—, &amp; <hi rend="sc">McKenzie</hi>, Kenneth (éd.), <hi rend="i">Ysopet-Avionnet. The Latin and French Texts</hi>, Urbana, University of Illinois, « University of Illinois Studies in Language and Literature (<num>v</num>, 4) », 1919 (<hi rend="i">reprint</hi> New York/Londres, Johnson Reprint, 1967). 286 p.</p>
+            <p rend="analysebiblio">The author and editors present here the text of the Walter of England collection of sixty-five fables in Latin verse accompanied by a French translation from the fourteenth Century, presented in three clearly related manuscripts called Isopet I. That portion which stems from the Avianus tradition is treated separately and called the Avionnet. The collection dates ultimately from the twelfth Century. The lengthy introduction contains an extensive discussion of the history of the fables and their interrelationships as well as a description of the manuscripts and their illustrations. With tables of correspondences, an index of proper names, a Latin glossary, and a series of illustrations from the manuscripts. (P.C.)</p>
+            <bibl><hi rend="sc">Omont</hi>, Henri, « Manuscrit illustré des <title>Fables</title> d’Avianus, notice <seg rend="st">du ms. latin n. a. 1132, du </seg><seg rend="st"><num>x</num></seg><seg rend="st">e siècle, récemment entré à la Bibliothèque nationale</seg> », <title>Bibliothèque de l’École des Chartes</title>, vol. 83, 1922, p. 5‑10 [avec la reproduction du frontispice et des dix miniatures du manuscrit].
+              <hi rend="sc">Pillolla</hi>, Maria Pasqualina, « Reminiscenze e aggettivazione allusiva in due favole di Aviano », [<title>in</title>] <hi rend="sc">G. Catanzaro</hi>, &amp; <hi rend="sc">F. Santucci</hi> (dir.), <title>La favolistica latina in distici elegiaci. Atti del convegno internazionale (Assisi, 26-28 ottobre 1990)</title>, Assisi, Accademia properziana del Subasio, 1991, p. 215‑223. 
+              <hi rend="sc">Ranke</hi>, Kurt, &amp; <hi rend="sc">Weische</hi>, Alfons, art. « Avianus », [<title>in</title>] <hi rend="sc">R. W. Brednich</hi> (dir.), <title>Enzyklopädie des Märchens. Handwörterbuch zur historischen und vergleichenden Erzählforschung, begründet von Kurt Ranke</title>, Berlin, W. de Gruyter, t. I, 1975-1979, col. 1099‑1105.</bibl>
+            <p rend="analysebiblio">A concise survey of Avianus’ life and works insofar as these facts are known. Avianus’ forty-two fables are characterized as coming from Babrius. Bibliographical notes. The article is followed by a note by Kurt Ranke (P.C.)</p>
+            <bibl><hi rend="sc">Risse</hi>, Robert Gregory, <title>An Edition of the Commentary on the Fables of Avianus in Erfurt Ms., Amplon. Q.21. The Text and its Place in Medieval Literary Culture</title>, Saint-Louis (Missouri), Washington University (Ph.D. non-publiée), 1964. 248 p. [en ligne sur <hi rend="sc">p.q.d.t</hi>. à la date du 04.02.2015]</bibl>
+            <p rend="analysebiblio">The manuscript used for this edition was chosen as the best representative of the group of medieval Avianus commentaries, some 47 in number, that cannot be resolved to a single text. After statements of editorial principles, Avianus’ position in education and the intellectual life of the middle ages is discussed, as well as the specific uses of the fable in various medieval forms and by various authors. (P.C.)</p>
+            <p rend="bibliteration">—, « The Augustinian Paraphrase of Isaiah 14.13-14 in <hi rend="i">Piers Plowman</hi> and the commentary on the <hi rend="i">Fables</hi> of Avianus », <hi rend="i">Philological Quarterly</hi>, vol. 45 (nº 4), 1966, p. 712-717.</p>
+            <p rend="analysebiblio">Satan’s boast from Isaiah and <hi rend="i">Piers Plowman</hi> in paraphrase is also to be found in commentaries on Avianus, specifically on fables two and four, with the paraphrase found twenty-nine times. The use of the paraphrase is discussed in terms of the importance of Avianus in medieval culture. (P.C.)</p>
+            <bibl><hi rend="sc">Ritschl</hi>, F., « Zu Avianus », <title>Rheinisches Museum für Philologie</title>, nº 17, 1862, p. 474 (= <title>Opuscul. phil</title>., III, 1877, p. 811).
+              <hi rend="sc">Ryan</hi>, Eileen P., <title>The Verse Adaptations of Avianus. Part I : The Astensis and its Derivatives</title>, Ann Arbor, University of Illinois at Urbana-Champaign (Ph.D. non-publiée), 1940. 44 p.</bibl>
+            <p rend="analysebiblio">Text and commentary on the <hi rend="i">Apologi Aviani</hi> [<hi rend="i">sic</hi>], now for the most part superseded by Küppers and Gaide. (P.C.)</p>
+            <bibl><hi rend="sc">Scanzo</hi>, Roberto, « Aviano : I suoi modelli, le sue fonti », <title>Maia</title>, vol. 53 (nº 1), 2001, p. 51‑61.</bibl>
+            <p rend="bibliteration">—, « Arguzia e <hi rend="i">lusus</hi> nelle <hi rend="i">Fabulæ</hi> di Aviano : una nuova proposta di interpretazione », <hi rend="i">Maia</hi>, vol. 54 (nº 1), 2002, p. 71‑80.</p>
+            <p rend="bibliteration">—, « Il maiale avvertito. Le funzioni del “<hi rend="i">pervelle aurem</hi>” (con l’analisi delle vicende d’un suino della favolistica) », <hi rend="i">Maia</hi>, vol. 56 (nº 2), 2004, p. 1‑16.</p>
+            <bibl><hi rend="sc">Schanz</hi>, Martin, <hi rend="sc">Hosius</hi>, C., &amp; <hi rend="sc">Krüger</hi>, G., art. « Avianus », [<title>in</title>] <title>Römische Literaturgeschichte</title>, München, Beck, t. 4, 2<hi rend="sup">e</hi> partie, (1920) 1935, p. 32‑35.</bibl> 
+            <p rend="analysebiblio">On the poet’s name and time (suggested dates are not past the fourth Century) ; relationship between the fables of Babrius and Avianus. Reviews the textual Problems, the medieval paraphrases. Extensive bibliography. (P.C.)</p>
+            <bibl><hi rend="sc">Schenkl</hi>, K., « Beiträge zur Texteskritik der Fabulae des Avianus », <title>Zeitschrift für die österreichischen Gymnasien</title>, nº 16, 1865, p. 397‑413.
+              <hi rend="sc">Schulze-Busacker</hi>, Elisabeth, <title>La didactique profane au Moyen Âge</title>, Paris, Classiques Garnier, « Recherches littéraires médiévales (11) », 2012. 282 p.
+              <hi rend="sc">Shackleton Bailey</hi>, D. R., « Avianiana », <title>Harvard Studies in Classical Philology</title>, nº 82, 1978, p. 295‑301.</bibl> 
+            <p rend="analysebiblio">Textual notes on two fables in Avianus. (P.C.)</p>
+            <bibl><hi rend="sc">Solimano</hi>, Giannina (éd. &amp; trad. ital.), <title>Favole di Fedro e Aviano</title>, Turin, <emph>Unione Tipografico-Editrice</emph> Torinese, « Classici latini », 2005. 429 p.
+              <hi rend="sc">Soudée</hi>, Madeleine, <title>Quatre fabulistes : Phèdre, Avianus, Marie de France et La Fontaine</title>, Washington (DC), George Washington University (Ph.D. non-publiée), 1977. 285 p.</bibl> 
+            <p rend="analysebiblio">Sees a unifying consistency of theme and form for each of the four collections. Phaedrus used his fables for literary polemic; Avianus’ collection is seen as a program for an individual’s advance toward self-improvement. Marie de France is characterized as writing fables as court propaganda. La Fontaine’s collection as a whole comprises a « theater of the world » filled with constant surprise. (P.C.)</p>
+            <p rend="bibliteration">—, « Le dessein d’Avianus. Nouveau critère d’authenticité des fables », <hi rend="i">Échos du monde classique. Classical News and Views</hi>, nº 22, 1978, p. 63‑70.</p>
+            <p rend="analysebiblio">The Avianus collection as a whole forms a structure the design of which is revealed in the intellectual milieu in which they were produced. Neoplatonic, anti-Christian, but intellectual is the poet. (P.C.)</p>
+            <bibl><hi rend="sc">Suerbaum</hi>, Almut, « <title>Litterae et mores</title>. Zur Textgeschichte der mittelalterlichen Avian-Kommentare », [<title>in</title>] Klaus <hi rend="sc">Grubmüller</hi> (dir.), <title>Schulliteratur im späten Mittelalter</title>, Munich, W. Fink, « Münsterche Mittelalter-Schriften (69) », 2000, p. 383‑434.
+              <hi rend="sc">Tamanza</hi>, Simona (éd.), « <title>L’Anti‑Aviano</title> », [<title>in</title>] <hi rend="sc">F. Bertini</hi> (dir.), <title>Favolisti latini medievali e umanistici VII</title>, Gênes, D.AR.FI.CL.ET. « Francesco Della Corte », « Favolisti latini medievali e umanistici (7) », 1998, p. 137-193.</bibl>
+            <p><hi rend="sc">Unrein</hi>, Otto, <hi rend="i">De Aviani aetate. Dissertation</hi>, Universität Jena, 1885. 64 p.</p>
+            <p rend="analysebiblio">Unrein concludes that Avianus lived at the end of the fourth Century or the beginning of the fifth Century A.D. The most important evidence is Avianus’ relationship to Titianus, but linguistic evidence is evaluated as well. Excellent survey of critical literature up to his time. (P.C.)</p>
+            <bibl><hi rend="sc">Vendryes</hi>, J., « Gloses en vieux haut-allemand dans un manuscrit d’Avianus », <title>Mémoires de la Société linguistique de Paris</title>, vol. 22 (nº 6), 1922, p. 273‑276.
+              <hi rend="sc">Weitzmann</hi>, Kurt, « Æsopian Fable », [<title>in</title>] <title>Ancient Book Illumination</title>, Cambridge (Ma.), Harvard University Press, 1959, p. 111‑114.</bibl>
+            <p rend="analysebiblio">Aesop’s fables’ popularity as a subject for illustrations is here attributed to the popularity of the form itself and its “fitness to pictorialization.” The article provides a cursory overview of picture cycles that demonstrate illustrated Aesop manuscripts in classical antiquity. P1 « Fox and Eagle » (TMI K2295) and P158 « Wolf and Nurse » (TMI J2066.5) are shown in various illustrations. (P.C.)</p>
+            <bibl><hi rend="sc">Winterfeld</hi>, Paul von, « Zu Avianus », <title>Rheinisches Museum für Philologie</title>, nº 57, 1902, p. 167‑168.</bibl>
+            <p rend="analysebiblio">Suggests that Lachmann’s dating of Avianus ought to be put down. Earliest possible date seems to be the second half of the fourth Century because of the metrics the poet used. (P.C.)</p>
+            <bibl><hi rend="sc">Wright</hi>, Aaron Eugene/<seg rend="st">Tietjen, </seg>« “<title>Iste auctor ab aliis differt</title>”. Avianus and His Medieval Readers », [<title>in</title>] <hi rend="sc">W. Harms</hi>, <hi rend="sc">C.S. Jæger</hi>, &amp; <hi rend="sc">A. Stein (</hi>dir.), <title>Fremdes wahrnehmen-fremdes Wahrnehmen, Studien zur Geschichte der Wahrnehmung und zur Begegnung von Kulturen im Mittelalter und früher Neuzeit</title>, Stuttgart/Leipzig, Hirzel, 1997, p. 9‑19.  
+              <hi rend="sc">Ziolkowski</hi>, Jan M., <title>Talking Animals. Medieval Latin Beast Poetry (750‑1150)</title>, Philadelphie, University of Pennsylvania Press, « Middle Ages Series », 1993. <num>ix</num>‑354 p.
+              <hi rend="sc">Zurli</hi>, Loriano, « L’<title>Avianus Astensis</title> e l’<title>Avianus Vindobonensis</title>. Considerazioni sulla nazionalità dell’<title>Astensis</title> e sulla cronologia relativa », [<title>in</title>] <hi rend="sc">G. Catanzaro</hi>, &amp; <hi rend="sc">F. Santucci</hi> (dir.), <title>La favolistica latina in distici elegiaci. Atti del convegno internazionale (Assisi, 26-28 ottobre 1990)</title>, Assisi, Accademia properziana del Subasio, 1991, p. 63‑77.</bibl>
+            <p rend="bibliteration">—, &amp; <hi rend="sc">Bisanti</hi>, Armando (éd.), <hi rend="i">Astensis Poetæ Nouus Avianus</hi>, Gênes, D.AR.FI.CL.ET. « Francesco Della Corte », « Favolisti latini medievali e umanistici (5) », 1994. 236 p.</p>
+          </div>
+        </div>
+      </div>
+      <div>
+        <head>Indexation thématique des motifs des <hi rend="i">Fabulae</hi> d’Avianus</head>
+        <table>
+          <row>
+            <cell>Avianus</cell>
+            <cell>Indexation du motif chez Perry</cell>
+          </row>
+          <row>
+            <cell>1. [De nutrice et infante]</cell>
+            <cell>[P158]</cell>
+          </row>
+          <row>
+            <cell>2. [De testudine et aquila]</cell>
+            <cell>[P490]</cell>
+          </row>
+          <row>
+            <cell>3. [De cancro suum docente filium]</cell>
+            <cell>[P592]</cell>
+          </row>
+          <row>
+            <cell>4. [Fabula phoebi boreaeque]</cell>
+            <cell>[P46]</cell>
+          </row>
+          <row>
+            <cell>5. [De asino pelle leonis induta]</cell>
+            <cell>[P358 ; <hi rend="i">cf</hi>. P188]</cell>
+          </row>
+          <row>
+            <cell>6. [De rana et uulpe]</cell>
+            <cell>[P289]</cell>
+          </row>
+          <row>
+            <cell>7. [Fabula canis mordacis]</cell>
+            <cell>[P332]</cell>
+          </row>
+          <row>
+            <cell>8. [De camelo]</cell>
+            <cell>[P117]</cell>
+          </row>
+          <row>
+            <cell>9. [De duobus sociis et ursa]</cell>
+            <cell>[P65]</cell>
+          </row>
+          <row>
+            <cell>10. [De caluo equite]</cell>
+            <cell>[P375]</cell>
+          </row>
+          <row>
+            <cell>11. [De geminis ollis]</cell>
+            <cell>[P378]</cell>
+          </row>
+          <row>
+            <cell>12. [De rustico et thesauro]</cell>
+            <cell>[P61]</cell>
+          </row>
+          <row>
+            <cell>13. [De tauro et hirco]</cell>
+            <cell>[P217]</cell>
+          </row>
+          <row>
+            <cell>14. [De simia]</cell>
+            <cell>[P364]</cell>
+          </row>
+          <row>
+            <cell>15. [De grue et pauone]</cell>
+            <cell>[P294]</cell>
+          </row>
+          <row>
+            <cell>16. [De quercu et harundine]</cell>
+            <cell>[P70]</cell>
+          </row>
+          <row>
+            <cell>17. [De uenatore et tigride]</cell>
+            <cell>[P340]</cell>
+          </row>
+          <row>
+            <cell>18. [De quattuor iuuencis et leone]</cell>
+            <cell>[P372]</cell>
+          </row>
+          <row>
+            <cell>19. [De abiete et dumis]</cell>
+            <cell>[P304]</cell>
+          </row>
+          <row>
+            <cell>20. [De piscatore et pisce]</cell>
+            <cell>[P18]</cell>
+          </row>
+          <row>
+            <cell>21. [De agricola et aue]</cell>
+            <cell>[P325]</cell>
+          </row>
+          <row>
+            <cell>22. [De cupido et inuido]</cell>
+            <cell>[P580]</cell>
+          </row>
+          <row>
+            <cell>23. [Fabula de uenditore bacchi]</cell>
+            <cell>[P307]</cell>
+          </row>
+          <row>
+            <cell>24. [De uenatore et leone]</cell>
+            <cell>[P284]</cell>
+          </row>
+          <row>
+            <cell>25. [De puero et fure]</cell>
+            <cell>[P581]</cell>
+          </row>
+          <row>
+            <cell>26. [De capella et leone]</cell>
+            <cell>[P157]</cell>
+          </row>
+          <row>
+            <cell>27. [De cornice et urna]</cell>
+            <cell>[P390]</cell>
+          </row>
+          <row>
+            <cell>28. [De rustico et iuuenco]</cell>
+            <cell>[P582]</cell>
+          </row>
+          <row>
+            <cell>29. [De uiatore et satyro]</cell>
+            <cell>[P35]</cell>
+          </row>
+          <row>
+            <cell>30. [De homine et porco]</cell>
+            <cell>[P583]</cell>
+          </row>
+          <row>
+            <cell>31. [De mure et boue]</cell>
+            <cell>[P353]</cell>
+          </row>
+          <row>
+            <cell>32. [De homine et plaustro]</cell>
+            <cell>[P291]</cell>
+          </row>
+          <row>
+            <cell>33. [De ansere oua aurea pariente]</cell>
+            <cell>[P87]</cell>
+          </row>
+          <row>
+            <cell>34. [De formica et cicada]</cell>
+            <cell>[P373 ; <hi rend="i">cf</hi>. P112]</cell>
+          </row>
+          <row>
+            <cell>35. [De simia et natis]</cell>
+            <cell>[P218]</cell>
+          </row>
+          <row>
+            <cell>36. [De uitulo et boue]</cell>
+            <cell>[P300]</cell>
+          </row>
+          <row>
+            <cell>37. [De cane et leone]</cell>
+            <cell>[P346]</cell>
+          </row>
+          <row>
+            <cell>38. [De pisce eunte in mare]</cell>
+            <cell>[P584]</cell>
+          </row>
+          <row>
+            <cell>39. [De milite et lituo]</cell>
+            <cell>[P370]</cell>
+          </row>
+          <row>
+            <cell>40. [De pardo et uulpe]</cell>
+            <cell>[P12]</cell>
+          </row>
+          <row>
+            <cell>41. [De olla cruda a fluuio rapta]</cell>
+            <cell>[P368]</cell>
+          </row>
+          <row>
+            <cell>42. [De lupo et haedo]</cell>
+            <cell>[P261]</cell>
+          </row>
+        </table>
+      </div>
+    </front>
+    <body>
+      <div>
+        <head>Ad Theodosium</head>
+        <p>Dubitanti mihi, Theodosi optime, quonam litterarum titulo nostri nominis memoriam mandaremus, fabularum textus occurrit, quod in his urbane concepta falsitas deceat et non incumbat necessitas ueritatis. Nam quis tecum de oratione, quis de poemate loqueretur, cum in utroque litterarum genere et Atticos Graeca eruditione superes et latinitate Romanos ? Huius ergo materiae ducem nobis Aesopum noueris, qui responso Delphici Apollinis monitus ridicula orsus est, ut legenda firmaret. Verum has pro exemplo fabulas et Socrates diuinis operibus indidit et poemati suo Flaccus aptauit, quod in se sub iocorum communium specie uitae argumenta contineant. Quas Graecis iambis Babrius repetens in duo uolumina coartauit. Phaedrus etiam partem aliquam quinque in libellos resoluit. De his ergo ad quadraginta et duas in unum redactas fabulas dedi, quas rudi latinitate compositas elegis sum explicare conatus. Habes ergo opus quo animum oblectes, ingenium exerceas, sollicitudinem leues totumque uiuendi ordinem cautus agnoscas. Loqui uero arbores, feras cum hominibus gemere, uerbis certare uolucres, animalia ridere fecimus, ut pro singulorum necessitatibus uel ab ipsis [in]animis sententia proferatur.</p>
+      </div>
+      <div>
+        <pb ed="perry" n="P158"/>
+        <head type="sur">Avianus 1</head>
+        <head>[DE NVTRICE ET INFANTE]</head>
+        <l met="hexa">Rustica deflentem paruum iurauerat olim,</l>
+        <l met="penta">ni taceat, rabido quod foret esca lupo.</l>
+        <l met="hexa">Credulus hanc uocem lupus audiit et manet ipsas</l>
+        <l met="penta">peruigil ante fores, irrita uota gerens ;</l>
+        <l met="hexa">nam lassata puer nimiae dat membra quieti,</l>
+        <l met="penta">spem quoque raptori sustulit, inde fames.</l>
+        <l met="hexa">Hunc ubi siluarum repetentem lustra suarum</l>
+        <l met="penta">ieiunum coniux sensit adesse lupa :</l>
+        <l met="hexa">Cur, inquit, nullam referencs de more rapinam,</l>
+        <l met="penta">languida consumptis sed trahis ora genis ?</l>
+        <l met="hexa">Ne mireris, ait deceptum fraude maligna</l>
+        <l met="penta">uix miserum uacua delituisse fuga.</l>
+        <l met="hexa">Nam quae praeda, rogas, quae spes contingere posset,</l>
+        <l met="penta">iurgia nutricis cum mihi uerba darent ?</l>
+        <l met="hexa" ana="epimythium">Haec sibi dicta putet seque hac sciat arte notari</l>
+        <l met="penta">femineam quisquis credidit esse fidem.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P490"/>
+        <head type="sur">Avianus 2</head>
+        <head>[DE TESTVDINE ET AQUILA]</head>
+        <l met="hexa">Pennatis auibus quondam testudo locuta est,</l>
+        <l met="penta">si quis eam uolucrum constituisset humi,</l>
+        <l met="hexa">protinus e Rubris conchas proferret harenis,</l>
+        <l met="penta">quis pretium nitido cortice baca daret.</l>
+        <l met="hexa">Indignum sibimet, tardo quod sedula gressu</l>
+        <l met="penta">nil ageret toto perficeretque die.</l>
+        <l met="hexa">Ast ubi promissis aquilam fallacibus implet,</l>
+        <l met="penta">experta est similem perfida lingua fidem ;</l>
+        <l met="hexa">et male mercatis dum quaerit sidera pennis,</l>
+        <l met="penta">occidit infelix alitis ungue fero.</l>
+        <l met="hexa">Tum quoque sublimis, cum iam moreretur, in auras</l>
+        <l met="penta">ingemuit uotis haec licuisse suis.</l>
+        <l met="hexa">Nam dedit exosae post haec documenta quietis</l>
+        <l met="penta">mon sine supremo magna labore peti.</l>
+        <l met="hexa" ana="epimythium">Sic quicumque noua sublatus laude tumecit</l>
+        <l met="penta">dat merito poenas, dum meliora cupit.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P592"/>
+        <head type="sur">Avianus 3</head>
+        <head>[DE CANCRO SVVM DOCENTE FILIVM]</head>
+        <l met="hexa">Curva retrocedens dum fert uestigia cancer,</l>
+        <l met="penta">hispida saxosis terga relisit aquis.</l>
+        <l met="hexa">Hunc genitrix facili cupiens procedere gressu,</l>
+        <l met="penta">talibus alloquiis praemonuisse datur  :</l>
+        <l met="hexa">Ne tibi transuerso placeant haec deuia, nate,</l>
+        <l met="penta">Rursus in obliquos neu uelis ire pedes ;</l>
+        <l met="hexa">sed nisu contenta ferens uestigia recto,</l>
+        <l met="penta">innocuos  proso tramite sista gradus.</l>
+        <l met="hexa">Cui natus : Faciam, si me praecesseris, inquit,</l>
+        <l met="penta">rectaque monstrantem certior ipse sequar.</l>
+        <l met="hexa">Nam stultum nimis est, cum tu prauissima temptes,</l>
+        <l met="penta">alterius censor ut uitiosa notes.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P46"/>
+        <head type="sur">Avianus 4</head>
+        <head>[FABVLA PHOEBI BOREAEQVE]</head>
+        <l met="hexa">Immitis Boreas placidusque ad sidera Phoebus</l>
+        <l met="penta">iurgia cum magno conseruere Ioue,</l>
+        <l met="hexa">quis prior inceptum peragat : mediumque per orbem</l>
+        <l met="penta">carpebat solitum forte uiator iter.</l>
+        <l met="hexa">Conuenit hanc potius liti praefigere causam</l>
+        <l met="penta">pallia nudato decutienda uiro.</l>
+        <l met="hexa">Protinus impulsus uentis circumtonat aether,</l>
+        <l met="penta">et gelidus nimias depluit imber aquas.</l>
+        <l met="hexa">Ille magis duplicem lateri circumdat amictum,</l>
+        <l met="penta">turbida summotos quod trahit aura sinus.</l>
+        <l met="hexa">Sed tenues radios paulatim increscere Phoebus</l>
+        <l met="penta">iusserat, ut nimio surgeret igne iubar,</l>
+        <l met="hexa">donec lassa uolens requiescere membra uiator,</l>
+        <l met="penta">deposita fessus ueste sederet humi.</l>
+        <l met="hexa">Tunc uictor docuit praesentia numina Titan</l>
+        <l met="penta">nullum praemisses uincere posse minis.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P358 ; cf. P188"/>
+        <head type="sur">Avianus 5</head>
+        <head>[DE ASINO PELLE LEONIS INDVTA]</head>
+        <l met="hexa">Metiri se quemque decet propriisque iuuari</l>
+        <l met="penta">laudibus, alterius nec bona ferre sibi,</l>
+        <l met="hexa">ne detracta grauem faciant miracula risum,</l>
+        <l met="penta" ana="fin-de-promythium">coeperit in solis cum remanere malis.</l>
+        <l met="hexa">Exuuias asinus Gaetuli forte leonis</l>
+        <l met="penta">repperit et spoliis induit ora nouis</l>
+        <l met="hexa">aptauitque suis incongrua tegmina membris,</l>
+        <l met="penta">et miserum tanto pressit honore caput.</l>
+        <l met="hexa">Ast ubi terribilis animo circumstetit horror</l>
+        <l met="penta">pigraque praesumptus uenit in ossa uigor,</l>
+        <l met="hexa">mitibus ille feris communia pabula calcans,</l>
+        <l met="penta">turbabat pauidas per sua rura boues.</l>
+        <l met="hexa">Rusticus hunc magna postquam deprendit ab aure,</l>
+        <l met="penta">correptum uinclis uerberibusque domat.</l>
+        <l met="hexa">Et simul abstracto denudans corpora tergo,</l>
+        <l met="penta">increpat his miserum uocibus ille pecus :</l>
+        <l met="hexa">Forsitan ignotos imitato murmure fallas,</l>
+        <l met="penta">at mihi, qui quondam, semper asellus eris.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P289"/>
+        <head type="sur">Avianus 6</head>
+        <head>[DE RANA ET VVLPE]</head>
+        <l met="hexa">Edita gurgitibus limoque immersa profundo,</l>
+        <l met="penta">et luteis tantum semper amica uadis,</l>
+        <l met="hexa">ad superos colles herbosaque prata recurrens,</l>
+        <l met="penta">mulcebat miseras turgida rana feras,</l>
+        <l met="hexa">callida quod posset grauibus succurrere morbis,</l>
+        <l met="penta">et uitam ingenio continuare suo.</l>
+        <l met="hexa">Nec se Paeonio iactat cessisse magistro,</l>
+        <l met="penta">quamuis perpetuos curet in orbe deos.</l>
+        <l met="hexa">Tunc uulpes pecudum ridens astuta quietem</l>
+        <l met="penta">uerborum uacuam prodidit esse fidem :</l>
+        <l met="hexa">Haec dabit aegrotis, inquit, medicamina membris</l>
+        <l met="penta">pallida caeruleus cui notat ora color ?</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P332"/>
+        <head type="sur">Avianus 7</head>
+        <head>[FABVLA CANIS MORDACIS]</head>
+        <l met="hexa">Haud facile est prauis innatum mentibus ut se</l>
+        <l met="penta" ana="fin-de-promythium">muneribus dignas supplicioue putent.</l>
+        <l met="hexa">Forte canis quondam, nullis latratibus horrens</l>
+        <l met="penta">nec patulis primum rictibus ora trahens,</l>
+        <l met="hexa">mollia sed pauidae summittens uerbera caudae,</l>
+        <l met="penta">concitus audaci uulnera dente dabat.</l>
+        <l met="hexa">Hunc dominus, ne quem probitas simulata lateret,</l>
+        <l met="penta">iusserat in rabido gutture ferre nolam.</l>
+        <l met="hexa">Faucibus innexis crepitantia subligat aera,</l>
+        <l met="penta">quae facili mota signa cauenda darent.</l>
+        <l met="hexa">Haec tamen ille sibi credebat praemia ferri,</l>
+        <l met="penta">et similem turbam despiciebat ouans.</l>
+        <l met="hexa">Tunc insultantem senior de plebe superbum</l>
+        <l met="penta">aggreditur, tali singula uoce monent :</l>
+        <l met="hexa">Infelix, quae tanta rapit dementia sensum,</l>
+        <l met="penta">munera pro meritis si cupis ista dari ?</l>
+        <l met="hexa">Non hoc uirtutis decus ostentatur in aere,</l>
+        <l met="penta">Nequitiae testem sed geris inde sonum.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P117"/>
+        <head type="sur">Avianus 8</head>
+        <head>[DE CAMELO]</head>
+        <l met="hexa">Contentum propriis sapientem uiuere rebus,</l>
+        <l met="penta">nec cupere alterius, nostra fabella monet,</l>
+        <l met="hexa">indignata cito ne stet Fortuna recursu</l>
+        <l met="penta" ana="fin-de-promythium">atque eadem minuat quae dedit ante rota.</l>
+        <l met="hexa">Corporis immensis fertur pecus isse per auras</l>
+        <l met="penta">et magnum precibus sollicitasse Iouem :</l>
+        <l met="hexa">turpe nimis cunctis irridendumque uideri</l>
+        <l met="penta">insignes geminis cornibus ire boues,</l>
+        <l met="hexa">et solum nulla munitum parte camelum</l>
+        <l met="penta">obiectum cunctis expositumque feris.</l>
+        <l met="hexa">Iuppiter arridens postquam sperata negauit,</l>
+        <l met="penta">insuper et magnae sustulit auris onus.</l>
+        <l met="hexa">Viue minor merito, cui sors non sufficit, inquit,</l>
+        <l met="penta">et tua perpetuum, liuide, damna geme.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P65"/>
+        <head type="sur">Avianus 9</head>
+        <head>[DE DUOBVS SOCIIS ET VRSA]</head>
+        <l met="hexa">Montibus ignotis curuisque in uallibus artum</l>
+        <l met="penta">cum socio quidam suscipiebat iter,</l>
+        <l met="hexa">securus, quodcumque malum Fortuna tuliset,</l>
+        <l met="penta">robore collato posset uterque pati.</l>
+        <l met="hexa">Dumque per inceptum uario semone feruntur,</l>
+        <l met="penta">in mediam praeceps conuenit ursa uiam.</l>
+        <l met="hexa">Horum alter facili comprendens robora cursu</l>
+        <l met="penta">in uiridi trepidum fronde pependit onus.</l>
+        <l met="hexa">Ille trahens nullo iacuit uestigia gressu,</l>
+        <l met="penta">exanimem fingens, ponte relisus humi.</l>
+        <l met="hexa">Continuo praedam cupiens fera saeua cucurrit</l>
+        <l met="penta">et miserum curuis unguibus ante leuat.</l>
+        <l met="hexa">Verum ubi concreto riguerunt membra timore</l>
+        <l met="penta">(nam solitus mentis liquerat ossa calor),</l>
+        <l met="hexa">tunc olidum credens, quamuis ieiuna, cadauer</l>
+        <l met="penta">deserit et lustris conditur ursa suis.</l>
+        <l met="hexa">Sed cum securi paulatim in uerba redissent,</l>
+        <l met="penta">liberior iusto, qui fuit ante fugax :</l>
+        <l met="hexa">Dic, sodes, quidnam trepido tibi rettulit ursa ?</l>
+        <l met="penta">Nam secreta diu multaque uerba dedit.</l>
+        <l met="hexa">Magna quidem monuit, tamen haec quoque maxima iussit,</l>
+        <l met="penta">quae misero semper sunt facienda mihi :</l>
+        <l met="hexa">Ne facile alterius repetas consortia, dixit,</l>
+        <l met="penta">rursus ab insana ne capiare fera.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P375"/>
+        <head type="sur">Avianus 10</head>
+        <head>[DE CALVO EQUITE]</head>
+        <l met="hexa">Caluus eques capiti solitus religare capillos</l>
+        <l met="penta">atque alias nudo uertice ferre comas,</l>
+        <l met="hexa">ad Campum nitidis uenit onspectus in armis</l>
+        <l met="penta">et facilem frenis flectere coepit equum.</l>
+        <l met="hexa">Huius ab adverso Boreae spiramina perflant</l>
+        <l met="penta">ridiculum populo conspiciente caput ;</l>
+        <l met="hexa">Nam mox deiecto nituit frons nuda galero,</l>
+        <l met="penta">Discolor apposita quae fuit ante coma</l>
+        <l met="hexa">Ille sagax, tantis quod risus milibus esset,</l>
+        <l met="penta">distulit admota calliditate iocum,</l>
+        <l met="hexa">Quid mirum, referens, positos fugisse capillos</l>
+        <l met="penta">Quem prius aequaeuae deseruere comae ?</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P378"/>
+        <head type="sur">Avianus 11</head>
+        <head>[DE GEMINIS OLLIS]</head>
+        <l met="hexa">Eripiens geminas ripis cedentibus ollas</l>
+        <l met="penta">insanis pariter flumen agebat aquis.</l>
+        <l met="hexa">Sed diuersa duas ars et natura creauit :</l>
+        <l met="penta">aere prior fusa est, altera ficta luto.</l>
+        <l met="hexa">Dispar erat fragili et solidae concordia motus,</l>
+        <l met="penta">incertumque uagus amnis habebat iter.</l>
+        <l met="hexa">Ne tamen elisam confringeret aerea testam,</l>
+        <l met="penta">iurabat solitam longius ire uiam.</l>
+        <l met="hexa">Illa timens ne quid leuibus grauiora nocerent,</l>
+        <l met="penta">et quia nulla breui est cum meliore fides,</l>
+        <l met="hexa">Quamuis securam uerbis me feceris, inquit,</l>
+        <l met="penta">non timor ex animo decutiendus erit.</l>
+        <l met="hexa">Nam me siue tibi, seu te mihi conferat unda,</l>
+        <l met="penta">Semper ero ambobus subdita sola malis.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P61"/>
+        <head type="sur">Avianus 12</head>
+        <head>[DE RVSTICO ET THESAVRO]</head>
+        <l met="hexa">Rusticus impresso molitus uomere terram</l>
+        <l met="penta">thesaurum sulcis prosiluissse uidet.</l>
+        <l met="hexa">Mox indigna animo properante reliquit aratra,</l>
+        <l met="penta">gramina compellens ad meliora boues.</l>
+        <l met="hexa">Continuo supplex Telluri construit aras,</l>
+        <l met="penta">quae sibi depositas sponte dedisset opes.</l>
+        <l met="hexa">Hunc Fortuna nouis gaudentem prouida rebus</l>
+        <l met="penta">admonet, indignam se quoque ture dolens :</l>
+        <l met="hexa">Nunc inuenta meis non prodis munera templis</l>
+        <l met="penta">atque alios mauis participare deos ;</l>
+        <l met="hexa">sed cum surrepto fueris tristissimus auro,</l>
+        <l met="penta">me primam lacrimis sollicitabis inops.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P217"/>
+        <head type="sur">Avianus 13</head>
+        <head>[DE TAVRO ET HIRCO]</head>
+        <l met="hexa">Immensum taurus fugeret cum forte leonem</l>
+        <l met="penta">tutaque desertis quaereret antra uiis,</l>
+        <l met="hexa">speluncam reperit, quam tunc hirsutus habebat</l>
+        <l met="penta">Cinyphii ductor qui gregis esse solet.</l>
+        <l met="hexa">Post ubi summissa meditantem irrumpere fronte</l>
+        <l met="penta">obuius obliquo terruit ore caper,</l>
+        <l met="hexa">tristis abit longaque fugax de ualle locutus</l>
+        <l met="penta">(nam timor expulsum iurgia ferre uetat) :</l>
+        <l met="hexa">Non te demissis saetosum, putide, barbis,</l>
+        <l met="penta">illum, qui superest consequiturque, tremo.</l>
+        <l met="hexa">Nam si discedat, nosces, stultissime, quantum</l>
+        <l met="penta">discrepet a tauri uiribus hircus olens.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P364"/>
+        <head type="sur">Avianus 14</head>
+        <head>[DE SIMIA]</head>
+        <l met="hexa">Iuppiter in toto quondam quaesiuerat orbe</l>
+        <l met="penta">munera natorum quis meliora daret.</l>
+        <l met="hexa">Certatim ad regem currit genus omne ferarum,</l>
+        <l met="penta">permixtumque homini cogitur ire pecus.</l>
+        <l met="hexa">Sed nec squamigeri desunt ad iurgia pisces,</l>
+        <l met="penta">uel quicquid uolucrum purior aura uehit.</l>
+        <l met="hexa">Inter quos trepidae ducebant pignora matres,</l>
+        <l met="penta">iudicio tanti discutienda dei.</l>
+        <l met="hexa">Tunc breuis informem traheret cum simia natum,</l>
+        <l met="penta">ipsum etiam in risum compulit ire Iouem.</l>
+        <l met="hexa">Hanc tamen ante alios rumpit turpissima uocem,</l>
+        <l met="penta">dum generis crimen sic abolere cupit :</l>
+        <l met="hexa">Iuppiter hoc norit, maneat uictoria si quem ;</l>
+        <l met="penta">iudicio superest omnibus iste meo.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P294"/>
+        <head type="sur">Avianus 15</head>
+        <head>[DE GRVE ET PAVONE]</head>
+        <l met="hexa">Threiciam uolucrem fertur Iunonius ales</l>
+        <l met="penta">communi sociam continuisse cibo.</l>
+        <l met="hexa">Namque inter uarias fuerat discordia formas,</l>
+        <l met="penta">magnaque de facili iurgia lite trahunt,</l>
+        <l met="hexa">quod sibi multimodo fulgerent membra decore,</l>
+        <l met="penta">caeruleam facerent liuida terga gruem.</l>
+        <l met="hexa">Et simul erectae circumdans tegmina caudae,</l>
+        <l met="penta">sparserat arcanum rursus in astra iubar.</l>
+        <l met="hexa">Illa licet nullo pennarum certet honore,</l>
+        <l met="penta">his tamen insultans uocibus usa datur :</l>
+        <l met="hexa">Quamuis innumerus plumas uariauerit ordo,</l>
+        <l met="penta">mersus humi semper florida terga geris ;</l>
+        <l met="hexa">ast ego deformi sublimis in aere penna</l>
+        <l met="penta">proxima sideribus numinibusque feror.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P70"/>
+        <head type="sur">Avianus 16</head>
+        <head>[DE QVERCV ET HARVNDINE]</head>
+        <l met="hexa">Montibus e summis radicitus eruta quercus</l>
+        <l met="penta">decidit, insani turbine uicta noti.</l>
+        <l met="hexa">Quam tumidis subter decurrens alueus undis</l>
+        <l met="penta">suscipit et fluuio praecipitante rapit.</l>
+        <l met="hexa">Verum ubi diuersis impellitur ardua ripis,</l>
+        <l met="penta">in fragiles calamos grande residit onus.</l>
+        <l met="hexa">Tunc si exiguo conectens caespite ramos,</l>
+        <l met="penta">miratur liquidis quod stet harundo uadis :</l>
+        <l met="hexa">se quoque tam uasto necdum consistere trunco,</l>
+        <l met="penta">ast illam tenui cortice ferre minas.</l>
+        <l met="hexa">Stridula mox blando respondens canna susurro</l>
+        <l met="penta">seque magis tutam debilitate docet :</l>
+        <l met="hexa">Tu rabidos, inquit, uentos saeuasque procellas</l>
+        <l met="penta">despicis, et totis uiribus acta ruis ;</l>
+        <l met="hexa">ast ego surgentes paulatim demoror austros</l>
+        <l met="penta">et quamuis leuibus prouida cedo notis.</l>
+        <l met="hexa">In tua praeruptus offendit robora nimbus ;</l>
+        <l met="penta">motibus aura meis ludificata perit.</l>
+        <l met="hexa" ana="epimythium">Haec nos dicta monent magnisw obsistere frustra</l>
+        <l met="penta">paulatimque truces exsuperare minas.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P340"/>
+        <head type="sur">Avianus 17</head>
+        <head>[DE VENATORE ET TIGRIDE]</head>
+        <l met="hexa">Venator iaculis haud irrita uulnera torquens</l>
+        <l met="penta">turbabat rapidas per sua lustra feras.</l>
+        <l met="hexa">Tum pauidis audax cupiens succurrere tigris</l>
+        <l met="penta">uerbere commotas iussit abesse minas.</l>
+        <l met="hexa">Ille tamen solito contorquens tela lacerto :</l>
+        <l met="penta">Nunc tibi qualis eram nuntius iste refert.</l>
+        <l met="hexa">Et simul emissum transegit uulnera ferrum</l>
+        <l met="penta">perstrinxitque citos hasta cruenta pedes.</l>
+        <l met="hexa">Molliter affixum traheret cum saucia telum,</l>
+        <l met="penta">a trepida ferur uulpe retenta diu,</l>
+        <l met="hexa">dum quisnam ille foret, qui talia uulnera ferret,</l>
+        <l met="penta">aut ubinam iaculum delituisset agens.</l>
+        <l met="hexa">Illa gemens fractoque loqui uix murmure coepit</l>
+        <l met="penta">(nam solitas uoces ira dolorque rapit) :</l>
+        <l met="hexa">Nulla quidem medio conuenit in aggere forma</l>
+        <l met="penta">quaeque oculis olim sit repetenda meis,</l>
+        <l met="hexa">sed cruor et ualidis in nos directa lacertis</l>
+        <l met="penta">ostendunt aliquem tela fuisse uirum.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P372"/>
+        <head type="sur">Avianus 18</head>
+        <head>[DE QVATTVOR IVVENCIS ET LEONE]</head>
+        <l met="hexa">Quattuor immensis quondam per prata iuuencis</l>
+        <l met="penta">fertur amicitiae tanta fuisse fides,</l>
+        <l met="hexa">ut simul emissos nullus diuelleret error,</l>
+        <l met="penta">rursus et e pastu turba rediret amans.</l>
+        <l met="hexa">Hos quoque collatis inter se cornibus ingens</l>
+        <l met="penta">dicitur in siluis pertimuisse leo,</l>
+        <l met="hexa">dum metus oblatam prohibet  temptare rapinam</l>
+        <l met="penta">et coniuratos horret adire boues.</l>
+        <l met="hexa">Sed quamuis audax factisque immanior esset,</l>
+        <l met="penta">tantorum solus uiribus impar erat.</l>
+        <l met="hexa">Protinus aggreditur prauis insistere uerbis,</l>
+        <l met="penta">collisum cupiens dissociare pecus.</l>
+        <l met="hexa">Sic postquam dictis animos disiunxit acerbis,</l>
+        <l met="penta">inuasit, miserum diripuitque gregem.</l>
+        <l met="hexa">Tunc quidam ex illis : Vitam seruare quietam</l>
+        <l met="penta">qui cupiet, nostra discere morte potest ;</l>
+        <l met="hexa">neue cito admotas uerbis fallacibus aures</l>
+        <l met="penta">impleat aut ueterem deserat ante fidem.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P304"/>
+        <head type="sur">Avianus 19</head>
+        <head>[DE ABIETE ET DVMIS]</head>
+        <l met="hexa">Horrentes dumos abies pulcherrima risit,</l>
+        <l met="penta">cum facerent formae iurgia magna suae,</l>
+        <l met="hexa">indignum referens cunctis certamen haberi,</l>
+        <l met="penta">quod meritis nullus consociaret honor.</l>
+        <l met="hexa">Nam mihi deductum surgens in nubila corpus</l>
+        <l met="penta">uerticis erectas tollit in astra comas,</l>
+        <l met="hexa">puppibus et patulis media cum sede locamur,</l>
+        <l met="penta">in me suspensos explicat aura sinus.</l>
+        <l met="hexa">At tibi deformem quod dant spineta figuram,</l>
+        <l met="penta">despectum cuncti praeteriere uiri.</l>
+        <l met="hexa">Ille refert : Nunc laeta quidem bona sola fateris</l>
+        <l met="penta">et nostris frueris imperiosa malis ;</l>
+        <l met="hexa">sed cum pulchra minax succidet membra securis,</l>
+        <l met="penta">quam uelles spinas tunc habuisse meas !</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P18"/>
+        <head type="sur">Avianus 20</head>
+        <head>[DE PISCATORE ET PISCE]</head>
+        <l met="hexa">Piscator solitus praedam suspendere saeta</l>
+        <l met="penta">exigui piscis uile trahebat onus.</l>
+        <l met="hexa">Sed postquam superas captum perduxit ad auras</l>
+        <l met="penta">atque auido fixum uulnus ab ore tulit :</l>
+        <l met="hexa">Parce, precor, supplex lacrimis ita dixit obortis.</l>
+        <l met="penta">Nam quanta ex nostro corpore damna feres ?</l>
+        <l met="hexa">Nunc me saxosis genitrix fecunda sub antris</l>
+        <l met="penta">fudit et in propriis ludere iussit aquis.</l>
+        <l met="hexa">Tolle minas tenerumque tuis sine crescere mensis ;</l>
+        <l met="penta">haec tibi me rursum litoris ora dabit.</l>
+        <l met="hexa">Protinus, immensi depastus caerula ponti,</l>
+        <l met="penta">pinguior ad calamum sponte recurro tuum.</l>
+        <l met="hexa">Ille nefas captum referens absoluere piscem,</l>
+        <l met="penta">difficiles queritur casibus esse uices :</l>
+        <l met="hexa">Nam miserum est, inquit, praesentem amittere praedam,</l>
+        <l met="penta">stultius et rursum uota futura sequi.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P325"/>
+        <head type="sur">Avianus 21</head>
+        <head>[DE AGRICOLA ET AVE]</head>
+        <l met="hexa">Paruula progeniem terrae mandauerat ales,</l>
+        <l met="penta">qua stabat uiridi caespite flaua seges.</l>
+        <l met="hexa">Rusticus hanc fragili cupiens decerpere culmo,</l>
+        <l met="penta">uicinam supplex forte petebat opem.</l>
+        <l met="hexa">Sed uox implumes turbauit credula nidos</l>
+        <l met="penta">suaserat et laribus continuare fugam.</l>
+        <l met="hexa">Cautior hos remeans prohibet discedere mater :</l>
+        <l met="penta">Nam quid ab externis perficietur ? ait.</l>
+        <l met="hexa">Ille iterum caris operam mandauit amicis.</l>
+        <l met="penta">At genitrix rursum tutior inde manet.</l>
+        <l met="hexa">Sed postquam curuas dominum comprendere falces</l>
+        <l met="penta">frugibus et ueram sensit adesse manum :</l>
+        <l met="hexa">Nunc, ait, o miseri, dilecta relinquite rura,</l>
+        <l met="penta">cum spem de propriis uiribus ille petit.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P580"/>
+        <head type="sur">Avianus 22</head>
+        <head>[DE CVPIDO ET INVIDO]</head>
+        <l met="hexa">Iuppiter ambiguas hominum praediscere mentes</l>
+        <l met="penta">ad terras Phoebum misit ab arce poli.</l>
+        <l met="hexa">Tunc duo diuersis poscebant numina uotis :</l>
+        <l met="penta">namque alter cupidus, inuidus alter erat.</l>
+        <l met="hexa">His quoque se medium Titan, scrutatus utrumque,</l>
+        <l met="penta">obtulit, et, precibus ut peteretur, ait,</l>
+        <l met="hexa">praestandi facilis : Nunc quaeque rogauerit unus,</l>
+        <l met="penta">protinus haec alter congeminata feret.</l>
+        <l met="hexa">Sed cui longa iecur nequeat satiare cupido</l>
+        <l met="penta">distulit admotas in noua damna preces,</l>
+        <l met="hexa">spem sibi confidens alieno crescere uoto</l>
+        <l met="penta">seque ratus solum munera ferre duo.</l>
+        <l met="hexa">Ille ubi captantem socium sua praemia uidit,</l>
+        <l met="penta">supplicium proprii corporis optat ouans :</l>
+        <l met="hexa">nam petit extinctus ut lumine degeret uno,</l>
+        <l met="penta">alter ut, hoc duplicans, uiuat utroque carens.</l>
+        <l met="hexa">Tum sortem sapiens humanam risit Apollo,</l>
+        <l met="penta">inuidiaeque malum rettulit ipse Ioui,</l>
+        <l met="hexa">quae, dum prouentis aliorum gaudet iniquis,</l>
+        <l met="penta">laetior infelix et sua damna cupit.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P307"/>
+        <head type="sur">Avianus 23</head>
+        <head>[FABVLA DE VENDITORE BACCHI]</head>
+        <l met="hexa">Venditor insignem referens de marmore Bacchum</l>
+        <l met="penta">expositum pretio fecerat esse deum.</l>
+        <l met="hexa">Nobilis hunc quidam funesta in sede sepulcri</l>
+        <l met="penta">mercari cupiens compositurus erat ;</l>
+        <l met="hexa">alter adoratis ut ferret numina templis</l>
+        <l met="penta">redderet et sacro debita uota loco.</l>
+        <l met="hexa">Nunc, ait, ambiguum facies de mercibus omen,</l>
+        <l met="penta">cum spes in pretium munera dispar agit,</l>
+        <l met="hexa">et me defunctis seu malis tradere diuis,</l>
+        <l met="penta">siue decus busti, seu uelis esse deum.</l>
+        <l met="hexa">Subdita namque tibi est magni reuerentia fati,</l>
+        <l met="penta">atque eadem retines funera nostra manu.</l>
+        <l met="hexa" ana="epimythium">Conuenit hoc illis quibus est permissa potestas</l>
+        <l met="penta">an praestare magis, seu nocuisse uelint.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P284"/>
+        <head type="sur">Avianus 24</head>
+        <head>[DE VENATORE ET LEONE]</head>
+        <l met="hexa">Certamen longa protractum lite gerebant</l>
+        <l met="penta">uenator quondam nobilis atque leo.</l>
+        <l met="hexa">Hi cum perpetuum cuperent in iurgia finem,</l>
+        <l met="penta">edita continuo forte sepulcra uident.</l>
+        <l met="hexa">Illic docta manus flectentem colla leonem</l>
+        <l met="penta">fecerat in gremio procubuisse uiri.</l>
+        <l met="hexa">Scilicet affirmans pictura teste superbum</l>
+        <l met="penta">se fieri : extinctam nam docet esse feram.</l>
+        <l met="hexa">Ille, graues oculos ad inania signa retorquens,</l>
+        <l met="penta">infremit et rabido pectore uerba dedit :</l>
+        <l met="hexa">Irrita te generis subiit fiducia uestri,</l>
+        <l met="penta">artificis testem si cupis esse manum,</l>
+        <l met="hexa">Quod si nostra nouum caperet sollertia sensum,</l>
+        <l met="penta">sculperet ut docili pollice saxa leo,</l>
+        <l met="hexa">tunc hominem aspiceres oppressum murmure magno</l>
+        <l met="penta">conderet ut rabidis ultima fata genis.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P581"/>
+        <head type="sur">Avianus 25</head>
+        <head>[DE PVERO ET FVRE]</head>
+        <l met="hexa">Flens puer extremam putei consedit ad undam,</l>
+        <l met="penta">uana supervacuis rictibus ora trahens.</l>
+        <l met="hexa">Callidus hunc lacrimis postquam fur uidit obortis,</l>
+        <l met="penta">quaenam tristitiae sit modo causa rogat.</l>
+        <l met="hexa">Ille sibi abrupti fingens discrimina funis</l>
+        <l met="penta">atque auri queritur dissiluisse cadum.</l>
+        <l met="hexa">Nec mora, sollicitam traxit manus improba uestem :</l>
+        <l met="penta">exutus putei protinus ima petit.</l>
+        <l met="hexa">Paruulus exiguo circumdans pallia collo,</l>
+        <l met="penta">sentibus immersus delituisse datur.</l>
+        <l met="hexa">Sed post fallaci suscepta pericula uoto</l>
+        <l met="penta">tristior, amissa ueste, resedit humi.</l>
+        <l met="hexa">Dicitur his sollers uocem rupisse querelis</l>
+        <l met="penta">et gemitu summos sollicitasse deos :</l>
+        <l met="hexa">Perdita, quisquis erit, posthac bene pallia credat</l>
+        <l met="penta">qui putat in loquidis quoe natet urna uadis.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P157"/>
+        <head type="sur">Avianus 26</head>
+        <head>[DE CAPELLA ET LEONE]</head>
+        <l met="hexa">Viderat excelsa pascentem rupe capellam,</l>
+        <l met="penta">comminus esuriens cum leo ferret iter.</l>
+        <l met="hexa">Et prior : Heus, inquit, praeruptis ardua saxis</l>
+        <l met="penta">linque, nec hirsutis pascua quaere iugis ;</l>
+        <l met="hexa">sed cytisi croceum per prata uirentia florem</l>
+        <l met="penta">et glaucas salices et thyma grata pete.</l>
+        <l met="hexa">Illa gemens, desiste, precor, fallaciter, inquit,</l>
+        <l met="penta">securam placidis insimulare dolis.</l>
+        <l met="hexa">Vera licet moneas, maiora pericula tollas,</l>
+        <l met="penta">tu tamen his dictis non facis esse fidem.</l>
+        <l met="hexa">Nam quamuis rectis constet sententia uerbis,</l>
+        <l met="penta">suspectam hanc rabidus consiliator habet.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P390"/>
+        <head type="sur">Avianus 27</head>
+        <head>[DE CORNICE ET VRNA]</head>
+        <l met="hexa">Ingentem sitiens cornix aspexerat urnam,</l>
+        <l met="penta">quae minimam fundo continuisset aquam.</l>
+        <l met="hexa">Hanc enisa diu planis effundere campis,</l>
+        <l met="penta">scilicet ut nimiam pelleret inde sitim,</l>
+        <l met="hexa">postquam nulla uiam uirtus dedit, admouet omnes</l>
+        <l met="penta">indignata noua calliditate dolos.</l>
+        <l met="hexa">Nam breuis immersis accrescens sponte lapillis</l>
+        <l met="penta">potandi facilem praebuit unda uiam.</l>
+        <l met="hexa" ana="epimythium">Viribus haec docuit quam sit prudentia maior,</l>
+        <l met="penta">qua coeptum uolucris explicuisset opus.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P582"/>
+        <head type="sur">Avianus 28</head>
+        <head>[DE RVSTICO ET IVVENCO]</head>
+        <l met="hexa">Vincla recusanti dedignantique iuuenco</l>
+        <l met="penta">aspera mordaci subdere colla iugo</l>
+        <l met="hexa">rusticus obliqua succidens cornua falce</l>
+        <l met="penta">credidit insanum defremuisse pecus,</l>
+        <l met="hexa">cautus et immenso ceruicem innectit aratro</l>
+        <l met="penta">(namque erat hic cornu promptior atque pede),</l>
+        <l met="hexa">scilicet ut longus prohiberet uerbera temo</l>
+        <l met="penta">neue ictus faciles ungula saeua daret.</l>
+        <l met="hexa">Sed postquam irato detractans uincula collo</l>
+        <l met="penta">immeritam uacus calce fatigat humum,</l>
+        <l met="hexa">continuo euersam pedibus dispergit harenam,</l>
+        <l met="penta">quam ferus in domini ora sequentis agat.</l>
+        <l met="hexa">Tum sic informis squalentes puluere crines</l>
+        <l met="penta">discutiens, imo pectore uictus ait :</l>
+        <l met="hexa">Nimirum exemplum naturae derat iniquae,</l>
+        <l met="penta">qua fieri posset cum ratione nocens.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P35"/>
+        <head type="sur">Avianus 29</head>
+        <head>[DE VIATORE ET SATYRO]</head>
+        <l met="hexa">Horrida congestis cum staret bruma pruinis</l>
+        <l met="penta">cunctaque durato stringeret arua gelu,</l>
+        <l met="hexa">haesit in aduersa nimborum mole uiator :</l>
+        <l met="penta">perdita nam rohibet semita ferre gradum.</l>
+        <l met="hexa">Hunc nemorum custos fertur miseratus in antro</l>
+        <l met="penta">exceptum Satyrus continuisse suo.</l>
+        <l met="hexa">Quem simul aspiciens ruris miratur alumnus,</l>
+        <l met="penta">uimque homini tantam protinus esse pauet,</l>
+        <l met="hexa">Nam gelidos artus uitae ut reuocaret in usum,</l>
+        <l met="penta">afflatas calido soluerat ore manus.</l>
+        <l met="hexa">Sed cum depulso coepisset frigore laetus</l>
+        <l met="penta">hospitis eximia sedulitate frui</l>
+        <l met="hexa">(namque illi agrestem cupiens ostendere uitam,</l>
+        <l met="penta">siluarum referens optima quaeque dabat),</l>
+        <l met="hexa">obtulit et calido plenum cratera Lyaco,</l>
+        <l met="penta">laxet ut infusus frigida membra tepor.</l>
+        <l met="hexa">Hic ubi feruentem labris contingere testam</l>
+        <l met="penta">horruit, algenti rursus ab ore reflat.</l>
+        <l met="hexa">Obstupuit duplici monstro perterritus hospes,</l>
+        <l met="penta">et pulsum siluis longius ire iubet :</l>
+        <l met="hexa">Nolo, ait, ut nostris umquam successerit antris</l>
+        <l met="penta">tam diuersa duo qui simul ora ferat.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P583"/>
+        <head type="sur">Avianus 30</head>
+        <head>[DE HOMINE ET PORCO]</head>
+        <l met="hexa">Vastantem segetes et pinguia culta ruentem</l>
+        <l met="penta">liquerat abscisa rusticus aure suem,</l>
+        <l met="hexa">ut memor accepti referens monimenta doloris</l>
+        <l met="penta">ulterius teneris parceret ille satis.</l>
+        <l met="hexa">Rursus in excerpti deprensus crimine campi</l>
+        <l met="penta">perdidit indultae perfidus auris onus.</l>
+        <l met="hexa">Nec mora, praedictae segeti caput intulit horrens,</l>
+        <l met="penta">poena sed indignum congeminata facit.</l>
+        <l met="hexa">Tunc domini captum mensis dedit ille superbis,</l>
+        <l met="penta">in uarias epulas plurima frusta superbis,</l>
+        <l met="hexa">Sed cum consumpti dominus cor quaereret apri,</l>
+        <l met="penta">impatiens fertur quod rapuisse cocus,</l>
+        <l met="hexa">rusticus hoc iustam uerbo compescuit iram,</l>
+        <l met="penta">affirmans stultum non habuisse suem :</l>
+        <l met="hexa">Nam cur membrorum demens in damna redisset</l>
+        <l met="penta">atque uno totiens posset ab hoste capi ?</l>
+        <l met="hexa" ana="epimythium">Haec illos descripta monent, qui saepius ausi,</l>
+        <l met="penta">numquam peccatis abstinuere manus.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P353"/>
+        <head type="sur">Avianus 31</head>
+        <head>[DE MVRE ET BOVE]</head>
+        <l met="hexa">Ingentem fertur mus quondam paruus oberrans</l>
+        <l met="penta">ausus ab exiguo laedere dente bouem.</l>
+        <l met="hexa">Verum ubi mordaci confecit uulnera rostro,</l>
+        <l met="penta">tutus in amfractus conditur inde suos.</l>
+        <l met="hexa">Ille licet uasta toruum ceruice minetur,</l>
+        <l met="penta">non tamen iratus quem petat ipse uidet.</l>
+        <l met="hexa">Tunc indignantem iusto sermone fatigans,</l>
+        <l met="penta">distulit hostiles calliditate minas”</l>
+        <l met="hexa">Non quia magna tibi tribuerunt membra parentes,</l>
+        <l met="penta">uiribus effectum constituere tuis.</l>
+        <l met="hexa">Disce tamen breuibus quae sit fiducia rostris,</l>
+        <l met="penta">ut faciat quicquid paruula turba cupit.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P291"/>
+        <head type="sur">Avianus 32</head>
+        <head>[DE HOMINE ET PLAVSTRO]</head>
+        <l met="hexa" ana="epimythium">Haerentem luteo sub gurgite rusticus axem</l>
+        <l met="penta">liquerat et nexos ad iuga tarda boues,</l>
+        <l met="hexa">frustra depositis confidens numina uotis</l>
+        <l met="penta">ferre suis rebus, cum resideret, opem.</l>
+        <l met="hexa">Cui rector summis Tirynthius infit ab astris</l>
+        <l met="penta">(nam uocat hunc supplex in sua uota deum) :</l>
+        <l met="hexa">Perge laborantes stimulis agitare iuuencos,</l>
+        <l met="penta">et manibus pigras disce iuuare rotas.</l>
+        <l met="hexa">Tunc quoque congressum maioraque uiribus ausum</l>
+        <l met="penta">fas superos animis conciliare tuis.</l>
+        <l met="hexa">Desce tamen pigris non flecti numina uotis,</l>
+        <l met="penta">praesentesque adhibe, cum facis ipse, deos.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P87"/>
+        <head type="sur">Avianus 33</head>
+        <head>[DE ANSERE OVA AVREA PARIENTE]</head>
+        <l met="hexa">Anser erat cuidam pretioso germine feta</l>
+        <l met="penta">ouaque quae nidis aurea saeoe daret.</l>
+        <l met="hexa">Fixerat hanc uolucri legem natura superbae,</l>
+        <l met="penta">Ne liceat pariter munera ferre duo.</l>
+        <l met="hexa">Sed dominus, cupidum sperans uanescere uotum,</l>
+        <l met="penta">Non tulit exosas in sua lucra moras,</l>
+        <l met="hexa">Grande ratus pretium uolucris de morte referre,</l>
+        <l met="penta">Quae tam continuo munere diues erat.</l>
+        <l met="hexa">Postquam nuda minax egit per uiscera ferrum</l>
+        <l met="penta">Et vacuam solitis fetibus esse uidet,</l>
+        <l met="hexa">Ingemuit tantae deceptus scrimine fraudis</l>
+        <l met="penta">Nam poenam meritis rettulit inde suis.</l>
+        <l met="hexa" ana="epimythium">Sic qui cuncta deos uno male tempore poscunt,</l>
+        <l met="penta">Iustius his etiam uota diurna negant.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P373 ; cf. P112"/>
+        <head type="sur">Avianus 34</head>
+        <head>[DE FORMICA ET CICADA]</head>
+        <l met="hexa">Quisquis torpentem passus transisse iuuentam</l>
+        <l met="penta">nec timuit uitae prouidus ante mala</l>
+        <l met="hexa">confectus senio, confectus senio, postquam grauis affuit aetas,</l>
+        <l met="penta" ana="fin-de-promythium">heu frustra alterius saepe rogabit opem.</l>
+        <l met="hexa">Solibus ereptos hiemi formica labores</l>
+        <l met="penta">distulit et breuibus condidit ante cauis.</l>
+        <l met="hexa">Verum ubi candentes suscepit terra pruinas,</l>
+        <l met="penta">aruaque sub rigido delituere gelu,</l>
+        <l met="hexa">pigra nimis tanto non aequans corpore nimbos</l>
+        <l met="penta">In propriis laribus humida grana legit.</l>
+        <l met="hexa">Decolor hanc precibus supplex alimenta rogabat</l>
+        <l met="penta">Quae quondam querulo ruperat arua sono :</l>
+        <l met="hexa">Se quoque, maturas cum tunderet area messes,</l>
+        <l met="penta">Cantibus aestiuos explicuisse dies.</l>
+        <l met="hexa">Parvula tunc ridens sic est affata cicadam</l>
+        <l met="penta">(nam uitam pariter continuare solent) :</l>
+        <l met="hexa">Mi quoniam summo substantia parta labore est,</l>
+        <l met="penta">Frigoribus mediis otia longa traho.</l>
+        <l met="hexa">At tibi saltandi nunc ultima temora restant,</l>
+        <l met="penta">Cantibus est quoniam uita peracta prior.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P218"/>
+        <head type="sur">Avianus 35</head>
+        <head>[DE SIMIA ET NATIS]</head>
+        <l met="hexa">Fama est quod geminum profundens simia partum</l>
+        <l met="penta">diuidat in uarias pignora nata uices.</l>
+        <l met="hexa">Namque unum caro genitrix educit amore,</l>
+        <l met="penta">alterius odiis exsaturata tumet.</l>
+        <l met="hexa">Coeperit ut fetam grauior terrere tumultus,</l>
+        <l met="penta">dissimili natos condicione rapit :</l>
+        <l met="hexa">dilectum manibus uel pectore gestat amico,</l>
+        <l met="penta">contemptum dorso suscipiente leuat.</l>
+        <l met="hexa">Sed cum lassatis nequeat consistere plantis,</l>
+        <l met="penta">oppositum fugiens sponte remittit onus.</l>
+        <l met="hexa">Alter ab hirsuto circumdans brachia collo</l>
+        <l met="penta">haeret et inuita cum genitrice fugit.</l>
+        <l met="hexa">Mox quoque dilecti succedit in oscula fratris,</l>
+        <l met="penta">seruatus uetulis unicus heres auis.</l>
+        <l met="hexa" ana="epimythium">Sic multos neglecta iuuant atque, ordine uerso,</l>
+        <l met="penta">spes humiles rursus in meliora refert.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P300"/>
+        <head type="sur">Avianus 36</head>
+        <head>[DE VITVLO ET BOVE]</head>
+        <l met="hexa">Pulcher et intacta uitulus ceruice resultans</l>
+        <l met="penta">scindentem assidue uiderat arua bouem.</l>
+        <l met="hexa">Non pudet, heus, inquit, longaeuo uincula collo</l>
+        <l met="penta">ferre nec expositis otia nosse iugis,</l>
+        <l met="hexa">cum mihi subiectas pateat discursus in herbas,</l>
+        <l met="penta">et nemorum liceat rursus opaca sequi ?</l>
+        <l met="hexa">At senior, nullam uerbis compulsus in iram,</l>
+        <l met="penta">uertebat solitam uomere fessus humum,</l>
+        <l met="hexa">donec deposito per prata liceret aratro</l>
+        <l met="penta">molliter herboso procubuisse toro.</l>
+        <l met="hexa">Mox uitulum sacris innexum respicit aris</l>
+        <l met="penta">admotum cultro comminus ire popae.</l>
+        <l met="hexa">« Hanc tibi tristis, ait, dedit indulgentia mortem</l>
+        <l met="penta">expertem nostri quae facit esse iugi.</l>
+        <l met="hexa">Proderit ergo graues quamuis perferre labores</l>
+        <l met="penta">otia quam tenerum mox peritura pati.</l>
+        <l met="hexa" ana="epimythium">Est hominum sors ista, magis felicibus ut mors</l>
+        <l met="penta">sit cita, cum miseros uita diurna regat.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P346"/>
+        <head type="sur">Avianus 37</head>
+        <head>[DE CANE ET LEONE]</head>
+        <l met="hexa">Pinguior exhausto canis occurrisse leoni</l>
+        <l met="penta">fertur et insertis uerba dedisse iocis :</l>
+        <l met="hexa">Nonne uides duplici tendantur ut ilia tergo,</l>
+        <l met="penta">luxurietque toris nobile pectus ? ait.</l>
+        <l met="hexa">Proximus humanis ducor post otia mensis</l>
+        <l met="penta">communem capiens largius ore cibum.</l>
+        <l met="hexa">Sed quod crassa malum circumdat guttura ferrum ?</l>
+        <l met="penta">Ne custodita fas sit abire domo.</l>
+        <l met="hexa">At tu magna diu moribundus lustra pererras,</l>
+        <l met="penta">donec se siluis obuia  praeda ferat.</l>
+        <l met="hexa">Perge igitur nostris tua subdere colla catenis,</l>
+        <l met="penta">dum liceat faciles promeruisse dapes.</l>
+        <l met="hexa">Protinus ille grauem gemitu collectus in iram</l>
+        <l met="penta">atque ferox animi nobile murmur agit.</l>
+        <l met="hexa">Vade, ait, et meritis nodum ceruicibus inger,</l>
+        <l met="penta">compensentque tuam uincula dura famem.</l>
+        <l met="hexa">At mea cum uacuis libertas redditur antris,</l>
+        <l met="penta">quamuis ieiunus, quae libet arua peto.</l>
+        <l met="hexa">Has illis epulas potius laudare memento</l>
+        <l met="penta">qui libertatem postposuere gulae.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P584"/>
+        <head type="sur">Avianus 38</head>
+        <head>[DE PISCE EVNTE IN MARE]</head>
+        <l met="hexa">Dulcibus e stagnis fluuio torrente coactus</l>
+        <l met="penta">aequoreas praeceps piscis obibat aquas.</l>
+        <l met="hexa">Illic squamigerum despectans improbus agmen</l>
+        <l met="penta">eximium sese nobilitate refert.</l>
+        <l met="hexa">Non tulit expulsum patrio sub ugrgite phoecis,</l>
+        <l met="penta">uerbaque cum salibus asperiora dedit :</l>
+        <l met="hexa">Vana laboratis aufer mendacia dictis</l>
+        <l met="penta">quaeque refutari te quoque teste queant.</l>
+        <l met="hexa">Nam quis erit potior, populo spectante, probabo,</l>
+        <l met="penta">si pariter captos humida lina trahant.</l>
+        <l met="hexa">Tunc me nobilior magno mercabitur emptor,</l>
+        <l met="penta">te simul aere breui debile uulgus emet.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P370"/>
+        <head type="sur">Avianus 39</head>
+        <head>[DE MILITE ET LITVO]</head>
+        <l met="hexa">Vouerat attritus quondam per proelia miles</l>
+        <l met="penta">omnia suppositis ignibus arma dare</l>
+        <l met="hexa">uel quae uictori moriens sibi turba dedisset,</l>
+        <l met="penta">uel quicquid profugo posset ab hoste capi.</l>
+        <l met="hexa">Interea uotis foris affuit et memor arma</l>
+        <l met="penta">coeperat accenso singula ferre rogo.</l>
+        <l met="hexa">Tunc lituus rauco deflectens murmure culpam,</l>
+        <l met="penta">immeritum flammis se docet esse prius :</l>
+        <l met="hexa">Nulla tuos, inquit, petierunt tela lacertos</l>
+        <l met="penta">uiribus affirmes quae tamen acta meis.</l>
+        <l met="hexa">Sed tantum uentis et cantibus arma coegi,</l>
+        <l met="penta">hoc quoque summisso (testor et astra) sono.</l>
+        <l met="hexa">Ille resultantem flammis crepitantibus addens,</l>
+        <l met="penta">Nunc te maior, ait, poena dolorque rapit.</l>
+        <l met="hexa">Nam licet ipse nihil possis temptare nec ausis,</l>
+        <l met="penta">saeuior hoc, alios quod facis esse malos.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P12"/>
+        <head type="sur">Avianus 40</head>
+        <head>[DE PARDO ET VVLPE]</head>
+        <l met="hexa">Distinctus maculis et pulchro pectore pardus</l>
+        <l met="penta">inter consimiles ibat in arua feras.</l>
+        <l met="hexa">Sed quia nulla traues uariarent terga leones,</l>
+        <l met="penta">protinus his miserum credidit esse genus.</l>
+        <l met="hexa">Cetera sordenti damnans animalia uultu,</l>
+        <l met="penta">solus in exemplum nobilitatis erat.</l>
+        <l met="hexa">Hunc arguta nouo gaudentem uulpis amictu</l>
+        <l met="penta">corripit et uanas approbat esse notas :</l>
+        <l met="hexa">Vade, ait, et pictae nimium confide iuuentae,</l>
+        <l met="penta">dum mihi consilium pulchrius esse queat</l>
+        <l met="hexa">miremurque magis quos munera mentis adornant</l>
+        <l met="penta">quam qui corporeis enituere bonis.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P368"/>
+        <head type="sur">Avianus 41</head>
+        <head>[DE OLLA CRVDA A FLVVIO RAPTA]</head>
+        <l met="hexa">Impulsus uentis et pressa nube coactus</l>
+        <l met="penta">Ruperat hibernis se grauis imber aquis.</l>
+        <l met="hexa">Cumque per effusas stagnaret turbine terras,</l>
+        <l met="penta">Expositum campis fictile pressit opus</l>
+        <l met="hexa">(mobile namque lutum tepidus prius instruit aer,</l>
+        <l met="penta">Discat ut admoto rectius igne coqui).</l>
+        <l met="hexa">Tunc nimbus fragilis perquirit nomina testae.</l>
+        <l met="penta">Immemor illa sui : Amphora dicor, ait.</l>
+        <l met="hexa">Nunc me docta manus rapiente uolumina gyro</l>
+        <l met="penta">Molliter obliquum iussit habere latus.</l>
+        <l met="hexa">Hactenus hac, inquit, liceat constare figura :</l>
+        <l met="penta">Nam te subiectam diluet iumber aquis.</l>
+        <l met="hexa">Et simul accepto uiolentius amne fatiscens</l>
+        <l met="penta">Pronior in tenues uicta cucurrit aquas.</l>
+        <l met="hexa">Infelix, quae magna sibi cognomina sumens,</l>
+        <l met="penta">Ausa pharetratis nubibus ista loqui.</l>
+        <l met="hexa" ana="epimythium">Haec poterunt miseros posthac exempla monere</l>
+        <l met="penta">Subdita nobilibus ut sua fata gemant.</l>
+      </div>
+      <div>
+        <pb ed="perry" n="P261"/>
+        <head type="sur">Avianus 42</head>
+        <head>[DE LVPO ET HAEDO]</head>
+        <l met="hexa">Forte lupum melior cursu deluserat haedus</l>
+        <l met="penta">proxima uicinis dum petit arua casis.</l>
+        <l met="hexa">Inde fugam recto tendens in moenia cursu</l>
+        <l met="penta">inter lanigeros astitit ille greges.</l>
+        <l met="hexa">Impiger hunc raptor mediamque secutus in urbem</l>
+        <l met="penta">temptat compositis sollicitare dolis :</l>
+        <l met="hexa">Nonne uides, inquit, cunctis ut uictima templis</l>
+        <l met="penta">immitem regemens morte cruentet humum ?</l>
+        <l met="hexa">Quod nisi securo ualeas te reddere campo,</l>
+        <l met="penta">hei mihi ! uittata tu quoque fronte cadis,</l>
+        <l met="hexa">Ille refert : Modo quam metuis, precor, exime curam,</l>
+        <l met="penta">et tecum uiles, improbe, tolle minas.</l>
+        <l met="hexa">Nam sat erit sacrum diuis fudisse cruorem</l>
+        <l met="penta">quam rabido fauces exsaturare lupo.</l>
+        <l met="hexa">Sic quotiens duplici subeuntur tristia casu,</l>
+        <l met="penta">expedit insignem promeruisse necem.</l>
+      </div>
+    </body>
+  </text>
+</TEI>
