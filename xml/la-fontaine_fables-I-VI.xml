@@ -96,6 +96,7 @@
         <div>
           <figure><graphic url="la-fontaine_fables-I-VI-img/fable1.png"/></figure>
           <head type="sur" rend="uc">Fable I.</head>
+          <pb ed="perry" n="P112/373"/>
           <head>La Cigale et la Fourmy.</head>
           <l met="hepta"><hi rend="b">L</hi>a Cigale ayant chanté</l>
           <l met="tri">Tout l’Esté,</l>
@@ -123,6 +124,7 @@
         <div>
           <figure><graphic url="la-fontaine_fables-I-VI-img/fable2.png"/></figure>
           <head type="sur">II.</head>
+          <pb ed="perry" n="P124"/>
           <head>Le Corbeau et le Renard.</head>
           <l met="deca"><hi rend="b">M</hi>aistre Corbeau sur un arbre perché,</l>
           <l met="octo">Tenoit en son bec un fromage.</l>
@@ -146,6 +148,7 @@
         <div>
           <figure><graphic url="la-fontaine_fables-I-VI-img/fable3.png"/></figure>
           <head type="sur">III.</head>
+          <pb ed="perry" n="P376"/>
           <head>La Grenoüille qui se veut faire<lb/>aussi grosse que le Bœuf.</head>
           <l met="octo"><hi rend="b">U</hi>ne Grenoüille vid un Bœuf,</l>
           <l met="octo">Qui luy sembla de belle taille.</l>
@@ -165,6 +168,7 @@
         <div>
           <figure><graphic url="la-fontaine_fables-I-VI-img/fable4.png"/></figure>
           <head type="sur">IV.</head>
+          <pb ed="perry" n="P491"/>
           <head>Les deux Mulets.</head>
           <l met="alex"><hi rend="b">D</hi>eux Mulets cheminoient ; l’un d’avoine chargé :  </l>
           <l met="deca">L’autre portant l’argent de la Gabelle. </l>
@@ -189,6 +193,7 @@
         <div>
           <figure><graphic url="la-fontaine_fables-I-VI-img/fable5.png"/></figure>
           <head type="sur">V.</head>
+          <pb ed="perry" n="P346"/>
           <head>Le Loup et le Chien.</head>
           <l met="deca"><hi rend="b">U</hi>n Loup n’avoit que les os et la peau,  </l>
           <l met="octo">Tant les Chiens faisoient bonne garde. </l>
@@ -235,6 +240,7 @@
         <div>
           <figure><graphic url="la-fontaine_fables-I-VI-img/fable6.png"/></figure>
           <head type="sur">VI.</head>
+          <pb ed="perry" n="P339 ; cf. P149"/>
           <head>La Genisse, la Chevre et la Brebis en societé avec le Lion.</head>
           <l met="alex"><hi rend="b">L</hi>a Genisse, la Chevre, et leur sœur la Brebis,  </l>
           <l met="alex">Avec un fier Lion, Seigneur du voisinage, </l>
@@ -258,6 +264,7 @@
         <div>
           <figure><graphic url="la-fontaine_fables-I-VI-img/fable7.png"/></figure>
           <head type="sur">VII.</head>
+          <pb ed="perry" n="P266"/>
           <head>La Besace.</head>
           <l met="alex"><hi rend="b">J</hi>upiter dit un jour : Que tout ce qui respire </l>
           <l met="alex">S’en vienne comparoistre aux pieds de ma grandeur.</l>
@@ -298,6 +305,7 @@
         <div>
           <figure><graphic url="la-fontaine_fables-I-VI-img/fable8.png"/></figure>
           <head type="sur">VIII.</head>
+          <pb ed="perry" n="P39"/>
           <head>L’Hirondelle et les petits Oyseaux.</head>
           <l met="octo"><hi rend="b">U</hi>ne Hirondelle en ses voyages </l>
           <l met="alex">Avoit beaucoup appris. Quiconque a beaucoup veu, </l>
@@ -361,6 +369,7 @@
         <div>
           <figure><graphic url="la-fontaine_fables-I-VI-img/fable9.png"/></figure>
           <head type="sur">IX.</head>
+          <pb ed="perry" n="P352"/>
           <head>Le Rat de Ville, et le Rat des Champs.</head>
           <l met="hepta"><hi rend="b">A</hi>utrefois le Rat de ville  </l>
           <l met="hepta">Invita le Rat des champs,</l>
@@ -400,6 +409,7 @@
         <div>
           <figure><graphic url="la-fontaine_fables-I-VI-img/fable10.png"/></figure>
           <head type="sur">X.</head>
+          <pb ed="perry" n="P155"/>
           <head>Le Loup et l’Agneau.</head>
           <l met="alex"><hi rend="b">L</hi>a raison du plus fort est toûjours la meilleure. </l>
           <l met="octo">Nous l’allons montrer tout à l’heure. </l>
@@ -434,6 +444,7 @@
         <div>
           <figure><graphic url="la-fontaine_fables-I-VI-img/fable11.png"/></figure>
           <head type="sur">XI.</head>
+          <pb ed="perry" n="PØ"/>
           <head>L’homme, et son Image.</head>
           <head type="sub">Pour M. L. D. D. L. R.</head>
           <l met="alex"><hi rend="b">U</hi>n homme qui s’aimoit sans avoir de rivaux,  </l>
@@ -468,6 +479,7 @@
         <div>
           <figure><graphic url="la-fontaine_fables-I-VI-img/fable12.png"/></figure>
           <head type="sur">XII.</head>
+          <pb ed="perry" n="PØ"/>
           <head>Le Dragon à plusieurs testes, et le Dragon à plusieurs queuës.</head>
           <l met="octo"><hi rend="b">U</hi>n Envoyé du Grand seigneur  </l>
           <l met="alex">Preferoit, dit l’Histoire, un jour chez l’Empereur</l>
@@ -501,6 +513,7 @@
         <div>
           <figure><graphic url="la-fontaine_fables-I-VI-img/fable13.png"/></figure>
           <head type="sur">XIII.</head>
+          <pb ed="perry" n="Cf. P147"/>
           <head>Les Voleurs et l’Asne.</head>
           <l met="alex"><hi rend="b">P</hi>our un Asne enlevé deux voleurs se battoient :  </l>
           <l met="alex">L’un vouloit le garder ; l’autre le vouloit vendre. </l>
@@ -521,6 +534,7 @@
         <div>
           <figure><graphic url="la-fontaine_fables-I-VI-img/fable14.png"/></figure>
           <head type="sur">XIV.</head>
+          <pb ed="perry" n="P522"/>
           <head>Simonide préservé par les Dieux.</head>
           <l met="alex"><hi rend="b">O</hi>n ne peut trop loüer trois sortes de personnes ;  </l>
           <l met="octo">Les Dieux, sa Maistresse, et son Roy. </l>
@@ -594,10 +608,12 @@
         <div>
           <figure><graphic url="la-fontaine_fables-I-VI-img/fable15-16.png"/></figure>
           <head type="sur">XV.</head>
+          <pb ed="perry" n="P60"/>
           <head>La mort et le Malheureux.</head>
         </div>
         <div>
           <head type="sur">XVI.</head>
+          <pb ed="perry" n="P60"/>
           <head>La mort et le Buscheron.</head>
           <l met="deca"><hi rend="b">U</hi>n Malheureux appelloit tous les jours  </l>
           <l met="hexa">La mort à son secours. </l>
@@ -643,6 +659,7 @@
         <div>
           <figure><graphic url="la-fontaine_fables-I-VI-img/fable17.png"/></figure>
           <head type="sur">XVII.</head>
+          <pb ed="perry" n="P31"/>
           <head>L’Homme entre deux âges, et ses deux Maistresses.</head>
           <l met="hepta"><hi rend="b">U</hi>n homme de moyen âge,  </l>
           <l met="hepta">Et tirant sur le grison, </l>
@@ -679,6 +696,7 @@
         <div>
           <figure><graphic url="la-fontaine_fables-I-VI-img/fable18.png"/></figure>
           <head type="sur">XVIII.</head>
+          <pb ed="perry" n="P426"/>
           <head>Le Renard et la Cicogne.</head>
           <l met="alex"><hi rend="b">C</hi>ompere le Renard se mit un jour en frais,  </l>
           <l met="alex">Et retint à disner commere la Cicogne. </l>
@@ -712,6 +730,7 @@
         <div>
           <figure><graphic url="la-fontaine_fables-I-VI-img/fable19.png"/></figure>
           <head type="sur">XIX.</head>
+          <pb ed="perry" n="P211"/>
           <head>L’Enfant et le Maistre d’Ecole.</head>
           <l met="deca"><hi rend="b">D</hi>ans ce recit je pretens faire voir  </l>
           <l met="deca">D’un certain sot la remontrance vaine. </l>
@@ -744,6 +763,7 @@
         <div>
           <figure><graphic url="la-fontaine_fables-I-VI-img/fable20.png"/></figure>
           <head type="sur">XX.</head>
+          <pb ed="perry" n="P503"/>
           <head>Le Coq et la Perle.</head>
           <l met="hepta"><hi rend="b">U</hi>n jour un Coq détourna  </l>
           <l met="hepta">Une Perle qu’il donna </l>
@@ -761,6 +781,7 @@
         <div>
           <figure><graphic url="la-fontaine_fables-I-VI-img/fable21.png"/></figure>
           <head type="sur">XXI.</head>
+          <pb ed="perry" n="P504"/>
           <head>Les Frelons, et les Moûches à miel.</head>
           <l met="octo"><hi rend="b">À</hi>l’œuvre on connoist l’Artisan.  </l>
           <l met="alex">Quelques rayons de miel sans maistre se trouverent. </l>
@@ -804,6 +825,7 @@
         <div>
           <figure><graphic url="la-fontaine_fables-I-VI-img/fable22.png"/></figure>
           <head type="sur">XXII.</head>
+          <pb ed="perry" n="P70"/>
           <head>Le Chesne et le Rozeau.</head>
           <l met="octo"><hi rend="b">L</hi>e Chesne un jour dit au Rozeau :  </l>
           <l met="alex">Vous avez bien sujet d’accuser la Nature. </l>
@@ -844,6 +866,7 @@
         <head rend="uc">Livre deuxiéme.</head>
         <div>
           <head type="sur">FABLE I.</head>
+          <pb ed="perry" n="PØ"/>
           <head>Contre ceux qui ont le goust difficile.</head>
           <l met="alex"><hi rend="b">Q</hi>uand j’aurois, en naissant, receu de Calliope</l>
           <l met="alex">Les dons qu’à ses Amans cette Muse a promis,</l>
@@ -904,6 +927,7 @@
         </div>
         <div>
           <head type="sur">II.</head>
+          <pb ed="perry" n="P613"/>
           <head>Conseil tenu par les Rats.</head>
           <l met="octo"><hi rend="b">U</hi>n Chat nommé Rodilardus,</l>
           <l met="deca">Faisoit de Rats telle déconfiture,</l>
@@ -941,6 +965,7 @@
         </div>
         <div>
           <head type="sur">III.</head>
+          <pb ed="perry" n="P474"/>
           <head>Le Loup plaidant contre le Renard pardevant le Singe.</head>
           <l met="deca"><hi rend="b">U</hi>n Loup disoit que l’on l’avoit volé.</l>
           <l met="alex">Un Renard son voisin, d’assez mauvaise vie,</l>
@@ -964,6 +989,7 @@
         </div>
         <div>
           <head type="sur">IV.</head>
+          <pb ed="perry" n="P485"/>
           <head>Les deux Taureaux et une Grenoüille.</head>
           <l met="alex"><hi rend="b">D</hi>eux Taureaux combattoient à qui possederoit</l>
           <l met="octo">Une Genisse avec l’empire.</l>
@@ -988,6 +1014,7 @@
         </div>
         <div>
           <head type="sur">V.</head>
+          <pb ed="perry" n="P172"/>
           <head>La Chauvesouris et les deux Belettes.</head>
           <l met="alex"><hi rend="b">U</hi>ne Chauvesouris donna teste baissée</l>
           <l met="alex">Dans un nid de Belette ; et sitost qu’elle y fut,</l>
@@ -1027,6 +1054,7 @@
         </div>
         <div>
           <head type="sur">VI.</head>
+          <pb ed="perry" n="P276"/>
           <head>L’Oyseau blessé d’une fléche.</head>
           <l met="alex"><hi rend="b">M</hi>ortellement atteint d’une fléche empennée,</l>
           <l met="alex">Un Oyseau déploroit sa triste destinée.</l>
@@ -1041,6 +1069,7 @@
         </div>
         <div>
           <head type="sur">VII.</head>
+          <pb ed="perry" n="P480"/>
           <head>La Lice et sa Compagne.</head>
           <l met="octo"><lb/><hi rend="b">U</hi>ne Lice estant sur son terme,</l>
           <l met="alex">Et ne sçachant où mettre un fardeau si pressant,</l>
@@ -1066,6 +1095,7 @@
         </div>
         <div>
           <head type="sur">VIII.</head>
+          <pb ed="perry" n="P3"/>
           <head>L’Aigle et l’Escarbot.</head>
           <l met="alex"><hi rend="b">L</hi>’Aigle donnoit la chasse à Maître Jean Lapin,</l>
           <l met="alex">Qui droit à son terrier s’enfuyoit au plus vîte.</l>
@@ -1124,6 +1154,7 @@
         </div>
         <div>
           <head type="sur">IX.</head>
+          <pb ed="perry" n="P255"/>
           <head>Le Lion et le Moucheron.</head>
           <l met="alex"><hi rend="b">V</hi>a-t-en chetif insecte, excrement de la terre.</l>
           <l met="octo">C’est en ces mots que le Lion</l>
@@ -1167,6 +1198,7 @@
         </div>
         <div>
           <head type="sur">X.</head>
+          <pb ed="perry" n="P180"/>
           <head>L’Asne chargé d’éponges, et l’Asne chargé de sel.</head>
           <l met="hepta"><hi rend="b">U</hi>n Asnier, son Sceptre à la main,</l>
           <l met="hepta">Menoit en Empereur Romain</l>
@@ -1206,10 +1238,12 @@
         </div>
         <div>
           <head type="sur">XI.</head>
+          <pb ed="perry" n="P150"/>
           <head>Le Lion et le Rat.</head>
         </div>
         <div>
           <head type="sur">XII.</head>
+          <pb ed="perry" n="P235"/>
           <head>La Colombe et la Fourmy.</head>
           <l met="alex"><hi rend="b">I</hi>l faut autant qu’on peut obliger tout le monde.</l>
           <l met="alex">On a souvent besoin d’un plus petit que soy.</l>
@@ -1252,6 +1286,7 @@
         </div>
         <div>
           <head type="sur">XIII.</head>
+          <pb ed="perry" n="P40"/>
           <head>L’Astrologue qui se laisse tomber dans un puits.</head>
           <l met="deca"><hi rend="b">U</hi>n Astrologue un jour se laissa choir</l>
           <l met="deca">Au fonds d’un puits. On luy dit : Pauvre beste,</l>
@@ -1305,6 +1340,7 @@
         </div>
         <div>
           <head type="sur">XIV.</head>
+          <pb ed="perry" n="P138"/>
           <head>Le Lievre et les Grenoüilles.</head>
           <l met="hepta"><hi rend="b">U</hi>n Lievre en son giste songeoit,</l>
           <l met="alex">(Car que faire en un giste, à moins que l’on ne songe ?)</l>
@@ -1342,6 +1378,7 @@
         </div>
         <div>
           <head type="sur">XV.</head>
+          <pb ed="perry" n="P671"/>
           <head>Le Coq et le Renard.</head>
           <l met="alex"><hi rend="b">S</hi>ur la branche d’un arbre estoit en sentinelle</l>
           <l met="octo">Un vieux Coq adroit et matois.</l>
@@ -1378,6 +1415,7 @@
         </div>
         <div>
           <head type="sur">XVI.</head>
+          <pb ed="perry" n="P2"/>
           <head>Le Corbeau voulant imiter l’Aigle.</head>
           <l met="alex"><hi rend="b">L</hi>’Oyseau de Jupiter enlevant un Mouton,</l>
           <l met="octo">Un Corbeau témoin de l’affaire,</l>
@@ -1409,6 +1447,7 @@
         </div>
         <div>
           <head type="sur">XViI.</head>
+          <pb ed="perry" n="P509"/>
           <head>Le Paon se plaignant à Junon.</head>
           <l met="octo"><hi rend="b">L</hi>e Paon se plaignoit à Junon :</l>
           <l met="alex">Deesse, disoit-il, ce n’est pas sans raison</l>
@@ -1440,6 +1479,7 @@
         </div>
         <div>
           <head type="sur">XVIII.</head>
+          <pb ed="perry" n="P50"/>
           <head>La Chate metamorphosée en Femme.</head>
           <l met="alex"><hi rend="b">U</hi>n homme cherissoit éperdument sa Chate ;</l>
           <l met="alex">Il la trouvoit mignonne, et belle, et delicate ;</l>
@@ -1486,6 +1526,7 @@
         </div>
         <div>
           <head type="sur">XIX.</head>
+          <pb ed="perry" n="P151"/>
           <head>Le Lion et l’Asne chassant.</head>
           <l met="alex"><hi rend="b">L</hi>e Roy des animaux se mit un jour en teste</l>
           <l met="deca">De giboyer. Il celebroit sa feste.</l>
@@ -1517,6 +1558,7 @@
         </div>
         <div>
           <head type="sur">XX.</head>
+          <pb ed="perry" n="P512"/>
           <head>Testament expliqué par Esope.</head>
           <l met="octo"><hi rend="b">S</hi>i ce qu’on dit d’Esope est vray,</l>
           <l met="octo">C’estoit l’Oracle de la Grece :</l>
@@ -1617,6 +1659,7 @@
         <head rend="uc">Livre troisiéme.</head>
         <div>
           <head type="sur">FABLE I. </head>
+          <pb ed="perry" n="P"/>
           <head>Le Meusnier, son Fils, et l’Asne.</head>
           <head type="sub">A. M. D. M.</head>
           <l met="alex"><hi rend="b">L</hi>’Invention des Arts estant un droit d’aînesse,  </l>
@@ -1708,6 +1751,7 @@
         </div>
         <div>
           <head type="sur">II.</head>
+          <pb ed="perry" n="P"/>
           <head>Les Membres et l’Estomach.</head>
           <l met="octo"><hi rend="b">J</hi>e devois par la Royauté  </l>
           <l met="octo">Avoir commencé mon Ouvrage. </l>
@@ -1756,6 +1800,7 @@
         </div>
         <div>
           <head type="sur">III.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Loup devenu Berger.</head>
           <l met="alex"><hi rend="b">U</hi>n Loup qui commençoit d’avoir petite part </l>
           <l met="octo">Aux Brebis de son voisinage, </l>
@@ -1794,6 +1839,7 @@
         </div>
         <div>
           <head type="sur">IV.</head>
+          <pb ed="perry" n="P"/>
           <head>Les Grenoüilles qui demandent un Roy.</head>
           <l met="hepta"><hi rend="b">L</hi>es Grenoüilles se lassant  </l>
           <l met="hepta">De l’estat Democratique,</l>
@@ -1835,6 +1881,7 @@
         </div>
         <div>
           <head type="sur">V.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Renard et le Bouc.</head>
           <l met="alex"><hi rend="b">C</hi>apitaine Renard alloit de compagnie  </l>
           <l met="alex">Avec son amy Bouc des plus haut encornez. </l>
@@ -1870,6 +1917,7 @@
         </div>
         <div>
           <head type="sur">VI.</head>
+          <pb ed="perry" n="P"/>
           <head>L’Aigle, la Laye, et la Chate.</head>
           <l met="alex"><hi rend="b">L</hi>’Aigle avoit ses petits au haut d’un arbre creux  </l>
           <l met="deca">La Laye au pied, la Chate entre les deux : </l>
@@ -1919,6 +1967,7 @@
         </div>
         <div>
           <head type="sur">VII.</head>
+          <pb ed="perry" n="P"/>
           <head>L’Yvrogne et sa femme.</head>
           <l met="alex"><hi rend="b">C</hi>hacun a son défaut où toûjours il revient :  </l>
           <l met="octo">Honte ny peur n’y remedie. </l>
@@ -1951,6 +2000,7 @@
         </div>
         <div>
           <head type="sur">VIII.</head>
+          <pb ed="perry" n="P"/>
           <head>La Goute et l’Araignée.</head>
           <l met="alex"><hi rend="b">Q</hi>uand l’Enfer eut produit la Goute et l’Araignée,  </l>
           <l met="alex">Mes filles, leur dit-il, vous pouvez vous vanter, </l>
@@ -1999,6 +2049,7 @@
         </div>
         <div>
           <head type="sur">IX.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Loup et la Cicogne.</head>
           <l met="octo"><hi rend="b">L</hi>es Loups mangent gloutonnement.  </l>
           <l met="octo">Un Loup donc estant de frairie, </l>
@@ -2020,6 +2071,7 @@
         </div>
         <div>
           <head type="sur">X.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Lion abattu par l’Homme.</head>
           <l met="octo"><hi rend="b">O</hi>n exposoit une peinture, </l>
           <l met="octo"> Où l’Artisan avoit tracé </l>
@@ -2036,6 +2088,7 @@
         </div>
         <div>
           <head type="sur">XI.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Renard et les Raisins.</head>
           <l met="alex"><hi rend="b">C</hi>ertain Renard Gascon, d’autres disent Normant,  </l>
           <l met="alex">Mourant presque de faim, vid au haut d’une treille </l>
@@ -2048,6 +2101,7 @@
         </div>
         <div>
           <head type="sur">XII.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Cigne et le Cuisinier.</head>
           <l met="hepta"><hi rend="b">D</hi>ans une ménagerie  </l>
           <l met="hepta">De volatiles remplie </l>
@@ -2074,6 +2128,7 @@
         </div>
         <div>
           <head type="sur">XIII.</head>
+          <pb ed="perry" n="P"/>
           <head>Les Loups et les Brebis.</head>
           <l met="alex"><hi rend="b">A</hi>prés mille ans et plus de guerre declarée, </l>
           <l met="alex"> Les Loups firent la paix avecque les Brebis. </l>
@@ -2106,6 +2161,7 @@
         </div>
         <div>
           <head type="sur">XIV.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Lion devenu vieux.</head>
           <l met="octo"><hi rend="b">L</hi>e Lion, terreur des forests,  </l>
           <l met="alex">Chargé d’ans, et pleurant son antique proüesse, </l>
@@ -2122,6 +2178,7 @@
         </div>
         <div>
           <head type="sur">XV.</head>
+          <pb ed="perry" n="P"/>
           <head>Philomele et Progné.</head>
           <l met="octo"><hi rend="b">A</hi>utrefois Progné l’hirondelle  </l>
           <l met="octo">De sa demeure s’écarta ; </l>
@@ -2150,6 +2207,7 @@
         </div>
         <div>
           <head type="sur">XVI.</head>
+          <pb ed="perry" n="P"/>
           <head>La Femme noyée.</head>
           <l met="octo"><hi rend="b">J</hi>e ne suis pas de ceux qui disent,  </l>
           <l met="tri">Ce n’est rien ; </l>
@@ -2188,6 +2246,7 @@
         </div>
         <div>
           <head type="sur">XVII.</head>
+          <pb ed="perry" n="P"/>
           <head>La Belette entrée dans un Grenier.</head>
           <l met="alex"><hi rend="b">D</hi>amoiselle Belette au corps long et floüet,  </l>
           <l met="alex">Entra dans un Grenier par un trou fort étroit. </l>
@@ -2213,6 +2272,7 @@
         </div>
         <div>
           <head type="sur">XVIII.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Chat et un vieux Rat.</head>
           <l met="octo"><hi rend="b">J</hi>’ay lû chez un conteur de Fables,  </l>
           <l met="alex">Qu’un second Rodilard, l’Alexandre des Chats, </l>
@@ -2273,6 +2333,7 @@
         <head rend="uc">Livre quatriéme.</head>
         <div>
           <head type="sur">FABLE I.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Lion amoureux.</head>
           <head type="sub">A Mademoiselle de Sevigné.</head>
           <l met="octo"><hi rend="b">S</hi>evigné, de qui les attraits</l>
@@ -2345,6 +2406,7 @@
         </div>
         <div>
           <head type="sur">II.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Berger et la Mer.</head>
           <l met="alex"><hi rend="b">D</hi>u rapport d’un troupeau dont il vivoit sans soins</l>
           <l met="alex">Se contenta long-temps un voisin d’Amphitrite.</l>
@@ -2381,6 +2443,7 @@
         </div>
         <div>
           <head type="sur">III.</head>
+          <pb ed="perry" n="P"/>
           <head>La Moûche et la Fourmy.</head>
           <l met="alex"><hi rend="b">L</hi>a Moûche et la Fourmy contestoient de leur prix.</l>
           <l met="octo">O Jupiter ! dit la premiere,</l>
@@ -2437,6 +2500,7 @@
         </div>
         <div>
           <head type="sur">IV.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Jardinier et son Seigneur.</head>
           <l met="octo"><hi rend="b">U</hi>n amateur du jardinage,</l>
           <l met="octo">Demy Bourgeois, demy manant,</l>
@@ -2503,6 +2567,7 @@
         </div>
         <div>
           <head type="sur">V.</head>
+          <pb ed="perry" n="P"/>
           <head>L’Asne et le petit Chien.</head>
           <l met="octo"><hi rend="b">N</hi>e forçons point nostre talent ;</l>
           <l met="octo">Nous ne ferions rien avec grace.</l>
@@ -2536,6 +2601,7 @@
         </div>
         <div>
           <head type="sur">VI.</head>
+          <pb ed="perry" n="P"/>
           <head>Le combat des Rats et des Belettes.</head>
           <l met="hepta"><hi rend="b">L</hi>a nation des Belettes,</l>
           <l met="hepta">Non plus que celle des Chats,</l>
@@ -2596,6 +2662,7 @@
         </div>
         <div>
           <head type="sur">VII.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Singe et le Daufin.</head>
           <l met="octo"><hi rend="b">C</hi>’estoit chez les Grecs un usage,</l>
           <l met="octo">Que sur la mer tous voyageurs</l>
@@ -2644,6 +2711,7 @@
         </div>
         <div>
           <head type="sur">VIII.</head>
+          <pb ed="perry" n="P"/>
           <head>L’Homme et l’Idole de bois.</head>
           <l met="alex"><hi rend="b">C</hi>ertain Payen chez luy gardoit un Dieu de bois ;</l>
           <l met="alex">De ces Dieux qui sont sourds, bien qu’ayans des oreilles.</l>
@@ -2672,6 +2740,7 @@
         </div>
         <div>
           <head type="sur">IX.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Geay paré des plumes du Paon.</head>
           <l met="deca"><hi rend="b">U</hi>n Paon muoit ; un Geay prit son plumage ;</l>
           <l met="octo">Puis aprés se l’accommoda ;</l>
@@ -2690,6 +2759,7 @@
         </div>
         <div>
           <head type="sur">X.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Chameau, et les Bastons flotans.</head>
           <l met="octo"><hi rend="b">L</hi>e premier qui vid un Chameau</l>
           <l met="octo">S’enfuit à cet objet nouveau ;</l>
@@ -2713,6 +2783,7 @@
         </div>
         <div>
           <head type="sur">XI.</head>
+          <pb ed="perry" n="P"/>
           <head>La Grenoüille et le Rat.</head>
           <l met="alex"><hi rend="b">T</hi>el, comme dit Merlin, cuide en[g]eigner autruy,</l>
           <l met="octo">Qui souvent s’en[g]eigne soy-mesme.</l>
@@ -2763,6 +2834,7 @@
         </div>
         <div>
           <head type="sur">XII.</head>
+          <pb ed="perry" n="P"/>
           <head>Tribut envoyé par les Animaux à Alexandre.</head>
           <l met="alex"><hi rend="b">U</hi>ne Fable avoit cours parmi l’Antiquité :</l>
           <l met="deca">Et la raison ne m’en est pas connuë.</l>
@@ -2842,6 +2914,7 @@
         </div>
         <div>
           <head type="sur">XIII.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Cheval s’estant voulu vanger du Cerf.</head>
           <l met="alex"><hi rend="b">D</hi>e tout temps les Chevaux ne sont nez pour les hommes.</l>
           <l met="alex">Lors que le genre humain de glan se contentoit,</l>
@@ -2880,6 +2953,7 @@
         </div>
         <div>
           <head type="sur">XIV.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Renard et le Buste.</head>
           <l met="alex"><hi rend="b">L</hi>es Grands, pour la pluspart, sont masques de theatre.</l>
           <l met="alex">Leur apparence impose au vulgaire idolâtre.</l>
@@ -2896,10 +2970,12 @@
         </div>
         <div>
           <head type="sur">XV.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Loup, la Chevre, et le Chevreau.</head>
         </div>
         <div>
           <head type="sur">XVI.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Loup, la Mere et l’Enfant.</head>
           <l met="alex"><hi rend="b">L</hi>a Bique allant remplir sa traînante mammelle,</l>
           <l met="hepta">Et paistre l’herbe nouvelle,</l>
@@ -2969,6 +3045,7 @@
         </div>
         <div>
           <head type="sur">XVII.</head>
+          <pb ed="perry" n="P"/>
           <head>Parole de Socrate.</head>
           <l met="octo"><hi rend="b">S</hi>ocrate un jour faisant bâtir,</l>
           <l met="octo">Chacun censuroit son ouvrage.</l>
@@ -2987,6 +3064,7 @@
         </div>
         <div>
           <head type="sur">XVIII.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Vieillard et ses enfans.</head>
           <l met="alex"><hi rend="b">T</hi>oute puissance est foible, à moins que d’estre unie.</l>
           <l met="alex">Ecoutez là-dessus l’Esclave de Phrygie.</l>
@@ -3039,6 +3117,7 @@
         </div>
         <div>
           <head type="sur">XIX.</head>
+          <pb ed="perry" n="P"/>
           <head>L’Oracle et l’Impie.</head>
           <l met="alex"><hi rend="b">V</hi>ouloir tromper le Ciel, c’est folie à la Terre.</l>
           <l met="alex">Le Dedale des cœurs en ses détours n’enserre</l>
@@ -3063,6 +3142,7 @@
         </div>
         <div>
           <head type="sur">XX.</head>
+          <pb ed="perry" n="P"/>
           <head>L’Avare qui a perdu son tresor.</head>
           <l met="alex"><hi rend="b">L</hi>’Usage seulement fait la possession.</l>
           <l met="alex">Je demande à ces gens, de qui la passion</l>
@@ -3105,6 +3185,7 @@
         </div>
         <div>
           <head type="sur">XXI.</head>
+          <pb ed="perry" n="P"/>
           <head>L’œil du Maistre.</head>
           <l met="alex"><hi rend="b">U</hi>n Cerf s’estant sauvé dans une estable à bœufs,</l>
           <l met="octo">Fut d’abord averty par eux,</l>
@@ -3148,6 +3229,7 @@
         </div>
         <div>
           <head type="sur">XXII.</head>
+          <pb ed="perry" n="P"/>
           <head>L’Aloüette et ses petits, avec le Maistre d’un champ.</head>
           <l met="alex"><hi rend="b">N</hi>e t’attens qu’à toy seul, c’est un commun Proverbe.</l>
           <l met="octo">Voicy comme Esope le mit</l>
@@ -3223,6 +3305,7 @@
         <head rend="uc">Livre cinquiéme.</head>
         <div>
           <head type="sur">FABLE I.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Buscheron et Mercure.</head>
           <head type="sub">A.M.L.C.D.B.</head>
           <l met="alex"><hi rend="b">V</hi>ostre goust a servi de regle à mon Ouvrage.</l>
@@ -3299,6 +3382,7 @@
         </div>
         <div>
           <head type="sur">II.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Pot de terre et le Pot de fer.</head>
           <l met="hepta"><hi rend="b">L</hi>e Pot de fer proposa</l>
           <l met="hepta">Au Pot de terre un voyage.</l>
@@ -3334,6 +3418,7 @@
         </div>
         <div>
           <head type="sur">III.</head>
+          <pb ed="perry" n="P"/>
           <head>Le petit Poisson et le Pescheur</head>
           <l met="octo"><hi rend="b">P</hi>etit poisson deviendra grand,</l>
           <l met="octo">Pourveu que Dieu lui preste vie.</l>
@@ -3364,6 +3449,7 @@
         </div>
         <div>
           <head type="sur">IV.</head>
+          <pb ed="perry" n="P"/>
           <head>Les Oreilles du Liévre.</head>
           <l met="alex"><hi rend="b">U</hi>n animal cornu blessa de quelques coups</l>
           <l met="octo">Le Lion, qui plein de couroux,</l>
@@ -3390,6 +3476,7 @@
         </div>
         <div>
           <head type="sur">V.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Renard ayant la queuë coupée.</head>
           <l met="octo"><hi rend="b">U</hi>n vieux Renard, mais des plus fins,</l>
           <l met="alex">Grand croqueur de Poulets, grand preneur de Lapins ;</l>
@@ -3413,6 +3500,7 @@
         </div>
         <div>
           <head type="sur">VI.</head>
+          <pb ed="perry" n="P"/>
           <head>La Vieille et les deux Servantes.</head>
           <l met="alex"><hi rend="b">I</hi>l estoit une Vieille ayant deux Chambrieres.</l>
           <l met="alex">Elles filoient si bien, que les sœurs filandieres</l>
@@ -3448,6 +3536,7 @@
         </div>
         <div>
           <head type="sur">VII.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Satyre et le Passant.</head>
           <l met="hepta"><hi rend="b">A</hi>u fond d’un antre sauvage,</l>
           <l met="hepta">Un Satyre et ses enfans,</l>
@@ -3486,6 +3575,7 @@
         </div>
         <div>
           <head type="sur">VIII.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Cheval et le Loup.</head>
           <l met="octo"><hi rend="b">U</hi>n certain Loup, dans la saison</l>
           <l met="alex">Que les tiedes Zephirs ont l’herbe rajeunie,</l>
@@ -3526,6 +3616,7 @@
         </div>
         <div>
           <head type="sur">IX.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Laboureur et ses enfans.</head>
           <l met="octo"><hi rend="b">T</hi>ravaillez, prenez de la peine.</l>
           <l met="octo">C’est le fonds qui manque le moins.</l>
@@ -3548,6 +3639,7 @@
         </div>
         <div>
           <head type="sur">X.</head>
+          <pb ed="perry" n="P"/>
           <head>La Montagne qui accouche.</head>
           <l met="octo"><hi rend="b">U</hi>ne Montagne en mal d’enfant,</l>
           <l met="octo">Jettoit une clameur si haute,</l>
@@ -3567,6 +3659,7 @@
         </div>
         <div>
           <head type="sur">XI.</head>
+          <pb ed="perry" n="P"/>
           <head>La Fortune et le jeune Enfant.</head>
           <l met="octo"><hi rend="b">S</hi>ur le bord d’un puits trés-profond,</l>
           <l met="octo">Dormoit étendu de son long</l>
@@ -3594,6 +3687,7 @@
         </div>
         <div>
           <head type="sur">XII.</head>
+          <pb ed="perry" n="P"/>
           <head>Les Medecins.</head>
           <l met="alex"><hi rend="b">L</hi>e Medecin Tant-pis alloit voir un malade,</l>
           <l met="alex">Que visitoit aussi son confrere Tant-mieux,</l>
@@ -3608,6 +3702,7 @@
         </div>
         <div>
           <head type="sur">XIII.</head>
+          <pb ed="perry" n="P"/>
           <head>La Poule aux œufs d’or.</head>
           <l met="alex"><hi rend="b">L</hi>’Avarice perd tout en voulant tout gagner.</l>
           <l met="octo">Je ne veux, pour le témoigner,</l>
@@ -3624,6 +3719,7 @@
         </div>
         <div>
           <head type="sur">XIV.</head>
+          <pb ed="perry" n="P"/>
           <head>L’Asne portant des Reliques.</head>
           <l met="octo"><hi rend="b">U</hi>n Baudet, chargé de Reliques,</l>
           <l met="octo">S’imagina qu’on l’adoroit.</l>
@@ -3640,6 +3736,7 @@
         </div>
         <div>
           <head type="sur">XV.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Cerf et la Vigne.</head>
           <l met="alex"><hi rend="b">U</hi>n Cerf à la faveur d’une Vigne fort haute,</l>
           <l met="alex">Et telle qu’on en voit en de certains climats,</l>
@@ -3658,6 +3755,7 @@
         </div>
         <div>
           <head type="sur">XVI.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Serpent et la Lime.</head>
           <l met="alex"><hi rend="b">O</hi>n conte qu’un serpent voisin d’un Horloger,</l>
           <l met="alex">(C’estoit pour l’Horloger un mauvais voisinage)</l>
@@ -3682,6 +3780,7 @@
         </div>
         <div>
           <head type="sur">XVII.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Liévre et la Perdrix.</head>
           <l met="alex"><hi rend="b">I</hi>l ne se faut jamais moquer des miserables :</l>
           <l met="alex">Car qui peut s’asseurer d’estre toûjours heureux ?</l>
@@ -3712,6 +3811,7 @@
         </div>
         <div>
           <head type="sur">XVIII.</head>
+          <pb ed="perry" n="P"/>
           <head>L’Aigle et le Hibou.</head>
           <l met="alex"><hi rend="b">L</hi>’Aigle et le Chat-huant leurs querelles cesserent ;</l>
           <l met="octo">Et firent tant qu’ils s’embrasserent.</l>
@@ -3757,6 +3857,7 @@
         </div>
         <div>
           <head type="sur">XIX.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Lion s’en allant en guerre.</head>
           <l met="alex"><hi rend="b">L</hi>e Lion dans sa teste avoit une entreprise.</l>
           <l met="alex">Il tint conseil de guerre, envoya ses Prevosts ;</l>
@@ -3782,6 +3883,7 @@
         </div>
         <div>
           <head type="sur">XX.</head>
+          <pb ed="perry" n="P"/>
           <head>L’Ours et les deux Compagnons.</head>
           <l met="octo"><hi rend="b">D</hi>eux compagnons pressez d’argent,</l>
           <l met="octo">A leur voisin Fourreur vendirent</l>
@@ -3824,6 +3926,7 @@
         </div>
         <div>
           <head type="sur">XXI.</head>
+          <pb ed="perry" n="P"/>
           <head>L’Asne vestu de la peau du Lion.</head>
           <l met="alex"><hi rend="b">D</hi>e la peau du Lion l’Asne s’étant vestu,</l>
           <l met="octo">Estoit craint par tout à la ronde ;</l>
@@ -3848,10 +3951,12 @@
         <head rend="uc">Livre sixiéme.</head>
         <div>
           <head type="sur">FABLE I.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Pâtre et le Lion.</head>
         </div>
         <div>
           <head type="sur">II.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Lion et le Chasseur.</head>
           <l met="alex"><hi rend="b">L</hi>es Fables ne sont pas ce qu’elles semblent estre ;</l>
           <l met="alex">Le plus simple animal nous y tient lieu de Maistre.</l>
@@ -3918,6 +4023,7 @@
         </div>
         <div>
           <head type="sur">III.</head>
+          <pb ed="perry" n="P"/>
           <head>Phœbus et Borée.</head>
           <l met="alex"><hi rend="b">B</hi>orée et le Soleil virent un Voyageur</l>
           <l met="octo">Qui s’étoit muni par bonheur</l>
@@ -3962,6 +4068,7 @@
         </div>
         <div>
           <head type="sur">IV.</head>
+          <pb ed="perry" n="P"/>
           <head>Jupiter et le Métayer.</head>
           <l met="alex"><hi rend="b">J</hi>upiter eut jadis une ferme à donner.</l>
           <l met="alex">Mercure en fit l’annonce ; et gens se presenterent,</l>
@@ -3997,6 +4104,7 @@
         </div>
         <div>
           <head type="sur">V.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Cochet, le Chat et le Souriceau.</head>
           <l met="alex"><hi rend="b">U</hi>n Souriceau tout jeune, et qui n’avoit rien veu,</l>
           <l met="octo">Fut presque pris au dépourveu.</l>
@@ -4043,6 +4151,7 @@
         </div>
         <div>
           <head type="sur">VI.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Renard, le Singe, et les Animaux.</head>
           <l met="deca"><hi rend="b">L</hi>es Animaux, au deceds d’un Lion,</l>
           <l met="deca">En son vivant Prince de la contrée,</l>
@@ -4078,6 +4187,7 @@
         </div>
         <div>
           <head type="sur">VII.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Mulet se vantant de sa Genealogie.</head>
           <l met="alex"><hi rend="b">L</hi>e Mulet d’un Prelat se piquoit de noblesse,</l>
           <l met="octo">Et ne parloit incessamment</l>
@@ -4097,6 +4207,7 @@
         </div>
         <div>
           <head type="sur">VIII.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Vieillard et l’Asne.</head>
           <l met="alex"><hi rend="b">U</hi>n Vieillard sur son Asne apperçut en passant</l>
           <l met="octo">Un Pré plein d’herbe et fleurissant.</l>
@@ -4117,6 +4228,7 @@
         </div>
         <div>
           <head type="sur">IX.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Cerf se voyant dans l’eau</head>
           <l met="octo"><hi rend="b">D</hi>ans le crystal d’une fontaine</l>
           <l met="octo">Un Cerf se mirant autrefois,</l>
@@ -4146,6 +4258,7 @@
         </div>
         <div>
           <head type="sur">X.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Lievre et la Tortuë.</head>
           <l met="alex"><hi rend="b">R</hi>ien ne sert de courir ; il faut partir à point.</l>
           <l met="alex">Le Lievre et la Tortuë en sont un témoignage.</l>
@@ -4185,6 +4298,7 @@
         </div>
         <div>
           <head type="sur">XI.</head>
+          <pb ed="perry" n="P"/>
           <head>L’Asne et ses Maistres.</head>
           <l met="alex"><hi rend="b">L</hi>’Asne d’un Jardinier se plaignoit au destin</l>
           <l met="alex">De ce qu’on le faisoit lever devant l’Aurore.</l>
@@ -4220,6 +4334,7 @@
         </div>
         <div>
           <head type="sur">XII.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Soleil et les Grenoüilles.</head>
           <l met="alex"><hi rend="b">A</hi>ux noces d’un Tyran tout le peuple en liesse</l>
           <l met="octo">Noyoit son soucy dans les pots.</l>
@@ -4241,6 +4356,7 @@
         </div>
         <div>
           <head type="sur">XIII.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Villageois et le Serpent</head>
           <l met="octo"><hi rend="b">E</hi>sope conte qu’un Manant</l>
           <l met="octo">Charitable autant que peu sage,</l>
@@ -4274,6 +4390,7 @@
         </div>
         <div>
           <head type="sur">XIV.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Lion malade, et le Renard.</head>
           <l met="octo"><hi rend="b">D</hi>e par le Roy des Animaux</l>
           <l met="octo">Qui dans son antre estoit malade,</l>
@@ -4302,6 +4419,7 @@
         </div>
         <div>
           <head type="sur">XV.</head>
+          <pb ed="perry" n="P"/>
           <head>L’Oiseleur, l’Autour et l’Aloüette.</head>
           <l met="octo"><hi rend="b">L</hi>es injustices des pervers</l>
           <l met="octo">Servent souvent d’excuse aux nostres.</l>
@@ -4324,6 +4442,7 @@
         </div>
         <div>
           <head type="sur">XVI.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Cheval et l’Asne.</head>
           <l met="alex"><hi rend="b">E</hi>n ce monde il se faut l’un l’autre secourir.</l>
           <l met="octo">Si ton voisin vient à mourir,</l>
@@ -4344,6 +4463,7 @@
         </div>
         <div>
           <head type="sur">XVII.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Chien qui lâche sa proye pour l’ombre.</head>
           <l met="hepta"><hi rend="b">C</hi>hacun se trompe icy-bas.</l>
           <l met="hepta">On void courir aprés l’ombre</l>
@@ -4359,6 +4479,7 @@
         </div>
         <div>
           <head type="sur">XVIII.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Chartier embourbé.</head>
           <l met="deca"><hi rend="b">L</hi>e Phaëton d’une voiture à foin</l>
           <l met="alex">Vid son Char embourbé. Le pauvre homme estoit loin</l>
@@ -4396,6 +4517,7 @@
         </div>
         <div>
           <head type="sur">XIX.</head>
+          <pb ed="perry" n="P"/>
           <head>Le Charlatan.</head>
           <l met="alex"><hi rend="b">L</hi>e monde n’a jamais manqué de Charlatans.</l>
           <l met="octo">Cette science de tout temps</l>
@@ -4441,6 +4563,7 @@
         </div>
         <div>
           <head type="sur">XX.</head>
+          <pb ed="perry" n="P"/>
           <head>La Discorde.</head>
           <l met="alex"><hi rend="b">L</hi>a Deesse Discorde ayant broüillé les Dieux,</l>
           <l met="alex">Et fait un grand procès là-haut pour une pomme ;</l>
@@ -4475,6 +4598,7 @@
         </div>
         <div>
           <head type="sur">XXI.</head>
+          <pb ed="perry" n="P"/>
           <head>La jeune Veuve.</head>
           <l met="alex"><hi rend="b">L</hi>a perte d’un époux ne va point sans soupirs.</l>
           <l met="alex">On fait beaucoup de bruit, et puis on se console.</l>
