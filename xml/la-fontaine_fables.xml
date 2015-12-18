@@ -94,7 +94,7 @@
       <div>
         <head rend="uc">Livre premier.</head>
         <div type="poem">
-          <figure><graphic url="la-fontaine_fables-I-VI-img/fable1.png"/></figure>
+          <figure><graphic url="la-fontaine_fables/fable1.png"/></figure>
           <head type="sur" rend="uc">Fable I.</head>
           <pb ed="perry" n="P112/373"/>
           <head>La Cigale et la Fourmy.</head>
@@ -122,7 +122,7 @@
           <l met="hepta">Et bien, dansez maintenant.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="la-fontaine_fables-I-VI-img/fable2.png"/></figure>
+          <figure><graphic url="la-fontaine_fables/fable2.png"/></figure>
           <head type="sur">II.</head>
           <pb ed="perry" n="P124"/>
           <head>Le Corbeau et le Renard.</head>
@@ -146,7 +146,7 @@
           <l met="alex">Jura, mais un peu tard, qu’on ne l’y prendroit plus.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="la-fontaine_fables-I-VI-img/fable3.png"/></figure>
+          <figure><graphic url="la-fontaine_fables/fable3.png"/></figure>
           <head type="sur">III.</head>
           <pb ed="perry" n="P376"/>
           <head>La Grenoüille qui se veut faire<lb/>aussi grosse que le Bœuf.</head>
@@ -166,7 +166,7 @@
           <l met="octo">Tout Marquis veut avoir des Pages.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="la-fontaine_fables-I-VI-img/fable4.png"/></figure>
+          <figure><graphic url="la-fontaine_fables/fable4.png"/></figure>
           <head type="sur">IV.</head>
           <pb ed="perry" n="P491"/>
           <head>Les deux Mulets.</head>
@@ -191,7 +191,7 @@
           <l met="octo">Tu ne serois pas si malade.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="la-fontaine_fables-I-VI-img/fable5.png"/></figure>
+          <figure><graphic url="la-fontaine_fables/fable5.png"/></figure>
           <head type="sur">V.</head>
           <pb ed="perry" n="P346"/>
           <head>Le Loup et le Chien.</head>
@@ -238,7 +238,7 @@
           <l met="alex"> Cela dit, Maistre Loup s’enfuit, et court encor.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="la-fontaine_fables-I-VI-img/fable6.png"/></figure>
+          <figure><graphic url="la-fontaine_fables/fable6.png"/></figure>
           <head type="sur">VI.</head>
           <pb ed="perry" n="P339 ; cf. P149"/>
           <head>La Genisse, la Chevre et la Brebis en societé avec le Lion.</head>
@@ -262,7 +262,7 @@
           <l met="octo">Je l’étrangleray tout d’abord.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="la-fontaine_fables-I-VI-img/fable7.png"/></figure>
+          <figure><graphic url="la-fontaine_fables/fable7.png"/></figure>
           <head type="sur">VII.</head>
           <pb ed="perry" n="P266"/>
           <head>La Besace.</head>
@@ -303,7 +303,7 @@
           <l met="alex"> Et celle de devant pour les défauts d’autruy.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="la-fontaine_fables-I-VI-img/fable8.png"/></figure>
+          <figure><graphic url="la-fontaine_fables/fable8.png"/></figure>
           <head type="sur">VIII.</head>
           <pb ed="perry" n="P39"/>
           <head>L’Hirondelle et les petits Oyseaux.</head>
@@ -367,7 +367,7 @@
           <l met="alex"> Et ne croyons le mal que quand il est venu.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="la-fontaine_fables-I-VI-img/fable9.png"/></figure>
+          <figure><graphic url="la-fontaine_fables/fable9.png"/></figure>
           <head type="sur">IX.</head>
           <pb ed="perry" n="P352"/>
           <head>Le Rat de Ville, et le Rat des Champs.</head>
@@ -407,7 +407,7 @@
           <l met="hepta"> Que la crainte peut corrompre.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="la-fontaine_fables-I-VI-img/fable10.png"/></figure>
+          <figure><graphic url="la-fontaine_fables/fable10.png"/></figure>
           <head type="sur">X.</head>
           <pb ed="perry" n="P155"/>
           <head>Le Loup et l’Agneau.</head>
@@ -442,7 +442,7 @@
           <l met="octo">Sans autre forme de procés.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="la-fontaine_fables-I-VI-img/fable11.png"/></figure>
+          <figure><graphic url="la-fontaine_fables/fable11.png"/></figure>
           <head type="sur">XI.</head>
           <pb ed="perry" n="PØ"/>
           <head>L’homme, et son Image.</head>
@@ -477,7 +477,7 @@
           <l met="deca"> Que chacun sçait, le Livre des Maximes.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="la-fontaine_fables-I-VI-img/fable12.png"/></figure>
+          <figure><graphic url="la-fontaine_fables/fable12.png"/></figure>
           <head type="sur">XII.</head>
           <pb ed="perry" n="PØ"/>
           <head>Le Dragon à plusieurs testes, et le Dragon à plusieurs queuës.</head>
@@ -511,7 +511,7 @@
           <l met="octo">De vostre Empereur et du nostre.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="la-fontaine_fables-I-VI-img/fable13.png"/></figure>
+          <figure><graphic url="la-fontaine_fables/fable13.png"/></figure>
           <head type="sur">XIII.</head>
           <pb ed="perry" n="Cf. P147"/>
           <head>Les Voleurs et l’Asne.</head>
@@ -532,7 +532,7 @@
           <l met="octo">En se saisissant du Baudet.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="la-fontaine_fables-I-VI-img/fable14.png"/></figure>
+          <figure><graphic url="la-fontaine_fables/fable14.png"/></figure>
           <head type="sur">XIV.</head>
           <pb ed="perry" n="P522"/>
           <head>Simonide préservé par les Dieux.</head>
@@ -606,7 +606,7 @@
           <l met="octo">Estoient freres et bons amis.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="la-fontaine_fables-I-VI-img/fable15-16.png"/></figure>
+          <figure><graphic url="la-fontaine_fables/fable15-16.png"/></figure>
           <head type="sur">XV.</head>
           <pb ed="perry" n="P60"/>
           <head>La mort et le Malheureux.</head>
@@ -657,7 +657,7 @@
           <l met="hepta">C’est la devise des hommes.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="la-fontaine_fables-I-VI-img/fable17.png"/></figure>
+          <figure><graphic url="la-fontaine_fables/fable17.png"/></figure>
           <head type="sur">XVII.</head>
           <pb ed="perry" n="P31"/>
           <head>L’Homme entre deux âges, et ses deux Maistresses.</head>
@@ -694,7 +694,7 @@
           <l met="alex">Je vous suis obligé, Belles, de la leçon.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="la-fontaine_fables-I-VI-img/fable18.png"/></figure>
+          <figure><graphic url="la-fontaine_fables/fable18.png"/></figure>
           <head type="sur">XVIII.</head>
           <pb ed="perry" n="P426"/>
           <head>Le Renard et la Cicogne.</head>
@@ -728,7 +728,7 @@
           <l met="octo">Attendez-vous à la pareille.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="la-fontaine_fables-I-VI-img/fable19.png"/></figure>
+          <figure><graphic url="la-fontaine_fables/fable19.png"/></figure>
           <head type="sur">XIX.</head>
           <pb ed="perry" n="P211"/>
           <head>L’Enfant et le Maistre d’Ecole.</head>
@@ -761,7 +761,7 @@
           <l met="octo">Tu feras aprés ta harangue.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="la-fontaine_fables-I-VI-img/fable20.png"/></figure>
+          <figure><graphic url="la-fontaine_fables/fable20.png"/></figure>
           <head type="sur">XX.</head>
           <pb ed="perry" n="P503"/>
           <head>Le Coq et la Perle.</head>
@@ -779,7 +779,7 @@
           <l met="hepta">Seroit bien mieux mon affaire.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="la-fontaine_fables-I-VI-img/fable21.png"/></figure>
+          <figure><graphic url="la-fontaine_fables/fable21.png"/></figure>
           <head type="sur">XXI.</head>
           <pb ed="perry" n="P504"/>
           <head>Les Frelons, et les Moûches à miel.</head>
@@ -823,7 +823,7 @@
           <l met="octo">Les écailles pour les plaideurs.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="la-fontaine_fables-I-VI-img/fable22.png"/></figure>
+          <figure><graphic url="la-fontaine_fables/fable22.png"/></figure>
           <head type="sur">XXII.</head>
           <pb ed="perry" n="P70"/>
           <head>Le Chesne et le Rozeau.</head>
