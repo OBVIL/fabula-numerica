@@ -12,17 +12,17 @@
         <edition>OBVIL</edition>
         <respStmt>
           <name>Paul Thoen</name>
-          <resp>Transcription</resp>
+          <resp>transcription</resp>
         </respStmt>
         <respStmt>
           <name>Tiphaine Rolland</name>
-          <resp>Relecture, normalisation, stylage, indexation des motifs</resp>
+          <resp>relecture, normalisation, stylage, indexation des motifs</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2015"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/fabula-numerica/la-fontaine_fables-I-VI/</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/fabula-numerica/abstemius_hecatomythium/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -34,8 +34,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <!-- <p>Source. Cette édition électronique est fondée sur le texte des éditions originales des deux <hi rend="i">Hecatomythia</hi> :</p> -->
-        <bibl><title>Hecatomythium primum</title>. <ref target="http://gesamtkatalogderwiegendrucke.de/docs/GW00126.htm">Édition de référence</ref> : <hi rend="i">Fabulæ per latinissimum uirum Laurentium  Abstemium nuper composite</hi>, Venise, Giovanni Tacuino, 3 août 1495, in-4. <hi rend="i">GW</hi>, n° 126 ; <ref target="http://istc.bl.uk/search/search.html?operation=record&amp;rsid=247630&amp;q=5">ISTC n° ia00010000</ref>.  Exemplaire : <ref target="https://opacplus.bsb-muenchen.de/cgi-bin/redirect?app=webOPAC&amp;location=http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00045190-7">Munich, Bayerische Staatsbibliothek, [4 Inc.c.a. 1117]</ref>.</bibl>
+        <bibl><title>Hecatomythium primum</title>. Édition de référence : <hi rend="i">Fabulæ per latinissimum uirum Laurentium  Abstemium nuper composite</hi>, Venise, Giovanni Tacuino, 3 août 1495, in-4. <ref target="http://gesamtkatalogderwiegendrucke.de/docs/GW00126.htm"><hi rend="i">GW</hi>, n° 126</ref> ; <ref target="http://istc.bl.uk/search/search.html?operation=record&amp;rsid=247630&amp;q=5">ISTC n° ia00010000</ref>.  Exemplaire : <ref target="https://opacplus.bsb-muenchen.de/cgi-bin/redirect?app=webOPAC&amp;location=http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00045190-7">Munich, Bayerische Staatsbibliothek, [4 Inc.c.a. 1117]</ref>.</bibl>
         <bibl><title>Grunii Corococtæ Porcelli Testamentum Laurentii Abstemii Maceratensis Hecatomythium secundum eiusdem libellus de verbis communibus</title>, Fano, Gershom ben Mosheh  Soncino, 7 mai 1505, in-8°. Exemplaire : British Library, General Reference Collection 1080.f.1.(1.).</bibl>
       </sourceDesc>
     </fileDesc>
@@ -87,15 +86,15 @@
             <row>
               <cell>Date</cell>
               <cell>
-                <p rend="b">1495 pour la première partie.</p>
-                <p rend="b">1505 pour la deuxième partie.</p>
+                <p>1495 pour la première partie.</p>
+                <p>1505 pour la deuxième partie.</p>
               </cell>
             </row>
             <row>
               <cell>Dédicataire </cell>
               <cell>
-                <p rend="b">Première partie : Octavianus Ubaldinus, comte Mercatelli.</p>
-                <p rend="b">Deuxième partie : D. Angelus.</p>
+                <p>Première partie : Octavianus Ubaldinus, comte Mercatelli.</p>
+                <p>Deuxième partie : D. Angelus.</p>
               </cell>
             </row>
             <row>
@@ -105,25 +104,25 @@
             <row>
               <cell>Forme</cell>
               <cell>
-                <p rend="b">Prose.</p>
-                <p rend="b">Pièces liminaires ou conclusives parfois en hexamètres ou en distiques élégiaques. Le deux-centième apologue est écrit en trimètres iambiques.</p>
+                <p>Prose.</p>
+                <p>Pièces liminaires ou conclusives parfois en hexamètres ou en distiques élégiaques. Le deux-centième apologue est écrit en trimètres iambiques.</p>
               </cell>
             </row>
             <row>
               <cell>Contenu</cell>
               <cell>
-                <p rend="b">Première partie (1495) :</p>
-                <p><hi rend="b">1.</hi> Liminaires :<hi rend="b"> 1a.</hi> Epître de Dominicus Palladius Soranus à Pollion Vadius ; <hi rend="b">1b.</hi>  Epître d’Abstemius à Octavianus Ubaldus ; <hi rend="b">1c.</hi><hi rend="i"> Proemium</hi> d’Abstemius sur ses fables ; <hi rend="b">2.</hi> Cent fables en prose ; <hi rend="b">3.</hi> Pièces conclusives : <hi rend="b">3a.</hi> Deux quatrains en distiques élégiaques de Petrus Paulus Phantinus et Johannes Antracinus ; <hi rend="b">3b.</hi> Épître de Valla à Renaldus Fonaleda [<hi rend="i">sic</hi>, au lieu d’Arnaldo Fenolleda, secrétaire d’Alphonse V d’Aragon, dit Le Magnanime] ; <hi rend="b">4.</hi> Trente-trois fables en prose de Lorenzo Valla.</p>
+                <p>Première partie (1495) :</p>
+                <p>1. Liminaires : 1a. Epître de Dominicus Palladius Soranus à Pollion Vadius ; 1b.  Epître d’Abstemius à Octavianus Ubaldus ; 1c.<hi rend="i"> Proemium</hi> d’Abstemius sur ses fables ; 2. Cent fables en prose ; 3. Pièces conclusives : 3a. Deux quatrains en distiques élégiaques de Petrus Paulus Phantinus et Johannes Antracinus ; 3b. Épître de Valla à Renaldus Fonaleda [<hi rend="i">sic</hi>, au lieu d’Arnaldo Fenolleda, secrétaire d’Alphonse V d’Aragon, dit Le Magnanime] ; 4. Trente-trois fables en prose de Lorenzo Valla.</p>
                 <p/>
-                <p rend="b">Deuxième partie (1505) :</p>
-                <p><hi rend="b">1.</hi> Épître d’Abstemius à D. Angelus ; <hi rend="b">2.</hi> <hi rend="i">M. Grunii Corococtæ porcelli testamentum</hi> ; <hi rend="b">3.</hi> Quatre-vingt-dix-neuf fables en prose d’Abstemius ; <hi rend="b">4.</hi> Deux quatrains en distiques élégiaques d’Antonius Nicosantes et Ludovicus Palliolus Fanensis ; <hi rend="b">5.</hi> Traité d’Abstemius, <hi rend="i">De compluribus verbis communibus</hi> ; <hi rend="b">6.</hi> Centième apologue d’Abstemius en trimètres iambiques « De Gallo et vulpe ». <hi rend="b">7.</hi> Cent-unième apologue, attribué à Nicolas Abstemius, fils de l’auteur, « De Piro urbana et silvestri », en hexamètres.</p>
+                <p>Deuxième partie (1505) :</p>
+                <p>1. Épître d’Abstemius à D. Angelus ; 2. <hi rend="i">M. Grunii Corococtæ porcelli testamentum</hi> ; 3. Quatre-vingt-dix-neuf fables en prose d’Abstemius ; 4. Deux quatrains en distiques élégiaques d’Antonius Nicosantes et Ludovicus Palliolus Fanensis ; 5. Traité d’Abstemius, <hi rend="i">De compluribus verbis communibus</hi> ; 6. Centième apologue d’Abstemius en trimètres iambiques « De Gallo et vulpe ». 7. Cent-unième apologue, attribué à Nicolas Abstemius, fils de l’auteur, « De Piro urbana et silvestri », en hexamètres.</p>
               </cell>
             </row>
           </table>
         </div>
         <div>
           <head>Premières éditions</head>
-          <p>ASTEMIO, Lorenzo et VALLA, Lorenzo, <hi rend="i">Fabulæ per latinissimum uirum Laurentium Abstemium nuper composite. Fabulæ ex græco in latinum per Laurentium Vallam uirum clarissimum uersæ</hi>, Venise, Giovanni Tacuino, 1495 [3 août]. In-4, 30 f. <hi rend="i">G. W.</hi>, n° 126 <ref target="http://gesamtkatalogderwiegendrucke.de/docs/GW00126.htm">(http://gesamtkatalogderwiegendrucke.de/docs/GW00126.htm)</ref>. Notice ISTC n° ia00010000.</p>
+          <p>ASTEMIO, Lorenzo et VALLA, Lorenzo, <hi rend="i">Fabulæ per latinissimum uirum Laurentium Abstemium nuper composite. Fabulæ ex græco in latinum per Laurentium Vallam uirum clarissimum uersæ</hi>, Venise, Giovanni Tacuino, 1495 [3 août]. In-4, 30 f. <ref target="http://gesamtkatalogderwiegendrucke.de/docs/GW00126.htm"><hi rend="i">G. W.</hi>, n° 126</ref>. Notice ISTC n° ia00010000.</p>
           <p>Ex. :</p>
           <list type="ul">
             <item>Allemagne : Munich, Bayerische StaatsBibliothek <ref target="http://daten.digitale-sammlungen.de/bsb00045190/image_1">(en ligne)</ref> ; Augsburg UB, Inc. 606.</item>
@@ -133,7 +132,7 @@
             <item>États-Unis : Californie, Berkeley, <anchor xml:id="bib_items"/>f II8.V3 T2.1495a ; Harvard, Houghton Library, Houghton Inc 5437 (24.4) ; Connecticut, Yale University Library, 1972 243 ; Washington, Library of Congress, Incun. 1495 .A87) ; Boston Public Library, Q.405.143 ; Minneapolis, TC Wilson Library, Rare Books 019.05 As82.</item>
             <item>Italie : Bibl. Nazionale Centrale Di Firenze (Magl. L.5.19); Naples (cote à préciser) ; Parme, Biblioteca Palatina, Inc. Pal. 81. ; Piacenza (cote à préciser) ; Poppi (cote à préciser) ; Rovigo, Biblioteca dell’Accademia dei Concordi, Concordiana, Sec. XV, 10 ; Venise, Biblioteca nazionale Marciana, INC. V. 0708 et MISC 1379. 007 (deuxième exemplaire mutilé) ; Vatican, Biblioteca Apostolica Vaticana, Stamp.Ross.2188.</item>
           </list>
-          <p>Une autre version numérisée serait accessible (après identification) sur le site d’Early European Books ; <ref target="http://eeb.chadwyck.co.uk/">http://eeb.chadwyck.co.uk/</ref></p>
+          <p>Une autre version numérisée serait accessible (après identification) sur le site d’<ref target="http://eeb.chadwyck.co.uk/">Early European Books</ref>.</p>
           <p/>
           <p><hi rend="i">Grunii Corococtæ Porcelli Testamentum Laurentii Abstemii Maceratensis Hecatomythium secundum eiusdem libellus de verbis communibus</hi>, Fano, Gershom ben Mosheh Soncino, 1505 (7 mai).</p>
           <p>Ex : British Library, General Reference Collection 1080.f.1.(1.) (exemplaire de Giovanni Bembo) ; Pays-Bas, Koninklijke Bibliotheek, KW 232 J 35 ; Harvard, Houghton Library, Houghton *IC.Ab893.505h ; Californie, University of California, Z233.I8 G92t 1505 ; New York, Pierpont Morgan Library, 075650.</p>
@@ -141,125 +140,125 @@
         </div>
         <div>
           <head>Éditions modernes</head>
-          <quote rend="border">
+          <quote>
             <p>NB : cette liste d’éditions s’appuie d’abord sur le relevé bibliographique effectué par P. Thoen dans son mémoire de licence sur Abstemius, p. 66-120.</p>
             <p>Lorsque les fables d’Abstemius sont incluses dans une édition de l’<hi rend="i">Æsopus Dorpii</hi>, l’identification de cette dernière au sein de la très large diffusion de cette collection s’appuie sur l’article de P. Thoen, « <hi rend="i">Æsopus Dorpii</hi> : Essai sur l’Ésope latin des temps modernes », <hi rend="i">Humanistica Lovaniensia</hi>, XIX, 1970, p. 241‑316.</p>
             <p>La présentation des éditions privilégie l’ordre chronologique. Pour une étude détaillée des groupes d’éditions de l’<hi rend="i">Æsopus Dorpii</hi>, se reporter à l’article de P. Thoen précédemment cité.</p>
           </quote>
-          <p><hi rend="u">Éditions ne comprenant que la première partie de l’<hi rend="i">Hecatomythium</hi></hi> :</p>
-          <p/>
-          <p>1495 : voir <hi rend="i">supra</hi>.</p>
-          <p/>
-          <p>1499 (date indiquée : 1399) – <hi rend="i">Fabulæ per latinissimum uirum Laurentium Abstemium nuper composite. Fabulæ ex græco in latinum per Laurentium Vallam uirum clarissimum uersæ</hi>, Venise, Giovanni Tacuino. Ne contient que la première partie (contrairement à ce qu’on affirme souvent au sujet de l’histoire du texte, la deuxième partie ne sera publiée qu’en 1505). Deux émissions, la première étant très fautive. <hi rend="i">G. W.</hi>, n° 127 <ref target="http://gesamtkatalogderwiegendrucke.de/docs/GW00127.htm">(http://gesamtkatalogderwiegendrucke.de/docs/GW00127.htm)</ref> et n° 128 <ref target="http://gesamtkatalogderwiegendrucke.de/docs/GW00128.htm">(http://gesamtkatalogderwiegendrucke.de/docs/GW00128.htm)</ref>. Notice <ref target="http://istc.bl.uk/search/search.html?operation=record&amp;rsid=247630&amp;q=6">ISTC</ref> n° ia00011000.</p>
-          <p>Ex. : Munich, Bayerische StaatsBibliothek <ref target="http://daten.digitale-sammlungen.de/bsb00045277/image_1">(en ligne)</ref> ; Venise, Biblioteca nazionale Marciana, INC. V. 0725 ; New York, Pierpont Morgan Library, ChL968.</p>
-          <p>Ex. de l’édition datée du 1er juin 1499 : Wolfenbüttel <ref target="http://diglib.hab.de/inkunabeln/171-28-quod-9/start.htm">(en ligne)</ref> ; Manchester, JRL 15710 ; Rome, Biblioteca dell’Accademia Nazionale dei Lincei e Corsiniana, 50.E.12 ; Vatican, Biblioteca Apostolica Vaticana, Inc.IV.135(3) et Stamp.Ross.835 ; Vienne, ÖNB, Ink 25.G.36.</p>
-          <p/>
-          <p>1513 – <hi rend="i">(Abstemii) Fabulæ elegantissimæ per Gargetium emaculatæ. Item Fabulæ ex Græco in Latinum per Lau. Vallam versæ</hi>, Parme, Ugoleto. Ne présente que la première partie. Première édition indiquant « <hi rend="i">Per Gargetium emaculatæ</hi> » (personnage non identifié à ce jour).</p>
-          <p>Ex. : Berlin, StaatsBibliothek, an: Inc. 1232.5 ; Danemark, Det Kongelige Bibliotek ; Bibliothèque universitaire de Bologne, CER 475 ; Bibliothèque municipale « A. Panizzi », Reggio Emilia, CER 333.</p>
-          <p/>
-          <p>1519 (août) - <hi rend="i">Fabularum quæ hoc libro continentur interpretes atque autores sunt hi, Guilielmus Goudanus. Hadrianus Barlandus. Erasmus Roterodamus. Aulus Gellius. Angelus Politianus. Petrus Crinitus. Ioannes Antonius Campanus. Plinius Secundus Novocomensis. Nicolaus Gerbellius Phorcensis. Laurentius Abstemius. Laurentius Valla. Æsopi Vita ex Max. Planude excerpta, &amp; aucta</hi>..., Strasbourg, Matthias et Lazarus Schürer. Première insertion du premier <hi rend="i">Hecatomythium</hi> dans la collection dite « Dorpius » (Thoen – n° 24, à l’origine du groupe B-γ), sans doute à partir de l’édition de Parme de 1513 (mention de Gargetius) ; version très largement diffusée.</p>
-          <p>Ex. : Halle-Wittenberg, Universitäts- und Landesbibliothek, 80 L 1016 (3) <ref target="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-473451">(en ligne)</ref></p>
-          <p>Version très diffusée :</p>
-          <list type="ul">
-            <item>à Strasbourg : Schürer, 1519 (Thoen – n° 24) ; Johann Knoblouch pour Paulus Götz, 1520 (Thoen – n° 26) ; Johann Knoblouch et Paulus Götz, 1521 <ref target="http://digitale.bibliothek.uni-halle.de/vd16/content/titleinfo/999349">(en ligne)</ref> (Thoen – n° 30) ; Hulderichus Morardus, février 1521 (Thoen – n° 32) ; Knoblouch, 1522 (Thoen – n° 34) ; <hi rend="i">idem</hi>, 1522 – erreur sur « Guodanus » (Thoen – n° 35) ; <hi rend="i">idem</hi>, 19 juin 1523 (Thoen – n° 37) ; <hi rend="i">idem</hi>, 1<hi rend="sup">er</hi> décembre 1523 (Thoen – n° 38) ; J. Prüss, 1523 (Thoen – n° 40) ; Ægenolphus pour Paulus Götz, 1529 (Thoen – n° 49).</item>
-            <item>à Leipzig : Nicolaus Faber, 1530 (Thoen – n° 54) ; Nicolaus Faber ou Schmidt, 1532 <ref target="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-494914-p0001-0">(en ligne)</ref> (Thoen – n° 57) ; Nicolaus Faber ou Schmidt, 1535 (Thoen – n° 68) ; <hi rend="i">idem</hi>, 1536 (Thoen – n° 73) ; <hi rend="i">idem</hi>, 1543 (Thoen – n° 96) ; <hi rend="i">idem</hi>, 1544 (Thoen – n° 100) ; Laurentius Faber, 1557 (Thoen – n° 126) ; Faber / Schmidt, v. 1555, trois éditions légèrement différentes (Thoen – n° 120-122) ; Faber, sans date, (<hi rend="i">circa</hi> 1540 selon Thoen – n° 90).</item>
-            <item>autres lieux d’impression : Louvain, Thierry Martens, janvier 1520, sans les pièces accessoires (Thoen – n° 25) ; Vienne, Joannes Singrenius, 1520 (Thoen – n° 27) ; Cologne, Servatius Cruphtanus, juillet 1522 (Thoen – n° 36) ; Bâle, s.n., 1524 (Thoen – n° 41) ; Anvers, Michael Hillen van Hoochstraeten, 1524 (Thoen – n° 42) ; Venise, Gregorius de Gregoriis pour Laurentius Lorius et Baptista de Putellettis (Thoen – n° 43) ; Mayence, Joannes Schoeffer, août 1530 (Thoen – n° 53) ; Venise, N. Pasinus et Bindonus, 1534 (Thoen – n° 61) ; Erfurt, M. de Dolge, 1543 (Thoen – n° 97) ; Prague, Georgius Nigrinus, 1581 (Thoen – n° 144) ; Magdebourg, s.n., 1585 (Thoen – n° 147) ; Magdbebourg, Paulus Donatus pour Ambrosius Kirchner, 1588 (Thoen – n° 152) ; Haguenau, Thomas Anshelm, s.d. (<hi rend="i">circa</hi> 1521 selon Thoen – n° 29) ; Cologne, Alopecius pour Hittorpius, s.d. (Thoen – n° 39) ; Francfort-sur-l’O., Oder Johannes Eichhorn, s.d <ref target="http://nbn-resolving.org/urn:nbn:de:gbv:3:1-144430">(en ligne)</ref> (entre 1567 et 1583 d’après Thoen – n° 145) ; <hi rend="i">idem</hi>, s.d. (après 1583 d’après Thoen – n° 146).</item>
-            <item>s. l., s.n. (Ivo Schoëffer?), s.d. (peut-être 1531-1556 selon Thoen, n° 124) ; s.l., s.n., s.d. (<num>xvi<hi rend="sup">e</hi></num> siècle selon Thoen – n° 127).</item>
-          </list>
-          <p>1521 (28 novembre) – <hi rend="i">Æsopi Phrigii Fabulæ, Ac Diversorum Elegantissimorum Authorum Apologi quorum nomina presens pagina demonstrat. Asopi vita, &amp; alia quædam cognitu dignissima. Petri Ægidii Antverpiani Endecasyllabon, ad Lectores. Guilielmus Goudanus Hadrianus Bal. Erasmus Roterodamus. Aulus Gellius Laurentius Valla. Angelus Politianus Petrus Crinitus Ioannes Antonius Campanus. Plinius secundus Novocomensis. Nicolaus Gerbelius Phorcensis. Laurentius Abstemius. Rimicius. Additiones novæ. Annonii Monachi Fabula lepedissima. Baptiste Mantuani Apologi duo, carmine Erasmi Roterodami Scarabeus, &amp; pleraque alia, hactenus nusquam gentium impressa</hi>, Symon Cock et Gerhardus Nicolaus pour Franciscus Bryckman (Thoen – n° 33, correspondant au groupe B-II). Les pages consacrées aux fables d’Abstemius s’ouvrent sur la mention des corrections de Gargetius.</p>
-          <p/>
-          <p>1527 (février) - <hi rend="i">Æsopi Phrygis et vita ex Maximo Planude desumpta, et fabellæ jucundissimæ, quarum interpretes hi sunt : Guilielmus Goudanus. Hadrianus Barlandus. Erasmus Rot. A. Gellius. Lauren. Val. Angelus Poli. Petrus Crinitus. Ioannes Antonius Campanus. Plinius Secundus Novocomen. Anianus. Guilielmus Hermannus. Nicolaus Gerbellius Phorcensis. Lauren. Abstemius. Rimicius. Index omnes fabula indicabit</hi>, Anvers, Michael Hillen van Hoochstraeten (Thoen – n° 44, à l’origine du groupe B-V-β). Même contenu que les éditions dorpiennes précédentes, mais distinction entre Guilelmus Goudanus et Guilelmus Hermannus.</p>
-          <p>Se rattachent à cette édition : réimpression s. l., s.n., s.d. (peut-être avant 1529 selon Thoen – n° 48) ; Anvers, Martinus de Keyser, 1529 (Thoen – n° 50, à l’origine du groupe B-V-γ) ; Anvers, <hi rend="i">idem</hi>, 1530 (Thoen – n° 55) ; Anvers, Michael Hillen van Hoochstraeten, mars 1534 (Thoen – n° 62) ; Londres, Wynkyn de Worde, 1535, disponible sur <ref target="http://eebo.chadwyck.com/home">Early English Books Online</ref> (Thoen – n° 69) ; Anvers, Michael Hillen van Hoochstraeten, 1536 (Thoen – n° 74) ; Anvers, Michael Hillen van Hoochstraeten, 1538 – disponible <ref target="http://zaguan.unizar.es/record/3718">en ligne</ref> sur le site de l’université de Zaragoza (Thoen – n° 81) ; Solingen, Joannes Soter, 1538 (Thoen – n° 82) ; peut-être Londres, Thomas Marsh, 1580 (Thoen – n° 142).</p>
-          <p/>
-          <p>1528 - <hi rend="i">Æsopi phrygis fabulæ, quarum interpretes hi sunt : Anianus, Guilelmus Hermannus, Rinicius iam denuo additus, Laurentius Valla et Laurentius Abstemius. Item uita Æsopi ex Max. Planude. Index omnes fabulas indicabit</hi>, Cygneæ / Zickau, Gabriel Kantz <ref target="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-325507">(en ligne)</ref> ; Nuremberg, J. Petreius (Thoen – n° 46-47 ; à l’origine du groupe B-III).</p>
-          <p>Se rattachent à cette édition : Nuremberg, Jo. Petreius, 1531 (Thoen – n° 56) ; <hi rend="i">idem</hi>, 1532  (Thoen – n° 58) ; <hi rend="i">idem</hi>, 1533 (Thoen – n° 60) ; Augsbourg, Weyssenhorn, 1534 (Thoen – n° 66) ; <hi rend="i">idem</hi>, 1538 (Thoen – n° 83) ; Ingolstadt, Weyssenhorn, 1542 (Thoen – n° 94) ; Augsbourg, Valentinus Otmar, 1545 (Thoen – n° 102) ; Ingolstadt, Weyssenhorn, 1545 <ref target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00015254-2">(en ligne)</ref> (Thoen – n° 103) ; Augsbourg, Zimmermam, 1553 (Thoen – n° 116) ; Augsbourg, Otmar, 1559 (Thoen – n° 128) ; <hi rend="i">idem</hi>, 1562 (Thoen – n° 132) ; Augsbourg, Francus, 1568 <ref target="http://reader.digitale-sammlungen.de/en/fs1/object/display/bsb10169554_00005.html">(en ligne)</ref> (Thoen – n° 139).</p>
-          <p/>
-          <p>1529 (26 août) - <hi rend="i">Æsopi Phrygis vita et fabulæ a viris doctissimis in Latinam linguam versæ, inter quos L. Valla, A. Gellius, D. Erasmus aliique, quorun nomina ignorantur. Fabellæ tres ex Politiano, Petro Crinito, Baptista Mantuano. Fabulæ item Lau. Abstemii</hi>, Paris, Robert Estienne (Thoen – n° 51, à l’origine de la branche C-I-β). Ajout d’Abstemius par rapport à la première édition du 17 juillet 1529.</p>
-          <p>Se rattachent à cette édition : Paris, Robert Estienne, 1534 (Thoen – n° 63) ; Paris, Antoine Bonnemere, 1535 (Thoen – n° 70) ; <hi rend="i">idem</hi>, 1536 (Thoen – n° 78) ; Paris, Robert Estienne, 1537 <ref target="https://archive.org/details/AesopiPhrygisVitaEtFabulaeAVirisD">(en ligne)</ref> (Thoen – n° 79) ; Paris, Robert Estienne, 14 février 1545 (Thoen – n° 101) ;<hi rend="i"> idem</hi>, 1546 (Thoen – n° 107) ; Paris, Robert Estienne, 1548 (Thoen – n° 110).</p>
-          <p/>
-          <p>1621 - <hi rend="i">Æsopi Phrygis fabulæ iam recenter ex collatione optimorum exemplarium emendatius excusæ, cum nonnullis eiusdam &amp; Poggii fabulis adiectis. Et indice correctiori adiuncto</hi>, Londres, Felix Kingston pour Societas Stationariorum (Thoen – n° 156 ; branche B-V-δ, formée à partir du groupe B-V-γ de l’édition anversoise).</p>
-          <p>Se rattachent à cette édition : Londres, Societas Stationariorum, 1623 (Thoen – n° 157) ; Cambridge, Ex Academiæ Typographeo, 1633 (Thoen – n° 158) ; Cambridge, Ex Academiæ Typographeo, 1635 (Thoen – n° 159) ; Cambridge, Ex Academiæ Typographeo, 1655 (Thoen – n° 162) ; Cambridge, Joann. Field, 1662 ; Cambridge, Joannes Field, 1667 (Thoen – n° 164) ; Cambridge, Joannes, 1670 (Thoen – n° 167) ; Londres, Ex Typographia Societatis Stationariorum, 1675 (Thoen – n° 170) ; Londres, Ex Typographia Societatis Stationariorum, 1691 (Thoen – n° 171) ; Londres, T. Hodgkin pro societate stationariorum, 1711 (Thoen – n° 173) ; Londres, H. Woodfall pour Societatis stationariorum, 1759 (Thoen – n° 184) ; Londres, Societas Stationariorum, 1772 (Thoen – n° 188) ; Belfast, Smyth et Lyons, 1808 (Thoen – n° 192 ; les facéties du Pogge sont supprimées).</p>
-          <p/>
-          <p><hi rend="u">Éditions ne comprenant que la deuxième partie de l’<hi rend="i">Hecatomythium</hi></hi> :
-          </p>
-          <p/>
-          <p>1505 – Voir <hi rend="i">supra</hi>.</p>
-          <p/>
-          <p>1520 (1er mars) – <hi rend="i">Grunii Corococtæ Porcelli Testamentum Laurentii Abstemii Maceratensis Hecatomythium secundum eiusdem libellus de verbis communibus</hi>,, Venise, Giorgio Rusconi. Réimpression de l’édition de 1505 ; ne contient donc que la deuxième partie.</p>
-          <p/>
-          <p>1520 - <hi rend="i">Grunii Corococtæ Porcelli Testamentum Laurentii Abstemii Maceratensis Hecatomythium secundum eiusdem libellus de verbis communibus</hi>, Venise, Giovanni Francesco et Giovanni Antonio Rusconi. Réimpression de l’édition de 1505 ; ne contient donc que la deuxième partie.</p>
-          <p/>
-          <p>1522 - <hi rend="i">Hecatomythium alterum</hi>, Strasbourg, s.n. Ne contient que la deuxième partie.</p>
-          <p/>
-          <p>1524 - <hi rend="i">Grunii Corococtæ Porcelli Testamentum Laurentii Abstemii Maceratensis Hecatomythium secundum eiusdem libellus de verbis communibus</hi>, Venise, Giovanni Francesco et Giovanni Antonio Rusconi. Réimpression de l’édition de 1505 ; ne contient donc que la deuxième partie <ref target="http://books.google.fr/books?id=cINQAAAAcAAJ&amp;printsec=frontcover&amp;hl=fr#v=onepage&amp;q&amp;f=false">(en ligne)</ref>.</p>
-          <p/>
-          <p/>
-          <p><hi rend="u">Éditions comprenant les deux parties de l’<hi rend="i">Hecatomythium</hi></hi>  :</p>
-          <p/>
-          <p>1513 - <hi rend="i">Æsopi Phygis fabulæ CCVIII. e græco in latinum conversæ. Eiusdem fabulæ XXXIII p(er) Laurentium Vallam... versæ. Laurentii Abstemii Maceratensis Hecatomythium primum, hoc est fabulæ centum. Eiusdem Hecatomythium secundu(m), hoc est fabulæ centum. Eiusdem Libellus de verbis communibus</hi>, Venise, Giovanni Tacuino, in-4. Première édition à réunir les deux parties du recueil.</p>
-          <p>Ex : Florence, Biblioteca Nazionale Centrale <ref target="https://archive.org/stream/ita-bnc-mag-00000623-001#page/n14/mode/2up">(en ligne)</ref>. Une version numérisée serait accessible (après identification) sur le site d’Early European Books ; <ref target="http://eeb.chadwyck.co.uk/">http://eeb.chadwyck.co.uk/</ref>. Autres exemplaires : British Library, 12305.k.7. ; Amsterdam, Universiteit van Amsterdam, Bibliotheek, O 62-1732 ; Washington, Folger Shakespeare Library, PA3851.A3 M4 1513 Cage.</p>
-          <p/>
-          <p>1519 (6 mars) – <hi rend="i">Continentur in hoc volumine. Esopi Phrygis CCXIIII. e græco in latinum elegantissima oratione conversæ Eiudem fabulæ. XXXIII. per Laurentium Valla virum clarissimum versæ Eiusdem fabulæ .LXIII. a Salone Parmense versu Elego latinitate donatæ. Eiusdem fabulæ .XLII. Elego quoque versu ab Aviano translatæ. Laurentii Abstemii Maceratensis Hecatomythium primum, hoc est centum fabulæ. Eiusdem Hecatomythium secundum, hoc est centum fabulæ. Eiusdem Libellus de verbis communibus</hi>, Venise, Giovanni Tacuino. Même édition que celle de 1513, augmentée par les fables d’Avianus (Autriche, Bibliothèque nationale, <ref target="https://books.google.fr/books?id=9tRcAAAAcAAJ&amp;dq=inauthor:%22Lorenzo%20Astemio%22&amp;hl=fr&amp;pg=PP1#v=onepage&amp;q&amp;f=false">en ligne</ref>).</p>
-          <p>Ex : Paris, Bibliothèque Mazarine, Inc 255-1 ; British Library, G.7749. ; Oxford, Worcester College Library Special Collections, MM.8.19 ; Connecticut, Wesleyan University, YK A3 L ; Illinois, University of Illinois, X 881 A3.LM1519 ; Harvard, Houghton Library, Houghton Ga 10.42.74* ; Californie, Berkeley, PA3852 .A2 1520 ; Suède, National Library, RAR: 129 B b Stephani Nigri ; Bibliothèque universitaire de Bologne, CER 61 ; Bibliothèque communale « A. Saffi » de Forli, CER 14 ; Parme, Bibliothèque Palatine, CER 37 ; Rimini, Biblioteca civica Gambalunga, CER 25.</p>
-          <p/>
-          <p>1520 (15 décembre) – <hi rend="i">Continentur in hoc volumine. Esopi Phrygis CCXIIII...</hi>, Venise, Alessandro et Benedetto Bindoni. Réimpression de l’édition de Tacuino de 1513 (Autriche, Bibliothèque Nationale, <ref target="https://books.google.de/books?id=rSxeAAAAcAAJ&amp;printsec=frontcover&amp;hl=fr#v=onepage&amp;q&amp;f=false">en ligne</ref> ; Naples, Biblioteca Nazionale, V.F. 152 A 7).</p>
-          <p/>
-          <p>1520 – Francfort, s.n. Les deux parties se trouveraient après une traduction des fables d’Ésope (relevé par P. Thoen dans son mémoire de licence, d’après la <hi rend="i">Biographie universelle ancienne et moderne</hi>, Paris, 1811-1862, t. I, p. 114).</p>
-          <p/>
-          <p>1532 -<hi rend="i"> Æsopi Phrygis et aliorum fabulæ, quorum nomina sequenti pagella videre licet. Accessit huic editioni Alterum Laurentii Abstemii Hecatomythium, hoc est, centum fabularum libellus alter, nunq(uam) hactenus in Gallia excusus</hi>, Lyon, Sébastien Gryphe. In-8°, 292 p. + 10 f. (Thoen – n° 59, à l’origine du groupe C-II).</p>
-          <p>Ex. : Munich, Bayerische StaatsBibliothek, 037/LG 56 ; Augsburg, StaatsBibliothek, LG 56 ; Illinois, University of Illinois, Baldwin 0346.</p>
-          <p>Se rattachent à cette édition :</p>
-          <list type="ul">
-            <item>les éditions lyonnaises : Sébastien Gryphe, 1534 (Thoen – n° 64) ; Sébastien Gryphe, 1536 <ref target="https://archive.org/details/bub_gb_01FWx9Y4_uMC">(en ligne)</ref> (Thoen – n° 75) ; Heredes S. Vincentii, 1537 (Thoen – n° 80) ; Gryphe, 1539 (Thoen – n° 84) ; Gryphe, 1539, titre abrégé, quelques exemplaires sans nom d’éditeurs (Thoen – n° 85) ; Jean II et François Frellon, 1539 (Thoen – n° 86) ; Jean Barbou, 1539 (Thoen – n° 87) ; Gryphe, 1540 (Thoen – n° 91) ; <hi rend="i">idem</hi>, 1542 (Thoen – n° 92) ; Jean Barbou, 1542 (Thoen – n° 93) ; Gryphe, 1544 <ref target="http://books.google.fr/books?id=kF0ilc9NnRwC&amp;printsec=frontcover&amp;hl=fr&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false">(en ligne)</ref> (Thoen – n° 98) ; <hi rend="i">idem</hi>, 1548 (Thoen – n° 108) ; <hi rend="i">idem</hi>, 1551 (Thoen – n° 113) ; <hi rend="i">idem</hi>, 1554 (Thoen – n° 119) ; Ant. Gryphius, 1566 (Thoen – n° 138) ; A. Gryphius, 1586 (Thoen – n° 150).</item>
-            <item>trois éditions parisiennes : Jean Louys Tiletanus, 1544 (Thoen – n° 99) ; Jacq. Kerver, 1546 (Thoen – n° 105) ; Ambr. Girault / Giraud, 1546 (Thoen – n° 106).</item>
-            <item>Anvers, Christ. Plantin, 1560 (Thoen – n° 129). L’exemplaire conservé au musée Plantin-Moretus comporte cette annotation manuscrite, relevée par P. Thoen : « <hi rend="i">Notandum hasce Abstemii fabulas esse uetitas et no(n) posse a(m)plius distrahi nec imprimi.</hi> »</item>
-            <item>Venise, Hæredes Petri Ravani et socii, 1553 (Thoen – n° 117) ; Venise, Hæredis P. Ravani, 1555 (Thoen – n° 123).</item>
-            <item>Salamanque, s.n., 1560 (Thoen – n° 130)</item>
-          </list>
-          <p>1534 - <hi rend="i">Æsopi Phrygis et aliorum Fabulæ. His accesserunt Abstemii Hecatomythium secundum. Quædam aliæ incerto interprete, una cum selectis Poggi Facetiis. Autorum et interpretum nomina sequens pagina docet</hi>, Bâle, Ioannes Hervagius. In-8°, 255 p. <ref target="http://books.google.fr/books?id=zsFcAAAAcAAJ&amp;printsec=frontcover&amp;hl=fr&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false">(en ligne)</ref> (Thoen – n° 65, à l’origine de la branche B-VI).</p>
-          <p>Se rattachent à cette édition : Mayence, Ivo Schoeffer, 1536 (Thoen – n° 76) ; Nuremberg, Petreius, 1536 (Thoen – n° 77) ; Venies, I. Ant. De Nicolinis de Sabio, 1539 (Thoen – n° 88) ; s.l, s.n., 1552 (Thoen – n° 114) ; Nuremberg, Petreius, 1552 (Thoen – n° 115) ; Nuremberg, Neuber, 1563 <ref target="http://books.google.fr/books?id=oFVOAAAAcAAJ&amp;dq=intitle:abstemii&amp;as_brr=3&amp;ie=ISO-8859-1&amp;redir_esc=y">(en ligne)</ref> (Thoen – n° 133) ; Brescia, Damianus Turlinus, 1563 (Thoen – n° 134) ; Nuremberg, Neuber, 1568 (Thoen – n° 140) ; <hi rend="i">idem</hi>, 1574 (Thoen – n° 141) ; Brescia, Polycretius Turlinus, 1589 (Thoen – n° 153) ; Zurich, Ex Off. Froschoviana, s.d. (<ref target="http://daten.digitale-sammlungen.de/~db/0001/bsb00015143/images/index.html?id=00015143&amp;fip=qrsyztsyztswewqqrsxdsydewqxs&amp;no=7&amp;seite=9">en ligne</ref> ; également <ref target="https://archive.org/details/bub_gb_cNtRAAAAcAAJ">à cette adresse</ref>) (<hi rend="i">circa</hi> 1530 selon Thoen – n° 52).</p>
-          <p/>
-          <p>1535 - <hi rend="i">Æsopi Phrygis et aliorum fabulæ. Accessit huic editioni alterum L. Abstemii Hecatomythium, hoc est, centum fabularum libellus alter</hi>... . Lyon, I Giunta ; et Lyon, Vinc. de Portonariis. Sans doute une ou des réimpression(s) de Gryphe (d’après Thoen – n° 71).</p>
-          <p/>
-          <p>1536 (mai) - <hi rend="i">Æsopi Phrygis et aliorum fabulæ, quarum interpretes et auctores sequenti pagina videre licet. His accesserunt Abstemii Hecatomythion secundum. quædam alio incerto interprete una cum selectis Poggii facetiis</hi>, Mayence, Ivo Schoeffer. (Thoen – n° 67)</p>
-          <p>Se rattachent à cette édition : <hi rend="i">idem</hi>, 1542 (Thoen – n° 95) ; <hi rend="i">idem</hi>, 1550 (Thoen – n° 111).</p>
-          <p/>
-          <p>1548 - <hi rend="i">Æsopi Phrygis et aliorum fabulæ. Accesserunt huic editioni quinquaginta fabulæ Gilberti Cognati Nozereni</hi>, Lyon, Jean II Frellon. Le premier volume reprend l’impression lyonnaise des Gryphe (voir <hi rend="i">supra</hi>) et le second contient la <hi rend="i">Sylva narrationum</hi> de Gilbert Cousin (d’après Thoen – n° 109).</p>
-          <p>Ex : Stuttgart, HB 1967 ; Mannheim, Universitätsbibliothek, L 382 D 006 ; British Library, General Reference Collection G.7709.(2.) et (3.)</p>
-          <p/>
-          <p>1558 – <hi rend="i">Vita et Fabulæ Æsopi</hi>, Strasbourg, Jucundus <ref target="http://reader.digitale-sammlungen.de/en/fs1/object/display/bsb10993897_00019.html">(en ligne)</ref> (Cité par Wesselski, A., <hi rend="i">Die Novellen Girolamo Morlini</hi>, Munich, s.d., p. 292-296 et <hi rend="i">Gesamtkatalog der preussischen Bibliotheken</hi>, Berlin, 1931-1939, 2. 1855)</p>
-          <p/>
-          <p>1561 - <hi rend="i">Æsopi Phrygis et aliorum fabulæ. Quorum nomina sequens pagella indicabit. Elegantissimis Iconibus in gratiam studiosæ iuventutis illustratæ, pluribusque auctæ, &amp; diligentius quam antehac emendatæ. Cum Indice locupleiissimo</hi>, Paris, Jérôme de Marnef. In-16, 232 f. Se rattache à l’édition lyonnaise (Thoen – n° 131, à l’origine de la branche C-II-θ).</p>
-          <p>Se rattachent à cette édition : Venise, D. Nicolinus, 1563 (Thoen – n° 135) ; Paris, Jérôme de Marnef, 1564 (Thoen – n° 136).</p>
-          <p/>
-          <p>1580 - <hi rend="i">Fabulæ Æsopi Phrygis, ex optimis ac probatissimis autoribus summa industria concinnatæ, etc ; quibus jam recens adjectæ sunt lepidissimæ aliquot fabellæ, et narrationes jocosæ</hi>, Francfort, s.n. Comprend 198 fables d’Abstemius, introduites avec la mention des corrections de Gargetius. (Thoen – n° 143, à l’origine de la branche B-VII).</p>
-          <p>Se rattache à cette édition : <hi rend="i">Æsopi et aliorum fabulæ, ex probatissimis autoribus concinnatæ et castigatius excusæ</hi>, Francfort, Nicolaus Bassæus, 1587 (Thoen – n° 151).</p>
-          <p/>
-          <p>1586 – <hi rend="i">Æsopi Phrygis et aliorum fabulæ cum Abstemii hecatomythio</hi>, Lyon, A. Gryphius. Une impression de l’édition lyonnaise (Thoen – n° 150). (Cité par Baudrier, H., <hi rend="i">Bibliographie lyonnaise</hi>, Lyon-Paris, 1895-1921, série VIII, p. 396).</p>
-          <p/>
-          <p>1610 – <hi rend="i">Mythologia Æsopica. In qua Æsopi fabulæ græcolatinæ CCXCVII. Quarum CXXXVI primum prodeunt. Accedunt Babriæ fabulæ etiam auctiores. Anonymi veteris Fabulæ, latine carmine redditæ LX. Ex exsoletis editionibus et Codice MS. luci redditæ. Hæc omnia ex Bibliotheca Palatina. Adiiciuntur insuper PHÆDRI, AVIENI, ABSTEMII, FABULÆ. Opera et Studio, ISAACI NICOLÆI NEVELETI Cum notis eiusdem in eadem</hi>, Francfort, Nicolaus Hoffmann pour Ionas Rosa. In-8°, 8 f. + 678 p. Inclusion des deux <hi rend="i">Hecatomythia</hi> dans la <hi rend="i">Mythologia Æsopica</hi>. <ref target="http://babel.hathitrust.org/cgi/pt?id=ucm.532379962x;view=1up;seq=5">(en ligne)</ref></p>
-          <p>Se rattachent à cette édition : Heidelberg, Commelinus, 1610 ; Francfort, Christ. Gerlach et Sim Beckenstein, 1660 <ref target="http://books.google.fr/books?id=ncpcAAAAcAAJ&amp;printsec=frontcover&amp;hl=fr&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false">(en ligne)</ref>.</p>
-          <p/>
-          <p/>
-          <p><hi rend="u">Éditions dont le contenu reste imprécis</hi> :
-          </p>
-          <p/>
-          <p>1535 – Paris, Jean Masse. (Cité dans le <hi rend="i">Répertoire des ouvrages pédagogiques du <num>xvi<hi rend="sup">e</hi></num> siècle</hi>, Paris, 1886, p. 6). (Thoen – n° 72)</p>
-          <p/>
-          <p>1539 – Bâle, s.n. (Cité par Walckenaer, <hi rend="i">Œuvres de La Fontaine</hi>..., Bruxelles, 1828, t. I, p. 142).</p>
-          <p/>
-          <p>1545 – Lyon, s.n. (Cité par Adelung, J.-C., <hi rend="i">Fortsetzungen und Ergänzungen zu C.G. Jöchers Gelehrten-Lexicon</hi>, Leipzig, 1784, t. I, p. 73).</p>
+          <div>
+            <head>Éditions ne comprenant que la première partie de l’<hi rend="i">Hecatomythium</hi></head>
+            <p>1495 : voir <hi rend="i">supra</hi>.</p>
+            <p/>
+            <p>1499 (date indiquée : 1399) – <hi rend="i">Fabulæ per latinissimum uirum Laurentium Abstemium nuper composite. Fabulæ ex græco in latinum per Laurentium Vallam uirum clarissimum uersæ</hi>, Venise, Giovanni Tacuino. Ne contient que la première partie (contrairement à ce qu’on affirme souvent au sujet de l’histoire du texte, la deuxième partie ne sera publiée qu’en 1505). Deux émissions, la première étant très fautive. <ref target="http://gesamtkatalogderwiegendrucke.de/docs/GW00127.htm"><hi rend="i">G. W.</hi>, n° 127</ref> et <ref target="http://gesamtkatalogderwiegendrucke.de/docs/GW00128.htm">n° 128</ref>. Notice <ref target="http://istc.bl.uk/search/search.html?operation=record&amp;rsid=247630&amp;q=6">ISTC</ref> n° ia00011000.</p>
+            <p>Ex. : Munich, Bayerische StaatsBibliothek <ref target="http://daten.digitale-sammlungen.de/bsb00045277/image_1">(en ligne)</ref> ; Venise, Biblioteca nazionale Marciana, INC. V. 0725 ; New York, Pierpont Morgan Library, ChL968.</p>
+            <p>Ex. de l’édition datée du 1er juin 1499 : Wolfenbüttel <ref target="http://diglib.hab.de/inkunabeln/171-28-quod-9/start.htm">(en ligne)</ref> ; Manchester, JRL 15710 ; Rome, Biblioteca dell’Accademia Nazionale dei Lincei e Corsiniana, 50.E.12 ; Vatican, Biblioteca Apostolica Vaticana, Inc.IV.135(3) et Stamp.Ross.835 ; Vienne, ÖNB, Ink 25.G.36.</p>
+            <p/>
+            <p>1513 – <hi rend="i">(Abstemii) Fabulæ elegantissimæ per Gargetium emaculatæ. Item Fabulæ ex Græco in Latinum per Lau. Vallam versæ</hi>, Parme, Ugoleto. Ne présente que la première partie. Première édition indiquant « <hi rend="i">Per Gargetium emaculatæ</hi> » (personnage non identifié à ce jour).</p>
+            <p>Ex. : Berlin, StaatsBibliothek, an: Inc. 1232.5 ; Danemark, Det Kongelige Bibliotek ; Bibliothèque universitaire de Bologne, CER 475 ; Bibliothèque municipale « A. Panizzi », Reggio Emilia, CER 333.</p>
+            <p/>
+            <p>1519 (août) - <hi rend="i">Fabularum quæ hoc libro continentur interpretes atque autores sunt hi, Guilielmus Goudanus. Hadrianus Barlandus. Erasmus Roterodamus. Aulus Gellius. Angelus Politianus. Petrus Crinitus. Ioannes Antonius Campanus. Plinius Secundus Novocomensis. Nicolaus Gerbellius Phorcensis. Laurentius Abstemius. Laurentius Valla. Æsopi Vita ex Max. Planude excerpta, &amp; aucta</hi>..., Strasbourg, Matthias et Lazarus Schürer. Première insertion du premier <hi rend="i">Hecatomythium</hi> dans la collection dite « Dorpius » (Thoen – n° 24, à l’origine du groupe B-γ), sans doute à partir de l’édition de Parme de 1513 (mention de Gargetius) ; version très largement diffusée.</p>
+            <p>Ex. : Halle-Wittenberg, Universitäts- und Landesbibliothek, 80 L 1016 (3) <ref target="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-473451">(en ligne)</ref></p>
+            <p>Version très diffusée :</p>
+            <list type="ul">
+              <item>à Strasbourg : Schürer, 1519 (Thoen – n° 24) ; Johann Knoblouch pour Paulus Götz, 1520 (Thoen – n° 26) ; Johann Knoblouch et Paulus Götz, 1521 <ref target="http://digitale.bibliothek.uni-halle.de/vd16/content/titleinfo/999349">(en ligne)</ref> (Thoen – n° 30) ; Hulderichus Morardus, février 1521 (Thoen – n° 32) ; Knoblouch, 1522 (Thoen – n° 34) ; <hi rend="i">idem</hi>, 1522 – erreur sur « Guodanus » (Thoen – n° 35) ; <hi rend="i">idem</hi>, 19 juin 1523 (Thoen – n° 37) ; <hi rend="i">idem</hi>, 1<hi rend="sup">er</hi> décembre 1523 (Thoen – n° 38) ; J. Prüss, 1523 (Thoen – n° 40) ; Ægenolphus pour Paulus Götz, 1529 (Thoen – n° 49).</item>
+              <item>à Leipzig : Nicolaus Faber, 1530 (Thoen – n° 54) ; Nicolaus Faber ou Schmidt, 1532 <ref target="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-494914-p0001-0">(en ligne)</ref> (Thoen – n° 57) ; Nicolaus Faber ou Schmidt, 1535 (Thoen – n° 68) ; <hi rend="i">idem</hi>, 1536 (Thoen – n° 73) ; <hi rend="i">idem</hi>, 1543 (Thoen – n° 96) ; <hi rend="i">idem</hi>, 1544 (Thoen – n° 100) ; Laurentius Faber, 1557 (Thoen – n° 126) ; Faber / Schmidt, v. 1555, trois éditions légèrement différentes (Thoen – n° 120-122) ; Faber, sans date, (<hi rend="i">circa</hi> 1540 selon Thoen – n° 90).</item>
+              <item>autres lieux d’impression : Louvain, Thierry Martens, janvier 1520, sans les pièces accessoires (Thoen – n° 25) ; Vienne, Joannes Singrenius, 1520 (Thoen – n° 27) ; Cologne, Servatius Cruphtanus, juillet 1522 (Thoen – n° 36) ; Bâle, s.n., 1524 (Thoen – n° 41) ; Anvers, Michael Hillen van Hoochstraeten, 1524 (Thoen – n° 42) ; Venise, Gregorius de Gregoriis pour Laurentius Lorius et Baptista de Putellettis (Thoen – n° 43) ; Mayence, Joannes Schoeffer, août 1530 (Thoen – n° 53) ; Venise, N. Pasinus et Bindonus, 1534 (Thoen – n° 61) ; Erfurt, M. de Dolge, 1543 (Thoen – n° 97) ; Prague, Georgius Nigrinus, 1581 (Thoen – n° 144) ; Magdebourg, s.n., 1585 (Thoen – n° 147) ; Magdbebourg, Paulus Donatus pour Ambrosius Kirchner, 1588 (Thoen – n° 152) ; Haguenau, Thomas Anshelm, s.d. (<hi rend="i">circa</hi> 1521 selon Thoen – n° 29) ; Cologne, Alopecius pour Hittorpius, s.d. (Thoen – n° 39) ; Francfort-sur-l’O., Oder Johannes Eichhorn, s.d <ref target="http://nbn-resolving.org/urn:nbn:de:gbv:3:1-144430">(en ligne)</ref> (entre 1567 et 1583 d’après Thoen – n° 145) ; <hi rend="i">idem</hi>, s.d. (après 1583 d’après Thoen – n° 146).</item>
+              <item>s. l., s.n. (Ivo Schoëffer?), s.d. (peut-être 1531-1556 selon Thoen, n° 124) ; s.l., s.n., s.d. (<num>xvi<hi rend="sup">e</hi></num> siècle selon Thoen – n° 127).</item>
+            </list>
+            <p>1521 (28 novembre) – <hi rend="i">Æsopi Phrigii Fabulæ, Ac Diversorum Elegantissimorum Authorum Apologi quorum nomina presens pagina demonstrat. Asopi vita, &amp; alia quædam cognitu dignissima. Petri Ægidii Antverpiani Endecasyllabon, ad Lectores. Guilielmus Goudanus Hadrianus Bal. Erasmus Roterodamus. Aulus Gellius Laurentius Valla. Angelus Politianus Petrus Crinitus Ioannes Antonius Campanus. Plinius secundus Novocomensis. Nicolaus Gerbelius Phorcensis. Laurentius Abstemius. Rimicius. Additiones novæ. Annonii Monachi Fabula lepedissima. Baptiste Mantuani Apologi duo, carmine Erasmi Roterodami Scarabeus, &amp; pleraque alia, hactenus nusquam gentium impressa</hi>, Symon Cock et Gerhardus Nicolaus pour Franciscus Bryckman (Thoen – n° 33, correspondant au groupe B-II). Les pages consacrées aux fables d’Abstemius s’ouvrent sur la mention des corrections de Gargetius.</p>
+            <p/>
+            <p>1527 (février) - <hi rend="i">Æsopi Phrygis et vita ex Maximo Planude desumpta, et fabellæ jucundissimæ, quarum interpretes hi sunt : Guilielmus Goudanus. Hadrianus Barlandus. Erasmus Rot. A. Gellius. Lauren. Val. Angelus Poli. Petrus Crinitus. Ioannes Antonius Campanus. Plinius Secundus Novocomen. Anianus. Guilielmus Hermannus. Nicolaus Gerbellius Phorcensis. Lauren. Abstemius. Rimicius. Index omnes fabula indicabit</hi>, Anvers, Michael Hillen van Hoochstraeten (Thoen – n° 44, à l’origine du groupe B-V-β). Même contenu que les éditions dorpiennes précédentes, mais distinction entre Guilelmus Goudanus et Guilelmus Hermannus.</p>
+            <p>Se rattachent à cette édition : réimpression s. l., s.n., s.d. (peut-être avant 1529 selon Thoen – n° 48) ; Anvers, Martinus de Keyser, 1529 (Thoen – n° 50, à l’origine du groupe B-V-γ) ; Anvers, <hi rend="i">idem</hi>, 1530 (Thoen – n° 55) ; Anvers, Michael Hillen van Hoochstraeten, mars 1534 (Thoen – n° 62) ; Londres, Wynkyn de Worde, 1535, disponible sur <ref target="http://eebo.chadwyck.com/home">Early English Books Online</ref> (Thoen – n° 69) ; Anvers, Michael Hillen van Hoochstraeten, 1536 (Thoen – n° 74) ; Anvers, Michael Hillen van Hoochstraeten, 1538 – disponible <ref target="http://zaguan.unizar.es/record/3718">en ligne</ref> sur le site de l’université de Zaragoza (Thoen – n° 81) ; Solingen, Joannes Soter, 1538 (Thoen – n° 82) ; peut-être Londres, Thomas Marsh, 1580 (Thoen – n° 142).</p>
+            <p/>
+            <p>1528 - <hi rend="i">Æsopi phrygis fabulæ, quarum interpretes hi sunt : Anianus, Guilelmus Hermannus, Rinicius iam denuo additus, Laurentius Valla et Laurentius Abstemius. Item uita Æsopi ex Max. Planude. Index omnes fabulas indicabit</hi>, Cygneæ / Zickau, Gabriel Kantz <ref target="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-325507">(en ligne)</ref> ; Nuremberg, J. Petreius (Thoen – n° 46-47 ; à l’origine du groupe B-III).</p>
+            <p>Se rattachent à cette édition : Nuremberg, Jo. Petreius, 1531 (Thoen – n° 56) ; <hi rend="i">idem</hi>, 1532  (Thoen – n° 58) ; <hi rend="i">idem</hi>, 1533 (Thoen – n° 60) ; Augsbourg, Weyssenhorn, 1534 (Thoen – n° 66) ; <hi rend="i">idem</hi>, 1538 (Thoen – n° 83) ; Ingolstadt, Weyssenhorn, 1542 (Thoen – n° 94) ; Augsbourg, Valentinus Otmar, 1545 (Thoen – n° 102) ; Ingolstadt, Weyssenhorn, 1545 <ref target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00015254-2">(en ligne)</ref> (Thoen – n° 103) ; Augsbourg, Zimmermam, 1553 (Thoen – n° 116) ; Augsbourg, Otmar, 1559 (Thoen – n° 128) ; <hi rend="i">idem</hi>, 1562 (Thoen – n° 132) ; Augsbourg, Francus, 1568 <ref target="http://reader.digitale-sammlungen.de/en/fs1/object/display/bsb10169554_00005.html">(en ligne)</ref> (Thoen – n° 139).</p>
+            <p/>
+            <p>1529 (26 août) - <hi rend="i">Æsopi Phrygis vita et fabulæ a viris doctissimis in Latinam linguam versæ, inter quos L. Valla, A. Gellius, D. Erasmus aliique, quorun nomina ignorantur. Fabellæ tres ex Politiano, Petro Crinito, Baptista Mantuano. Fabulæ item Lau. Abstemii</hi>, Paris, Robert Estienne (Thoen – n° 51, à l’origine de la branche C-I-β). Ajout d’Abstemius par rapport à la première édition du 17 juillet 1529.</p>
+            <p>Se rattachent à cette édition : Paris, Robert Estienne, 1534 (Thoen – n° 63) ; Paris, Antoine Bonnemere, 1535 (Thoen – n° 70) ; <hi rend="i">idem</hi>, 1536 (Thoen – n° 78) ; Paris, Robert Estienne, 1537 <ref target="https://archive.org/details/AesopiPhrygisVitaEtFabulaeAVirisD">(en ligne)</ref> (Thoen – n° 79) ; Paris, Robert Estienne, 14 février 1545 (Thoen – n° 101) ;<hi rend="i"> idem</hi>, 1546 (Thoen – n° 107) ; Paris, Robert Estienne, 1548 (Thoen – n° 110).</p>
+            <p/>
+            <p>1621 - <hi rend="i">Æsopi Phrygis fabulæ iam recenter ex collatione optimorum exemplarium emendatius excusæ, cum nonnullis eiusdam &amp; Poggii fabulis adiectis. Et indice correctiori adiuncto</hi>, Londres, Felix Kingston pour Societas Stationariorum (Thoen – n° 156 ; branche B-V-δ, formée à partir du groupe B-V-γ de l’édition anversoise).</p>
+            <p>Se rattachent à cette édition : Londres, Societas Stationariorum, 1623 (Thoen – n° 157) ; Cambridge, Ex Academiæ Typographeo, 1633 (Thoen – n° 158) ; Cambridge, Ex Academiæ Typographeo, 1635 (Thoen – n° 159) ; Cambridge, Ex Academiæ Typographeo, 1655 (Thoen – n° 162) ; Cambridge, Joann. Field, 1662 ; Cambridge, Joannes Field, 1667 (Thoen – n° 164) ; Cambridge, Joannes, 1670 (Thoen – n° 167) ; Londres, Ex Typographia Societatis Stationariorum, 1675 (Thoen – n° 170) ; Londres, Ex Typographia Societatis Stationariorum, 1691 (Thoen – n° 171) ; Londres, T. Hodgkin pro societate stationariorum, 1711 (Thoen – n° 173) ; Londres, H. Woodfall pour Societatis stationariorum, 1759 (Thoen – n° 184) ; Londres, Societas Stationariorum, 1772 (Thoen – n° 188) ; Belfast, Smyth et Lyons, 1808 (Thoen – n° 192 ; les facéties du Pogge sont supprimées).</p>
+          </div>
+          <div>
+            <head>Éditions ne comprenant que la deuxième partie de l’<hi rend="i">Hecatomythium</hi></head>
+            <p/>
+            <p>1505 – Voir <hi rend="i">supra</hi>.</p>
+            <p/>
+            <p>1520 (1er mars) – <hi rend="i">Grunii Corococtæ Porcelli Testamentum Laurentii Abstemii Maceratensis Hecatomythium secundum eiusdem libellus de verbis communibus</hi>,, Venise, Giorgio Rusconi. Réimpression de l’édition de 1505 ; ne contient donc que la deuxième partie.</p>
+            <p/>
+            <p>1520 - <hi rend="i">Grunii Corococtæ Porcelli Testamentum Laurentii Abstemii Maceratensis Hecatomythium secundum eiusdem libellus de verbis communibus</hi>, Venise, Giovanni Francesco et Giovanni Antonio Rusconi. Réimpression de l’édition de 1505 ; ne contient donc que la deuxième partie.</p>
+            <p/>
+            <p>1522 - <hi rend="i">Hecatomythium alterum</hi>, Strasbourg, s.n. Ne contient que la deuxième partie.</p>
+            <p/>
+            <p>1524 - <hi rend="i">Grunii Corococtæ Porcelli Testamentum Laurentii Abstemii Maceratensis Hecatomythium secundum eiusdem libellus de verbis communibus</hi>, Venise, Giovanni Francesco et Giovanni Antonio Rusconi. Réimpression de l’édition de 1505 ; ne contient donc que la deuxième partie <ref target="http://books.google.fr/books?id=cINQAAAAcAAJ&amp;printsec=frontcover&amp;hl=fr#v=onepage&amp;q&amp;f=false">(en ligne)</ref>.</p>
+          </div>
+          <div>
+            <head>Éditions comprenant les deux parties de l’<hi rend="i">Hecatomythium</hi></head>
+            <p/>
+            <p>1513 - <hi rend="i">Æsopi Phygis fabulæ CCVIII. e græco in latinum conversæ. Eiusdem fabulæ XXXIII p(er) Laurentium Vallam... versæ. Laurentii Abstemii Maceratensis Hecatomythium primum, hoc est fabulæ centum. Eiusdem Hecatomythium secundu(m), hoc est fabulæ centum. Eiusdem Libellus de verbis communibus</hi>, Venise, Giovanni Tacuino, in-4. Première édition à réunir les deux parties du recueil.</p>
+            <p>Ex : Florence, Biblioteca Nazionale Centrale <ref target="https://archive.org/stream/ita-bnc-mag-00000623-001#page/n14/mode/2up">(en ligne)</ref>. Une version numérisée serait accessible (après identification) sur le site d’<ref target="http://eeb.chadwyck.co.uk/">Early European Books</ref>. Autres exemplaires : British Library, 12305.k.7. ; Amsterdam, Universiteit van Amsterdam, Bibliotheek, O 62-1732 ; Washington, Folger Shakespeare Library, PA3851.A3 M4 1513 Cage.</p>
+            <p/>
+            <p>1519 (6 mars) – <hi rend="i">Continentur in hoc volumine. Esopi Phrygis CCXIIII. e græco in latinum elegantissima oratione conversæ Eiudem fabulæ. XXXIII. per Laurentium Valla virum clarissimum versæ Eiusdem fabulæ .LXIII. a Salone Parmense versu Elego latinitate donatæ. Eiusdem fabulæ .XLII. Elego quoque versu ab Aviano translatæ. Laurentii Abstemii Maceratensis Hecatomythium primum, hoc est centum fabulæ. Eiusdem Hecatomythium secundum, hoc est centum fabulæ. Eiusdem Libellus de verbis communibus</hi>, Venise, Giovanni Tacuino. Même édition que celle de 1513, augmentée par les fables d’Avianus (Autriche, Bibliothèque nationale, <ref target="https://books.google.fr/books?id=9tRcAAAAcAAJ&amp;dq=inauthor:%22Lorenzo%20Astemio%22&amp;hl=fr&amp;pg=PP1#v=onepage&amp;q&amp;f=false">en ligne</ref>).</p>
+            <p>Ex : Paris, Bibliothèque Mazarine, Inc 255-1 ; British Library, G.7749. ; Oxford, Worcester College Library Special Collections, MM.8.19 ; Connecticut, Wesleyan University, YK A3 L ; Illinois, University of Illinois, X 881 A3.LM1519 ; Harvard, Houghton Library, Houghton Ga 10.42.74* ; Californie, Berkeley, PA3852 .A2 1520 ; Suède, National Library, RAR: 129 B b Stephani Nigri ; Bibliothèque universitaire de Bologne, CER 61 ; Bibliothèque communale « A. Saffi » de Forli, CER 14 ; Parme, Bibliothèque Palatine, CER 37 ; Rimini, Biblioteca civica Gambalunga, CER 25.</p>
+            <p/>
+            <p>1520 (15 décembre) – <hi rend="i">Continentur in hoc volumine. Esopi Phrygis CCXIIII...</hi>, Venise, Alessandro et Benedetto Bindoni. Réimpression de l’édition de Tacuino de 1513 (Autriche, Bibliothèque Nationale, <ref target="https://books.google.de/books?id=rSxeAAAAcAAJ&amp;printsec=frontcover&amp;hl=fr#v=onepage&amp;q&amp;f=false">en ligne</ref> ; Naples, Biblioteca Nazionale, V.F. 152 A 7).</p>
+            <p/>
+            <p>1520 – Francfort, s.n. Les deux parties se trouveraient après une traduction des fables d’Ésope (relevé par P. Thoen dans son mémoire de licence, d’après la <hi rend="i">Biographie universelle ancienne et moderne</hi>, Paris, 1811-1862, t. I, p. 114).</p>
+            <p/>
+            <p>1532 -<hi rend="i"> Æsopi Phrygis et aliorum fabulæ, quorum nomina sequenti pagella videre licet. Accessit huic editioni Alterum Laurentii Abstemii Hecatomythium, hoc est, centum fabularum libellus alter, nunq(uam) hactenus in Gallia excusus</hi>, Lyon, Sébastien Gryphe. In-8°, 292 p. + 10 f. (Thoen – n° 59, à l’origine du groupe C-II).</p>
+            <p>Ex. : Munich, Bayerische StaatsBibliothek, 037/LG 56 ; Augsburg, StaatsBibliothek, LG 56 ; Illinois, University of Illinois, Baldwin 0346.</p>
+            <p>Se rattachent à cette édition :</p>
+            <list type="ul">
+              <item>les éditions lyonnaises : Sébastien Gryphe, 1534 (Thoen – n° 64) ; Sébastien Gryphe, 1536 <ref target="https://archive.org/details/bub_gb_01FWx9Y4_uMC">(en ligne)</ref> (Thoen – n° 75) ; Heredes S. Vincentii, 1537 (Thoen – n° 80) ; Gryphe, 1539 (Thoen – n° 84) ; Gryphe, 1539, titre abrégé, quelques exemplaires sans nom d’éditeurs (Thoen – n° 85) ; Jean II et François Frellon, 1539 (Thoen – n° 86) ; Jean Barbou, 1539 (Thoen – n° 87) ; Gryphe, 1540 (Thoen – n° 91) ; <hi rend="i">idem</hi>, 1542 (Thoen – n° 92) ; Jean Barbou, 1542 (Thoen – n° 93) ; Gryphe, 1544 <ref target="http://books.google.fr/books?id=kF0ilc9NnRwC&amp;printsec=frontcover&amp;hl=fr&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false">(en ligne)</ref> (Thoen – n° 98) ; <hi rend="i">idem</hi>, 1548 (Thoen – n° 108) ; <hi rend="i">idem</hi>, 1551 (Thoen – n° 113) ; <hi rend="i">idem</hi>, 1554 (Thoen – n° 119) ; Ant. Gryphius, 1566 (Thoen – n° 138) ; A. Gryphius, 1586 (Thoen – n° 150).</item>
+              <item>trois éditions parisiennes : Jean Louys Tiletanus, 1544 (Thoen – n° 99) ; Jacq. Kerver, 1546 (Thoen – n° 105) ; Ambr. Girault / Giraud, 1546 (Thoen – n° 106).</item>
+              <item>Anvers, Christ. Plantin, 1560 (Thoen – n° 129). L’exemplaire conservé au musée Plantin-Moretus comporte cette annotation manuscrite, relevée par P. Thoen : « <hi rend="i">Notandum hasce Abstemii fabulas esse uetitas et no(n) posse a(m)plius distrahi nec imprimi.</hi> »</item>
+              <item>Venise, Hæredes Petri Ravani et socii, 1553 (Thoen – n° 117) ; Venise, Hæredis P. Ravani, 1555 (Thoen – n° 123).</item>
+              <item>Salamanque, s.n., 1560 (Thoen – n° 130)</item>
+            </list>
+            <p>1534 - <hi rend="i">Æsopi Phrygis et aliorum Fabulæ. His accesserunt Abstemii Hecatomythium secundum. Quædam aliæ incerto interprete, una cum selectis Poggi Facetiis. Autorum et interpretum nomina sequens pagina docet</hi>, Bâle, Ioannes Hervagius. In-8°, 255 p. <ref target="http://books.google.fr/books?id=zsFcAAAAcAAJ&amp;printsec=frontcover&amp;hl=fr&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false">(en ligne)</ref> (Thoen – n° 65, à l’origine de la branche B-VI).</p>
+            <p>Se rattachent à cette édition : Mayence, Ivo Schoeffer, 1536 (Thoen – n° 76) ; Nuremberg, Petreius, 1536 (Thoen – n° 77) ; Venies, I. Ant. De Nicolinis de Sabio, 1539 (Thoen – n° 88) ; s.l, s.n., 1552 (Thoen – n° 114) ; Nuremberg, Petreius, 1552 (Thoen – n° 115) ; Nuremberg, Neuber, 1563 <ref target="http://books.google.fr/books?id=oFVOAAAAcAAJ&amp;dq=intitle:abstemii&amp;as_brr=3&amp;ie=ISO-8859-1&amp;redir_esc=y">(en ligne)</ref> (Thoen – n° 133) ; Brescia, Damianus Turlinus, 1563 (Thoen – n° 134) ; Nuremberg, Neuber, 1568 (Thoen – n° 140) ; <hi rend="i">idem</hi>, 1574 (Thoen – n° 141) ; Brescia, Polycretius Turlinus, 1589 (Thoen – n° 153) ; Zurich, Ex Off. Froschoviana, s.d. (<ref target="http://daten.digitale-sammlungen.de/~db/0001/bsb00015143/images/index.html?id=00015143&amp;fip=qrsyztsyztswewqqrsxdsydewqxs&amp;no=7&amp;seite=9">en ligne</ref> ; également <ref target="https://archive.org/details/bub_gb_cNtRAAAAcAAJ">à cette adresse</ref>) (<hi rend="i">circa</hi> 1530 selon Thoen – n° 52).</p>
+            <p/>
+            <p>1535 - <hi rend="i">Æsopi Phrygis et aliorum fabulæ. Accessit huic editioni alterum L. Abstemii Hecatomythium, hoc est, centum fabularum libellus alter</hi>... . Lyon, I Giunta ; et Lyon, Vinc. de Portonariis. Sans doute une ou des réimpression(s) de Gryphe (d’après Thoen – n° 71).</p>
+            <p/>
+            <p>1536 (mai) - <hi rend="i">Æsopi Phrygis et aliorum fabulæ, quarum interpretes et auctores sequenti pagina videre licet. His accesserunt Abstemii Hecatomythion secundum. quædam alio incerto interprete una cum selectis Poggii facetiis</hi>, Mayence, Ivo Schoeffer. (Thoen – n° 67)</p>
+            <p>Se rattachent à cette édition : <hi rend="i">idem</hi>, 1542 (Thoen – n° 95) ; <hi rend="i">idem</hi>, 1550 (Thoen – n° 111).</p>
+            <p/>
+            <p>1548 - <hi rend="i">Æsopi Phrygis et aliorum fabulæ. Accesserunt huic editioni quinquaginta fabulæ Gilberti Cognati Nozereni</hi>, Lyon, Jean II Frellon. Le premier volume reprend l’impression lyonnaise des Gryphe (voir <hi rend="i">supra</hi>) et le second contient la <hi rend="i">Sylva narrationum</hi> de Gilbert Cousin (d’après Thoen – n° 109).</p>
+            <p>Ex : Stuttgart, HB 1967 ; Mannheim, Universitätsbibliothek, L 382 D 006 ; British Library, General Reference Collection G.7709.(2.) et (3.)</p>
+            <p/>
+            <p>1558 – <hi rend="i">Vita et Fabulæ Æsopi</hi>, Strasbourg, Jucundus <ref target="http://reader.digitale-sammlungen.de/en/fs1/object/display/bsb10993897_00019.html">(en ligne)</ref> (Cité par Wesselski, A., <hi rend="i">Die Novellen Girolamo Morlini</hi>, Munich, s.d., p. 292-296 et <hi rend="i">Gesamtkatalog der preussischen Bibliotheken</hi>, Berlin, 1931-1939, 2. 1855)</p>
+            <p/>
+            <p>1561 - <hi rend="i">Æsopi Phrygis et aliorum fabulæ. Quorum nomina sequens pagella indicabit. Elegantissimis Iconibus in gratiam studiosæ iuventutis illustratæ, pluribusque auctæ, &amp; diligentius quam antehac emendatæ. Cum Indice locupleiissimo</hi>, Paris, Jérôme de Marnef. In-16, 232 f. Se rattache à l’édition lyonnaise (Thoen – n° 131, à l’origine de la branche C-II-θ).</p>
+            <p>Se rattachent à cette édition : Venise, D. Nicolinus, 1563 (Thoen – n° 135) ; Paris, Jérôme de Marnef, 1564 (Thoen – n° 136).</p>
+            <p/>
+            <p>1580 - <hi rend="i">Fabulæ Æsopi Phrygis, ex optimis ac probatissimis autoribus summa industria concinnatæ, etc ; quibus jam recens adjectæ sunt lepidissimæ aliquot fabellæ, et narrationes jocosæ</hi>, Francfort, s.n. Comprend 198 fables d’Abstemius, introduites avec la mention des corrections de Gargetius. (Thoen – n° 143, à l’origine de la branche B-VII).</p>
+            <p>Se rattache à cette édition : <hi rend="i">Æsopi et aliorum fabulæ, ex probatissimis autoribus concinnatæ et castigatius excusæ</hi>, Francfort, Nicolaus Bassæus, 1587 (Thoen – n° 151).</p>
+            <p/>
+            <p>1586 – <hi rend="i">Æsopi Phrygis et aliorum fabulæ cum Abstemii hecatomythio</hi>, Lyon, A. Gryphius. Une impression de l’édition lyonnaise (Thoen – n° 150). (Cité par Baudrier, H., <hi rend="i">Bibliographie lyonnaise</hi>, Lyon-Paris, 1895-1921, série VIII, p. 396).</p>
+            <p/>
+            <p>1610 – <hi rend="i">Mythologia Æsopica. In qua Æsopi fabulæ græcolatinæ CCXCVII. Quarum CXXXVI primum prodeunt. Accedunt Babriæ fabulæ etiam auctiores. Anonymi veteris Fabulæ, latine carmine redditæ LX. Ex exsoletis editionibus et Codice MS. luci redditæ. Hæc omnia ex Bibliotheca Palatina. Adiiciuntur insuper PHÆDRI, AVIENI, ABSTEMII, FABULÆ. Opera et Studio, ISAACI NICOLÆI NEVELETI Cum notis eiusdem in eadem</hi>, Francfort, Nicolaus Hoffmann pour Ionas Rosa. In-8°, 8 f. + 678 p. Inclusion des deux <hi rend="i">Hecatomythia</hi> dans la <hi rend="i">Mythologia Æsopica</hi>. <ref target="http://babel.hathitrust.org/cgi/pt?id=ucm.532379962x;view=1up;seq=5">(en ligne)</ref></p>
+            <p>Se rattachent à cette édition : Heidelberg, Commelinus, 1610 ; Francfort, Christ. Gerlach et Sim Beckenstein, 1660 <ref target="http://books.google.fr/books?id=ncpcAAAAcAAJ&amp;printsec=frontcover&amp;hl=fr&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false">(en ligne)</ref>.</p>
+          </div>
+          <div>
+            <head>Éditions dont le contenu reste imprécis</head>
+            <p/>
+            <p>1535 – Paris, Jean Masse. (Cité dans le <hi rend="i">Répertoire des ouvrages pédagogiques du <num>xvi<hi rend="sup">e</hi></num> siècle</hi>, Paris, 1886, p. 6). (Thoen – n° 72)</p>
+            <p/>
+            <p>1539 – Bâle, s.n. (Cité par Walckenaer, <hi rend="i">Œuvres de La Fontaine</hi>..., Bruxelles, 1828, t. I, p. 142).</p>
+            <p/>
+            <p>1545 – Lyon, s.n. (Cité par Adelung, J.-C., <hi rend="i">Fortsetzungen und Ergänzungen zu C.G. Jöchers Gelehrten-Lexicon</hi>, Leipzig, 1784, t. I, p. 73).</p>
+          </div>
         </div>
         <div>
           <head>Illustration (enluminures, gravures – par ordre chronologique)</head>
           <p rend="i">Cycles d’illustrations originales</p>
-          <p><hi rend="strong">1677‑1678 –</hi> L. S. Desmay, <hi rend="strong"><hi rend="i">L’Esope François. Fables nouvelles</hi> et <hi rend="i">L’Esope du temps. Fables nouvelles</hi>, Paris, Vve F. Clousier et P. Bienfait. Gravures (sur cuivre) originales et réalisées <hi rend="i">ad hoc</hi>, dessinées et gravées par Nicolas Habert, pour chacune des vingt-huit fables de Desmay  – qui, cependant, ne sont pas toutes imitées d’Abstemius.</hi></p>
-          <p rend="bg_ffff00"><hi rend="strong">Sur ce recueil de fables illustrées, voir Bodemann</hi><seg rend="appelnotedebasdep1"><note resp="editor">Ulrike Bodemann‑Kornhaas (dir.), <hi rend="i">Das illustrierte Fabelbuch. Vol. II : Katalog illustrierter Fabelausgaben 1461‑1990</hi>, Hambourg / Francfort, Maximilian-Gesellschaft / W. Metzner, 1998.</note></seg><seg rend="appelnotedebasdep1">, n° 78.</seg> </p>
+          <p>1677‑1678 – L. S. Desmay, <hi rend="i">L’Esope François. Fables nouvelles</hi> et <hi rend="i">L’Esope du temps. Fables nouvelles</hi>, Paris, Vve F. Clousier et P. Bienfait. Gravures (sur cuivre) originales et réalisées <hi rend="i">ad hoc</hi>, dessinées et gravées par Nicolas Habert, pour chacune des vingt-huit fables de Desmay  – qui, cependant, ne sont pas toutes imitées d’Abstemius.</p>
+          <p>Sur ce recueil de fables illustrées, voir Bodemann<note resp="editor">Ulrike Bodemann‑Kornhaas (dir.), <hi rend="i">Das illustrierte Fabelbuch. Vol. II : Katalog illustrierter Fabelausgaben 1461‑1990</hi>, Hambourg / Francfort, Maximilian-Gesellschaft / W. Metzner, 1998.</note>, n° 78. </p>
           <p/>
           <p><hi rend="i">Réemploi d’illustrations dans le cadre de compilations où sont insérés les</hi> Hecatomythia</p>
-          <p>1610 – Isaac-Nicolas Nevelet (éd.), <hi rend="i">Mythologia Æsopica</hi>, Francfort, N. Hoffmann <ref target="http://babel.hathitrust.org/cgi/pt?id=ucm.532379962x;view=1up;seq=5">(http://babel.hathitrust.org/cgi/pt?id=ucm.532379962x;view=1up;seq=5)</ref>.</p>
+          <p>1610 – Isaac-Nicolas Nevelet (éd.), <ref target="http://babel.hathitrust.org/cgi/pt?id=ucm.532379962x;view=1up;seq=5"><hi rend="i">Mythologia Æsopica</hi></ref>, Francfort, N. Hoffmann.</p>
           <p>Reprise du cycle conçu par l’atelier de Virgil Solis (†1562) et publié pour la première fois en 1566<note resp="editor">Ces vignettes ont été utilisées pour la mise en images du recueil de J. Posthius, <hi rend="i">Æsopi Phrygis Fabulæ, elegantissimis eiconibus veras animalium species ad uiuum adumbrantes</hi> […], Francfort, Georg Rab, Sigmundt Feyerabendt, &amp; Héritiers de la Vve Han, 1566, in‑8° (livre de fables illustré référencé par Küster, n° 216‑217 ; Bodemann, n° 36.1 &amp; 37.1 ; Hollstein, 2006, « V. Solis Book Illustrations », vol. 68, n° 40).</note> : seules huit fables d’Abstemius sont ornées d’une gravure (n° 1, n° 39, n° 52, n° 96, n° 99, n° 108, n° 121 et n° 128), la même image étant dupliquée pour les deux dernières fables citées. Le rapport entre la fable et l’illustration est souvent assez lâche.</p>
-          <p rend="bg_ffff00">Sur cette compilation illustrée de Nevelet, voir Bodemann, n° 60.1‑2 (édition de Nevelet, 1610-1660) ; Hollstein<seg rend="appelnotedebasdep1"><note resp="editor"><hi rend="i"> Hollstein’s German Engravings, Etchings and Woodcuts 1400-1700</hi>, dir. Dieter Beaujean &amp; Giulia Bartrum, Rotterdam, Sound &amp; Vision Publishers, 2006 : « Virgil Solis Book Illustrations ».</note></seg> 2006, « V. Solis Book Illustrations », vol. 70,  n° 93 (référence à la nouvelle émission de la compilation de Nevelet datée de 1660, et non à l’édition originale).</p>
+          <p>Sur cette compilation illustrée de Nevelet, voir Bodemann, n° 60.1‑2 (édition de Nevelet, 1610-1660) ; Hollstein<note resp="editor"><hi rend="i"> Hollstein’s German Engravings, Etchings and Woodcuts 1400-1700</hi>, dir. Dieter Beaujean &amp; Giulia Bartrum, Rotterdam, Sound &amp; Vision Publishers, 2006 : « Virgil Solis Book Illustrations ».</note> 2006, « V. Solis Book Illustrations », vol. 70,  n° 93 (référence à la nouvelle émission de la compilation de Nevelet datée de 1660, et non à l’édition originale).</p>
         </div>
         <div>
           <head>Éditions contemporaines (<num>xix<hi rend="sup">e</hi></num>-<num>xxi<hi rend="sup">e</hi></num> s.) et traductions (sélection – par ordre chronologique rétrograde)</head>
@@ -682,10 +681,7 @@
             </row>
             <row>
               <cell>81. « De aquila filios cuniculi rapiente »</cell>
-              <cell>
-                <label rend="center b">P1</label>
-                <label rend="center b">(le renard remplacé par un lapin)</label>
-              </cell>
+              <cell>P1 (le renard remplacé par un lapin)</cell>
               <cell/>
             </row>
             <row>
@@ -1295,12 +1291,12 @@
         </div>
         <div>
           <head>Remaniements et adaptations (par ordre chronologique)</head>
-          <p>[1532] - <hi rend="strong"><hi rend="i">Les Fantastiques batailles des grands Roys Rodilardus et Croacus : translaté de Latin en Françoys. Imprimé Nouvellement</hi>, Lyon, François Juste. Le recueil, après une adaptation de la <hi rend="i">Batrachomyomachie</hi> et des traités sur les rats et les grenouilles, compte dix-sept fables mettant en scène exclusivement ces animaux. Les fables n° 3, 4, 5, 7, 8 et 17 sont respectivement traduites des fables d’Abstemius n° 196 ; n° 67 ; n° 70 ; n° 52 ; n° 28 et n° 34.</hi></p>
-          <p rend="strong">Sur cette récente découverte, voir Romain Menini et Olivier Pédeflous, « “Æsope le François”. Autour de dix-sept fables éditées par Rabelais (1534) », [<hi rend="i">in</hi>] Frédéric Calas et Nora Viet (dir.), <hi rend="i">Séductions de la fable, d’Ésope à La Fontaine</hi>, Paris, Classiques Garnier, « Études et essais sur la Renaissance. Éthique et poétique des genres (2) », 2015, p. 193-220. </p>
+          <p>[1532] - <hi rend="i">Les Fantastiques batailles des grands Roys Rodilardus et Croacus : translaté de Latin en Françoys. Imprimé Nouvellement</hi>, Lyon, François Juste. Le recueil, après une adaptation de la <hi rend="i">Batrachomyomachie</hi> et des traités sur les rats et les grenouilles, compte dix-sept fables mettant en scène exclusivement ces animaux. Les fables n° 3, 4, 5, 7, 8 et 17 sont respectivement traduites des fables d’Abstemius n° 196 ; n° 67 ; n° 70 ; n° 52 ; n° 28 et n° 34.</p>
+          <p>Sur cette récente découverte, voir Romain Menini et Olivier Pédeflous, « “Æsope le François”. Autour de dix-sept fables éditées par Rabelais (1534) », [<hi rend="i">in</hi>] Frédéric Calas et Nora Viet (dir.), <hi rend="i">Séductions de la fable, d’Ésope à La Fontaine</hi>, Paris, Classiques Garnier, « Études et essais sur la Renaissance. Éthique et poétique des genres (2) », 2015, p. 193-220. </p>
           <p/>
-          <p rend="strong">[1538] – Fables de Camerarius : <hi rend="i">Æsopi Phrygis, fabularum celeberrimi autoris, uita. Fabellæ Æsopicæ plures quadringentis, quædam prius etiam, multæ nunc primum editæ, omnes autem orationis conueniente et æquabili ueluti filo pertextæ a Ioachimo Camerario Pabergensi. Fabulæ item Liuianæ duæ et Gellianæ aliquot nec non Politiani, Gerbelii et Erasmi narrationes. His accessit explicatio nonnullorum et demonstratio Græcorum autorum, de quibus uel fabulæ aliquæ uel præcepta decerpta fuerint ; cum indice capitum et locorum quorundam doctrinæ et sententiarum, ad quæ narrationes referri possint</hi>, Tübingen, Ulrich Morhart, 1538. D’après P. Thoen (art. cit., p. 303), « les fables 286‑344, excepté la fable 340, sont des paraphrases des fables suivantes du premier <hi rend="i">Hecatomythium</hi> d’Abstemius […] : 1-8, 10‑13, 17, 18, 20, 21, 26, 27, 32, 34, 35‑43, 46, 48, 49, 52, 54, 55, 57, 59, 64‑73, 76, 78, 79, 81, 82, 87, 91, 92, 94‑96. » </p>
+          <p>[1538] – Fables de Camerarius : <hi rend="i">Æsopi Phrygis, fabularum celeberrimi autoris, uita. Fabellæ Æsopicæ plures quadringentis, quædam prius etiam, multæ nunc primum editæ, omnes autem orationis conueniente et æquabili ueluti filo pertextæ a Ioachimo Camerario Pabergensi. Fabulæ item Liuianæ duæ et Gellianæ aliquot nec non Politiani, Gerbelii et Erasmi narrationes. His accessit explicatio nonnullorum et demonstratio Græcorum autorum, de quibus uel fabulæ aliquæ uel præcepta decerpta fuerint ; cum indice capitum et locorum quorundam doctrinæ et sententiarum, ad quæ narrationes referri possint</hi>, Tübingen, Ulrich Morhart, 1538. D’après P. Thoen (art. cit., p. 303), « les fables 286‑344, excepté la fable 340, sont des paraphrases des fables suivantes du premier <hi rend="i">Hecatomythium</hi> d’Abstemius […] : 1-8, 10‑13, 17, 18, 20, 21, 26, 27, 32, 34, 35‑43, 46, 48, 49, 52, 54, 55, 57, 59, 64‑73, 76, 78, 79, 81, 82, 87, 91, 92, 94‑96. » </p>
           <p/>
-          <p>[1544] - <hi rend="i">Fauole d’Isopo greco elegantissime et de molti altri, tradotte novamente de latino in lengua italiano</hi>, Venise, Michele Tramezzino. D’après Paul Thoen (<hi rend="strong">art. cit.</hi>, p. 315), les fables 239 à 374 (auxquelles manquent, selon les éditions, les fables 261 ou 262) sont empruntées à Abstemius, dans l’ordre suivant : n° 1-14 ; n° 178-181 ; n° 183‑186 ; n° 190 ; n° 192‑194 ; n° 196-200 ; n° 15‑18 ; n° 20‑22 ; n° 24‑28 ; n° 31‑33 ; n° 45 ; n° 46 ; n° 48 ; n° 50 ; n° 55‑56 ; n° 59‑74 ; n° 76‑82 ; n° 85‑92 ; n° 94-100 ; n° 101 ; n° 103 ; n° 106-107 ; n° 109‑110 ; n° 113‑144 ; n° 121‑122 ; n° 126 ; n° 128 ; n° 130‑131 ; n° 133‑134 ; n° 136 ; n° 138 ; n° 140‑141 ; n° 144 ; n° 146-149; n° 151‑154 ; n° 156‑163 ; n° 166 ; n° 170 ; n° 172-177.</p>
+          <p>[1544] - <hi rend="i">Fauole d’Isopo greco elegantissime et de molti altri, tradotte novamente de latino in lengua italiano</hi>, Venise, Michele Tramezzino. D’après Paul Thoen (art. cit., p. 315), les fables 239 à 374 (auxquelles manquent, selon les éditions, les fables 261 ou 262) sont empruntées à Abstemius, dans l’ordre suivant : n° 1-14 ; n° 178-181 ; n° 183‑186 ; n° 190 ; n° 192‑194 ; n° 196-200 ; n° 15‑18 ; n° 20‑22 ; n° 24‑28 ; n° 31‑33 ; n° 45 ; n° 46 ; n° 48 ; n° 50 ; n° 55‑56 ; n° 59‑74 ; n° 76‑82 ; n° 85‑92 ; n° 94-100 ; n° 101 ; n° 103 ; n° 106-107 ; n° 109‑110 ; n° 113‑144 ; n° 121‑122 ; n° 126 ; n° 128 ; n° 130‑131 ; n° 133‑134 ; n° 136 ; n° 138 ; n° 140‑141 ; n° 144 ; n° 146-149; n° 151‑154 ; n° 156‑163 ; n° 166 ; n° 170 ; n° 172-177.</p>
           <p/>
           <p>[1547] – Guillaume Haudent, <hi rend="i">Trois centz soixante et six Apologues d’Esope, Tresexcellent Philosophe. Premierement traduictz de Grec en Latin, par plusieurs illustres Autheurs : comme Laurens valle, Erasme, et autres. Et nouvellement de Latin en Rithme Françoyse par maistre Guillaume Haudent. Vie aprez mort</hi>, Rouen, Robert &amp; Jean Dugord (imitation versifiée des cent premières fables d’Abstemius, à l’exception des fables n° 29, n° 31 et n° 74, dans les fables 62 à 157 du recueil français).</p>
           <p/>
@@ -1322,7 +1318,7 @@
           <p/>
           <p>[1583] – Philibert Guide, <hi rend="i">La Colombiere et maison rustique de Philibert Hegemon, de Chalon sur Saone : contenant une description des douze Mois, et quatre Saisons de l’annee : Avec un enseignement de ce que le Laboureur doibt faire par chacun mois. L’Abeille Françoise du mesme Autheur. Ses Fables Morales, et autres Poësies. Et les Louanges de la vie Rustique, extraictes des Œuvres de G. de Saluste, Sieur du Bartas</hi>, Paris, Robert le Fizelier in‑8º. D’après l’édition de Laura Rovero, <hi rend="i">Philibert Guide. Les fables morales</hi>, Paris/Genève, Champion/Slatkine, 1987, p. 71, la fable n° 22 de Philibert Guide, « Du Chien, du Regnard, et du Liévre », est imitée de la fable n° 86 d’Abstemius (<hi rend="i">De uulpe carnem leporis cani laudante</hi>).</p>
           <p/>
-          <p>[1585] - William Bullokar, <hi rend="i">Æsop’s fables in true orthography with grammar-notes</hi>, Londres, Edmund Bollifant. <hi rend="strong">D’après P. Thoen (art. cit., p. 312), on y trouve les fables n° 1‑18, n° 20-22, n° 24‑28, n° 30‑43, n° 45‑49, n° 51‑100 du premier <hi rend="i">Hecatomythium</hi> d’Abstemius, à partir d’une édition de l’<hi rend="i">Æsopus Dorpii</hi>.</hi></p>
+          <p>[1585] - William Bullokar, <hi rend="i">Æsop’s fables in true orthography with grammar-notes</hi>, Londres, Edmund Bollifant. D’après P. Thoen (art. cit., p. 312), on y trouve les fables n° 1‑18, n° 20-22, n° 24‑28, n° 30‑43, n° 45‑49, n° 51‑100 du premier <hi rend="i">Hecatomythium</hi> d’Abstemius, à partir d’une édition de l’<hi rend="i">Æsopus Dorpii</hi>.</p>
           <p/>
           <p>[1668-1692] – Jean de La Fontaine, <hi rend="i">Fables choisies et mises vers</hi>. Les fables que La Fontaine a ou est susceptible d’avoir empruntées à Abstemius sont, dans leur ordre de parution :</p>
           <list type="ul">
@@ -1330,72 +1326,102 @@
             <item>1678 (livres VII à XI) : « Les Vautours et les pigeons », VII, 7 (n° 96) ; « L’ingratitude des hommes envers la fortune », VII, 13 (n° 199) ; « La mort et le mourant », VIII, 1 (n° 99) ; « Les femmes et le secret », VIII, 6 (n° 129) ; « Le Rieur et les poissons », VIII, 8 (n° 118) ; « Les Obsèques de la lionne », VIII, 14 (n° 148) ; « L’âne et le chien », VIII, 17 (n° 109) ; « L’Avantage de la sience », VIII, 19 (n° 145) ; « Le Torrent et la rivière », VIII, 23 (n° 5) ; « Le fou qui vend la sagesse », IX, 8 (n° 185) ; « Rien de trop », IX, 11 (n° 186) ; « Le Cierge », IX, 12 (n° 54) ; « Le Milan et le Rossignol », IX, 18 (n° 92) ; « Le berger et son troupeau », IX, 19 (n° 127) ; « La Tortue et les deux canards », X, 2 (n° 108) ; « L’enfouisseur et son compère », X, 4 (n° 169) ; « L’araignée et l’hirondelle », X, 6 (n° 4) ; « Le Vieillard et les trois jeunes hommes », X, 8 (n° 167) ; « Le fermier, le chien et le renard », XI, 3 (n° 149) </item>
             <item>1692 (livre XII) : « L’aigle et la pie », XII, 11 (n° 26) ; « Belphégor », XII, 27 (n° 95).</item>
           </list>
-          <p rend="strong">[1677‑1678] – L. S. Desmay [Simon Gueulette], <hi rend="i">L’Esope François. Fables nouvelles</hi> et <hi rend="i">L’Esope du temps. Fables nouvelles</hi>, Paris, Vve F. Clousier et P. Bienfait. Réécriture en vers mêlés de nombreuses fables tirées du premier <hi rend="i">Hecatomythium</hi>. </p>
-          <p><hi rend="strong">Quoique le fabuliste ne reconnaisse pas sa dette à l’égard de son modèle, dans les cas suivants, l’imitation d’Abstemius par Desmay ne fait aucun doute</hi> : </p>
+          <p>[1677‑1678] – L. S. Desmay [Simon Gueulette], <hi rend="i">L’Esope François. Fables nouvelles</hi> et <hi rend="i">L’Esope du temps. Fables nouvelles</hi>, Paris, Vve F. Clousier et P. Bienfait. Réécriture en vers mêlés de nombreuses fables tirées du premier <hi rend="i">Hecatomythium</hi>. </p>
+          <p>Quoique le fabuliste ne reconnaisse pas sa dette à l’égard de son modèle, dans les cas suivants, l’imitation d’Abstemius par Desmay ne fait aucun doute : </p>
           <list type="ul">
-            <item><hi rend="strong">Dans <hi rend="i">L’Esope François</hi> : n° 1, « La Jeune Veuve amoureuse » (tirée d’Abstemius, n° 31) ; n° 3, « Le Bailly » (anecdote du chien poursuivi imitée d’Abtemius, n° 32) ; n° 5, « La Poutre, &amp; les Bœufs qui la trainent » (n° 11) ; n° 7, « L’Aigle &amp; le Peroquet » (n° 26) ; n° 8, « Les Chapons gras &amp; le maigre » (n° 10) ; n° 9, « La Pie &amp; la Colombe » (n° 6) ; n° 11, « Le Coucou &amp; l’Oyseau de Proye » (n° 7) ; n° 12, « Le Rat, né dans la Corbeille aux noix » (n° 1) ; n° 14, « L’hirondelle &amp; l’Araignée » (n° 4).</hi></item>
-            <item><hi rend="strong">Dans <hi rend="i">L’Esope du temps</hi> : n° 1, « La Priere indiscrette » (tirée d’Abstemius, n° 2) ; n° 4, « Le Torrent » (n° 5) ; n° 6, « La Guerre de l’Aigle et du Lion, ou La Ligue inutile » (n° 21) ; n° 7, «  Le Moucheron » (n° 16) ; n° 8, « La Friture » (n° 20) ; n° 13, « Les Loirs » (n° 35).</hi></item>
+            <item>Dans <hi rend="i">L’Esope François</hi> : n° 1, « La Jeune Veuve amoureuse » (tirée d’Abstemius, n° 31) ; n° 3, « Le Bailly » (anecdote du chien poursuivi imitée d’Abtemius, n° 32) ; n° 5, « La Poutre, &amp; les Bœufs qui la trainent » (n° 11) ; n° 7, « L’Aigle &amp; le Peroquet » (n° 26) ; n° 8, « Les Chapons gras &amp; le maigre » (n° 10) ; n° 9, « La Pie &amp; la Colombe » (n° 6) ; n° 11, « Le Coucou &amp; l’Oyseau de Proye » (n° 7) ; n° 12, « Le Rat, né dans la Corbeille aux noix » (n° 1) ; n° 14, « L’hirondelle &amp; l’Araignée » (n° 4).</item>
+            <item>Dans <hi rend="i">L’Esope du temps</hi> : n° 1, « La Priere indiscrette » (tirée d’Abstemius, n° 2) ; n° 4, « Le Torrent » (n° 5) ; n° 6, « La Guerre de l’Aigle et du Lion, ou La Ligue inutile » (n° 21) ; n° 7, «  Le Moucheron » (n° 16) ; n° 8, « La Friture » (n° 20) ; n° 13, « Les Loirs » (n° 35).</item>
           </list>
-          <p><hi rend="strong">L’imitation d’Abstemius par Desmay est plus libre mais néanmoins probable dans les fables qui suivent</hi> :</p>
+          <p>L’imitation d’Abstemius par Desmay est plus libre mais néanmoins probable dans les fables qui suivent :</p>
           <list type="ul">
-            <item><hi rend="strong">Dans <hi rend="i">L’Esope François</hi> : n° 2, « Les Nouvellistes » (fable du renard et des mouches sans doute inspirée par le <hi rend="i">proemium</hi> du premier <hi rend="i">Hecatomythium</hi>) ; n° 4, « Le Loup &amp; le Chien » (n° 9) ; n° 10, « Le Chardonneret » (n° 43).</hi></item>
-            <item><hi rend="strong">Dans <hi rend="i">L’Esope du temps</hi> : n° 2, « L’Eloge de la Fable » (fable de l’orateur athénien, sans doute inspirée par le <hi rend="i">proemium</hi> du premier <hi rend="i">Hecatomythium</hi>) ; n° 12, « La Hupe et l’Autruche » (n° 45).</hi></item>
+            <item>Dans <hi rend="i">L’Esope François</hi> : n° 2, « Les Nouvellistes » (fable du renard et des mouches sans doute inspirée par le <hi rend="i">proemium</hi> du premier <hi rend="i">Hecatomythium</hi>) ; n° 4, « Le Loup &amp; le Chien » (n° 9) ; n° 10, « Le Chardonneret » (n° 43).</item>
+            <item>Dans <hi rend="i">L’Esope du temps</hi> : n° 2, « L’Eloge de la Fable » (fable de l’orateur athénien, sans doute inspirée par le <hi rend="i">proemium</hi> du premier <hi rend="i">Hecatomythium</hi>) ; n° 12, « La Hupe et l’Autruche » (n° 45).</item>
           </list>
           <p>[1692] – Robert l’Estrange, <hi rend="i">Fables of Æsop and other eminent Mythologists</hi>, Londres, Richard Sare. Contient une section de fables explicitement attribuée à Abstemius, et reprenant le premier <hi rend="i">Hecatomythium</hi> (fables n° 253 à 351) ; les fables d’Abstemius n° 18 ; n° 27 ; n° 33 ; n° 47 ; n° 53 ; n° 68 et n° 87 ne sont pas traduites. La section s’ouvre sur le traitement autonome de deux fables évoquées par Abstemius dans son <hi rend="i">proemium</hi>. L’Estrange inclut également dans cette section quelques fables d’une autre provenance (n° 284 ; n° 313 ; n° 319 ; n° 323).</p>
-          <p/>
-          <p rend="bg_ffff00">Fable de Melanchthon.</p>
         </div>
         <div>
           <head>Études</head>
-          <bibl><hi rend="sc">Arens</hi>, J.C., « Fables van Babrius en Abstemius bij Revius », <title>Neophilologus</title>, n° 45, 1961, p. 333-336.</bibl>
-          <p rend="analysebiblio">Discussion of a number of fables found in Revius, among which are Babrius 42, P328 “Dog at the Banquet” (TMI J874). Two fables from Abstemius are compared to Revius’ versions. (P. C.)</p>
-          <bibl><hi rend="sc">Castellani</hi>, G., « Lorenzo Abstemio e la Tipografia del Soncino a Fano », <title>La Bibliofilia</title>, XXXI, 1929, p. 413-423, p. 441-460, et XXXII, 1930, p. 113-130, p. 145-160. <hi rend="sc">Gellert</hi>, C.F., <title>De poesi Apologorum Eorumque scriptoribus</title>, Lipsiæ, 1744. <hi rend="sc">Fumaroli</hi>, Marc, « Les <title>Fables</title> et la tradition humaniste de l’apologue ésopique », complément de son introduction aux <title>Fables</title> de La Fontaine, Librairie générale française, coll. « Pochothèque. Classiques modernes », 1995, p. <hi rend="sc">lxxx-lxxxii.</hi></bibl>
-          <p rend="analysebiblio">Malgré des inexactitudes sur les fables d’Abstemius proprement dites (en prose et non en vers), l’auteur offre une stimulante analyse des textes liminaires de <hi rend="i">L’Hecatomythium</hi> ; il défend l’idée que le fabuliste se livre à une promotion esthétique du genre, en lien avec la pensée humaniste. (T. R.)</p>
-          <bibl><hi rend="sc">Joly</hi>, A., « Sur un fabuliste latin du <num>xv<hi rend="sup">e</hi></num> siècle. Abstemius et ses fables », <title>Mémoires de l’Académie nationale des sciences, arts et belles-lettres de Caen</title>, XXXVIII, 1883, p. 306-335.</bibl>
-          <p rend="analysebiblio">Présentation de la morale des fables d’Abstemius, en lien avec leur contexte historique traversé par des tensions et des incertitudes. Texte de vulgarisation plus que d’érudition. (T. R.)</p>
-          <p/>
-          <p><hi rend="sc">Galand-Hallyn</hi>, Perrine et <hi rend="sc">Hallyn</hi>, Fernand (éd.) <hi rend="i">Poétiques de la Renaissance: le modèle italien, le monde franco-bourguignon et leur héritage en France au XVIe siècle</hi>, préf. Terence Cave, Genève, Droz, 2001.</p>
-          <p rend="analysebiblio">Chapitre de Jean Vignes sur la fable, p. 373-379, qui reprend l’idée de Marc Fumaroli selon laquelle Abstemius procèderait dans sa préface à une promotion du genre de l’apologue. (T. R.)</p>
-          <p/>
-          <p><hi rend="sc">Marsh</hi>, David, « Æsop and the humanist apologue », <hi rend="i">Renaissance Studies</hi>, vol. 17, n° 1, 2003, p. 9-26.</p>
-          <bibl><hi rend="sc">Menini</hi>, Romain, &amp; <hi rend="sc">Pédeflous</hi>, Olivier, « “Æsope le François”. Autour de dix-sept fables éditées par Rabelais (1534) », [<title>in</title>] Frédéric <hi rend="sc">Calas</hi>, &amp; Nora <hi rend="sc">Viet</hi> (dir.), <title>Séductions de la fable, d’Ésope à La Fontaine</title>, Paris, Classiques Garnier, « Études et essais sur la Renaissance. Éthique et poétique des genres (2) », 2015.</bibl>
-          <p rend="analysebiblio">Étude de dix-sept fables ajoutées aux<hi rend="strong"><hi rend="i"> Fantastiques batailles des grands Roys Rodilardus et Croacus</hi>, Lyon, François Juste, 1534, dont certaines ont été traduites de la première édition française du second <hi rend="i">Hecatomythium</hi> d’Abstemius, publié par Gryphe en 1532. Ces fables, qui ne mettent en scène que des rats et des grenouilles, présenteraient la première traduction partielle en français de l’<hi rend="i">Æsopus Dorpii</hi>, et témoigneraient, comme l’attestent des rapprochements avec son œuvre , de l’intérêt de Rabelais pour la tradition ésopique. (T.R.)</hi></p>
-          <bibl><hi rend="sc">Mombello</hi>, Gianni, « Rabelais lecteur de Lorenzo Abstemio ? », dans <title>L’Humanisme lyonnais au <num>xvi<hi rend="sup">e</hi></num> siècle</title>, Grenoble, Presses Universitaires de Grenoble, 1994, p. 63-86.</bibl>
-          <p rend="analysebiblio">Rapprochement entre trois textes : le chapitre III de <hi rend="i">Pantagruel</hi>, la fable 3 du second <hi rend="i">Hecatomythium</hi>, deux œuvres publiées par Gryphe, ainsi que <hi rend="i">L’Alda</hi>, comédie de Guillaume de Blois datant du XII<hi rend="sup">e</hi> siècle. Article extrêmement documenté, qui offre notamment les références des Index dans lesquels les fables d’Abstemius ont été condamnées. (T.R.)</p>
-          <bibl><hi rend="sc">Probyn</hi>, Clive, « Source for Swift’s Fable of the Bitches », <title>Notes and Queries</title>, n° 15, 1968, p. 206.</bibl>
-          <p rend="analysebiblio">Swift’s poem against the repeal of the Test Act has as its source a fable by Abstemius as translated by Roger L’Estrange (n° 323). (P. C.)</p>
-          <bibl><hi rend="sc">Rolland</hi>, Tiphaine, « Le destin facétieux des fables (<num>xv<hi rend="sup">e</hi></num>-<num>xvii<hi rend="sup">e</hi></num> siècles). Croisements génériques et déplacements poétiques, d’Abstemius à La Fontaine », <title>Le Fablier</title>, n° 26, 2015,<hi rend="color_ff0000"> à préciser.</hi> 
-            <hi rend="sc">Schmaus</hi>, A., « Lessings Fabeln bei Disitej Obradovič», <title>Zeitschrift für slawische Philologie</title>, n° 8, 1931, 1-47.</bibl>
-          <p rend="analysebiblio">The relationship of Lessing to Obradovič is carefully examined. Obradovič’s collection owes much to Phædrus, Abstemius, and others as well as Lessing, but Lessing was the superlative fabulist for him, even though it appears that Obradovič did not know Lessing’s theoretical writings on the fable. Schmaus identifies 28 Lessing fables as translated or closely paraphrased in Obradovič and considerable influence in others. Problems of style are extensively discussed with the conclusion that the fables are better in Serbian for not having been slavishly translated. (P. C.)</p>
-          <bibl><hi rend="sc">Soullié</hi>, Prosper, <title>La Fontaine et ses devanciers, ou Histoire de l’apologue jusqu’à La Fontaine inclusivement, thèse pour le doctorat, soutenue devant la Faculté des lettres de Nancy, par P. Soullié,...</title>, Paris, A. Durand, 1861.</bibl>
-          <p rend="analysebiblio">Critique stylistique de deux fables d’Abstemius reprises ensuite par La Fontaine : celle de « La Jeune veuve » (n° 14), et « Les Femmes et le secret » (n° 129). Puis étude de la fable « Le Vieillard et la mort » (n° 99), et « Le Vieillard et les trois jeunes hommes ». (T. R.)</p>
-          <bibl><hi rend="sc">Tournoy</hi>, G., « Laurentius Abstemius », <title>Bulletin de l’Institut historique belge de Rome</title>, fasc. XLII, 1972, p.189-210.</bibl>
-          <p rend="analysebiblio">Aborde la place d’Abstemius dans la sociabilité lettrée de son temps, mais n’évoque pas directement les fables. (T. R.)</p>
-          <bibl><hi rend="sc">Thoen</hi>, Paul, <title>Het eerste</title> Hecatomythium<title> van Laurentius Abstemius Maceratensis</title>, proeschrift aangeboden tot het verkrijgen de graad van Licentiaat in de Wijsbegeerte en Letteren, groep C, Klassike Filologie, Louvain, 1967.</bibl>
-          <p rend="analysebiblio">Mémoire de licence demeuré inédit, qui propose à ce jour l’étude la plus complète du recueil d’Abstemius et de sa diffusion dans les compilations européennes. (T.R.)</p>
-          <bibl>---------------, « <title>Æsopus Dorpii</title>: Essai sur l’Ésope latin des temps modernes. », <title>Humanistica Lovaniensia</title>, XIX, 1970, p. 241‑316.</bibl>
+          <p rend="noindent"><hi rend="sc">Arens</hi>, J.C., « Fables van Babrius en Abstemius bij Revius », <title>Neophilologus</title>, n° 45, 1961, p. 333-336.</p>
+          <list>
+            <item rend="analysebiblio">Discussion of a number of fables found in Revius, among which are Babrius 42, P328 “Dog at the Banquet” (TMI J874). Two fables from Abstemius are compared to Revius’ versions. (P. C.)</item>
+          </list>
+          <p rend="noindent"><hi rend="sc">Castellani</hi>, G., « Lorenzo Abstemio e la Tipografia del Soncino a Fano », <title>La Bibliofilia</title>, XXXI, 1929, p. 413-423, p. 441-460, et XXXII, 1930, p. 113-130, p. 145-160.</p>
+          <p rend="noindent"><hi rend="sc">Gellert</hi>, C.F., <title>De poesi Apologorum Eorumque scriptoribus</title>, Lipsiæ, 1744.</p>
+          <p rend="noindent"><hi rend="sc">Fumaroli</hi>, Marc, « Les <title>Fables</title> et la tradition humaniste de l’apologue ésopique », complément de son introduction aux <title>Fables</title> de La Fontaine, Librairie générale française, coll. « Pochothèque. Classiques modernes », 1995, p. <hi rend="sc">lxxx-lxxxii.</hi></p>
+          <list>
+            <item>Malgré des inexactitudes sur les fables d’Abstemius proprement dites (en prose et non en vers), l’auteur offre une stimulante analyse des textes liminaires de <hi rend="i">L’Hecatomythium</hi> ; il défend l’idée que le fabuliste se livre à une promotion esthétique du genre, en lien avec la pensée humaniste. (T. R.)</item>
+          </list>
+          <p rend="noindent"><hi rend="sc">Joly</hi>, A., « Sur un fabuliste latin du <num>xv<hi rend="sup">e</hi></num> siècle. Abstemius et ses fables », <title>Mémoires de l’Académie nationale des sciences, arts et belles-lettres de Caen</title>, XXXVIII, 1883, p. 306-335.</p>
+          <list>
+            <item>Présentation de la morale des fables d’Abstemius, en lien avec leur contexte historique traversé par des tensions et des incertitudes. Texte de vulgarisation plus que d’érudition. (T. R.)</item>
+          </list>
+          <p rend="noindent"><hi rend="sc">Galand-Hallyn</hi>, Perrine et <hi rend="sc">Hallyn</hi>, Fernand (éd.) <hi rend="i">Poétiques de la Renaissance: le modèle italien, le monde franco-bourguignon et leur héritage en France au XVIe siècle</hi>, préf. Terence Cave, Genève, Droz, 2001.</p>
+          <list>
+            <item>Chapitre de Jean Vignes sur la fable, p. 373-379, qui reprend l’idée de Marc Fumaroli selon laquelle Abstemius procèderait dans sa préface à une promotion du genre de l’apologue. (T. R.)</item>
+          </list>
+          <p rend="noindent"><hi rend="sc">Marsh</hi>, David, « Æsop and the humanist apologue », <hi rend="i">Renaissance Studies</hi>, vol. 17, n° 1, 2003, p. 9-26.</p>
+          <p rend="noindent"><hi rend="sc">Menini</hi>, Romain, &amp; <hi rend="sc">Pédeflous</hi>, Olivier, « “Æsope le François”. Autour de dix-sept fables éditées par Rabelais (1534) », [<title>in</title>] Frédéric <hi rend="sc">Calas</hi>, &amp; Nora <hi rend="sc">Viet</hi> (dir.), <title>Séductions de la fable, d’Ésope à La Fontaine</title>, Paris, Classiques Garnier, « Études et essais sur la Renaissance. Éthique et poétique des genres (2) », 2015.</p>
+          <list>
+            <item>Étude de dix-sept fables ajoutées aux <hi rend="i">Fantastiques batailles des grands Roys Rodilardus et Croacus</hi>, Lyon, François Juste, 1534, dont certaines ont été traduites de la première édition française du second <hi rend="i">Hecatomythium</hi> d’Abstemius, publié par Gryphe en 1532. Ces fables, qui ne mettent en scène que des rats et des grenouilles, présenteraient la première traduction partielle en français de l’<hi rend="i">Æsopus Dorpii</hi>, et témoigneraient, comme l’attestent des rapprochements avec son œuvre , de l’intérêt de Rabelais pour la tradition ésopique. (T.R.)</item>
+          </list>
+          <p rend="noindent"><hi rend="sc">Mombello</hi>, Gianni, « Rabelais lecteur de Lorenzo Abstemio ? », dans <title>L’Humanisme lyonnais au <num>xvi<hi rend="sup">e</hi></num> siècle</title>, Grenoble, Presses Universitaires de Grenoble, 1994, p. 63-86.</p>
+          <list>
+            <item>Rapprochement entre trois textes : le chapitre III de <hi rend="i">Pantagruel</hi>, la fable 3 du second <hi rend="i">Hecatomythium</hi>, deux œuvres publiées par Gryphe, ainsi que <hi rend="i">L’Alda</hi>, comédie de Guillaume de Blois datant du XII<hi rend="sup">e</hi> siècle. Article extrêmement documenté, qui offre notamment les références des Index dans lesquels les fables d’Abstemius ont été condamnées. (T.R.)</item>
+          </list>
+          <p rend="noindent"><hi rend="sc">Probyn</hi>, Clive, « Source for Swift’s Fable of the Bitches », <title>Notes and Queries</title>, n° 15, 1968, p. 206.</p>
+          <list>
+            <item>Swift’s poem against the repeal of the Test Act has as its source a fable by Abstemius as translated by Roger L’Estrange (n° 323). (P. C.)</item>
+          </list>
+          <p rend="noindent"><hi rend="sc">Rolland</hi>, Tiphaine, « <ref target="http://www.academia.edu/18871740/2015_-_Le_destin_facétieux_des_fables_dAbstemius_à_La_Fontaine_Le_Fablier._Revue_des_Amis_de_Jean_de_La_Fontaine_ISSN_0996-6560_n_26_2015_p._53-85">Le destin facétieux des fables (<num>xv<hi rend="sup">e</hi></num>-<num>xvii<hi rend="sup">e</hi></num> siècles). Croisements génériques et déplacements poétiques, d’Abstemius à La Fontaine</ref> », <title>Le Fablier</title>, n° 26, 2015, p. 53-85.</p> 
+          <p rend="noindent"><hi rend="sc">Schmaus</hi>, A., « Lessings Fabeln bei Disitej Obradovič», <title>Zeitschrift für slawische Philologie</title>, n° 8, 1931, 1-47.</p>
+          <list>
+            <item>The relationship of Lessing to Obradovič is carefully examined. Obradovič’s collection owes much to Phædrus, Abstemius, and others as well as Lessing, but Lessing was the superlative fabulist for him, even though it appears that Obradovič did not know Lessing’s theoretical writings on the fable. Schmaus identifies 28 Lessing fables as translated or closely paraphrased in Obradovič and considerable influence in others. Problems of style are extensively discussed with the conclusion that the fables are better in Serbian for not having been slavishly translated. (P. C.)</item>
+          </list>
+          <p rend="noindent"><hi rend="sc">Soullié</hi>, Prosper, <title>La Fontaine et ses devanciers, ou Histoire de l’apologue jusqu’à La Fontaine inclusivement, thèse pour le doctorat, soutenue devant la Faculté des lettres de Nancy, par P. Soullié,...</title>, Paris, A. Durand, 1861.</p>
+          <list>
+            <item>Critique stylistique de deux fables d’Abstemius reprises ensuite par La Fontaine : celle de « La Jeune veuve » (n° 14), et « Les Femmes et le secret » (n° 129). Puis étude de la fable « Le Vieillard et la mort » (n° 99), et « Le Vieillard et les trois jeunes hommes ». (T. R.)</item>
+          </list>
+          <p rend="noindent"><hi rend="sc">Tournoy</hi>, G., « Laurentius Abstemius », <title>Bulletin de l’Institut historique belge de Rome</title>, fasc. XLII, 1972, p.189-210.</p>
+          <list>
+            <item>Aborde la place d’Abstemius dans la sociabilité lettrée de son temps, mais n’évoque pas directement les fables. (T. R.)</item>
+          </list>
+          <p rend="noindent"><hi rend="sc">Thoen</hi>, Paul, <title>Het eerste</title> Hecatomythium<title> van Laurentius Abstemius Maceratensis</title>, proeschrift aangeboden tot het verkrijgen de graad van Licentiaat in de Wijsbegeerte en Letteren, groep C, Klassike Filologie, Louvain, 1967.</p>
+          <list>
+            <item>Mémoire de licence demeuré inédit, qui propose à ce jour l’étude la plus complète du recueil d’Abstemius et de sa diffusion dans les compilations européennes. (T.R.)</item>
+          </list>
+          <p rend="noindent">---------------, « <title>Æsopus Dorpii</title>: Essai sur l’Ésope latin des temps modernes. », <title>Humanistica Lovaniensia</title>, XIX, 1970, p. 241‑316.</p>
         </div>
       </div>
     </front>
     <body>
       <div>
         <head rend="uc">[Hecatomythivm primvm]</head>
-        <p rend="intertitresimprimeur">Fabvlæ per latinissimvm virvm Lavrentivm Abstemivm nvper composite.</p>
-        <p rend="intertitresimprimeur">Fabvlæ ex græco in latinvm per Lavrentivm Vallam virvm clarissimvm versæ.</p>
-        <p/>
-        <l met="hexa" ana="dactyl"><space rend="tab">    </space>Ontinam [<hi rend="i">sic</hi>] sese posset spectare latinum</l>
-        <l met="penta"><space rend="tab">    </space>Nobis qui Grecæ [<hi rend="i">sic</hi>] tradidit ista prior.</l>
-        <l met="hexa" ana="dactyl"><space rend="tab">    </space>Diceret is credas hinc græca Thalia ualeto</l>
-        <l met="penta"><space rend="tab">    </space>Cultius hæc quoniam musa latina canit.</l>
-        <p/>
-        <p rend="proseepitre">Dominicus Palladius Soranus Pollioni Vadio, sacerdoti uenerando, S.P.D.</p>
-        <p rend="proseepitre">Iam pridem tuo sermoni de Abstemio frequenti litteratorum consessu Pollio uenerande non inuitus interfui. Quum minime prætextatis (ut ita dicam) laudibus hominem celebrares adeoque in arcem euasisti, ut nemo sane (mea sententia) eum cumulatius laudare potuerit. Mox inde secedens diu hæc omnia mecum animo uolutabam unde tanta conflueret laudationis abundantia, unde tanta non uulgaris obseruatio emanaret, unde denique amicitia adeo perfecta exoriretur. Proculdubio non aliunde mecum tandem collegi, quam ex præclaræ eius uirtutis nomine proficisci, cuius quidem uis magna et præpotens est. Quamobrem non possum profecto non suspicere ingenium tuum amabile, tuumque animum uirtutibus fultum diligentius non admirari, qui neque ambitione neque inuidia neque aliquo alio liuore deuincitur. Siquidem omnes quas meretur Abstemius noster laudes non transis silentio immo ad illas ipsas cumulandas ob eius incredibilem eloquentiam singularemque doctrinam ultro accedis, idque haud abre, quum pater omnium elegantiarum atque idem leporum omnium merito sit et habeatur. Et ut hæc clariora luce non officii gratia aut temere dicantur, quotidie quodammodo aliqua eius laborum monumenta existere uidemus, quæ undique perfecta uerborum concinnitate perspicacissimisque sententiis scatent. Nam quid modo dicam de hoc apologorum libello nuper impresso, in quo perspicua ac insignis eius ingenii amœnitas non absque laude maxima redundare uidetur ? Quare non uereor, ut is remisso cuiuscunque animo pessum eat Abstemioque (absit inuidia uerbo) omnium quam iucundissimo detrahatur. Cui et te et me ob tanti eius nominis celebritatem nulla umquam in re defuturos esse liquido constabit. Vale.</p>
-        <p/>
-        <p rend="proseepitre">Laurentius Abstemius Octauiano Vbaldino comiti Mercatelli S.P.D.</p>
-        <p rend="proseepitre">EDiturus hunc apologorum libellum, quem de numero fabularum Hecatomythium nuncupaui, multum diuque dubitaui Octauiane princeps inclyte, tuo ne eum nomini potissimum dedicarem. Nam quom tuam in me non sine plurimis beneficiis perspicerem beniuolentiam non aliquid mearum uigiliarum tibi deuouere, ingratissimi hominis esse uidebatur. Rursus quom tuorum in me officiorum numerum diuinasque uirtutes tuas mecum ipse reuoluerem, indignum tantis meritis, tantaque sapientia munusculum hoc esse cernebam. Hanc tandem dubitationem meam amouit humanitas et prudentia tua, qua non tam res tibi dono datas, quam offerentium uoluntatem soles inspicere. Addidit quoque mihi animum Guidus baldus clarissimus dux, et princeps meus omni laude maior, qui opusculum meum de non nullis locis obscuris superiori anno ei dedicatum uultu ita placido et serena fronte suscepit, ut sperare merito possem, hoc tibi qualecunque fore non ingratum. Non mediocriter etiam me incitarunt Georgius Emus pro Venetis hic agens legatus, non solum patricia nobilitate, uerum etiam bonarum artium studiis clarus, et Carolus Verardus Cæsenas Archidiaconus Cæsenæ et Alexandri pontificis maximi cubicularius, uir omni litterarum genere præstans, nec non Renatus Melioratus et Robertus Vrsus Ariminenses iuris consulti clarissimi, nec minus, quæ humanitatis uocant, studiis eruditi. Hi enim aliique complures optimi harum rerum censores, quom hunc libellum legissent, multis me uerbis sunt ad æditionem cohortati. Non putaui igitur tam humano principi hoc munus ingratum futurum, quod tot eruditis uiris ante placuisse cognoueram. Accipe igitur hoc, quicquid est libelli ab Abstemio tuo, cuius mentem animumque si penitus posses inspicere, in hac tenui re magnum munus tibi iudicares oblatum. Nequis autem inutilem et inanem hunc meum scribendi laborem existimaret, præfatiunculam quandam præponendam censui, qua intelligeretur doctos etiam et claros uiros in magnis rebus huiusmodi fabulis non uoluptatis tantum, uerumetiam utilitatis gratia delectatos. Sedulo dedimus operam ut seria potius quam iocos saperent, unde ridiculas multas, quæ inter componendum sese mihi offerebant consulto præterii, quia nimis lasciuæ et tanti principis grauitate mihi uidebantur indignæ. Non tamen ita agrestis esse uolui quin eas aliqua urbanitate aspergerem, maxime ad principem scribens, quom principes curarum mole pressi soleant interdum recreandi animi gratia iocos appetere. Vale.</p>
-        <p/>
-        <p rend="proseepitre">Eiusdem Abstemii proœmium.</p>
-        <p rend="proseepitre">COgitanti mihi uaria scriptorum genera, qui ut humanæ uitæ prodessent, cogitationes suas litterarum mandauere memoriæ, qui Apologos scripsere, non postremo loco digni esse uidentur. Non enim modo mortalium animos incredibili quadam afficiunt uoluptate, uerumetiam ad res honestas utilesque peragendas suis fabellis magis quam philosophi suis præceptis alliciunt. Nam ita in legentium animos quadam iocunditate penetrant, et quibusdam similitudinibus, quæ maxime ad commouendos animos ualent, quid uitandum faciendumque sit, ostendunt ut omnes etiam inuiti illis assentire cogantur. Sensus enim audiendi fastidiosissimus res etiam utiles honestasque haud facile admittit, ni fuerint aliqua urbanitate conditæ. Testis quidam orator Atheniensis, qui ad Athenienses uerba faciens, quom eos minus attentos uideret, rogauit ut saltem fabulam audire dignarentur. Quo impetrato « Ceres inquit et Irundo et Anguilla simul iter facientes ad quendam fluuium peruenerunt. Irundo quidem superuolauit, Anguilla autem amnem tranauit. » Quod quom dixisset obticuit. Interrogantibus autem illis quid Ceres egisset. « Vobis inquit dea uestra succensuit, qui eos, qui uobis utilia suadent, audire nolentes, tam attentis auribus confabulantes auditis. » Quantam uim apologi habeant ad animos commouendos, quom multis possem, tribus ero contentus exemplis ostendere. Samiis rectorem populi morti addicere uolentibus, Æsopus hac fabella dissuasit dicens. « Vulpem quandam fluuium transeuntem in lacunam fuisse propulsam. Vnde quom exire non posset, tenaci limo retenta muscarum affligebatur aculeis. Quod Erinacius conspicatus misericordia motus est, interrogauitque an uellet, ut ab ea muscas abigeret. At illa abnuit dicens, ‘‘Hæ meo sanguine iam plenæ paruam mihi possunt inferre molestiam. Si autem has abegeris, aliæ familiae superuenient, quæ quicquid mihi superest sanguinis exhaurient.’’ Ita o uiri Samii uobis eueniet. Si enim hunc rectorem uestrum iam locupletem occideritis, alios eligatis necesse est, qui, dum se opibus uolent implere, quicquid hic uobis reliquit, eripient. » His uerbis moti Samii ab incepto destitere. Hac ratione adductus Tiberius Cæsar diuturnos magistratus dabat. Vnde (ut refert Iosephus) sub eo per uiginti annorum spatia per duos tantum præsides, Gratum scilicet et Pilatum, est gubernata Iudæa. Non parcit populis regnum breue ut inquit Statius. Himerenses Phalaridem, Agrigentinorum tyrannum ducem exercitus sui eligere uolentes Stesichorus pœta hoc apologo deterruit. « Equus dicens solus pascebat in prato. Adueniente autem Ceruo et pascua corrumpente, consuluit hominem, qua posset illum arte punire. Cui homo, ‘‘Si frenum inquit acceperis, et me armatum dorsum tuum ascendere permiseris.’’ Quom huic consilio esset obsecutus, Ceruum quidem hominis auxilio uictor abegit. Sed non amplius hominem dorso, non frenum depulit ore. Ita inquit Stesichorus uiri Himerenses uobis eueniet, si Phalaridem ducem efficietis. Hostes quidem uestros punietis, sed huic tyranno perpetuo seruietis. » Quibus uerbis territi Himerenses huiusmodi ducis eligendi consilium deposuere. Quom populus Romanus ab senatu secessisset, quod tributum et militiam toleraret, nec ullo pacto reduci posset, nonne Agrippa Menenius eum hoc apologo reuocauit ? « Olim inquiens Quirites humani artus uentrem ociosum et desidem intuentes ab eo discordarunt, nec amplius illi cibum ministrare decreuerunt. Sed quom ipsi quoque alimenta illi denegando, quæ per omnia membra deferuntur, deficerent, cum eo in gratiam redierunt. Eodem inquit modo Senatus et populus, quasi uenter et membra, alterum alterius auxilio indigent, et ut discordia intereunt, ita concordia ualent. » Qua fabula populus reuocatus cum senatu in gratiam rediit. Non immerito igitur non solum Græci et Latini pœte ut Hesiodus et Horatius huiusmodi fabulas suis operibus inseruerunt, uerumetiam maximi et celeberrimi philosophi ut Plato Aristoteles Plutarchus et multi alii, plurimum commendarunt, et ad institutionem moralis et ciuilis uitæ non minimum facere arbitrati sunt. Quocirca Omnibonus Leonicenus et Laurentius Valla uiri ætatis nostræ doctissimi paucos Æsopi apologos e Græco in Latinum uertere sibi laudi, cæteris uero uoluptati et utilitati fore non dubitarunt. Et iure quidem. Leguntur enim et in doctissimorum uirorum manibus cotidie uersantur. Non uideo igitur cur has componendo fabulas laude fraudari debeam, quam cæteri Latini ex translatione consecuti sunt nisi adeo inuidi simus, ut Latinis licere non putemus, quod Græcis est cum summa omnium laude concessum.</p>
+        <p rend="uc">Fabvlæ per latinissimvm virvm Lavrentivm Abstemivm nvper composite.</p>
+        <p rend="uc noindent">Fabvlæ ex græco in latinvm per Lavrentivm Vallam virvm clarissimvm versæ.</p>
+        <div type="poem">
+          <head>[Liminaires]</head>
+          <quote>
+            <l met="hexa" ana="dactyl">Ontinam [<hi rend="i">sic</hi>] sese posset spectare latinum</l>
+            <l met="penta">Nobis qui Grecæ [<hi rend="i">sic</hi>] tradidit ista prior.</l>
+            <l met="hexa" ana="dactyl">Diceret is credas hinc græca Thalia ualeto</l>
+            <l met="penta">Cultius hæc quoniam musa latina canit.</l>
+          </quote>
+          <div>
+            <head>[Epître de Dominicus Palladius Soranus à Pollion Vadius]</head>
+            <p>Dominicus Palladius Soranus Pollioni Vadio, sacerdoti uenerando, S.P.D.</p>
+            <p>Iam pridem tuo sermoni de Abstemio frequenti litteratorum consessu Pollio uenerande non inuitus interfui. Quum minime prætextatis (ut ita dicam) laudibus hominem celebrares adeoque in arcem euasisti, ut nemo sane (mea sententia) eum cumulatius laudare potuerit. Mox inde secedens diu hæc omnia mecum animo uolutabam unde tanta conflueret laudationis abundantia, unde tanta non uulgaris obseruatio emanaret, unde denique amicitia adeo perfecta exoriretur. Proculdubio non aliunde mecum tandem collegi, quam ex præclaræ eius uirtutis nomine proficisci, cuius quidem uis magna et præpotens est. Quamobrem non possum profecto non suspicere ingenium tuum amabile, tuumque animum uirtutibus fultum diligentius non admirari, qui neque ambitione neque inuidia neque aliquo alio liuore deuincitur. Siquidem omnes quas meretur Abstemius noster laudes non transis silentio immo ad illas ipsas cumulandas ob eius incredibilem eloquentiam singularemque doctrinam ultro accedis, idque haud abre, quum pater omnium elegantiarum atque idem leporum omnium merito sit et habeatur. Et ut hæc clariora luce non officii gratia aut temere dicantur, quotidie quodammodo aliqua eius laborum monumenta existere uidemus, quæ undique perfecta uerborum concinnitate perspicacissimisque sententiis scatent. Nam quid modo dicam de hoc apologorum libello nuper impresso, in quo perspicua ac insignis eius ingenii amœnitas non absque laude maxima redundare uidetur ? Quare non uereor, ut is remisso cuiuscunque animo pessum eat Abstemioque (absit inuidia uerbo) omnium quam iucundissimo detrahatur. Cui et te et me ob tanti eius nominis celebritatem nulla umquam in re defuturos esse liquido constabit. Vale.</p>
+          </div>
+          <div>
+            <head>[Epître d’Abstemius à Octavianus Ubaldus]</head>
+            <p>Laurentius Abstemius Octauiano Vbaldino comiti Mercatelli S.P.D.</p>
+            <p>EDiturus hunc apologorum libellum, quem de numero fabularum Hecatomythium nuncupaui, multum diuque dubitaui Octauiane princeps inclyte, tuo ne eum nomini potissimum dedicarem. Nam quom tuam in me non sine plurimis beneficiis perspicerem beniuolentiam non aliquid mearum uigiliarum tibi deuouere, ingratissimi hominis esse uidebatur. Rursus quom tuorum in me officiorum numerum diuinasque uirtutes tuas mecum ipse reuoluerem, indignum tantis meritis, tantaque sapientia munusculum hoc esse cernebam. Hanc tandem dubitationem meam amouit humanitas et prudentia tua, qua non tam res tibi dono datas, quam offerentium uoluntatem soles inspicere. Addidit quoque mihi animum Guidus baldus clarissimus dux, et princeps meus omni laude maior, qui opusculum meum de non nullis locis obscuris superiori anno ei dedicatum uultu ita placido et serena fronte suscepit, ut sperare merito possem, hoc tibi qualecunque fore non ingratum. Non mediocriter etiam me incitarunt Georgius Emus pro Venetis hic agens legatus, non solum patricia nobilitate, uerum etiam bonarum artium studiis clarus, et Carolus Verardus Cæsenas Archidiaconus Cæsenæ et Alexandri pontificis maximi cubicularius, uir omni litterarum genere præstans, nec non Renatus Melioratus et Robertus Vrsus Ariminenses iuris consulti clarissimi, nec minus, quæ humanitatis uocant, studiis eruditi. Hi enim aliique complures optimi harum rerum censores, quom hunc libellum legissent, multis me uerbis sunt ad æditionem cohortati. Non putaui igitur tam humano principi hoc munus ingratum futurum, quod tot eruditis uiris ante placuisse cognoueram. Accipe igitur hoc, quicquid est libelli ab Abstemio tuo, cuius mentem animumque si penitus posses inspicere, in hac tenui re magnum munus tibi iudicares oblatum. Nequis autem inutilem et inanem hunc meum scribendi laborem existimaret, præfatiunculam quandam præponendam censui, qua intelligeretur doctos etiam et claros uiros in magnis rebus huiusmodi fabulis non uoluptatis tantum, uerumetiam utilitatis gratia delectatos. Sedulo dedimus operam ut seria potius quam iocos saperent, unde ridiculas multas, quæ inter componendum sese mihi offerebant consulto præterii, quia nimis lasciuæ et tanti principis grauitate mihi uidebantur indignæ. Non tamen ita agrestis esse uolui quin eas aliqua urbanitate aspergerem, maxime ad principem scribens, quom principes curarum mole pressi soleant interdum recreandi animi gratia iocos appetere. Vale.</p>
+          </div>
+          <div>
+            <head>[<hi rend="i">Proemium</hi> d’Abstemius]</head>
+            <p>Eiusdem Abstemii proœmium.</p>
+            <p>COgitanti mihi uaria scriptorum genera, qui ut humanæ uitæ prodessent, cogitationes suas litterarum mandauere memoriæ, qui Apologos scripsere, non postremo loco digni esse uidentur. Non enim modo mortalium animos incredibili quadam afficiunt uoluptate, uerumetiam ad res honestas utilesque peragendas suis fabellis magis quam philosophi suis præceptis alliciunt. Nam ita in legentium animos quadam iocunditate penetrant, et quibusdam similitudinibus, quæ maxime ad commouendos animos ualent, quid uitandum faciendumque sit, ostendunt ut omnes etiam inuiti illis assentire cogantur. Sensus enim audiendi fastidiosissimus res etiam utiles honestasque haud facile admittit, ni fuerint aliqua urbanitate conditæ. Testis quidam orator Atheniensis, qui ad Athenienses uerba faciens, quom eos minus attentos uideret, rogauit ut saltem fabulam audire dignarentur. Quo impetrato « Ceres inquit et Irundo et Anguilla simul iter facientes ad quendam fluuium peruenerunt. Irundo quidem superuolauit, Anguilla autem amnem tranauit. » Quod quom dixisset obticuit. Interrogantibus autem illis quid Ceres egisset. « Vobis inquit dea uestra succensuit, qui eos, qui uobis utilia suadent, audire nolentes, tam attentis auribus confabulantes auditis. » Quantam uim apologi habeant ad animos commouendos, quom multis possem, tribus ero contentus exemplis ostendere. Samiis rectorem populi morti addicere uolentibus, Æsopus hac fabella dissuasit dicens. « Vulpem quandam fluuium transeuntem in lacunam fuisse propulsam. Vnde quom exire non posset, tenaci limo retenta muscarum affligebatur aculeis. Quod Erinacius conspicatus misericordia motus est, interrogauitque an uellet, ut ab ea muscas abigeret. At illa abnuit dicens, ‘‘Hæ meo sanguine iam plenæ paruam mihi possunt inferre molestiam. Si autem has abegeris, aliæ familiae superuenient, quæ quicquid mihi superest sanguinis exhaurient.’’ Ita o uiri Samii uobis eueniet. Si enim hunc rectorem uestrum iam locupletem occideritis, alios eligatis necesse est, qui, dum se opibus uolent implere, quicquid hic uobis reliquit, eripient. » His uerbis moti Samii ab incepto destitere. Hac ratione adductus Tiberius Cæsar diuturnos magistratus dabat. Vnde (ut refert Iosephus) sub eo per uiginti annorum spatia per duos tantum præsides, Gratum scilicet et Pilatum, est gubernata Iudæa. Non parcit populis regnum breue ut inquit Statius. Himerenses Phalaridem, Agrigentinorum tyrannum ducem exercitus sui eligere uolentes Stesichorus pœta hoc apologo deterruit. « Equus dicens solus pascebat in prato. Adueniente autem Ceruo et pascua corrumpente, consuluit hominem, qua posset illum arte punire. Cui homo, ‘‘Si frenum inquit acceperis, et me armatum dorsum tuum ascendere permiseris.’’ Quom huic consilio esset obsecutus, Ceruum quidem hominis auxilio uictor abegit. Sed non amplius hominem dorso, non frenum depulit ore. Ita inquit Stesichorus uiri Himerenses uobis eueniet, si Phalaridem ducem efficietis. Hostes quidem uestros punietis, sed huic tyranno perpetuo seruietis. » Quibus uerbis territi Himerenses huiusmodi ducis eligendi consilium deposuere. Quom populus Romanus ab senatu secessisset, quod tributum et militiam toleraret, nec ullo pacto reduci posset, nonne Agrippa Menenius eum hoc apologo reuocauit ? « Olim inquiens Quirites humani artus uentrem ociosum et desidem intuentes ab eo discordarunt, nec amplius illi cibum ministrare decreuerunt. Sed quom ipsi quoque alimenta illi denegando, quæ per omnia membra deferuntur, deficerent, cum eo in gratiam redierunt. Eodem inquit modo Senatus et populus, quasi uenter et membra, alterum alterius auxilio indigent, et ut discordia intereunt, ita concordia ualent. » Qua fabula populus reuocatus cum senatu in gratiam rediit. Non immerito igitur non solum Græci et Latini pœte ut Hesiodus et Horatius huiusmodi fabulas suis operibus inseruerunt, uerumetiam maximi et celeberrimi philosophi ut Plato Aristoteles Plutarchus et multi alii, plurimum commendarunt, et ad institutionem moralis et ciuilis uitæ non minimum facere arbitrati sunt. Quocirca Omnibonus Leonicenus et Laurentius Valla uiri ætatis nostræ doctissimi paucos Æsopi apologos e Græco in Latinum uertere sibi laudi, cæteris uero uoluptati et utilitati fore non dubitarunt. Et iure quidem. Leguntur enim et in doctissimorum uirorum manibus cotidie uersantur. Non uideo igitur cur has componendo fabulas laude fraudari debeam, quam cæteri Latini ex translatione consecuti sunt nisi adeo inuidi simus, ut Latinis licere non putemus, quod Græcis est cum summa omnium laude concessum.</p>
+          </div>
+        </div>
         <div type="poem" xml:id="abstemius-001">
           <head type="sur">Abstemius 1</head>
           <pb ed="perry" n="PØ"/>
@@ -2027,21 +2053,24 @@
       </div>
       <div>
         <head rend="uc">[Hecatomythivm secvndvm]</head>
-        <p rend="intertitresimprimeur">GRVNII COROCOCTAE PORCELLI TESTAMENTVM. LAVRENTII ABSTEMII MACERATENSIS HECATOMYTHIVM SECVNDVM. EIVSDEM LIBELLVS DE VERBIS COMMVNIBVS.</p>
-        <p/>
-        <p/>
-        <p rend="proseepitre">Laurentius Abstemius Magnifico ac strenuo uiro.D. Angelo Griphoni equiti aurato Sal. P. D.</p>
-        <p rend="proseepitre">Cogitanti mihi uir magnifice cui potissimum dono darem hunc apologorum libellum, quem ut alium a me superioribus annis editum, et illustri principi Octauiano dedicatum hecatomythium de numero Fabularum nuncupaui, tu non hoc modo, uerum etiam maiori dignus munere occurristi, non quia utroque parente clarissimo ortus sis (multi enim generosis orti parentibus et a maiorum uirtutibus degenerantes dedecori suis fuere), nec quia amplas diuitias et opes possides, (multi enim locupletissimi indocti incultique sunt, quos Diogenes ille Sinopæus oues aureo indutas uellere nuncupabat), sed quia ut multorum et Benentis nostri præcipue sermone accepi ita omni uirtutum genere fulges, ita litteras et litteratos amas, ut maiorum tuorum gloriam non modo æques, uerum etiam superes. Diuitiis uero non incumbis, ut draco ille peruigil, qui aurea mala seruabat, sed eas ad liberalitatem confers, et hoc famis tempore, ne homines inedia pereant, multorum succurris inopiæ. Cæteras uirtutes tuas laudo et admiror, hoc autem pietatis opus quibus laudibus efferre debeam, non inuenio. Sed tu non hoc facis, ut humanam gloriam consequaris. Non enim hic mercedem recepturus es. Non in eorum numero reponendus es, de quibus Vergilius,</p>
-        <l met="hexa" ana="dactyl"><space rend="tab">    </space><space rend="tab">    </space>Aut qui diuitiis soli incubuere repertis</l>
-        <l met="hexa" ana="dactyl"><space rend="tab">    </space><space rend="tab">    </space>Nec partem posuere suis, quæ maxima turba est.</l>
-        <p rend="proseepitre">Merito igitur te potissimum elegi, cui hanc meam inscriberem lucubratiunculam mei in te amoris et obseruantiæ testem. Tu uero pro tua humanitate hoc exiguum Abstemii tui munus læto animo et serena fronte suscipe, non rem, sed dantis animum, uoluntatemque considerans. Vale ex urbe Fanestri pridie kalendas Maii. MDV.</p>
-        <p/>
-        <p rend="intertitresimprimeur">M. Grvnii Corococtæ porcelli testamentvm.</p>
-        <p/>
-        <p rend="proseepitre">MARCVS GRVNNIVS Corococta porcellus testamentum fecit. Quoniam manu mea scribere non potui, scribendum dictaui. Magirus cocus dixit « Veni huc euersor domi, soli uertiator, fugitiue porcelle, et hodie tibi dirimo uitam. » Corococta porcellus dixit. « Si qua feci, si qua peccaui, si qua uasella pedibus meis confregi, rogo domine coce uitam peto, et concede roganti. » Magirus cocus dixit. « Transi puer, affer mihi de coquina cultrum, ut hunc porcellum faciam cruentum. » Porcellus comprehenditur a famulis, ductus sub die XVI kalendas lucerninas, ubi abundant cymæ, Clybanato et Piperato consulibus. Et ut uidit se moriturum esse, horæ spatium petiit, et cocum rogauit, ut testamentum facere posset. Clamauit ad se duos parentes ut de cibariis suis aliquid dimitteret eis. Qui ait « Patri meo Verrino Lardino delego dari glandis modios.XXX. et matri me[a]e Scrofæ delego dari lalluginis modios.XL. et sorori meæ Quirinæ, in cuius uotum interesse non potui, delego dari hordei modios.XXX. Et de uisceribus meis dabo sutoribus setas, rixoribus capitinas, surdis auriculas, causidicis et uerbosis linguam, bubulariis intestina, esiciariis femora, mulieribus lumbulos, pueris uesicam, puellis caudam, cynædis musculos, cursoribus et uenatoribus talos, latronibus ungulas. Et nec nominando coco legato dimitto popinam, et pistillum quem mecum atuleram de Tebeste usque ad Terrestre liget sibi collum de reste. Et uolo mihi fieri monumentum ex litteris aureis scriptum, M. Grunnius Corococta porcellus uixit annos DCCCCXCVIIII et VI. Menses quod si semis uixisset, mille annos implesset. Optimi amatores mei uel consules uitæ, rogo uos ut cum corpore meo bene faciatis, bene condiatis de bonis condimentis nuclei piperis et mellis, ut nomen meum in sempiternum nominetur. Mei domini et consobrini mei, qui in meo testamento interfuistis, iubete signari. » Lardio signauit, Ofellicus signauit, Cincinatus signauit, Lucanicus signauit, Tergillus signauit, Celsanus signauit, Nuptialicus signauit.</p>
-        <p rend="intertitresimprimeur">Explicit testamentVm porcelli sVb die XVI. kl lvcernarias Clybanato et Piperato consVlibVs.</p>
-        <p rend="intertitresimprimeur">HieronymVS in proœmio XII libri [Commen]tariorVm sVorVm in Esaiam</p>
-        <p rend="intertitresimprimeur">TestamentVm GrVnnii Corococtæ porcelli decantant in scolis pverorVm agmina cachinnantiVm.</p>
+        <p rend="uc">Grvnii Corococtae porcelli testamentvm. Lavrentii Abstemii Maceratensis Hecatomythivm secvndvm. Eivsdem libellvs de verbis commvnibvs.</p>
+        <div type="poem">
+          <head>[Épître d’Abstemius à D. Angelus]</head>
+          <p>Laurentius Abstemius Magnifico ac strenuo uiro.D. Angelo Griphoni equiti aurato Sal. P. D.</p>
+          <p>Cogitanti mihi uir magnifice cui potissimum dono darem hunc apologorum libellum, quem ut alium a me superioribus annis editum, et illustri principi Octauiano dedicatum hecatomythium de numero Fabularum nuncupaui, tu non hoc modo, uerum etiam maiori dignus munere occurristi, non quia utroque parente clarissimo ortus sis (multi enim generosis orti parentibus et a maiorum uirtutibus degenerantes dedecori suis fuere), nec quia amplas diuitias et opes possides, (multi enim locupletissimi indocti incultique sunt, quos Diogenes ille Sinopæus oues aureo indutas uellere nuncupabat), sed quia ut multorum et Benentis nostri præcipue sermone accepi ita omni uirtutum genere fulges, ita litteras et litteratos amas, ut maiorum tuorum gloriam non modo æques, uerum etiam superes. Diuitiis uero non incumbis, ut draco ille peruigil, qui aurea mala seruabat, sed eas ad liberalitatem confers, et hoc famis tempore, ne homines inedia pereant, multorum succurris inopiæ. Cæteras uirtutes tuas laudo et admiror, hoc autem pietatis opus quibus laudibus efferre debeam, non inuenio. Sed tu non hoc facis, ut humanam gloriam consequaris. Non enim hic mercedem recepturus es. Non in eorum numero reponendus es, de quibus Vergilius,</p>
+          <quote>
+            <l met="hexa" ana="dactyl">Aut qui diuitiis soli incubuere repertis</l>
+            <l met="hexa" ana="dactyl">Nec partem posuere suis, quæ maxima turba est.</l>
+          </quote>
+          <p>Merito igitur te potissimum elegi, cui hanc meam inscriberem lucubratiunculam mei in te amoris et obseruantiæ testem. Tu uero pro tua humanitate hoc exiguum Abstemii tui munus læto animo et serena fronte suscipe, non rem, sed dantis animum, uoluntatemque considerans. Vale ex urbe Fanestri pridie kalendas Maii. MDV.</p>
+        </div>
+        <div type="poem">
+          <head rend="uc">[M. Grunii Corococtæ porcelli testamentum]</head>
+          <p>MARCVS GRVNNIVS Corococta porcellus testamentum fecit. Quoniam manu mea scribere non potui, scribendum dictaui. Magirus cocus dixit « Veni huc euersor domi, soli uertiator, fugitiue porcelle, et hodie tibi dirimo uitam. » Corococta porcellus dixit. « Si qua feci, si qua peccaui, si qua uasella pedibus meis confregi, rogo domine coce uitam peto, et concede roganti. » Magirus cocus dixit. « Transi puer, affer mihi de coquina cultrum, ut hunc porcellum faciam cruentum. » Porcellus comprehenditur a famulis, ductus sub die XVI kalendas lucerninas, ubi abundant cymæ, Clybanato et Piperato consulibus. Et ut uidit se moriturum esse, horæ spatium petiit, et cocum rogauit, ut testamentum facere posset. Clamauit ad se duos parentes ut de cibariis suis aliquid dimitteret eis. Qui ait « Patri meo Verrino Lardino delego dari glandis modios.XXX. et matri me[a]e Scrofæ delego dari lalluginis modios.XL. et sorori meæ Quirinæ, in cuius uotum interesse non potui, delego dari hordei modios.XXX. Et de uisceribus meis dabo sutoribus setas, rixoribus capitinas, surdis auriculas, causidicis et uerbosis linguam, bubulariis intestina, esiciariis femora, mulieribus lumbulos, pueris uesicam, puellis caudam, cynædis musculos, cursoribus et uenatoribus talos, latronibus ungulas. Et nec nominando coco legato dimitto popinam, et pistillum quem mecum atuleram de Tebeste usque ad Terrestre liget sibi collum de reste. Et uolo mihi fieri monumentum ex litteris aureis scriptum, M. Grunnius Corococta porcellus uixit annos DCCCCXCVIIII et VI. Menses quod si semis uixisset, mille annos implesset. Optimi amatores mei uel consules uitæ, rogo uos ut cum corpore meo bene faciatis, bene condiatis de bonis condimentis nuclei piperis et mellis, ut nomen meum in sempiternum nominetur. Mei domini et consobrini mei, qui in meo testamento interfuistis, iubete signari. » Lardio signauit, Ofellicus signauit, Cincinatus signauit, Lucanicus signauit, Tergillus signauit, Celsanus signauit, Nuptialicus signauit.</p>
+          <p rend="uc">Explicit testamentvm porcelli svb die XVI. kl lvcernarias Clybanato et Piperato consvlibvs.</p>
+          <p rend="uc">Hieronymvs in proœmio XII libri [Commen]tariorvm svorvm in Esaiam</p>
+          <p rend="uc">Testamentvm Grvnnii Corococtæ porcelli decantant in scolis pverorvm agmina cachinnantivm.</p>
+        </div>
         <div type="poem" xml:id="abstemius-101">
           <head type="sur">Abstemius 101</head>
           <pb ed="perry" n="PØ"/>
@@ -2093,7 +2122,7 @@
         <div type="poem" xml:id="abstemius-109">
           <head type="sur">Abstemius 109</head>
           <pb ed="perry" n="PØ"/>
-          <head rend="uc">De cane adversvs lvPvm asino non opitvlante qvia sibi panem non dederat</head>
+          <head rend="uc">De cane adversvs lvpvm asino non opitvlante qvia sibi panem non dederat</head>
           <p>CAnis molossus non modo ad lupos sed etiam ad Vrsos expugnandos ualidus, cum Asino, qui saccum panibus plenum ferebat, longum iter fuerat ingressus. Inter eundum autem oborta fame, Asinus pratum offendens large uentrem uirentibus herbis impleuit. Canis autem Asinum rogabat, ut aliquantulum panis sibi daret, ne periret inedia. At ille non solum panem non dabat, sed canem irridens illi ut secum herbas pasceret, consulebat. Interim lupum aduenientem Asinus conspicatus Canem rogabat, ut sibi esset auxilio. Cui Canis « Tu mihi inquit consuluisti, ut aduersus famem herbas pascerem. Ego quoque tibi consulo, ut aduersus lupum te ferratis calcibus tuearis. » Hæc quom dixisset abiens ingratum comitem, et raptoris sui mox cibum futurum in pugna deseruit. Fabula indicat qui indigentibus expetita non præstat auxilia ab aliis quoque necessitatis tempore solere destitui.</p>
         </div>
         <div type="poem" xml:id="abstemius-110">
@@ -2635,45 +2664,53 @@
           <pb ed="perry" n="PØ"/>
           <head rend="uc">De femina maritvm ob pvllos male servatos verberante</head>
           <p>FEmina quædam uirilis animi maritum meticulosum et insulsum multis affecerat plagis, quia unum ex pullis gallinaceis, quos abiens ei seruandos reliquerat miluus abstulerat. Quare uxore iterum absente ne quem pullorum, quibus datus hærebat custos, auis inimica posset eripere uniuersos eodem filo ligatos diligentius custodiebat. Sed quum ex improuiso Miluus adueniens unum unguibus rapiens uellet auferre omnes pariter per inane portauit. Infelix maritus memor ob unum pullum amissum se ab uxore male mulctatum multo grauiora cœpit formidare. Satius ergo mori esse duxit, quam iterum uxoris iram experiri. Ficus quasdam melle et aromatibus optime conditas uasculo fictili mulier prudens condiderat, marito insulso, cuius gulam timebat, monito, ne quid inde esset, quum præsentaneum uenenum lateret in uasculo. Maritus mori cupiens ficus comedit uniuersas ratus eam optimam moriendi et uxoris iram euadendi uiam esse. Rediens mulier, quom pullos omnes a miluo ereptos esse cognosceret, sumpto ingenti baculo, maritum malum pullorum custodem uerberare decreuerat. Cui insipiens maritus « Noli inquit uxor me iam iam moriturum uerberare. Omne enim uasculi uenenum comedi, ut errati pœnas luam. » Tunc mulier ira in risum uersa marito ignouit qui pro pullis male seruatis alio pacto ei satisfecit. Fabula indicat aduersus insipientes nullum idoneum esse remedium.</p>
-          <p/>
-          <p/>
-          <p rend="intertitresimprimeur">Antonii Nicosantis clarissimi ivris consvlti</p>
-          <p/>
-          <l met="hexa" ana="dactyl">Seria mordaces curas fora iurgia lites</l>
-          <l met="penta">Qui fugis et uitæ gaudia pauca cupis,</l>
-          <l met="hexa" ana="dactyl">Romano lusus mixtos sale scomma iocosque</l>
-          <l met="penta">Hoc habet hoc sumas candide lector opus.</l>
-          <p/>
-          <p rend="intertitresimprimeur">Lvdovici Pallioli Fanensis.</p>
-          <p/>
-          <l met="hexa" ana="dactyl">Fabula diuersis centum uariata figuris</l>
-          <l met="penta">Cernitur hic uiuo lemmate grata nimis</l>
-          <l met="hexa" ana="dactyl">Quom sale sit multo tum confertissima, tumque</l>
-          <l met="penta">Moribus et docto non minus eloquio.</l>
-          <p/>
-          <p/>
-          <p rend="intertitresimprimeur">Lavs Deo</p>
-          <p/>
-          <p/>
-          <p rend="intertitresimprimeur">LAVRENTII ABSTEMII LIBELLVS. DE COMPLVRIBVS. VERBIS. COMVNIBVS QVÆ. NVNC. MALE APPELLANTVR. DEPONENTIA. AD SIGISMVNDVM SECRETARIVM APOSTOLICVM.</p>
-          <p/>
-          <p>[...]</p>
-          <p/>
-          <p rend="intertitresimprimeur">Iacobvs Constantivs Fanensis lectori.</p>
-          <l met="hexa" ana="dactyl">Abstemi nec digna obelo monimenta nec astro,</l>
-          <l met="penta">Libraque quod faciat nil tua Lector habet.</l>
-          <l met="hexa" ana="dactyl">Omnia cognouit perpendit singula, non est</l>
-          <l met="penta">Vel quota quæ carpi littera iure queat.</l>
-          <l met="hexa" ana="dactyl">Mecum igitur superos, linguæ Latialis honorem</l>
-          <l met="penta">Hunc hominem ut seruent, qui legis usque roga.</l>
-          <p/>
-          <p rend="intertitresimprimeur">Antonivs Nicosantes Fanestris.</p>
-          <l met="hexa" ana="dactyl">Qui rudis es, carpisque bonos hunc sume libellum,</l>
-          <l met="penta">Quo Laurens mores grammaticamque docet.</l>
-          <p/>
-          <p rend="intertitresimprimeur">Lvdovici Pallioli Fanestris distichon.</p>
-          <l met="hexa" ana="dactyl">Abstemi collecta uides monimenta diserti.</l>
-          <l met="penta">Præclarum quis non iudicet ingenium ?</l>
+        </div>
+        <div type="poem">
+          <head>[Postliminaires]</head>
+          <div>
+            <head rend="uc">Antonii Nicosantis clarissimi ivris consvlti</head>
+            <quote>
+              <l met="hexa" ana="dactyl">Seria mordaces curas fora iurgia lites</l>
+              <l met="penta">Qui fugis et uitæ gaudia pauca cupis,</l>
+              <l met="hexa" ana="dactyl">Romano lusus mixtos sale scomma iocosque</l>
+              <l met="penta">Hoc habet hoc sumas candide lector opus.</l>
+            </quote>
+          </div>
+          <div>
+            <head rend="uc">Lvdovici Pallioli Fanensis.</head>
+            <quote>
+              <l met="hexa" ana="dactyl">Fabula diuersis centum uariata figuris</l>
+              <l met="penta">Cernitur hic uiuo lemmate grata nimis</l>
+              <l met="hexa" ana="dactyl">Quom sale sit multo tum confertissima, tumque</l>
+              <l met="penta">Moribus et docto non minus eloquio.</l>
+            </quote>
+            <p rend="sc">Lavs Deo</p>
+          </div>
+          <div>
+            <head>[Traité d’Abstemius, <hi rend="i">De compluribus verbis communibus</hi>]</head>
+            <p rend="uc">LAVRENTII ABSTEMII LIBELLVS. DE COMPLVRIBVS. VERBIS. COMVNIBVS QVÆ. NVNC. MALE APPELLANTVR. DEPONENTIA. AD SIGISMVNDVM SECRETARIVM APOSTOLICVM.</p>
+            <p/>
+            <p>[...]</p>
+          </div>
+          <div>
+            <head rend="uc">Iacobvs Constantivs Fanensis lectori.</head>
+            <l met="hexa" ana="dactyl">Abstemi nec digna obelo monimenta nec astro,</l>
+            <l met="penta">Libraque quod faciat nil tua Lector habet.</l>
+            <l met="hexa" ana="dactyl">Omnia cognouit perpendit singula, non est</l>
+            <l met="penta">Vel quota quæ carpi littera iure queat.</l>
+            <l met="hexa" ana="dactyl">Mecum igitur superos, linguæ Latialis honorem</l>
+            <l met="penta">Hunc hominem ut seruent, qui legis usque roga.</l>
+          </div>
+          <div>
+            <head rend="uc">Antonivs Nicosantes Fanestris.</head>
+            <l met="hexa" ana="dactyl">Qui rudis es, carpisque bonos hunc sume libellum,</l>
+            <l met="penta">Quo Laurens mores grammaticamque docet.</l>
+          </div>
+          <div>
+            <head rend="uc">Lvdovici Pallioli Fanestris distichon.</head>
+            <l met="hexa" ana="dactyl">Abstemi collecta uides monimenta diserti.</l>
+            <l met="penta">Præclarum quis non iudicet ingenium ?</l>
+          </div>
         </div>
         <div type="poem" xml:id="abstemius-200">
           <head type="sur">[Abstemius 200]</head>
@@ -2716,9 +2753,8 @@
           <l met="hexa" ana="dactyl">Artibus ingenuis teneros ni inseueris annos</l>
           <l met="hexa" ana="dactyl">Non erit unde rudi manent de pectore fructus.</l>
           <p/>
-          <p rend="intertitresimprimeur">Finis.</p>
-          <p/>
-          <p rend="intertitresimprimeur">Impressvm Fani per Hieronymvm Soncinvm anno christianæ salvtis.M.D.V. die.VII. Maii.</p>
+          <p rend="sc">Finis.</p>
+          <p rend="sc">Impressvm Fani per Hieronymvm Soncinvm anno christianæ salvtis.M.D.V. die.VII. Maii.</p>
         </div>
       </div>
     </body>
