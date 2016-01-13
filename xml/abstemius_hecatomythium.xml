@@ -1343,7 +1343,7 @@
           <head>Études</head>
           <p rend="noindent"><hi rend="sc">Arens</hi>, J.C., « Fables van Babrius en Abstemius bij Revius », <title>Neophilologus</title>, n° 45, 1961, p. 333-336.</p>
           <list>
-            <item rend="analysebiblio">Discussion of a number of fables found in Revius, among which are Babrius 42, P328 “Dog at the Banquet” (TMI J874). Two fables from Abstemius are compared to Revius’ versions. (P. C.)</item>
+            <item>Discussion of a number of fables found in Revius, among which are Babrius 42, P328 “Dog at the Banquet” (TMI J874). Two fables from Abstemius are compared to Revius’ versions. (P. C.)</item>
           </list>
           <p rend="noindent"><hi rend="sc">Castellani</hi>, G., « Lorenzo Abstemio e la Tipografia del Soncino a Fano », <title>La Bibliofilia</title>, XXXI, 1929, p. 413-423, p. 441-460, et XXXII, 1930, p. 113-130, p. 145-160.</p>
           <p rend="noindent"><hi rend="sc">Gellert</hi>, C.F., <title>De poesi Apologorum Eorumque scriptoribus</title>, Lipsiæ, 1744.</p>
@@ -1397,13 +1397,13 @@
       <div>
         <head rend="uc">[Hecatomythivm primvm]</head>
         <p rend="uc">Fabvlæ per latinissimvm virvm Lavrentivm Abstemivm nvper composite.</p>
-        <p rend="uc noindent">Fabvlæ ex græco in latinvm per Lavrentivm Vallam virvm clarissimvm versæ.</p>
+        <p rend="uc">Fabvlæ ex græco in latinvm per Lavrentivm Vallam virvm clarissimvm versæ.</p>
         <div type="poem" xml:id="abstemius-liminaires-1">
           <head>[Liminaires]</head>
           <quote>
-            <l met="hexa" ana="dactyl">Ontinam [<hi rend="i">sic</hi>] sese posset spectare latinum</l>
+            <l met="hexa_dac">Ontinam [<hi rend="i">sic</hi>] sese posset spectare latinum</l>
             <l met="penta">Nobis qui Grecæ [<hi rend="i">sic</hi>] tradidit ista prior.</l>
-            <l met="hexa" ana="dactyl">Diceret is credas hinc græca Thalia ualeto</l>
+            <l met="hexa_dac">Diceret is credas hinc græca Thalia ualeto</l>
             <l met="penta">Cultius hæc quoniam musa latina canit.</l>
           </quote>
           <div>
@@ -1811,8 +1811,8 @@
           <pb ed="perry" n="PØ"/>
           <head rend="uc">Qvod nvci asino et mvlieri prosvnt verbera</head>
           <p>MVlier quædam interrogabat nucem secus uiam natam quæ a prætereunte populo saxis impetebatur, quare esset ita amens, ut quo pluribus maioribusque uerberibus c[a]ederetur, eo plures præstantioresque fructus procrearet. Cui iuglans « Esne inquit prouerbii immemor ita dicentis,</p>
-          <l met="hexa" ana="dactyl"><space rend="tab">    </space>Nux asinus mulier simili sunt lege ligati.</l>
-          <l met="hexa" ana="dactyl"><space rend="tab">    </space>Hæc tria nil recte faciunt, si uerbera cessent. »</l>
+          <l met="hexa_dac"><space rend="tab">    </space>Nux asinus mulier simili sunt lege ligati.</l>
+          <l met="hexa_dac"><space rend="tab">    </space>Hæc tria nil recte faciunt, si uerbera cessent. »</l>
           <p>Hæc fabula innuit sæpe homines propriis iaculis se solere confodere.</p>
         </div>
         <div type="poem" xml:id="abstemius-066">
@@ -2030,18 +2030,18 @@
           <div>
             <head rend="uc">Petri Pavli Phantini de Tradotio in hecathomythion consvmatissimi viri Lavrentii Abstemii Maceratensis tetrasticon.</head>
             <quote>
-              <l met="hexa" ana="dactyl">Quod nemus Hesperidum Panchaia Bactra Sabæi</l>
+              <l met="hexa_dac">Quod nemus Hesperidum Panchaia Bactra Sabæi</l>
               <l met="penta">Helysium quod habet, quod Tagus, Astur, Arabs,</l>
-              <l met="hexa" ana="dactyl">Cuncta tuo Abstemii nascuntur sponte uirecto</l>
+              <l met="hexa_dac">Cuncta tuo Abstemii nascuntur sponte uirecto</l>
               <l met="penta">Cuius habent siliquæ seria, non apinas.</l>
             </quote>
           </div>
           <div>
             <head rend="uc">Ioannis Antracini Maceratensis in Hecathomythion clarissimi Viri Lavrentii Abstemii Maceratensis tetrasticon.</head>
             <quote>
-              <l met="hexa" ana="dactyl">Doctiloquos aliis scriptis superare Latinos</l>
+              <l met="hexa_dac">Doctiloquos aliis scriptis superare Latinos</l>
               <l met="penta">Quære : sumus lepidis Græcia docta pares</l>
-              <l met="hexa" ana="dactyl">Te Xanthi seruus technis celebrauit amænis :</l>
+              <l met="hexa_dac">Te Xanthi seruus technis celebrauit amænis :</l>
               <l met="penta">Non minus Abstemii nos decorauit opus.</l>
             </quote>
           </div>
@@ -2059,8 +2059,8 @@
           <p>Laurentius Abstemius Magnifico ac strenuo uiro.D. Angelo Griphoni equiti aurato Sal. P. D.</p>
           <p>Cogitanti mihi uir magnifice cui potissimum dono darem hunc apologorum libellum, quem ut alium a me superioribus annis editum, et illustri principi Octauiano dedicatum hecatomythium de numero Fabularum nuncupaui, tu non hoc modo, uerum etiam maiori dignus munere occurristi, non quia utroque parente clarissimo ortus sis (multi enim generosis orti parentibus et a maiorum uirtutibus degenerantes dedecori suis fuere), nec quia amplas diuitias et opes possides, (multi enim locupletissimi indocti incultique sunt, quos Diogenes ille Sinopæus oues aureo indutas uellere nuncupabat), sed quia ut multorum et Benentis nostri præcipue sermone accepi ita omni uirtutum genere fulges, ita litteras et litteratos amas, ut maiorum tuorum gloriam non modo æques, uerum etiam superes. Diuitiis uero non incumbis, ut draco ille peruigil, qui aurea mala seruabat, sed eas ad liberalitatem confers, et hoc famis tempore, ne homines inedia pereant, multorum succurris inopiæ. Cæteras uirtutes tuas laudo et admiror, hoc autem pietatis opus quibus laudibus efferre debeam, non inuenio. Sed tu non hoc facis, ut humanam gloriam consequaris. Non enim hic mercedem recepturus es. Non in eorum numero reponendus es, de quibus Vergilius,</p>
           <quote>
-            <l met="hexa" ana="dactyl">Aut qui diuitiis soli incubuere repertis</l>
-            <l met="hexa" ana="dactyl">Nec partem posuere suis, quæ maxima turba est.</l>
+            <l met="hexa_dac">Aut qui diuitiis soli incubuere repertis</l>
+            <l met="hexa_dac">Nec partem posuere suis, quæ maxima turba est.</l>
           </quote>
           <p>Merito igitur te potissimum elegi, cui hanc meam inscriberem lucubratiunculam mei in te amoris et obseruantiæ testem. Tu uero pro tua humanitate hoc exiguum Abstemii tui munus læto animo et serena fronte suscipe, non rem, sed dantis animum, uoluntatemque considerans. Vale ex urbe Fanestri pridie kalendas Maii. MDV.</p>
         </div>
@@ -2670,18 +2670,18 @@
           <div>
             <head rend="uc">Antonii Nicosantis clarissimi ivris consvlti</head>
             <quote>
-              <l met="hexa" ana="dactyl">Seria mordaces curas fora iurgia lites</l>
+              <l met="hexa_dac">Seria mordaces curas fora iurgia lites</l>
               <l met="penta">Qui fugis et uitæ gaudia pauca cupis,</l>
-              <l met="hexa" ana="dactyl">Romano lusus mixtos sale scomma iocosque</l>
+              <l met="hexa_dac">Romano lusus mixtos sale scomma iocosque</l>
               <l met="penta">Hoc habet hoc sumas candide lector opus.</l>
             </quote>
           </div>
           <div>
             <head rend="uc">Lvdovici Pallioli Fanensis.</head>
             <quote>
-              <l met="hexa" ana="dactyl">Fabula diuersis centum uariata figuris</l>
+              <l met="hexa_dac">Fabula diuersis centum uariata figuris</l>
               <l met="penta">Cernitur hic uiuo lemmate grata nimis</l>
-              <l met="hexa" ana="dactyl">Quom sale sit multo tum confertissima, tumque</l>
+              <l met="hexa_dac">Quom sale sit multo tum confertissima, tumque</l>
               <l met="penta">Moribus et docto non minus eloquio.</l>
             </quote>
             <p rend="sc">Lavs Deo</p>
@@ -2694,21 +2694,21 @@
           </div>
           <div>
             <head rend="uc">Iacobvs Constantivs Fanensis lectori.</head>
-            <l met="hexa" ana="dactyl">Abstemi nec digna obelo monimenta nec astro,</l>
+            <l met="hexa_dac">Abstemi nec digna obelo monimenta nec astro,</l>
             <l met="penta">Libraque quod faciat nil tua Lector habet.</l>
-            <l met="hexa" ana="dactyl">Omnia cognouit perpendit singula, non est</l>
+            <l met="hexa_dac">Omnia cognouit perpendit singula, non est</l>
             <l met="penta">Vel quota quæ carpi littera iure queat.</l>
-            <l met="hexa" ana="dactyl">Mecum igitur superos, linguæ Latialis honorem</l>
+            <l met="hexa_dac">Mecum igitur superos, linguæ Latialis honorem</l>
             <l met="penta">Hunc hominem ut seruent, qui legis usque roga.</l>
           </div>
           <div>
             <head rend="uc">Antonivs Nicosantes Fanestris.</head>
-            <l met="hexa" ana="dactyl">Qui rudis es, carpisque bonos hunc sume libellum,</l>
+            <l met="hexa_dac">Qui rudis es, carpisque bonos hunc sume libellum,</l>
             <l met="penta">Quo Laurens mores grammaticamque docet.</l>
           </div>
           <div>
             <head rend="uc">Lvdovici Pallioli Fanestris distichon.</head>
-            <l met="hexa" ana="dactyl">Abstemi collecta uides monimenta diserti.</l>
+            <l met="hexa_dac">Abstemi collecta uides monimenta diserti.</l>
             <l met="penta">Præclarum quis non iudicet ingenium ?</l>
           </div>
         </div>
@@ -2716,42 +2716,42 @@
           <head type="sur">[Abstemius 200]</head>
           <pb ed="perry" n="PØ"/>
           <head rend="uc">Lavrentii Abstemii apologvs de gallo et vvlpe</head>
-          <l met="trimetreiambique">GAllus leonem cum uideret omnium</l>
-          <l met="trimetreiambique">Regem quadrupedum quam citissima fuga</l>
-          <l met="trimetreiambique">Vitare conspectum suum, et uocis sonum</l>
-          <l met="trimetreiambique">Sese timori credidit Vulpeculæ</l>
-          <l met="trimetreiambique">Magis futurum, cæterisque animantibus</l>
-          <l met="trimetreiambique">Nullumque sibi periculum deinceps fore.</l>
-          <l met="trimetreiambique">Sed huc et illuc dum pigro incedit gradu</l>
-          <l met="trimetreiambique">Elatus et superbus hac uictoria</l>
-          <l met="trimetreiambique">Humumque scalpit unguibus quærens dapes</l>
-          <l met="trimetreiambique">Rostroque corneo fodit, Vulpeculæ</l>
-          <l met="trimetreiambique">Fruticibus abditæ dolo captus miser</l>
-          <l met="trimetreiambique">Tremente fudit ore moriens talia.</l>
-          <l met="trimetreiambique">Nemo secundis fretus instabilis deæ</l>
-          <l met="trimetreiambique">Volubilem tenere se putet rotam.</l>
+          <l met="tri_iamb">GAllus leonem cum uideret omnium</l>
+          <l met="tri_iamb">Regem quadrupedum quam citissima fuga</l>
+          <l met="tri_iamb">Vitare conspectum suum, et uocis sonum</l>
+          <l met="tri_iamb">Sese timori credidit Vulpeculæ</l>
+          <l met="tri_iamb">Magis futurum, cæterisque animantibus</l>
+          <l met="tri_iamb">Nullumque sibi periculum deinceps fore.</l>
+          <l met="tri_iamb">Sed huc et illuc dum pigro incedit gradu</l>
+          <l met="tri_iamb">Elatus et superbus hac uictoria</l>
+          <l met="tri_iamb">Humumque scalpit unguibus quærens dapes</l>
+          <l met="tri_iamb">Rostroque corneo fodit, Vulpeculæ</l>
+          <l met="tri_iamb">Fruticibus abditæ dolo captus miser</l>
+          <l met="tri_iamb">Tremente fudit ore moriens talia.</l>
+          <l met="tri_iamb">Nemo secundis fretus instabilis deæ</l>
+          <l met="tri_iamb">Volubilem tenere se putet rotam.</l>
         </div>
         <div type="poem" xml:id="abstemius-201">
           <head type="sur">[Nicolas Abstemius 1]</head>
           <pb ed="perry" n="PØ"/>
           <head rend="uc">Nicolai Abstemii Laurentii filii apologvs de piro vrbana et silvestri</head>
-          <l met="hexa" ana="dactyl">ROscida poma gerens fœcundo creuerat horto</l>
-          <l met="hexa" ana="dactyl">Agricolæ duri uariis pirus insita ramis</l>
-          <l met="hexa" ana="dactyl">Vmbrabatque suos alieno tegmine truncos.</l>
-          <l met="hexa" ana="dactyl">Hanc iuxta agrestis tales non edere fœtus</l>
-          <l met="hexa" ana="dactyl">Sueta, nec hesternis opibus fœcunda uirebat,</l>
-          <l met="hexa" ana="dactyl">Poma per incultos spargens siluestria rhamnos.</l>
-          <l met="hexa" ana="dactyl">Quam uicina soror dictis carpebat amaris,</l>
-          <l met="hexa" ana="dactyl">Quod non grata homini ferret, nec commoda brutis</l>
-          <l met="hexa" ana="dactyl">Poma, sed austeros cunctis præbentia succos.</l>
-          <l met="hexa" ana="dactyl">Cui pirus agrestis turbato hæc reddidit ore ;</l>
-          <l met="hexa" ana="dactyl">Si mihi adoptasset generosa ex arbore ramos</l>
-          <l met="hexa" ana="dactyl">Agricolæ quoque cura mei, quibus insita quondam</l>
-          <l met="hexa" ana="dactyl">Tu paris ambrosiæ succo certantia poma,</l>
-          <l met="hexa" ana="dactyl">Siluestrem posuissem animum, nec dona tulissem</l>
-          <l met="hexa" ana="dactyl">Inferiora tuis, nec mensæ ingrata secundæ.</l>
-          <l met="hexa" ana="dactyl">Artibus ingenuis teneros ni inseueris annos</l>
-          <l met="hexa" ana="dactyl">Non erit unde rudi manent de pectore fructus.</l>
+          <l met="hexa_dac">ROscida poma gerens fœcundo creuerat horto</l>
+          <l met="hexa_dac">Agricolæ duri uariis pirus insita ramis</l>
+          <l met="hexa_dac">Vmbrabatque suos alieno tegmine truncos.</l>
+          <l met="hexa_dac">Hanc iuxta agrestis tales non edere fœtus</l>
+          <l met="hexa_dac">Sueta, nec hesternis opibus fœcunda uirebat,</l>
+          <l met="hexa_dac">Poma per incultos spargens siluestria rhamnos.</l>
+          <l met="hexa_dac">Quam uicina soror dictis carpebat amaris,</l>
+          <l met="hexa_dac">Quod non grata homini ferret, nec commoda brutis</l>
+          <l met="hexa_dac">Poma, sed austeros cunctis præbentia succos.</l>
+          <l met="hexa_dac">Cui pirus agrestis turbato hæc reddidit ore ;</l>
+          <l met="hexa_dac">Si mihi adoptasset generosa ex arbore ramos</l>
+          <l met="hexa_dac">Agricolæ quoque cura mei, quibus insita quondam</l>
+          <l met="hexa_dac">Tu paris ambrosiæ succo certantia poma,</l>
+          <l met="hexa_dac">Siluestrem posuissem animum, nec dona tulissem</l>
+          <l met="hexa_dac">Inferiora tuis, nec mensæ ingrata secundæ.</l>
+          <l met="hexa_dac">Artibus ingenuis teneros ni inseueris annos</l>
+          <l met="hexa_dac">Non erit unde rudi manent de pectore fructus.</l>
           <p/>
           <p rend="sc">Finis.</p>
           <p rend="sc">Impressvm Fani per Hieronymvm Soncinvm anno christianæ salvtis.M.D.V. die.VII. Maii.</p>

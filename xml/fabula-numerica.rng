@@ -27,6 +27,7 @@
         <optional>
           <attribute name="met">
             <choice>
+              <!-- métrique syllabique -->
               <value>alex</value>
               <a:documentation>alexandrin ou dodécasyllabe</a:documentation>
               <value>hendeca</value>
@@ -51,10 +52,13 @@
               <a:documentation>dissyllabe</a:documentation>
               <value>mono</value>
               <a:documentation>monosyllabe</a:documentation>
+              <!-- métrique quantitative  -->
               <value>hexa_dac</value>
               <a:documentation>hexamètre dactylique</a:documentation>
               <value>penta_el</value>
               <a:documentation>pentamètre élégiaque (suit l’hexamètre dactylique dans le distique élégiaque)</a:documentation>
+              <value>tri_iamb</value>
+              <a:documentation>trimètre iambique</a:documentation>
             </choice>
           </attribute>
         </optional>

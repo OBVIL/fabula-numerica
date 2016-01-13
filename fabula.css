@@ -11,3 +11,6 @@
 .l.penta_el  { margin-left: 3.0em; text-indent: 0; padding-left: 0; }
 .l.promythium{ margin-bottom: 2.0ex; text-indent: 0; padding-left: 0; }
 .l.epimythium{ margin-top: 2.0ex; text-indent: 0; padding-left: 0; }
+
+/** surcharge teipot */
+figure { border: none; background: none; }
