@@ -51,6 +51,20 @@
               <a:documentation>dissyllabe</a:documentation>
               <value>mono</value>
               <a:documentation>monosyllabe</a:documentation>
+              <value>hexa_dac</value>
+              <a:documentation>hexamètre dactylique</a:documentation>
+              <value>penta_el</value>
+              <a:documentation>pentamètre élégiaque (suit l’hexamètre dactylique dans le distique élégiaque)</a:documentation>
+            </choice>
+          </attribute>
+        </optional>
+        <optional>
+          <attribute name="ana">
+            <choice>
+              <value>promythium</value>
+              <a:documentation>moralité énoncée avant le récit de la fable</a:documentation>
+              <value>epimythium</value>
+              <a:documentation>moralité énoncée après le récit de la fable</a:documentation>
             </choice>
           </attribute>
         </optional>

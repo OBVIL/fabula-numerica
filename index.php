@@ -23,6 +23,7 @@ else echo '
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,600,700,900,300italic,600italic' rel='stylesheet' type='text/css' />
     <link rel="stylesheet" type="text/css" href="<?php echo $teipot; ?>html.css" />
     <link rel="stylesheet" type="text/css" href="<?php echo $teipot; ?>teipot.css" />
+    <link rel="stylesheet" type="text/css" href="<?php echo Web::basehref() ?>fabula.css" />
     <link rel="stylesheet" type="text/css" href="<?php echo $theme; ?>obvil.css" />
   </head>
   <body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="fabula-numerica.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../teipubNew/xsl/tei2html.xsl"?>
+<?xml-model href="fabula-numerica.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lat">
   <teiHeader>
     <fileDesc>
@@ -112,10 +112,10 @@
               <cell>Contenu</cell>
               <cell>
                 <p>Première partie (1495) :</p>
-                <p>1. Liminaires : 1a. Epître de Dominicus Palladius Soranus à Pollion Vadius ; 1b.  Epître d’Abstemius à Octavianus Ubaldus ; 1c.<hi rend="i"> Proemium</hi> d’Abstemius sur ses fables ; 2. Cent fables en prose ; 3. Pièces conclusives : 3a. Deux quatrains en distiques élégiaques de Petrus Paulus Phantinus et Johannes Antracinus ; 3b. Épître de Valla à Renaldus Fonaleda [<hi rend="i">sic</hi>, au lieu d’Arnaldo Fenolleda, secrétaire d’Alphonse V d’Aragon, dit Le Magnanime] ; 4. Trente-trois fables en prose de Lorenzo Valla.</p>
+                <p><ref target="#abstemius-liminaires-1">1. Liminaires : 1a. Epître de Dominicus Palladius Soranus à Pollion Vadius ; 1b.  Epître d’Abstemius à Octavianus Ubaldus ; 1c.<hi rend="i"> Proemium</hi> d’Abstemius sur ses fables</ref> ; 2. Cent fables en prose ; <ref target="#abstemius-postliminaires-1">3. Pièces conclusives : 3a. Deux quatrains en distiques élégiaques de Petrus Paulus Phantinus et Johannes Antracinus ; 3b. Épître de Valla à Renaldus Fonaleda [<hi rend="i">sic</hi>, au lieu d’Arnaldo Fenolleda, secrétaire d’Alphonse V d’Aragon, dit Le Magnanime]</ref> ; 4. Trente-trois fables en prose de Lorenzo Valla.</p>
                 <p/>
                 <p>Deuxième partie (1505) :</p>
-                <p>1. Épître d’Abstemius à D. Angelus ; 2. <hi rend="i">M. Grunii Corococtæ porcelli testamentum</hi> ; 3. Quatre-vingt-dix-neuf fables en prose d’Abstemius ; 4. Deux quatrains en distiques élégiaques d’Antonius Nicosantes et Ludovicus Palliolus Fanensis ; 5. Traité d’Abstemius, <hi rend="i">De compluribus verbis communibus</hi> ; 6. Centième apologue d’Abstemius en trimètres iambiques « De Gallo et vulpe ». 7. Cent-unième apologue, attribué à Nicolas Abstemius, fils de l’auteur, « De Piro urbana et silvestri », en hexamètres.</p>
+                <p><ref target="#abstemius-liminaires-2">1. Épître d’Abstemius à D. Angelus</ref> ; <ref target="#abstemius-grunii">2. <hi rend="i">M. Grunii Corococtæ porcelli testamentum</hi></ref> ; 3. Quatre-vingt-dix-neuf fables en prose d’Abstemius ; <ref target="#abstemius-postliminaires-2">4. Deux quatrains en distiques élégiaques d’Antonius Nicosantes et Ludovicus Palliolus Fanensis ; 5. Traité d’Abstemius, <hi rend="i">De compluribus verbis communibus</hi></ref> ; <ref target="#abstemius-200">6. Centième apologue d’Abstemius en trimètres iambiques « De Gallo et vulpe »</ref>. <ref target="#abstemius-201">7. Cent-unième apologue, attribué à Nicolas Abstemius, fils de l’auteur, « De Piro urbana et silvestri », en hexamètres</ref>.</p>
               </cell>
             </row>
           </table>
@@ -1398,7 +1398,7 @@
         <head rend="uc">[Hecatomythivm primvm]</head>
         <p rend="uc">Fabvlæ per latinissimvm virvm Lavrentivm Abstemivm nvper composite.</p>
         <p rend="uc noindent">Fabvlæ ex græco in latinvm per Lavrentivm Vallam virvm clarissimvm versæ.</p>
-        <div type="poem">
+        <div type="poem" xml:id="abstemius-liminaires-1">
           <head>[Liminaires]</head>
           <quote>
             <l met="hexa" ana="dactyl">Ontinam [<hi rend="i">sic</hi>] sese posset spectare latinum</l>
@@ -2025,7 +2025,7 @@
           <head rend="uc">De avaro saccvlvm nvmorvm alloquente</head>
           <p>VIr quidam auarus, qui ingentem aureorum aceruum male partum relicturus moriebatur, interrogabat sacculum Numorum, quem morienti sibi iusserat afferri, quibus uoluptatem esset allaturus, cui sacculus « Hæredibus inquit tuis qui numos a te tanto sudore quæsitos in scortis et conuiuiis profundent, et dæmonibus, qui animam tuam æternis suppliciis mancipabunt. » Hæc indicat fabula stultum esse in iis laborare, quæ aliis gaudium, nobis autem sint allatura tormentum.</p>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="abstemius-postliminaires-1">
           <head>[Postliminaires]</head>
           <div>
             <head rend="uc">Petri Pavli Phantini de Tradotio in hecathomythion consvmatissimi viri Lavrentii Abstemii Maceratensis tetrasticon.</head>
@@ -2047,14 +2047,14 @@
           </div>
         </div>
         <div type="poem">
-          <head type="sur" rend="uc">Lavrentii Vallensis in.XXX. fabvlarvm Esopi e greco in latinvm sermonem ad clarissimvm virvm Renaldvm Fonaledæ præfatio<note resp="editor">(33 fables) Fables de Lorenzo Valla.</note>.</head>
+          <head type="sur" rend="uc">Lavrentii Vallensis in.XXX. fabvlarvm Esopi e greco in latinvm sermonem ad clarissimvm virvm Renaldvm Fonaledæ præfatio<note resp="editor">Reproduction par Tacuino des 33 fables de Lorenzo Valla.</note>.</head>
           <p rend="sc">Impressvm Venetiis per Magistrvm Ioannem de Cereto De Tridino. Anno domini M.CCCCXCV. die vero iii Avgvsti.</p>
         </div>
       </div>
       <div>
         <head rend="uc">[Hecatomythivm secvndvm]</head>
         <p rend="uc">Grvnii Corococtae porcelli testamentvm. Lavrentii Abstemii Maceratensis Hecatomythivm secvndvm. Eivsdem libellvs de verbis commvnibvs.</p>
-        <div type="poem">
+        <div type="poem" xml:id="abstemius-liminaires-2">
           <head>[Épître d’Abstemius à D. Angelus]</head>
           <p>Laurentius Abstemius Magnifico ac strenuo uiro.D. Angelo Griphoni equiti aurato Sal. P. D.</p>
           <p>Cogitanti mihi uir magnifice cui potissimum dono darem hunc apologorum libellum, quem ut alium a me superioribus annis editum, et illustri principi Octauiano dedicatum hecatomythium de numero Fabularum nuncupaui, tu non hoc modo, uerum etiam maiori dignus munere occurristi, non quia utroque parente clarissimo ortus sis (multi enim generosis orti parentibus et a maiorum uirtutibus degenerantes dedecori suis fuere), nec quia amplas diuitias et opes possides, (multi enim locupletissimi indocti incultique sunt, quos Diogenes ille Sinopæus oues aureo indutas uellere nuncupabat), sed quia ut multorum et Benentis nostri præcipue sermone accepi ita omni uirtutum genere fulges, ita litteras et litteratos amas, ut maiorum tuorum gloriam non modo æques, uerum etiam superes. Diuitiis uero non incumbis, ut draco ille peruigil, qui aurea mala seruabat, sed eas ad liberalitatem confers, et hoc famis tempore, ne homines inedia pereant, multorum succurris inopiæ. Cæteras uirtutes tuas laudo et admiror, hoc autem pietatis opus quibus laudibus efferre debeam, non inuenio. Sed tu non hoc facis, ut humanam gloriam consequaris. Non enim hic mercedem recepturus es. Non in eorum numero reponendus es, de quibus Vergilius,</p>
@@ -2064,8 +2064,8 @@
           </quote>
           <p>Merito igitur te potissimum elegi, cui hanc meam inscriberem lucubratiunculam mei in te amoris et obseruantiæ testem. Tu uero pro tua humanitate hoc exiguum Abstemii tui munus læto animo et serena fronte suscipe, non rem, sed dantis animum, uoluntatemque considerans. Vale ex urbe Fanestri pridie kalendas Maii. MDV.</p>
         </div>
-        <div type="poem">
-          <head rend="uc">[M. Grunii Corococtæ porcelli testamentum]</head>
+        <div type="poem" xml:id="abstemius-grunii">
+          <head rend="uc">[M. Grunii Corococtæ porcelli testamentum]<note resp="editor">Sur ce texte datant de la deuxième moitié du IV<hi rend="sup">e</hi> s. ap. J.-C., voir C. A. Forbes &amp; M. S. Ginsburg, « <hi rend="i">Testamentum Porcelli</hi> », <title>Revue de Philologie</title>, n° 62, 1936, p. 171-181 et Michel Griffe, « Le Testament du porc et le Testament de l'âne. Deux fables latines, à l'origine d'un genre littéraire » [<hi rend="i">in</hi>] <title>Fables et fabulistes. Variations autour de La Fontaine</title>, éd. Interuniversitaires, 1992, p. 125-147.</note></head>
           <p>MARCVS GRVNNIVS Corococta porcellus testamentum fecit. Quoniam manu mea scribere non potui, scribendum dictaui. Magirus cocus dixit « Veni huc euersor domi, soli uertiator, fugitiue porcelle, et hodie tibi dirimo uitam. » Corococta porcellus dixit. « Si qua feci, si qua peccaui, si qua uasella pedibus meis confregi, rogo domine coce uitam peto, et concede roganti. » Magirus cocus dixit. « Transi puer, affer mihi de coquina cultrum, ut hunc porcellum faciam cruentum. » Porcellus comprehenditur a famulis, ductus sub die XVI kalendas lucerninas, ubi abundant cymæ, Clybanato et Piperato consulibus. Et ut uidit se moriturum esse, horæ spatium petiit, et cocum rogauit, ut testamentum facere posset. Clamauit ad se duos parentes ut de cibariis suis aliquid dimitteret eis. Qui ait « Patri meo Verrino Lardino delego dari glandis modios.XXX. et matri me[a]e Scrofæ delego dari lalluginis modios.XL. et sorori meæ Quirinæ, in cuius uotum interesse non potui, delego dari hordei modios.XXX. Et de uisceribus meis dabo sutoribus setas, rixoribus capitinas, surdis auriculas, causidicis et uerbosis linguam, bubulariis intestina, esiciariis femora, mulieribus lumbulos, pueris uesicam, puellis caudam, cynædis musculos, cursoribus et uenatoribus talos, latronibus ungulas. Et nec nominando coco legato dimitto popinam, et pistillum quem mecum atuleram de Tebeste usque ad Terrestre liget sibi collum de reste. Et uolo mihi fieri monumentum ex litteris aureis scriptum, M. Grunnius Corococta porcellus uixit annos DCCCCXCVIIII et VI. Menses quod si semis uixisset, mille annos implesset. Optimi amatores mei uel consules uitæ, rogo uos ut cum corpore meo bene faciatis, bene condiatis de bonis condimentis nuclei piperis et mellis, ut nomen meum in sempiternum nominetur. Mei domini et consobrini mei, qui in meo testamento interfuistis, iubete signari. » Lardio signauit, Ofellicus signauit, Cincinatus signauit, Lucanicus signauit, Tergillus signauit, Celsanus signauit, Nuptialicus signauit.</p>
           <p rend="uc">Explicit testamentvm porcelli svb die XVI. kl lvcernarias Clybanato et Piperato consvlibvs.</p>
           <p rend="uc">Hieronymvs in proœmio XII libri [Commen]tariorvm svorvm in Esaiam</p>
@@ -2665,7 +2665,7 @@
           <head rend="uc">De femina maritvm ob pvllos male servatos verberante</head>
           <p>FEmina quædam uirilis animi maritum meticulosum et insulsum multis affecerat plagis, quia unum ex pullis gallinaceis, quos abiens ei seruandos reliquerat miluus abstulerat. Quare uxore iterum absente ne quem pullorum, quibus datus hærebat custos, auis inimica posset eripere uniuersos eodem filo ligatos diligentius custodiebat. Sed quum ex improuiso Miluus adueniens unum unguibus rapiens uellet auferre omnes pariter per inane portauit. Infelix maritus memor ob unum pullum amissum se ab uxore male mulctatum multo grauiora cœpit formidare. Satius ergo mori esse duxit, quam iterum uxoris iram experiri. Ficus quasdam melle et aromatibus optime conditas uasculo fictili mulier prudens condiderat, marito insulso, cuius gulam timebat, monito, ne quid inde esset, quum præsentaneum uenenum lateret in uasculo. Maritus mori cupiens ficus comedit uniuersas ratus eam optimam moriendi et uxoris iram euadendi uiam esse. Rediens mulier, quom pullos omnes a miluo ereptos esse cognosceret, sumpto ingenti baculo, maritum malum pullorum custodem uerberare decreuerat. Cui insipiens maritus « Noli inquit uxor me iam iam moriturum uerberare. Omne enim uasculi uenenum comedi, ut errati pœnas luam. » Tunc mulier ira in risum uersa marito ignouit qui pro pullis male seruatis alio pacto ei satisfecit. Fabula indicat aduersus insipientes nullum idoneum esse remedium.</p>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="abstemius-postliminaires-2">
           <head>[Postliminaires]</head>
           <div>
             <head rend="uc">Antonii Nicosantis clarissimi ivris consvlti</head>
@@ -2688,7 +2688,7 @@
           </div>
           <div>
             <head>[Traité d’Abstemius, <hi rend="i">De compluribus verbis communibus</hi>]</head>
-            <p rend="uc">LAVRENTII ABSTEMII LIBELLVS. DE COMPLVRIBVS. VERBIS. COMVNIBVS QVÆ. NVNC. MALE APPELLANTVR. DEPONENTIA. AD SIGISMVNDVM SECRETARIVM APOSTOLICVM.</p>
+            <p rend="uc">LAVRENTII ABSTEMII LIBELLVS. DE COMPLVRIBVS. VERBIS. COMVNIBVS QVÆ. NVNC. MALE APPELLANTVR. DEPONENTIA. AD SIGISMVNDVM SECRETARIVM APOSTOLICVM<note resp="editor">Petit traité de grammaire latine rédigé par Abstemius, également auteur des <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k60332n "><hi rend="i">Libri duo de quibusdam locis obscuris</hi></ref></note>.</p>
             <p/>
             <p>[...]</p>
           </div>
