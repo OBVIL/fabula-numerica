@@ -148,7 +148,7 @@
               </row>
               <row>
                 <cell>3. [De cancro suum docente filium]</cell>
-                <cell>P196</cell>
+                <cell>P322</cell>
                 <cell/>
               </row>
               <row>
@@ -508,7 +508,7 @@
           </row>
           <row>
             <cell>3. [De cancro suum docente filium]</cell>
-            <cell>[P196]</cell>
+            <cell>[P322]</cell>
           </row>
           <row>
             <cell>4. [Fabula phoebi boreaeque]</cell>
@@ -718,7 +718,7 @@
       </div>
       <div type="poem" xml:id="avianus-03">
         <head type="sur">Avianus 3</head>
-        <pb ed="perry" n="P196"/>
+        <pb ed="perry" n="P322"/>
         <head>[DE CANCRO SVVM DOCENTE FILIVM]</head>
         <l met="hexa_dac">Curva retrocedens dum fert uestigia cancer,</l>
         <l met="penta_el">hispida saxosis terga relisit aquis.</l>
