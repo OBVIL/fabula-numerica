@@ -42,7 +42,7 @@
   </teiHeader>
   <text>
     <body>
-      <div>
+      <div type="poem" xml:id="chambry-1">
         <head>Chambry 1</head>
         <head type="sub">Ἀγαθὰ καὶ κακά – Les Biens et les Maux.</head>
         <p rend="indexperry">[P274]</p>
@@ -52,7 +52,7 @@
         <p rend="traduction">Les Maux, profitant de la faiblesse des Biens, les chassèrent. Ceux-ci montèrent au ciel. Là, ils demandèrent à Zeus comment ils devaient se comporter avec les hommes. Le dieu leur dit de se présenter aux hommes, non pas tous ensemble, mais l’un après l’autre. Voilà pourquoi les Maux, habitant près des hommes, les assaillent sans interruption, tandis que les Biens, descendant du ciel, ne viennent à eux qu’à de longs intervalles.</p>
         <p rend="traduction">L’apologue fait voir que le bien se fait attendre, mais que chaque jour chacun de nous est atteint par les maux.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-2">
         <head>Chambry 2</head>
         <head type="sub">Ἀγαλματοπώλης – Le marchand de statues.</head>
         <p rend="indexperry">[P99]</p>
@@ -62,7 +62,7 @@
         <p rend="traduction">Un homme, ayant fabriqué un Hermès de bois, l’apporta au marché et le mit en vente. Aucun acheteur ne se présentant, il se mit en tête d’en attirer en criant qu’il vendait un dieu pourvoyeur de biens et de profits. Un de ceux qui se trouvaient là lui dit : « Hé, l’ami, s’il est si bienfaisant, pourquoi le vends-tu, au lieu de tirer parti de ses secours ? — C’est que moi, répondit-il, j’ai besoin d’un secours immédiat, et que lui n’est jamais pressé de procurer ses bienfaits. »</p>
         <p rend="traduction">Cet apologue convient à un homme bassement intéressé et qui ne se soucie même pas des dieux.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-3">
         <head>Chambry 3</head>
         <div>
           <head>Chambry 3.1</head>
@@ -99,7 +99,7 @@
           <p rend="manuscrits">Codd. Ba 139 Bb 84.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-4">
         <head>Chambry 4</head>
         <div>
           <head>Chambry 4.1</head>
@@ -128,7 +128,7 @@
           <p rend="manuscrits">Codd. La 2 Lf 2 Me 2bis in margine Mf 2 Ml 105.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-5">
         <head>Chambry 5</head>
         <div>
           <head>Chambry 5.1</head>
@@ -149,7 +149,7 @@
           <p rend="manuscrits">Cod. Ba 110.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-6">
         <head>Chambry 6</head>
         <div>
           <head>Chambry 6.1</head>
@@ -182,7 +182,7 @@
           <p rend="traduction">Cette fable montre qu’il faut généreusement payer de retour ses bienfaiteurs, et tenir prudemment les méchants à l’écart.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-7">
         <head>Chambry 7</head>
         <div>
           <head>Chambry 7.1</head>
@@ -203,7 +203,7 @@
           <p rend="manuscrits">Codd. Ma 146 Mo 146.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-8">
         <head>Chambry 8</head>
         <div>
           <head>Chambry 8.1</head>
@@ -232,7 +232,7 @@
           <p rend="manuscrits">Codd. La 3 Lb 2 Lc 3 Le 2 Lf 3 Lg 3 Lh 2 Md 2 Mg 3 Mi 37 Mj 3 Ml 2 Mm 2.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-9">
         <head>Chambry 9</head>
         <div>
           <head>Chambry 9.1</head>
@@ -258,7 +258,7 @@
           <p rend="manuscrits">Cod. Mb 224.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-10">
         <head>Chambry 10</head>
         <head type="sub">Ἀθηναῖος χρεωφειλέτης – Le débiteur athénien.</head>
         <p rend="indexperry">[P5]</p>
@@ -268,7 +268,7 @@
         <p rend="traduction">À Athènes, un débiteur, sommé par son créancier de rembourser sa dette, le pria d’abord de lui accorder un délai, sous prétexte qu’il était gêné. Ne pouvant le persuader, il amena une truie, la seule qu’il possédât, et la mit en vente en présence du créancier. Un acheteur se présenta et demanda si la truie était féconde. « Oui, elle est féconde, répondit-il, elle l’est même extraordinairement : aux Mystères elle enfante des femelles, et aux Panathénées des mâles. » Comme l’acheteur était surpris de ce qu’il entendait, le créancier ajouta : « Cesse de t’étonner ; car cette truie te donnera aussi des chevreaux aux Dionysies. »</p>
         <p rend="traduction">Cette fable montre que beaucoup de gens n’hésitent pas, quand leur intérêt personnel est en jeu, à jurer même des choses impossibles.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-11">
         <head>Chambry 11</head>
         <head type="sub">Αἰθίοψ – Le nègre.</head>
         <p rend="indexperry">[P393]</p>
@@ -278,7 +278,7 @@
         <p rend="traduction">Un homme avait acheté un nègre, s’imaginant que sa couleur venait de la négligence du précédent propriétaire. L’ayant emmené chez lui, il le soumit à tous les savonnages, il essaya tous les lavages pour le blanchir ; mais il ne put modifier sa couleur, et il le rendit malade à force de soins.</p>
         <p rend="traduction">La fable fait voir que le naturel persiste tel qu’il s’est montré d’abord.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-12">
         <head>Chambry 12</head>
         <div>
           <head>Chambry 12.1</head>
@@ -315,7 +315,7 @@
           <p rend="manuscrits">Codd. La 6 Lb 5 Lc 4 Le 5 Lf 6 Lg 4 Md 5 Mg 6 Mi 40 Mj 6 Ml 5 Mm 5.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-13">
         <head>Chambry 13</head>
         <div>
           <head>Chambry 13.1</head>
@@ -352,7 +352,7 @@
           <p rend="manuscrits">Cod. Mm 35.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-14">
         <head>Chambry 14</head>
         <div>
           <head>Chambry 14.1</head>
@@ -388,7 +388,7 @@
           <p rend="manuscrits">Codd. Ba 111 Bb 67 Md 90 Mh 82 Mi 6 Mm 108.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-15">
         <head>Chambry 15</head>
         <div>
           <head>Chambry 15.1</head>
@@ -429,7 +429,7 @@
           <p rend="manuscrits">Cod. Mb 191.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-16">
         <head>Chambry 16</head>
         <div>
           <head>Chambry 16.1</head>
@@ -482,7 +482,7 @@
           <p rend="manuscrits">Cod. Mb 12.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-17">
         <head>Chambry 17</head>
         <div>
           <head>Chambry 17.1</head>
@@ -531,7 +531,7 @@
           <p rend="manuscrits">Cod. Bd 17.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-18">
         <head>Chambry 18</head>
         <head type="sub">Αἰσχρὰ δούλη καὶ Ἀφροδίτη – L’esclave laide et Aphrodite.</head>
         <p rend="indexperry">[P301]</p>
@@ -541,7 +541,7 @@
         <p rend="traduction">Une esclave laide et méchante était aimée de son maître. Avec l’argent qu’elle recevait de lui, elle s’ornait de brillantes parures et rivalisait avec sa propre maîtresse. Elle faisait de continuels sacrifices à Aphrodite et lui rendait grâces de la rendre belle. Mais Aphrodite apparut en songe à l’esclave et lui dit : « Ne me sache pas gré de te faire belle, car je suis fâchée et en colère contre cet homme à qui tu parais belle. »</p>
         <p rend="traduction">Il ne faut pas se laisser aveugler par l’orgueil, quand on s’enrichit par des moyens honteux, surtout quand on est sans naissance et sans beauté.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-19">
         <head>Chambry 19</head>
         <head type="sub">Αἴσωπος ἐν ναυπηγίῳ - Esope dans un chantier naval.</head>
         <p rend="indexperry">[P8]</p>
@@ -551,7 +551,7 @@
         <p rend="traduction">Un jour Esope le fabuliste étant de loisir entra dans un chantier de construction navale. Les ouvriers le raillèrent et le provoquèrent à la réplique. Alors Esope leur dit : « Autrefois il n’y avait que le chaos et l’eau ; mais Zeus voulant faire apparaître un autre élément, la terre, l’engagea à avaler la mer par trois fois. La terre se mit à l’œuvre une première fois, et elle dégagea les montagnes ; puis elle avala la mer une deuxième fois et mit à nu les plaines ; si elle se décide à absorber l’eau une troisième fois, votre art deviendra sans usage. »</p>
         <p rend="traduction">Cette fable montre qu’à railler plus fin que soi, on s’attire imprudemment des répliques d’autant plus cuisantes.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-20">
         <head>Chambry 20</head>
         <div>
           <head>Chambry 20.1</head>
@@ -606,7 +606,7 @@
           <p rend="manuscrits">Codd. Ca 119 Cb 70 Cd 84 Ce 81 Cf 85 Cg 9 Ch 84 Mc 70.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-21">
         <head>Chambry 21</head>
         <div>
           <head>Chambry 21.1</head>
@@ -636,7 +636,7 @@
           <p rend="manuscrits">Codd. La 10 Lb 9 Lc 5 Ld 3 Le 9 Lf 10 Lg 5 Mc 11 Md 9 Mi 44 Mj 11 Mk 12 Ml 9 Mm 9 Mn 3.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-22">
         <head>Chambry 22</head>
         <div>
           <head>Chambry 22.1</head>
@@ -665,7 +665,7 @@
           <p rend="manuscrits">Codd. La 17 Lc 9 Le 16 Lf 17 Lg 9 Lh 8 Mg 8 Mi 51 Mj 19 Mm 16.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-23">
         <head>Chambry 23</head>
         <div>
           <head>Chambry 23.1</head>
@@ -694,7 +694,7 @@
           <p rend="manuscrits">Codd. La 13 Lb 12 Le 12 Lf 13 Lh 6 Ma 147 Md 12 Mi 47 Mj 14 Ml 12 Mm 12.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-24">
         <head>Chambry 24</head>
         <head type="sub">Ἁλιεὺς αὐλῶν – Le pêcheur qui joue de la flûte.</head>
         <p rend="indexperry">[P11]</p>
@@ -704,7 +704,7 @@
         <p rend="traduction">Un pêcheur, habile à jouer de la flûte, prenant avec lui ses flûtes et ses filets, se rendit à la mer, et, se postant sur un rocher en saillie, il se mit d’abord à jouer, pensant que les poissons, attirés par la douceur de ses accords allaient d’eux-mêmes sauter hors de l’eau pour venir à lui. Mais comme, en dépit de longs efforts, il n’en était pas plus avancé, il mit de côté ses flûtes, prit son épervier, et, le jetant à l’eau, attrapa beaucoup de poissons. Il les sortit du filet et les jeta sur le rivage ; et, comme il les voyait frétiller, il s’écria : « Maudites bêtes, quand je jouais de la flûte, vous ne dansiez pas ; à présent que j’ai fini, vous vous mettez en branle. »</p>
         <p rend="traduction">Cette fable s’applique à ceux qui agissent à contretemps.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-25">
         <head>Chambry 25</head>
         <div>
           <head>Chambry 25.1</head>
@@ -725,7 +725,7 @@
           <p rend="manuscrits">Cod. Bc 7.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-26">
         <head>Chambry 26</head>
         <div>
           <head>Chambry 26.1</head>
@@ -754,7 +754,7 @@
           <p rend="traduction">Cette fable montre que ce serait folie de lâcher, sans espoir d’un profit plus grand, le profit qu’on a dans la main, sous prétexte qu’il est petit.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-27">
         <head>Chambry 27</head>
         <div>
           <head>Chambry 27.1</head>
@@ -775,7 +775,7 @@
           <p rend="manuscrits">Codd. La 91 Lc 27 Le 22 Lf 91 Lg 27 Mg 14 Mj 25 Ml 19.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-28">
         <head>Chambry 28</head>
         <head type="sub">Ἁλκύων – L’alcyon.</head>
         <p rend="indexperry">[P25]</p>
@@ -785,7 +785,7 @@
         <p rend="traduction">L’alcyon est un oiseau qui aime la solitude et qui vit constamment sur la mer. On dit que, pour se garder contre les hommes qui le chassent, il niche dans les rochers du rivage. Or un jour un alcyon qui allait couver monta sur un promontoire, et, apercevant un rocher qui surplombait la mer, y fit son nid. Mais un jour qu’il était sorti pour aller à la pâture, il arriva que la mer, soulevée par une bourrasque, s’éleva jusqu’au nid, le couvrit d’eau et noya les petits. Quand l’alcyon fut de retour et vit ce qui était arrivé, il s’écria : « Que je suis malheureux, moi qui, me méfiant des embûches de la terre, me suis réfugié sur cette mer, pour y trouver encore plus de perfidie ! »</p>
         <p rend="traduction">C’est ainsi que certains hommes, qui se tiennent en garde contre leurs ennemis, tombent, sans qu’ils s’en doutent, sur des amis beaucoup plus dangereux que leurs ennemis.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-29">
         <head>Chambry 29</head>
         <head type="sub">Ἀλώπεκες &lt;ἐπὶ τῷ Μαιάνδρῳ&gt; – Les renards au bord du Méandre.</head>
         <p rend="indexperry">[P232]</p>
@@ -795,7 +795,7 @@
         <p rend="traduction">Un jour des renards se rassemblèrent sur les bords du Méandre, dans l’intention de s’y désaltérer. Mais, comme l’eau coulait en grondant, ils avaient beau s’exciter les uns les autres, ils n’osaient s’y aventurer. Alors l’un d’eux, prenant la parole pour humilier les autres, se moqua de leur couardise. Quant à lui, se vantant d’être plus brave que les autres, il sauta hardiment dans l’eau. Comme le courant l’entraînait vers le milieu, les autres, postés sur la berge, lui crièrent : « Ne nous abandonne pas, reviens, et montre-nous le passage par où nous pourrons boire sans danger. » Et lui, emporté par le courant, répondit : « J’ai un message pour Milet, et je veux l’y porter ; à mon retour je vous ferai voir le passage. »</p>
         <p rend="traduction">Ceci s’applique à ceux qui par fanfaronnade se mettent eux-mêmes en danger.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-30">
         <head>Chambry 30</head>
         <div>
           <head>Chambry 30.1</head>
@@ -824,7 +824,7 @@
           <p rend="manuscrits">Codd. Ba 64 Bb 40.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-31">
         <head>Chambry 31</head>
         <div>
           <head>Chambry 31.1</head>
@@ -853,7 +853,7 @@
           <p rend="traduction">Cette fable montre que chez les hommes aussi ceux-là sont des sots qui ont recours à l’aide de ceux que leur instinct porte plutôt à faire du mal.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-32">
         <head>Chambry 32</head>
         <div>
           <head>Chambry 32.1</head>
@@ -917,7 +917,7 @@
           <p rend="manuscrits">Cod. Ma 158.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-33">
         <head>Chambry 33</head>
         <head type="sub">Ἀλώπηξ καὶ δράκων – Le renard et le dragon.</head>
         <p rend="indexperry">[P268]</p>
@@ -927,7 +927,7 @@
         <p rend="traduction">[Il y avait un figuier près d’une route.] Un renard, ayant aperçu un dragon endormi, envia sa longueur, et, voulant l’égaler, il se coucha près de lui et essaya de s’allonger, jusqu’à ce que, outrant son effort, l’imprévoyant animal creva.</p>
         <p rend="traduction">C’est le cas de, ceux qui rivalisent avec de plus forts qu’eux : ils crèvent eux-mêmes, avant de pouvoir les atteindre.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-34">
         <head>Chambry 34</head>
         <div>
           <head>Chambry 34.1</head>
@@ -971,7 +971,7 @@
           <p rend="manuscrits">Cod. Bd 20.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-35">
         <head>Chambry 35</head>
         <div>
           <head>Chambry 35.1</head>
@@ -1000,7 +1000,7 @@
           <p rend="manuscrits">Codd. La 9 Lb 8 Le 8 Lf 9 Md 8 Mi 43 Mj 10 Ml 8 Mm 8.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-36">
         <head>Chambry 36</head>
         <head type="sub">Ἀλώπηξ καὶ κύων – Le renard et le chien.</head>
         <p rend="indexperry">[P41]</p>
@@ -1010,7 +1010,7 @@
         <p rend="traduction">Un renard s’étant glissé dans un troupeau de moutons, prit un des agneaux à la mamelle et fit semblant de le caresser. Un chien lui demanda : « Que fais-tu là ? — Je le cajole, dit-il, et je joue avec lui. — Lâche-le tout de suite, s’écria le chien ; sinon, je vais te faire des caresses de chien. »</p>
         <p rend="traduction">La fable s’applique au fourbe et au voleur maladroit.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-37">
         <head>Chambry 37</head>
         <div>
           <head>Chambry 37.1</head>
@@ -1039,7 +1039,7 @@
           <p rend="manuscrits">Cod. Ba 132.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-38">
         <head>Chambry 38</head>
         <div>
           <head>Chambry 38.1</head>
@@ -1068,7 +1068,7 @@
           <p rend="manuscrits">Codd. La 29 Lb 42 Le 42 Lf 29 Me 49 Mf 44 Mg 57 Mi 85 Mj 50 Ml 60 Mm 63.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-39">
         <head>Chambry 39</head>
         <head type="sub">Ἀλώπηξ καὶ πίθηκος &lt;περὶ εὐγενείας ἐρίζοντες&gt; – Le renard et le singe disputant de leur noblesse.</head>
         <p rend="indexperry">[P14]</p>
@@ -1078,7 +1078,7 @@
         <p rend="traduction">Le renard et le singe voyageant de compagnie disputaient de leur noblesse. Tandis que chacun d’eux détaillait ses titres tout au long, ils arrivèrent en un certain endroit. Le singe y tourna ses regards et se mit à soupirer. Le renard lui en demanda la cause. Alors le singe lui montrant les tombeaux répondit : « Comment ne pas pleurer, en voyant les cippes funéraires des affranchis et des esclaves de mes pères ? — Oh ! dit le renard, tu peux mentir à ton aise : aucun d’eux ne se lèvera pour te démentir ».</p>
         <p rend="traduction">Il en est ainsi des hommes : les menteurs ne se vantent jamais plus que quand il n’y a personne pour les confondre.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-40">
         <head>Chambry 40</head>
         <div>
           <head>Chambry 40.1</head>
@@ -1147,7 +1147,7 @@
           <p rend="manuscrits">Cod. Mb 205.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-41">
         <head>Chambry 41</head>
         <div>
           <head>Chambry 41.1</head>
@@ -1168,7 +1168,7 @@
           <p rend="manuscrits">Codd. La 7 Lb 6 Le 6 Lf 7 Lh 4 Md 6 Mi 41 Mj 7 Ml 6 Mm 6.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-42">
         <head>Chambry 42</head>
         <div>
           <head>Chambry 42.1</head>
@@ -1197,7 +1197,7 @@
           <p rend="manuscrits">Codd. La 5 Lb 4 Lc 2 Ld 2 Le 4 Lf 5 Lg 2 Mc 10 Md 4 Mg 5 Mi 39 Mj 5 Mk 11 Ml 4 Mm 4 Mn 2.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-43">
         <head>Chambry 43</head>
         <div>
           <head>Chambry 43.1</head>
@@ -1226,7 +1226,7 @@
           <p rend="traduction">Cette fable convient aux hommes magnifiques de corps, mais pauvres de jugement.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-44">
         <head>Chambry 44</head>
         <head type="sub">Ἄνδρες &lt;δύο περὶ θεῶν ἐρίζοντες&gt; - Les deux hommes qui disputent des dieux.</head>
         <p rend="indexperry">[P278]</p>
@@ -1236,7 +1236,7 @@
         <p rend="traduction">Deux hommes disputaient qui des deux dieux, Thésée ou Hercule, était le plus grand. Mais les dieux, s’étant mis en colère contre eux, se vengèrent chacun sur le pays de l’autre.</p>
         <p rend="traduction">Les querelles des subordonnés excitent les maîtres à la colère contre leurs sujets.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-45">
         <head>Chambry 45</head>
         <div>
           <head>Chambry 45.1</head>
@@ -1265,7 +1265,7 @@
           <p rend="manuscrits">Cod. Cc 20.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-46">
         <head>Chambry 46</head>
         <div>
           <head>Chambry 46.1</head>
@@ -1302,7 +1302,7 @@
           <p rend="manuscrits">Codd. La 15 Lb 14 Le 14 Lf 15 Md 14 Mi 49 Mj 17 Mm 14.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-47">
         <head>Chambry 47</head>
         <head type="sub">Ἀνὴρ δειλὸς καὶ κόρακες – Le lâche et les corbeaux.</head>
         <p rend="indexperry">[P245]</p>
@@ -1312,7 +1312,7 @@
         <p rend="traduction">Un homme lâche partait pour la guerre ; mais ayant entendu croasser des corbeaux, il posa ses armes et ne bougea plus ; puis il les reprit et se remit en marche. Mais les corbeaux croassant de nouveau, il s’arrêta, et à la fin il leur dit : « Libre à vous de crier aussi fort que vous pourrez ; mais vous ne goûterez pas à ma chair. »</p>
         <p rend="traduction">Cette fable vise les poltrons.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-48">
         <head>Chambry 48</head>
         <head type="sub">Ἀνὴρ &lt;δηχθεὶς ὑπὸ μύρμηκος&gt; καὶ Ἑρμῆς – L’homme mordu par une fourmi et Hermès.</head>
         <p rend="indexperry">[P306]</p>
@@ -1322,7 +1322,7 @@
         <p rend="traduction">Un jour un vaisseau ayant coulé à fond avec ses passagers, un homme, témoin du naufrage, prétendait que les arrêts des dieux étaient injustes, puisque, pour perdre un seul impie, ils avaient fait périr aussi des innocents. Tandis qu’il parlait ainsi, comme il y avait beaucoup de fourmis à l’endroit où il se trouvait, il arriva qu’une d’elles le mordit, et lui, pour avoir été mordu par une seule, les écrasa toutes. Alors Hermès lui apparut, et le frappant de son caducée, lui dit : « Et maintenant tu n’admettras pas, toi, que les dieux jugent les hommes comme tu juges les fourmis ? »</p>
         <p rend="traduction">Ne blasphémez pas contre les dieux, quand il arrive un malheur ; examinez plutôt vos propres fautes.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-49">
         <head>Chambry 49</head>
         <div>
           <head>Chambry 49.1</head>
@@ -1343,7 +1343,7 @@
           <p rend="manuscrits">Codd. La 97 Lb 52 Le 52 Lf 97 Me 59 Mf 53 Mg 75 Mj 62 Ml 63.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-50">
         <head>Chambry 50</head>
         <div>
           <head>Chambry 50.1</head>
@@ -1372,7 +1372,7 @@
           <p rend="manuscrits">Codd. La 16 Lb 15 Lc 8 Ld 7 Le 15 Lf 16 Lg 8 Ma 148 Mc 14 Md 15 Mi 50 Mj 18 Mk 15 Mm 15 Mn 7.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-51">
         <head>Chambry 51</head>
         <div>
           <head>Chambry 51.1</head>
@@ -1400,7 +1400,7 @@
           <p rend="epimythiumprose">Ὁ μῦθος δηλοῖ ὅτι, ἐὰν μὴ πρόχειρος ἡ τοῦ πράγματος ἀπόδειξις ᾖ, πᾶς λόγος περιττός ἐστι.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-52">
         <head>Chambry 52</head>
         <div>
           <head>Chambry 52.1</head>
@@ -1469,7 +1469,7 @@
           <p rend="manuscrits">Codd. Cb 108 Ca 199.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-53">
         <head>Chambry 53</head>
         <head type="sub">Ἀνὴρ ναυαγός – Le naufragé.</head>
         <p rend="indexperry">[P30]</p>
@@ -1483,7 +1483,7 @@
         <p rend="traduction">Estimons-nous heureux, si en faisant effort nous-mêmes, nous obtenons la protection des dieux ; si nous nous abandonnons, les démons seuls peuvent nous sauver.</p>
         <p rend="traduction">Si l’on tombe dans le malheur, il faut prendre soi-même de la peine pour s’en tirer, et seulement alors implorer le secours de la divinité.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-54">
         <head>Chambry 54</head>
         <head type="sub">Ἀνὴρ πηρός – L’aveugle.</head>
         <p rend="indexperry">[P37]</p>
@@ -1493,7 +1493,7 @@
         <p rend="traduction">Un aveugle avait l’habitude de reconnaître au toucher toute bête qu’on lui mettait entre les mains, et de dire de quelle espèce elle était. Or un jour on lui présenta un louveteau ; il le palpa et resta indécis. « Je ne sais pas, dit-il, si c’est le petit d’un loup, d’un renard ou d’un autre animal du même genre ; mais ce que je sais bien, c’est qu’il n’est pas fait pour aller avec un troupeau de moutons. »</p>
         <p rend="traduction">C’est ainsi que le naturel des méchants se reconnaît souvent à leur extérieur.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-55">
         <head>Chambry 55</head>
         <div>
           <head>Chambry 55.1</head>
@@ -1522,7 +1522,7 @@
           <p rend="manuscrits">Codd. La 18 Lb 17 Lc 54 Le 17 Lf 18 Lg 54 Ma 149 Md 17 Me 24 Mf 24 Mg 9 Mi 52 Mj 20 Ml 14 Mm 17.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-56">
         <head>Chambry 56</head>
         <div>
           <head>Chambry 56.1</head>
@@ -1551,7 +1551,7 @@
           <p rend="manuscrits">Codd. La 12 Lb 11 Lc 7 Ld 5 Le 11 Lf 12 Lg 7 Mc 13 Md 11 Me 22 Mf 22 Mi 46 Mk 14 Ml 11 Mm 11 Mn 5.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-57">
         <head>Chambry 57</head>
         <head type="sub">Ἄνθρωποι καὶ Ζεὺς – Les hommes et Zeus.</head>
         <p rend="indexperry">[P311]</p>
@@ -1561,7 +1561,7 @@
         <p rend="traduction">On dit que les animaux furent façonnés d’abord, et que Dieu leur accorda, à l’un la force, à l’autre la vitesse, à l’autre des ailes ; mais que l’homme resta nu et dit : « Moi seul, tu m’as laissé sans faveur. » Zeus répondit : « Tu ne prends pas garde au présent que je t’ai fait, et pourtant tu as obtenu le plus grand ; car tu as reçu la raison, puissante chez les dieux et chez les hommes, plus puissante que les puissants, plus rapide que les plus rapides. » Et alors reconnaissant le présent de Dieu, l’homme s’en alla, adorant et rendant grâce.</p>
         <p rend="traduction">Tous les hommes ont été favorisés de Dieu qui leur a donné la raison ; mais certains sont insensibles à une telle faveur et préfèrent envier les animaux privés de sentiment et de raison.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-58">
         <head>Chambry 58</head>
         <div>
           <head>Chambry 58.1</head>
@@ -1582,7 +1582,7 @@
           <p rend="manuscrits">Cod. Bc 8.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-59">
         <head>Chambry 59</head>
         <div>
           <head>Chambry 59.1</head>
@@ -1637,7 +1637,7 @@
           <p rend="traduction">Bien des gens se vantent en paroles d’être braves et hardis ; mais l’expérience les démasque et les confond.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-60">
         <head>Chambry 60</head>
         <div>
           <head>Chambry 60.1</head>
@@ -1682,7 +1682,7 @@
           <p rend="manuscrits">Codd. Ba 145 Bb 89.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-61">
         <head>Chambry 61</head>
         <div>
           <head>Chambry 61.1</head>
@@ -1738,7 +1738,7 @@
           <p rend="manuscrits">Cod. Ba 97.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-62">
         <head>Chambry 62</head>
         <head type="sub">Ἄνθρωπος λέοντα χρυσοῦν εὑρών – L’homme qui a trouvé un lion d’or.</head>
         <p rend="indexperry">[P71]</p>
@@ -1748,7 +1748,7 @@
         <p rend="traduction">Un avare, qui était peureux, ayant trouvé un lion d’or, disait : « Je ne sais que devenir en cette aventure. L’effroi m’ôte l’esprit, et je ne sais que faire : je suis partagé entre mon amour des richesses et ma couardise naturelle. Car quel est le hasard ou le dieu qui a fait un lion d’or ? Ce qui m’arrive là jette la discorde dans mon âme : elle aime l’or, mais elle craint l’œuvre qu’on a tirée de l’or ; le désir me pousse à la saisir, mon caractère à m’abstenir. Ô fortune qui offre et qui ne permet pas de prendre ! Ô trésor qui ne donne pas de plaisir ! Ô faveur d’un dieu qui devient une défaveur ! Quoi donc ! Comment en userai-je ? À quel expédient recourir ? Je m’en vais et j’amènerai ici mes serviteurs pour prendre le lion avec cette troupe d’alliés, et moi, de loin, je les regarderai faire. »</p>
         <p rend="epimythiumprose">Cette fable s’applique à un riche qui n’ose ni toucher à ses trésors, ni les mettre en usage.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-63">
         <head>Chambry 63</head>
         <div>
           <head>Chambry 63.1</head>
@@ -1781,7 +1781,7 @@
           <p rend="manuscrits">Cod. Bd 3.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-64">
         <head>Chambry 64</head>
         <head type="sub">Ἀρότης καὶ λύκος – Le laboureur et le loup.</head>
         <p rend="indexperry">[P38]</p>
@@ -1791,7 +1791,7 @@
         <p rend="traduction">Un laboureur ayant dételé son attelage, le menait à l’abreuvoir. Or un loup affamé, qui cherchait pâture, ayant rencontré la charrue, se mit tout d’abord à lécher les côtés intérieurs du joug, puis peu à peu, sans s’en apercevoir, il descendit son cou dedans, et, ne pouvant l’en dégager, il traîna la charrue dans le sillon. Le laboureur revenant l’aperçut et dit : « Ah ! tête scélérate ! si seulement tu renonçais aux rapines et au brigandage pour te mettre au travail de la terre ! »</p>
         <p rend="traduction">Ainsi les méchants ont beau faire profession de vertu : leur caractère empêche de les croire.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-65">
         <head>Chambry 65</head>
         <head type="sub">Ἀστρολόγος – L’astronome.</head>
         <p rend="indexperry">[P40]</p>
@@ -1801,7 +1801,7 @@
         <p rend="traduction">Un astronome avait l’habitude de sortir tous les soirs pour examiner les astres. Or un jour qu’il errait dans la banlieue, absorbé dans la contemplation du ciel, il tomba par mégarde dans un puits. Comme il se lamentait et criait, un passant entendit ses gémissements, s’approcha, et apprenant ce qui était arrivé, lui dit : « Hé ! l’ami, tu veux voir ce qu’il y a dans le ciel, et tu ne vois pas ce qui est sur la terre ! »</p>
         <p rend="traduction">On pourrait appliquer cette fable aux hommes qui se vantent de faire des merveilles, et qui sont incapables de se conduire dans les circonstances ordinaires de la vie.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-66">
         <head>Chambry 66</head>
         <div>
           <head>Chambry 66.1</head>
@@ -1847,7 +1847,7 @@
           <p rend="manuscrits">Cod. Pd 27.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-67">
         <head>Chambry 67</head>
         <div>
           <head>Chambry 67.1</head>
@@ -1868,7 +1868,7 @@
           <p rend="manuscrits">Cod. Pe 36.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-68">
         <head>Chambry 68</head>
         <div>
           <head>Chambry 68.1</head>
@@ -1905,7 +1905,7 @@
           <p rend="manuscrits">Cod. T 3.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-69">
         <head>Chambry 69</head>
         <div>
           <head>Chambry 69.1</head>
@@ -1947,7 +1947,7 @@
           <p rend="manuscrits">Codd. La 139 Lc 43 Lg 43 Md 92 Mg 133 Mh 83 Mi 8 Mm 110.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-70">
         <head>Chambry 70</head>
         <div>
           <head>Chambry 70.1</head>
@@ -1989,7 +1989,7 @@
           <p rend="manuscrits">Codd. Mb 203 Pd 28.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-71">
         <head>Chambry 71</head>
         <div>
           <head>Chambry 71.1</head>
@@ -2023,7 +2023,7 @@
           <p rend="manuscrits">Cod. Mb 20.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-72">
         <head>Chambry 72</head>
         <head type="sub">Βοηλάτης καὶ Ἡρακλῆς – Le bouvier et Héraklès.</head>
         <p rend="indexperry">[P291]</p>
@@ -2038,7 +2038,7 @@
         <p rend="manuscrits">Cod. Mb 19.</p>
         <p rend="traduction">Un bouvier menait un chariot vers un village. Le chariot étant tombé dans un ravin profond, au lieu d’aider à l’en sortir, le bouvier restait là sans rien faire, invoquant parmi tous les dieux le seul Héraclès, qu’il honorait particulièrement. Héraclès lui apparut et lui dit : « Mets la main aux roues, aiguillonne tes bœufs et n’invoque les dieux qu’en faisant toi-même un effort ; autrement tu les invoqueras en vain. »</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-73">
         <head>Chambry 73</head>
         <div>
           <head>Chambry 73.1</head>
@@ -2083,7 +2083,7 @@
           <p rend="manuscrits">Cod. Pd 29.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-74">
         <head>Chambry 74</head>
         <div>
           <head>Chambry 74.1</head>
@@ -2135,7 +2135,7 @@
           <p rend="manuscrits">Cod. Bd 4.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-75">
         <head>Chambry 75</head>
         <div>
           <head>Chambry 75.1</head>
@@ -2156,7 +2156,7 @@
           <p rend="manuscrits">Codd. La 81 Lb 24 Le 24 Lf 81 Md 134 Mg 29 Mi 108 Mj 27 Mm 39.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-76">
         <head>Chambry 76</head>
         <div>
           <head>Chambry 76.1</head>
@@ -2212,7 +2212,7 @@
           <p rend="manuscrits">Cod. Pd 30.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-77">
         <head>Chambry 77</head>
         <div>
           <head>Chambry 77.1</head>
@@ -2249,7 +2249,7 @@
           <p rend="manuscrits">Cod. Mh 96.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-78">
         <head>Chambry 78</head>
         <div>
           <head>Chambry 78.1</head>
@@ -2294,7 +2294,7 @@
           <p rend="manuscrits">Codd. La 20 Lb 25 Lc 11 Le 25 Lf 20 Lg 11 Mg 32 Mj 30 Ml 34.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-79">
         <head>Chambry 79</head>
         <div>
           <head>Chambry 79.1</head>
@@ -2322,7 +2322,7 @@
           <p rend="manuscrits">Cod. Bd 7.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-80">
         <head>Chambry 80</head>
         <div>
           <head>Chambry 80.1</head>
@@ -2359,7 +2359,7 @@
           <p rend="manuscrits">Codd. La 23 Lb 18 Ld 13 Le 18 Lf 23 Mc 35 Md 39 Me 25 Mf 25 Mi 74 Mj 21 Mk 36 Ml 15 Mm 44 Mn 13.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-81">
         <head>Chambry 81</head>
         <div>
           <head>Chambry 81.1</head>
@@ -2426,7 +2426,7 @@
           <p rend="manuscrits">Codd. Ba 118 Bb 70.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-82">
         <head>Chambry 82</head>
         <div>
           <head>Chambry 82.1</head>
@@ -2455,7 +2455,7 @@
           <p rend="manuscrits">Codd. Ba 42 Bb 28.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-83">
         <head>Chambry 83</head>
         <div>
           <head>Chambry 83.1</head>
@@ -2484,7 +2484,7 @@
           <p rend="traduction">Cette fable montre que le travail est pour les hommes un trésor.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-84">
         <head>Chambry 84</head>
         <div>
           <head>Chambry 84.1</head>
@@ -2513,7 +2513,7 @@
           <p rend="traduction">Cette fable montre qu’il faut reconnaître qui vous fait du bien et le payer de retour.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-85">
         <head>Chambry 85</head>
         <div>
           <head>Chambry 85.1</head>
@@ -2553,7 +2553,7 @@
           <p rend="manuscrits">Cod. Mb 215.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-86">
         <head>Chambry 86</head>
         <div>
           <head>Chambry 86.1</head>
@@ -2597,7 +2597,7 @@
           <p rend="manuscrits">Codex Barberinus 47 n° 153.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-87">
         <head>Chambry 87</head>
         <div>
           <head>Chambry 87.1</head>
@@ -2634,7 +2634,7 @@
           <p rend="manuscrits">Codd. La 21 Lb 26 Le 26 Lf 21 Me 33 Mg 33 Mj 31 Ml 35.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-88">
         <head>Chambry 88</head>
         <head type="sub">Γυνὴ καὶ ἀνὴρ &lt;μέθυσος&gt; – La femme et l’ivrogne.</head>
         <p rend="indexperry">[P246]</p>
@@ -2644,7 +2644,7 @@
         <p rend="traduction">Une femme avait un ivrogne pour mari. Pour le défaire de son vice, elle imagina l’artifice que voici. Elle observa le moment où son mari engourdi par l’ivresse était insensible comme un mort, le chargea sur ses épaules, l’emporta au cimetière, le déposa et se retira. Quand elle jugea qu’il avait cuvé son vin, elle revint et frappa à la porte du cimetière : « Qui frappe à la porte ? » dit l’ivrogne. « C’est moi qui viens apporter à manger aux morts », répondit la femme. Et lui : « Ne m’apporte pas à manger, mon brave, apporte-moi plutôt à boire : tu me fais de la peine en me parlant de manger, non de boire. » La femme, se frappant la poitrine s’écria : « Hélas ! que je suis malheureuse ! ma ruse même n’a fait aucun effet sur toi, mon homme ; car non seulement tu n’es pas assagi, mais encore tu es devenu pire, et ton défaut est devenu une seconde nature. »</p>
         <p rend="traduction">Cette fable montre qu’il ne faut pas s’invétérer dans la mauvaise conduite ; car il vient un moment où, bon gré, mal gré, l’habitude s’impose à l’homme.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-89">
         <head>Chambry 89</head>
         <div>
           <head>Chambry 89.1</head>
@@ -2665,7 +2665,7 @@
           <p rend="manuscrits">Codd. La 83 Lb 32 Lc 32 Le 32 Lf 83 Lg 32 Md 136 Me 39 Mf 34 Mg 41 Mi 110 Mj 37 Ml 44 Mm 50 Ce 37 Cf 41.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-90">
         <head>Chambry 90</head>
         <div>
           <head>Chambry 90.1</head>
@@ -2694,7 +2694,7 @@
           <p rend="traduction">Cette fable montre que, lorsqu’on cherche par cupidité à avoir plus que l’on n’a, on perd même ce qu’on possède.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-91">
         <head>Chambry 91</head>
         <div>
           <head>Chambry 91.1</head>
@@ -2715,7 +2715,7 @@
           <p rend="manuscrits">Codd. La 84 Lb 33 Le 33 Lf 84 Md 137 Mg 42 Mi 111 Mj 38 Ml 41 Mm 51 Ce 36 Cf 40.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-92">
         <head>Chambry 92</head>
         <div>
           <head>Chambry 92.1</head>
@@ -2771,7 +2771,7 @@
           <p rend="manuscrits">Cod. Mb 39.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-93">
         <head>Chambry 93</head>
         <head type="sub">Δειλὸς κυνηγὸς καὶ δρυτόμος – Le chasseur poltron et le bûcheron.</head>
         <p rend="indexperry">[P326]</p>
@@ -2781,7 +2781,7 @@
         <p rend="traduction">Un chasseur cherchait la piste d’un lion. Il demanda à un bûcheron s’il avait vu des pas de lion et où gîtait la bête. « Je vais, répondit le bûcheron, te montrer le lion lui-même. » Le chasseur devint blême de peur, et, claquant des dents, il dit : « C’est la piste seulement que je cherche, et non le lion lui-même. »</p>
         <p rend="traduction">Cette fable apprend à reconnaître les gens hardis et lâches, j’entends hardis en paroles et lâches en actions.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-94">
         <head>Chambry 94</head>
         <div>
           <head>Chambry 94.1</head>
@@ -2802,7 +2802,7 @@
           <p rend="manuscrits">Codd. Pa 177 Pb 174 Pf 97 Mb 149 Me 124 Mf 104 Mj 114 Ca 131.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-95">
         <head>Chambry 95</head>
         <div>
           <head>Chambry 95.1</head>
@@ -2823,7 +2823,7 @@
           <p rend="manuscrits">Codd. Pf 29 Ph 30 Mj 47.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-96">
         <head>Chambry 96</head>
         <head type="sub">Δημάδης ὁ ῥήτωρ – L’orateur Démade.</head>
         <p rend="indexperry">[P63]</p>
@@ -2833,7 +2833,7 @@
         <p rend="traduction">L’orateur Démade parlait un jour au peuple d’Athènes. Comme on ne prêtait pas beaucoup d’attention à son discours, il demanda qu’on lui permît de conter une fable d’Ésope. La demande accordée, il commença ainsi : « Déméter, l’hirondelle et l’anguille faisaient route ensemble ; elles arrivèrent au bord d’une rivière ; alors l’hirondelle s’éleva dans les airs, l’anguille plongea dans les eaux », et là-dessus il s’arrêta de parler. « Et Déméter, lui cria-t-on, que fit-elle ? — Elle se mit en colère contre vous, répondit-il, qui négligez les affaires de l’état, pour vous attacher à des fables d’Ésope. »</p>
         <p rend="traduction">Ainsi parmi les hommes ceux-là sont déraisonnables qui négligent les choses nécessaires et préfèrent celles qui leur font plaisir.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-97">
         <head>Chambry 97</head>
         <head type="sub">Διογένης καὶ φαλακρός – Diogène et le chauve.</head>
         <p rend="indexperry">[P248]</p>
@@ -2841,7 +2841,7 @@
         <p rend="manuscrits">Cod. Pe 38.</p>
         <p rend="traduction">Diogène, le philosophe cynique, insulté par un homme qui était chauve, répliqua : « Ce n’est pas moi qui aurai recours à l’insulte, Dieu m’en garde ! bien au contraire, je loue les cheveux qui ont quitté un méchant crâne. »</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-98">
         <head>Chambry 98</head>
         <head type="sub">Διογένης ὁδοιπορῶν – Diogène en voyage.</head>
         <p rend="indexperry">[P247]</p>
@@ -2851,7 +2851,7 @@
         <p rend="traduction">Diogène le Cynique étant en voyage, arriva sur le bord d’une rivière qui coulait à pleins bords, et s’arrêta sur la berge, embarrassé. Un homme qui avait l’habitude de faire passer l’eau, le voyant perplexe, s’approcha, le prit sur ses épaules, et le transporta complaisamment de l’autre côté. Et Diogène était là, se reprochant sa pauvreté, qui l’empêchait de payer de retour son bienfaiteur. Il y songeait encore, lorsque l’homme, apercevant un autre voyageur qui ne pouvait traverser, courut à lui et le passa. Alors Diogène, s’approchant du passeur, lui dit : « Je ne te sais plus gré de ton service ; car je vois que ce n’est point le discernement, mais une manie qui te fait faire ce que tu fais. »</p>
         <p rend="traduction">Cette fable montre qu’à obliger les gens de rien aussi bien que les gens de mérite, on s’expose à passer non pour un homme serviable, mais pour un homme sans discernement.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-99">
         <head>Chambry 99</head>
         <div>
           <head>Chambry 99.1</head>
@@ -2879,7 +2879,7 @@
           <p rend="manuscrits">Cod. Bd 1.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-100">
         <head>Chambry 100</head>
         <div>
           <head>Chambry 100.1</head>
@@ -2937,7 +2937,7 @@
           <p rend="manuscrits">Codd. Ce 99 Cf 106.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-101">
         <head>Chambry 101</head>
         <div>
           <head>Chambry 101.1</head>
@@ -3003,7 +3003,7 @@
           <p rend="manuscrits">Cod. Bc 23.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-102">
         <head>Chambry 102</head>
         <div>
           <head>Chambry 102.1</head>
@@ -3031,7 +3031,7 @@
           <p rend="manuscrits">Cod. Bd 25.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-103">
         <head>Chambry 103</head>
         <div>
           <head>Chambry 103.1</head>
@@ -3068,7 +3068,7 @@
           <p rend="manuscrits">Cod. Bc 27.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-104">
         <head>Chambry 104</head>
         <div>
           <head>Chambry 104.1</head>
@@ -3089,7 +3089,7 @@
           <p rend="traduction">Cette fable montre que ceux qui font du mal à leurs bienfaiteurs sont punis de Dieu.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-105">
         <head>Chambry 105</head>
         <div>
           <head>Chambry 105.1</head>
@@ -3118,7 +3118,7 @@
           <p rend="manuscrits">Codd. La 64 Lb 44 Le 44 Lf 64 Md 119 Mg 67 Mi 35 Mj 53 Ml 56.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-106">
         <head>Chambry 106</head>
         <div>
           <head>Chambry 106.1</head>
@@ -3139,7 +3139,7 @@
           <p rend="manuscrits">Codd. La 63 Lb 43 Le 43 Lf 63 Md 118 Mg 66 Mi 33 Mj 52 Ml 58 Mm 66.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-107">
         <head>Chambry 107</head>
         <div>
           <head>Chambry 107.1</head>
@@ -3197,7 +3197,7 @@
           <p rend="manuscrits">Cod. T 4.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-108">
         <head>Chambry 108</head>
         <div>
           <head>Chambry 108.1</head>
@@ -3226,7 +3226,7 @@
           <p rend="manuscrits">Codd. La 98 Lb 53 Le 53 Lf 98 Lh 20 Mg 76 Mi 87 Mj 63 Ml 64.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-109">
         <head>Chambry 109</head>
         <div>
           <head>Chambry 109.1</head>
@@ -3247,7 +3247,7 @@
           <p rend="manuscrits">Codd. La 94 Lb 49 Le 49 Lf 94 Me 56 Mf 50 Mg 72 Mj 59 Ml 65.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-110">
         <head>Chambry 110</head>
         <head type="sub">Ἑρμῆς καὶ γῆ – Hermès et la terre.</head>
         <p rend="indexperry">[P102]</p>
@@ -3257,7 +3257,7 @@
         <p rend="traduction">Zeus, ayant façonné l’homme et la femme dit à Hermès de les mener sur la terre et de leur montrer à quel endroit ils devaient creuser la terre pour se procurer des aliments. Hermès ayant rempli sa mission, la terre fit d’abord résistance ; mais Hermès insista en disant que c’était l’ordre de Zeus. « Eh bien ! dit-elle, qu’ils creusent tant qu’ils voudront : ils me le paieront de leurs soupirs et de leurs larmes. »</p>
         <p rend="traduction">La fable convient à ceux qui empruntent facilement et s’acquittent avec peine.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-111">
         <head>Chambry 111</head>
         <div>
           <head>Chambry 111.1</head>
@@ -3278,7 +3278,7 @@
           <p rend="manuscrits">Codd. La 95 Lb 50 Le 50 Lf 95 Me 57 Mf 51 Mg 73 Mj 60 Ml 66.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-112">
         <head>Chambry 112</head>
         <head type="sub">Ἑρμῆς καὶ τεχνῖται – Hermès et les artisans.</head>
         <p rend="indexperry">[P103]</p>
@@ -3288,7 +3288,7 @@
         <p rend="traduction">Zeus avait chargé Hermès de verser à tous les artisans le poison du mensonge. Hermès le broya, et faisant la part égale pour chacun, il le leur versa. Mais, comme il ne restait plus que le cordonnier et qu’il y avait encore beaucoup de poison, il prit tout le mortier et le versa sur lui. C’est depuis lors que tous les artisans sont menteurs, mais plus que tous les cordonniers.</p>
         <p rend="traduction">Cette fable s’applique à un homme qui tient des propos mensongers.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-113">
         <head>Chambry 113</head>
         <div>
           <head>Chambry 113.1</head>
@@ -3308,7 +3308,7 @@
           <p rend="manuscrits">Cod. Mb 52.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-114">
         <head>Chambry 114</head>
         <head type="sub">Εὔνουχος καὶ ἱερεύς – L’eunuque et le sacrificateur.</head>
         <p rend="indexperry">[P310]</p>
@@ -3316,7 +3316,7 @@
         <p rend="manuscrits">Cod. Bd 19.</p>
         <p rend="traduction">Un eunuque alla trouver un sacrificateur et le pria de faire un sacrifice en sa faveur, afin qu’il devînt père. Le sacrificateur lui dit : « Quand je considère le sacrifice, je prie pour que tu deviennes père ; mais quand je vois ta personne, tu ne parais même pas être un homme. »</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-115">
         <head>Chambry 115</head>
         <div>
           <head>Chambry 115.1</head>
@@ -3345,7 +3345,7 @@
           <p rend="traduction">Cette fable montre que beaucoup de gens ne s’inquiètent aucunement du dommage qui leur arrive, pourvu qu’ils voient leurs ennemis endommagés avant eux.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-116">
         <head>Chambry 116</head>
         <div>
           <head>Chambry 116.1</head>
@@ -3389,7 +3389,7 @@
           <p rend="manuscrits">Codd. Ba 125 Bb 75.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-117">
         <head>Chambry 117</head>
         <head type="sub">Ἔχις καὶ ῥίνη – La vipère et la lime.</head>
         <p rend="indexperry">[P93]</p>
@@ -3399,7 +3399,7 @@
         <p rend="traduction">Une vipère, s’étant glissée dans l’atelier d’un forgeron, demanda aux outils de lui faire une aumône. Après l’avoir reçue des autres, elle vint à la lime et la pria de lui donner quelque chose. « Tu es bonne, répliqua la lime, de croire que tu obtiendras quelque chose de moi : j’ai l’habitude, non pas de donner, mais de prendre de chacun. »</p>
         <p rend="traduction">Cette fable fait voir que c’est sottise de s’attendre à tirer quelque profit des avares.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-118">
         <head>Chambry 118</head>
         <head type="sub">Ἔχις καὶ ὕδρος – La vipère et l’hydre.</head>
         <p rend="indexperry">[P90]</p>
@@ -3409,7 +3409,7 @@
         <p rend="traduction">Une vipère venait régulièrement boire à une source. Une hydre qui l’habitait voulait l’en empêcher, s’indignant que la vipère, non contente de son propre pâtis, envahit encore son domaine à elle. Comme la querelle ne faisait que s’envenimer, elles convinrent de se livrer bataille : celle qui serait victorieuse aurait la possession de la terre et de l’eau. Elles avaient fixé le jour, quand les grenouilles, par haine de l’hydre, vinrent trouver la vipère et l’enhardirent en lui promettant de se ranger de son côté. Le combat s’engagea, et la vipère luttait contre l’hydre, tandis que les grenouilles, ne pouvant faire davantage, poussaient de grands cris. La vipère ayant remporté la victoire leur adressa des reproches : elles avaient, disait-elle, promis de combattre avec elle, et, pendant la bataille, au lieu de la secourir, elles n’avaient fait que chanter. Les grenouilles répondirent : « Sache bien, camarade, que notre aide ne se donne point par les bras, mais par la voix seule. »</p>
         <p rend="traduction">Cette fable montre que, quand on a besoin des bras, les secours en paroles ne servent de rien.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-119">
         <head>Chambry 119</head>
         <div>
           <head>Chambry 119.1</head>
@@ -3430,7 +3430,7 @@
           <p rend="traduction">Cette fable montre que ceux qui sont la proie de l’amour en perdent toute pudeur.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-120">
         <head>Chambry 120</head>
         <head type="sub">Ζεὺς καὶ ἀλώπηξ – Zeus et le renard.</head>
         <p rend="indexperry">[P107]</p>
@@ -3440,7 +3440,7 @@
         <p rend="traduction">Zeus, émerveillé de l’intelligence et de la souplesse d’esprit du renard, lui conféra la royauté des bêtes. Toutefois il voulut savoir si, en changeant de fortune, il avait aussi changé ses habitudes de convoitise ; et, tandis que le nouveau roi passait en litière, il lâcha un escarbot sous ses yeux. Alors, incapable de se tenir, en voyant l’escarbot voltiger autour de sa litière, le renard sauta dehors, et, au mépris de toute convenance, il essaya de l’attraper. Zeus, indigné de sa conduite, le remit dans son ancien état.</p>
         <p rend="traduction">Cette fable montre que les gens de rien ont beau prendre des dehors plus brillants, ils ne changent pas de nature.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-121">
         <head>Chambry 121</head>
         <head type="sub">Ζεὺς καὶ ἄνθρωποι – Zeus et les hommes.</head>
         <p rend="indexperry">[P108]</p>
@@ -3450,7 +3450,7 @@
         <p rend="traduction">Zeus, ayant modelé les hommes, chargea Hermès de leur verser de l’intelligence. Hermès, en ayant fait des parts égales, versa à chacun la sienne. Il arriva par là que les hommes de petite taille, remplis par leur portion, furent des gens sensés, mais que les hommes de grande taille, le breuvage n’arrivant pas dans tout leur corps, eurent moins de raison que les autres.</p>
         <p rend="traduction">Cette fable s’applique à un homme grand de taille, mais dépourvu d’esprit.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-122">
         <head>Chambry 122</head>
         <head type="sub">Ζεὺς καὶ Ἀπόλλων – Zeus et Apollon.</head>
         <p rend="indexperry">[P104]</p>
@@ -3460,7 +3460,7 @@
         <p rend="traduction">Zeus et Apollon disputaient du tir à l’arc. Apollon ayant tendu son arc et décoché sa flèche, Zeus avança la jambe aussi loin qu’Apollon avait lancé son trait.</p>
         <p rend="traduction">De même quand on lutte avec des rivaux plus forts que soi, outre qu’on ne les atteint pas, on s’expose encore à la moquerie.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-123">
         <head>Chambry 123</head>
         <div>
           <head>Chambry 123.1</head>
@@ -3481,7 +3481,7 @@
           <p rend="traduction">Cette fable montre qu’il faut craindre les gracieusetés des méchants.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-124">
         <head>Chambry 124</head>
         <div>
           <head>Chambry 124.1</head>
@@ -3501,7 +3501,7 @@
           <p rend="manuscrits">Cod. Bd 22.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-125">
         <head>Chambry 125</head>
         <div>
           <head>Chambry 125.1</head>
@@ -3529,7 +3529,7 @@
           <p rend="manuscrits">Cod. Bd 21.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-126">
         <head>Chambry 126</head>
         <div>
           <head>Chambry 126.1</head>
@@ -3550,7 +3550,7 @@
           <p rend="manuscrits">Codd. La 109 Lb 57 Le 57 Lf 109 Lh 21 Me 71 Mg 79 Mj 71 Ml 74.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-127">
         <head>Chambry 127</head>
         <div>
           <head>Chambry 127.1</head>
@@ -3571,7 +3571,7 @@
           <p rend="manuscrits">Cod. Mb 135.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-128">
         <head>Chambry 128</head>
         <div>
           <head>Chambry 128.1</head>
@@ -3603,7 +3603,7 @@
           <p rend="manuscrits">Cod. Mb 63.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-129">
         <head>Chambry 129</head>
         <div>
           <head>Chambry 129.1</head>
@@ -3647,7 +3647,7 @@
           <p rend="manuscrits">Cod. Bd 24.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-130">
         <head>Chambry 130</head>
         <div>
           <head>Chambry 130.1</head>
@@ -3667,7 +3667,7 @@
           <p rend="manuscrits">Cod. Bd 9.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-131">
         <head>Chambry 131</head>
         <head type="sub">Ἡρακλῆς καὶ Πλοῦτος – Héraclès et Plutus.</head>
         <p rend="indexperry">[P111]</p>
@@ -3677,7 +3677,7 @@
         <p rend="traduction">Héraclès, admis au rang des dieux et reçu à la table de Zeus, saluait avec beaucoup de bonne grâce chacun des dieux. Mais Plutus étant arrivé le dernier, Héraclès baissa les yeux sur le pavé et se détourna de lui. Zeus étonné de son attitude lui demanda pourquoi, après avoir salué complaisamment tous les dieux, il détournait les yeux du seul Plutus. Il répondit : « Si je détourne les yeux de lui, c’est qu’au temps où j’étais parmi les hommes, je le voyais presque toujours acoquiné aux méchants. »</p>
         <p rend="traduction">Cette fable pourrait se conter à propos d’un homme enrichi par la fortune, mais méchant de caractère.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-132">
         <head>Chambry 132</head>
         <head type="sub">Ἥρως – Le demi-dieu.</head>
         <p rend="indexperry">[P110]</p>
@@ -3687,7 +3687,7 @@
         <p rend="traduction">Un homme, ayant un demi-dieu dans sa maison, lui offrait de riches sacrifices. Comme il ne cessait de dépenser et de consommer en sacrifices des sommes considérables, le demi-dieu lui apparut la nuit, et lui dit : « Cesse, mon ami, de dilapider ton bien ; car, si tu dépenses tout et que tu deviennes pauvre, c’est à moi que tu t’en prendras. »</p>
         <p rend="traduction">Ainsi beaucoup de gens, tombés dans le malheur par leur sottise, en rejettent la responsabilité sur les dieux.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-133">
         <head>Chambry 133</head>
         <div>
           <head>Chambry 133.1</head>
@@ -3716,7 +3716,7 @@
           <p rend="manuscrits">Codd. La 30 Lb 58 Ld 21 Le 58 Lf 30 Lh 22 Ma 77bis et 169 Mc 52 Md 57 Mg 81 Mi 92 Mk 56 Ml 76 Mm 73 Mn 21.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-134">
         <head>Chambry 134</head>
         <div>
           <head>Chambry 134.1</head>
@@ -3736,7 +3736,7 @@
           <p rend="manuscrits">Cod. Bd 26.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-135">
         <head>Chambry 135</head>
         <div>
           <head>Chambry 135.1</head>
@@ -3783,7 +3783,7 @@
           <p rend="manuscrits">Cod. Cd 52.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-136">
         <head>Chambry 136</head>
         <div>
           <head>Chambry 136.1</head>
@@ -3817,7 +3817,7 @@
           <p rend="manuscrits">Codd. Bd 28.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-137">
         <head>Chambry 137</head>
         <div>
           <head>Chambry 137.1</head>
@@ -3845,7 +3845,7 @@
           <p rend="manuscrits">Cod. Mb 71.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-138">
         <head>Chambry 138</head>
         <div>
           <head>Chambry 138.1</head>
@@ -3893,7 +3893,7 @@
           <p rend="manuscrits">Codd. La 32 Lb 60 Lc 60 Ld 22 Le 60 Lf 32 Lg 60 Lh 24 Mc 54 Md 59 Mg 83 Ml 78 Mm 75 Mn 22.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-139">
         <head>Chambry 139</head>
         <div>
           <head>Chambry 139.1</head>
@@ -3927,7 +3927,7 @@
           <p rend="manuscrits">Cod. Pd 43.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-140">
         <head>Chambry 140</head>
         <div>
           <head>Chambry 140.1</head>
@@ -3948,7 +3948,7 @@
           <p rend="manuscrits">Codd. Ba 58 Bb 35 Mb 68.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-141">
         <head>Chambry 141</head>
         <div>
           <head>Chambry 141.1</head>
@@ -3968,7 +3968,7 @@
           <p rend="manuscrits">Cod. Bd 33.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-142">
         <head>Chambry 142</head>
         <div>
           <head>Chambry 142.1</head>
@@ -4035,7 +4035,7 @@
           <p rend="manuscrits">Codd. Pa 180 Pb 177 Mb 153 Ca 133.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-143">
         <head>Chambry 143</head>
         <div>
           <head>Chambry 143.1</head>
@@ -4055,7 +4055,7 @@
           <p rend="manuscrits">Cod. Bd 29.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-144">
         <head>Chambry 144</head>
         <head type="sub">Ἵππος καὶ σῦς ἄγριος.</head>
         <p rend="indexperry">[P269]</p>
@@ -4063,7 +4063,7 @@
         <p rend="epimythiumprose">Ὅτι θυμὸς οἶδεν δουλῶσαι καὶ ταπεινῶσαι ἄνδρα γενναῖον καὶ πρὸς ἄμυναν [γενέσθαι] τοῦ ἀδικηκότος &lt;ὡρμημένον&gt;.</p>
         <p rend="manuscrits">Cod. Ba 117.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-145">
         <head>Chambry 145</head>
         <div>
           <head>Chambry 145.1</head>
@@ -4084,7 +4084,7 @@
           <p rend="manuscrits">Cod. Bc 20.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-146">
         <head>Chambry 146</head>
         <div>
           <head>Chambry 146.1</head>
@@ -4105,7 +4105,7 @@
           <p rend="manuscrits">Cod. Ce 116.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-147">
         <head>Chambry 147</head>
         <div>
           <head>Chambry 147.1</head>
@@ -4138,7 +4138,7 @@
           <p rend="manuscrits">Cod. Ba 104.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-148">
         <head>Chambry 148</head>
         <div>
           <head>Chambry 148.1</head>
@@ -4162,7 +4162,7 @@
           <p rend="manuscrits">Cod. Cd 63.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-149">
         <head>Chambry 149</head>
         <head type="sub">Κάμηλος τὸ πρῶτον ὀφθείς – Le chameau vu pour la première fois.</head>
         <p rend="indexperry">[P195]</p>
@@ -4172,7 +4172,7 @@
         <p rend="traduction">Lorsqu’ils virent le chameau pour la première fois, les hommes eurent peur, et, frappés de sa grande taille, ils s’enfuirent. Mais quand avec le temps ils se furent rendu compte de sa douceur, ils s’enhardirent jusqu’à l’approcher. Puis s’apercevant peu à peu que la bête n’avait pas de colère, ils en vinrent à la mépriser au point de lui mettre une bride et de la donner à conduire à des enfants.</p>
         <p rend="traduction">Cette fable montre que l’habitude calme la peur qu’inspirent les choses effrayantes.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-150">
         <head>Chambry 150</head>
         <div>
           <head>Chambry 150.1</head>
@@ -4193,7 +4193,7 @@
           <p rend="manuscrits">Cod. Pe 49.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-151">
         <head>Chambry 151</head>
         <div>
           <head>Chambry 151.1</head>
@@ -4214,7 +4214,7 @@
           <p rend="manuscrits">Codd. La 99 Lb 66 Le 66 Lf 99 Lh 29 Mg 90 Ml 85.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-152">
         <head>Chambry 152</head>
         <div>
           <head>Chambry 152.1</head>
@@ -4243,7 +4243,7 @@
           <p rend="manuscrits">Cod. Mb 74.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-153">
         <head>Chambry 153</head>
         <div>
           <head>Chambry 153.1</head>
@@ -4279,7 +4279,7 @@
           <p rend="manuscrits">Cod. Mb 86.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-154">
         <head>Chambry 154</head>
         <div>
           <head>Chambry 154.1</head>
@@ -4321,7 +4321,7 @@
           <p rend="manuscrits">Cod. Cd 54.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-155">
         <head>Chambry 155</head>
         <head type="sub">Κηπουρὸς &lt;ἀρδεύων λάχανα&gt; – Le jardinier arrosant des légumes.</head>
         <p rend="indexperry">[P119]</p>
@@ -4331,7 +4331,7 @@
         <p rend="traduction">Un homme, s’étant arrêté près d’un jardinier qui arrosait ses légumes, lui demanda pourquoi les légumes sauvages étaient florissants et vigoureux, et les cultivés chétifs et malingres, « C’est que, répondit le jardinier, la terre est pour les uns une mère, pour les autres une marâtre. »</p>
         <p rend="traduction">Pareillement les enfants nourris par une marâtre ne sont pas nourris comme ceux qui ont leur mère.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-156">
         <head>Chambry 156</head>
         <div>
           <head>Chambry 156.1</head>
@@ -4352,7 +4352,7 @@
           <p rend="traduction">Cette fable s’adresse aux hommes injustes et ingrats.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-157">
         <head>Chambry 157</head>
         <div>
           <head>Chambry 157.1</head>
@@ -4373,7 +4373,7 @@
           <p rend="manuscrits">Codd. La 100 Lb 67 Le 67 Lf 100 Lh 30 Mg 91 Ml 86.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-158">
         <head>Chambry 158</head>
         <head type="sub">Κίχλα – La grive.</head>
         <p rend="indexperry">[P86]</p>
@@ -4383,7 +4383,7 @@
         <p rend="traduction">Une grive picorait dans un bosquet de myrtes, et, charmée par la douceur de leurs baies, elle ne pouvait le quitter. Un oiseleur, ayant remarqué qu’elle se plaisait en ce lieu, la prit à la glu. Alors, se voyant près d’être tuée, elle dit : « Malheureuse que je suis ! pour le plaisir de manger, je me prive de la vie. »</p>
         <p rend="traduction">La fable s’adresse au débauché qui se perd par le plaisir.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-159">
         <head>Chambry 159</head>
         <div>
           <head>Chambry 159.1</head>
@@ -4404,7 +4404,7 @@
           <p rend="manuscrits">Codd. La 101 Lb 68 Le 68 Lf 101 Mg 92 Ml 87.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-160">
         <head>Chambry 160</head>
         <head type="sub">Κοιλία καὶ πόδες – L’estomac et les pieds.</head>
         <p rend="indexperry">[P130]</p>
@@ -4414,7 +4414,7 @@
         <p rend="traduction">L’estomac et les pieds disputaient de leur force. À tout propos les pieds alléguaient qu’ils étaient tellement supérieurs en force qu’ils portaient même l’estomac. À quoi celui-ci répondit : « Mais, mes amis, si je ne vous fournissais pas de nourriture, vous-mêmes ne pourriez pas me porter. »</p>
         <p rend="traduction">Il en va ainsi dans les armées : le nombre, le plus souvent, n’est rien, si les chefs n’excellent pas dans le conseil.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-161">
         <head>Chambry 161</head>
         <head type="sub">Κολοιὸς καὶ ἀλώπηξ – Le choucas et le renard.</head>
         <p rend="indexperry">[P126]</p>
@@ -4424,7 +4424,7 @@
         <p rend="traduction">Un choucas affamé s’était perché sur un figuier ; mais voyant que les figues étaient encore vertes, il attendait qu’elles fussent mûres. Un renard, le voyant s’éterniser là, lui en demanda la raison. Quand il en fut instruit : « Tu as tort, l’ami, dit-il, de t’attacher à une espérance ; l’espérance s’entend à repaître d’illusion, mais de nourriture, non pas. »</p>
         <p rend="traduction">Cette fable s’applique au convoiteux.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-162">
         <head>Chambry 162</head>
         <head type="sub">Κολοιὸς καὶ κόρακες – Le choucas et les corbeaux.</head>
         <p rend="indexperry">[P123]</p>
@@ -4434,7 +4434,7 @@
         <p rend="traduction">Un choucas, qui dépassait en grosseur les autres choucas, prit en mépris ceux de sa tribu, se rendit chez les corbeaux et demanda à partager leur vie. Mais les corbeaux, à qui sa forme et sa voix étaient inconnues, le battirent et le chassèrent. Et lui, repoussé par eux, s’en revint chez les choucas ; mais les choucas, sensibles à l’outrage, refusèrent de le recevoir. Il arriva ainsi qu’il fut exclu de la société et des uns et des autres.</p>
         <p rend="traduction">Il en est ainsi chez les hommes. Ceux qui abandonnent leur patrie et lui préfèrent un autre pays sont mal vus dans ce pays, parce qu’ils sont étrangers, et ils sont odieux à leurs propres concitoyens, parce qu’ils les ont méprisés.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-163">
         <head>Chambry 163</head>
         <div>
           <head>Chambry 163.1</head>
@@ -4479,7 +4479,7 @@
           <p rend="manuscrits">Cod. Mo 152.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-164">
         <head>Chambry 164</head>
         <div>
           <head>Chambry 164.1</head>
@@ -4500,7 +4500,7 @@
           <p rend="manuscrits">Codd. La 105 Lb 72 Le 72 Lf 105 Me 89 Mf 75 Mg 96 Ml 90.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-165">
         <head>Chambry 165</head>
         <head type="sub">Κολοιὸς φυγάς – Le choucas échappé.</head>
         <p rend="indexperry">[P131]</p>
@@ -4510,7 +4510,7 @@
         <p rend="traduction">Un homme ayant attrapé un choucas et lui ayant lié la patte avec un fil de lin, le donna à son enfant. Mais le choucas, ne pouvant se résigner à vivre avec les hommes, profita d’un instant de liberté pour s’enfuir et revint à son nid. Mais le fil s’étant enroulé aux branches, l’oiseau ne put s’envoler et, se voyant sur le point de mourir, il dit : « Je suis bien malheureux : pour n’avoir pas supporté l’esclavage chez les hommes, je me suis sans m’en douter privé de la vie. »</p>
         <p rend="traduction">Cette fable pourrait se dire des hommes qui, en voulant se défendre de médiocres dangers, se sont jetés à leur insu dans des périls plus redoutables.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-166">
         <head>Chambry 166</head>
         <div>
           <head>Chambry 166.1</head>
@@ -4562,7 +4562,7 @@
           <p rend="manuscrits">Cod. Cd 57.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-167">
         <head>Chambry 167</head>
         <div>
           <head>Chambry 167.1</head>
@@ -4582,7 +4582,7 @@
           <p rend="manuscrits">Cod. Bd 31.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-168">
         <head>Chambry 168</head>
         <head type="sub">Κόραξ καὶ ὄφις – Le corbeau et le serpent.</head>
         <p rend="indexperry">[P128]</p>
@@ -4592,7 +4592,7 @@
         <p rend="traduction">Un corbeau à court de nourriture aperçut un serpent qui dormait au soleil ; il fondit sur lui et l’enleva. Mais le serpent se retourna et le mordit, et le corbeau, sur le point de mourir, dit : « Je suis bien malheureux d’avoir trouvé une aubaine telle que j’en meurs. »</p>
         <p rend="traduction">On pourrait dire cette fable à propos d’un homme que la découverte d’un trésor met en péril de mort.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-169">
         <head>Chambry 169</head>
         <div>
           <head>Chambry 169.1</head>
@@ -4632,7 +4632,7 @@
           <p rend="manuscrits">Cod. Bd 32.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-170">
         <head>Chambry 170</head>
         <div>
           <head>Chambry 170.1</head>
@@ -4667,7 +4667,7 @@
           <p rend="manuscrits">Codd. Ma 176 Md 68 Mh 64 Mm 82.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-171">
         <head>Chambry 171</head>
         <div>
           <head>Chambry 171.1</head>
@@ -4688,7 +4688,7 @@
           <p rend="manuscrits">Codd. La 102 Lb 69 Le 69 Lf 102 Me 86 Mf 73 Mg 93 Ml 88.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-172">
         <head>Chambry 172</head>
         <div>
           <head>Chambry 172.1</head>
@@ -4709,7 +4709,7 @@
           <p rend="manuscrits">Codd. La 103 Lb 70 Le 70 Lf 103 Me 87 Mg 94 Ml 89.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-173">
         <head>Chambry 173</head>
         <head type="sub">Κοχλίαι – Les escargots.</head>
         <p rend="indexperry">[P54]</p>
@@ -4719,7 +4719,7 @@
         <p rend="traduction">L’enfant d’un laboureur grillait des escargots. En les entendant crépiter, il dit : « Misérables bêtes, vos maisons brûlent, et vous chantez ! »</p>
         <p rend="traduction">Cette fable montre que tout ce qu’on fait à contre-temps est repréhensible.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-174">
         <head>Chambry 174</head>
         <head type="sub">Κύκνος &lt;ἀντὶ χηνὸς ἀπαχθείς&gt; – Le cygne pris pour l’oie.</head>
         <p rend="indexperry">[P399]</p>
@@ -4729,7 +4729,7 @@
         <p rend="traduction">Un homme opulent nourrissait ensemble une oie et un cygne, non point pour le même objet, mais l’un pour son chant, l’autre en vue de sa table. Or lorsque l’oie dut subir le destin pour lequel on l’élevait, il faisait nuit, et le temps ne permettait pas de distinguer les deux volatiles. Mais le cygne, emporté à la place de l’oie, entonne un chant, prélude de son trépas. Sa voix le fit reconnaître et son chant le sauva de la mort.</p>
         <p rend="traduction">Cette fable montre que souvent la musique fait ajourner la mort.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-175">
         <head>Chambry 175</head>
         <head type="sub">Κύκνος &lt;καὶ δεσπότης&gt; – Le cygne et son maître.</head>
         <p rend="indexperry">[P233]</p>
@@ -4739,7 +4739,7 @@
         <p rend="traduction">Les cygnes chantent, dit-on, au moment de mourir. Or un homme étant tombé sur un cygne mis en vente, et sachant par ouï-dire que c’était un animal très mélodieux, en fit l’acquisition. Un jour qu’il donnait à dîner, il alla chercher le cygne et le pria de chanter pendant le festin. Le cygne alors garda le silence, mais un jour, dans la suite, pensant qu’il allait mourir, il se pleura dans un thrène. Son maître, l’entendant, lui dit : « Si tu ne chantes que quand tu vas mourir, j’ai été bien sot de te prier de chanter jadis au lieu de t’immoler. »</p>
         <p rend="traduction">Il arrive ainsi quelquefois que, ce qu’on ne veut pas faire de bonne grâce, on le fait par contrainte.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-176">
         <head>Chambry 176</head>
         <div>
           <head>Chambry 176.1</head>
@@ -4760,7 +4760,7 @@
           <p rend="manuscrits">Codd. La 96 Lb 51 Le 51 Lf 96 Lh 17 Mg 74 Mj 61 Ml 62.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-177">
         <head>Chambry 177</head>
         <head type="sub">Κύνες λιμώττουσαι – Les chiens affamés.</head>
         <p rend="indexperry">[P135]</p>
@@ -4770,7 +4770,7 @@
         <p rend="traduction">Des chiens affamés virent des peaux qui trempaient dans une rivière. Ne pouvant les atteindre, ils convinrent entre eux de boire toute l’eau, pour arriver ensuite aux peaux. Mais il advint qu’à force de boire ils crevèrent avant d’atteindre les peaux.</p>
         <p rend="traduction">Ainsi certains hommes se soumettent, dans l’espérance d’un profit, à des travaux dangereux, et se perdent avant d’atteindre l’objet de leurs désirs.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-178">
         <head>Chambry 178</head>
         <div>
           <head>Chambry 178.1</head>
@@ -4799,7 +4799,7 @@
           <p rend="manuscrits">Codd. La 25 Lb 36 Lc 13 Ld 16 Le 36 Lf 25 Lg 13 Md 42 Me 43 Mf 38 Mg 45 Mi 77 Mj 42 Mk 40 Ml 47 Mm 54 Mn 16.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-179">
         <head>Chambry 179</head>
         <div>
           <head>Chambry 179.1</head>
@@ -4873,7 +4873,7 @@
           <p rend="manuscrits">Cod. Bd 10.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-180">
         <head>Chambry 180</head>
         <div>
           <head>Chambry 180.1</head>
@@ -4893,7 +4893,7 @@
           <p rend="manuscrits">Cod. Bd 34.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-181">
         <head>Chambry 181</head>
         <div>
           <head>Chambry 181.1</head>
@@ -4914,7 +4914,7 @@
           <p rend="traduction">Cette fable montre que les gens sensés, quand leurs ennemis les attaquent, leur donnent le change en les adressant à de plus forts.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-182">
         <head>Chambry 182</head>
         <head type="sub">Κύων καὶ κόχλος – Le chien et le coquillage.</head>
         <p rend="indexperry">[P253]</p>
@@ -4924,7 +4924,7 @@
         <p rend="traduction">Un chien habitué à avaler des œufs, voyant un coquillage, ouvrit la gueule et, refermant violemment ses mâchoires, l’avala, le prenant pour un œuf. Mais ses entrailles s’alourdissant, il eut mal et dit : « Je n’ai que ce que je mérite, moi qui ai pris tous les objets ronds pour des œufs. »</p>
         <p rend="traduction">Cette fable nous enseigne que ceux qui entreprennent une affaire sans discernement s’empêtrent à leur insu dans d’étranges embarras.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-183">
         <head>Chambry 183</head>
         <div>
           <head>Chambry 183.1</head>
@@ -4945,7 +4945,7 @@
           <p rend="manuscrits">Cod. Ba 68.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-184">
         <head>Chambry 184</head>
         <div>
           <head>Chambry 184.1</head>
@@ -4980,7 +4980,7 @@
           <p rend="manuscrits">Cod. Cd 58.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-185">
         <head>Chambry 185</head>
         <div>
           <head>Chambry 185.1</head>
@@ -5036,7 +5036,7 @@
           <p rend="manuscrits">Cod. Cd 59.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-186">
         <head>Chambry 186</head>
         <div>
           <head>Chambry 186.1</head>
@@ -5073,7 +5073,7 @@
           <p rend="manuscrits">Codd. Ba 66 Bb 42.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-187">
         <head>Chambry 187</head>
         <div>
           <head>Chambry 187.1</head>
@@ -5093,7 +5093,7 @@
           <p rend="manuscrits">Cod. Bd 36.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-188">
         <head>Chambry 188</head>
         <div>
           <head>Chambry 188.1</head>
@@ -5118,7 +5118,7 @@
           <p rend="manuscrits">Cod. Cd 61.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-189">
         <head>Chambry 189</head>
         <head type="sub">Κώνωψ καὶ λέων – Le cousin et le lion.</head>
         <p rend="indexperry">[P255]</p>
@@ -5126,7 +5126,7 @@
         <p rend="manuscrits">Cod. T 6.</p>
         <p rend="traduction">Un cousin s’approcha d’un lion et lui dit : « Je n’ai pas peur de toi, et tu n’es pas plus puissant que moi. Si tu prétends le contraire, montre de quoi tu es capable. Est-ce d’égratigner avec tes griffes et de mordre avec tes dents ? Une femme même qui se bat avec son mari en fait autant. Moi, je suis beaucoup plus fort que toi ; si tu veux, je te provoque même au combat. » Et, sonnant de la trompe, le cousin fondit sur lui, mordant le museau dépourvu de poil autour des narines. Quant au lion, il se déchirait de ses propres griffes, jusqu’à ce qu’il renonça au combat. Le cousin, ayant vaincu le lion, sonna de la trompe, entonna un chant de victoire, et prit son essor. Mais il s’empêtra dans une toile d’araignée, et, se sentant dévorer, il gémissait, lui qui faisait la guerre aux plus puissants, de périr par le fait d’un vil animal, une araignée.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-190">
         <head>Chambry 190</head>
         <div>
           <head>Chambry 190.1</head>
@@ -5147,7 +5147,7 @@
           <p rend="manuscrits">Codd. Ba 70 Bb 44 Bd 35.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-191">
         <head>Chambry 191</head>
         <div>
           <head>Chambry 191.1</head>
@@ -5168,7 +5168,7 @@
           <p rend="manuscrits">Codd. Pf 73 Me 96 Mf 81 Mj 90.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-192">
         <head>Chambry 192</head>
         <div>
           <head>Chambry 192.1</head>
@@ -5248,7 +5248,7 @@
           <p rend="manuscrits">Codd. Md 88 Mh 80 Mi 4 Mm 106.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-193">
         <head>Chambry 193</head>
         <head type="sub">Λαγωὸς καὶ ἀλώπηξ – Le lièvre et le renard.</head>
         <p rend="indexperry">[P333]</p>
@@ -5258,7 +5258,7 @@
         <p rend="traduction">Le lièvre dit au renard : « Fais-tu réellement beaucoup de profits, et peux-tu dire pourquoi on t’appelle le « profiteur ? » — Si tu en doutes, répondit le renard, viens chez moi, je t’offre à dîner. » Le lièvre le suivit. Or à l’intérieur le renard n’avait rien à dîner que le lièvre. Le lièvre lui dit : « J’apprends pour mon malheur, mais enfin j’apprends d’où te vient ton nom : ce n’est pas de tes gains, mais de tes ruses. »</p>
         <p rend="traduction">Il arrive souvent de grands malheurs aux curieux qui s’abandonnent à leur maladroite indiscrétion.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-194">
         <head>Chambry 194</head>
         <head type="sub">Λάρος καὶ ἰκτῖνος – La mouette et le milan.</head>
         <p rend="indexperry">[P139]</p>
@@ -5268,7 +5268,7 @@
         <p rend="traduction">Une mouette ayant avalé un poisson, son gosier éclata et elle resta étendue morte sur le rivage. Un milan, l’ayant aperçue, dit : « Tu n’as que ce que tu mérites, puisque, née oiseau, tu cherchais ta vie sur la mer. »</p>
         <p rend="traduction">Ainsi les gens qui abandonnent leur propre métier pour en prendre un qui n’est pas le leur sont justement malheureux.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-195">
         <head>Chambry 195</head>
         <div>
           <head>Chambry 195.1</head>
@@ -5323,7 +5323,7 @@
           <p rend="manuscrits">Cod. Ba 142.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-196">
         <head>Chambry 196</head>
         <head type="sub">Λέοντος βασιλεία – La royauté du lion.</head>
         <p rend="indexperry">[P334]</p>
@@ -5333,7 +5333,7 @@
         <p rend="traduction">Un lion devint roi, qui n’était ni colère, ni cruel, ni violent, mais doux et juste, comme un homme. Il se fit sous son règne une assemblée générale des animaux, en vue de recevoir et de se donner mutuellement satisfaction, le loup au mouton, la panthère au chamois, le tigre au cerf, le chien au lièvre. Le lièvre peureux dit alors : « J’ai vivement souhaité de voir ce jour, afin que les faibles paraissent redoutables aux violents. »</p>
         <p rend="traduction">Quand la justice règne dans l’État, et que tous les jugements sont équitables, les humbles aussi vivent en tranquillité.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-197">
         <head>Chambry 197</head>
         <div>
           <head>Chambry 197.1</head>
@@ -5399,7 +5399,7 @@
           <p rend="manuscrits">Cod. Bd 37.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-198">
         <head>Chambry 198</head>
         <head type="sub">Λέων &lt;ἐγκλεισθεὶς&gt; καὶ γεωργός – Le lion enfermé et le laboureur.</head>
         <p rend="indexperry">[P144]</p>
@@ -5409,7 +5409,7 @@
         <p rend="traduction">Un lion pénétra dans l’étable d’un laboureur. Celui-ci, voulant le prendre, ferma la porte de la cour. Ne pouvant sortir, le lion dévora d’abord les moutons, puis s’attaqua aux bœufs. Alors le laboureur, prenant peur pour lui-même, ouvrit la porte. Le lion parti, la femme du laboureur, le voyant gémir, lui dit : « Tu n’as que ce que tu mérites ; car pourquoi vouloir enfermer une bête que tu devais craindre même de loin ? »</p>
         <p rend="traduction">Ainsi les gens qui excitent de plus forts qu’eux ont naturellement à supporter les conséquences de leur folie.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-199">
         <head>Chambry 199</head>
         <div>
           <head>Chambry 199.1</head>
@@ -5458,7 +5458,7 @@
           <p rend="manuscrits">Cod. Ba 76.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-200">
         <head>Chambry 200</head>
         <div>
           <head>Chambry 200.1</head>
@@ -5478,7 +5478,7 @@
           <p rend="manuscrits">Cod. Bd 38.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-201">
         <head>Chambry 201</head>
         <div>
           <head>Chambry 201.1</head>
@@ -5543,7 +5543,7 @@
           <p rend="manuscrits">Cod. Cd 77.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-202">
         <head>Chambry 202</head>
         <div>
           <head>Chambry 202.1</head>
@@ -5596,7 +5596,7 @@
           <p rend="manuscrits">Cod. Cd 73.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-203">
         <head>Chambry 203</head>
         <head type="sub">Λέων καὶ δελφίς – Le lion et le dauphin.</head>
         <p rend="indexperry">[P145]</p>
@@ -5606,7 +5606,7 @@
         <p rend="traduction">Un lion errant sur une plage vit un dauphin qui sortait la tête hors de l’eau. Il lui proposa une alliance. « Il nous sied tout à fait, dit-il, d’être amis et alliés, puisque toi, tu es le roi des animaux marins, et moi, des animaux terrestres. » Le dauphin acquiesça volontiers. Or le lion, qui était depuis longtemps en guerre avec un taureau sauvage, appela le dauphin à son secours. Celui-ci essaya de sortir de l’eau, mais ne put y réussir. Alors le lion l’accusa de trahison. « Ce n’est pas à moi, répliqua le dauphin, mais à la nature qu’il faut t’en prendre : elle m’a fait aquatique et ne me permet pas de marcher sur terre ».</p>
         <p rend="traduction">Ceci prouve que nous aussi, quand nous contractons amitié, nous devons choisir des alliés qui puissent être à nos côtés au jour du danger.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-204">
         <head>Chambry 204</head>
         <head type="sub">Λέων καὶ κάπρος – Le lion et le sanglier.</head>
         <p rend="indexperry">[P338]</p>
@@ -5616,7 +5616,7 @@
         <p rend="traduction">Dans la saison d’été, quand la chaleur fait naître la soif, un lion et un sanglier vinrent boire à une petite source. Ils se querellèrent à qui boirait le premier, et de la querelle ils en vinrent à une lutte à mort. Mais soudain s’étant retournés pour reprendre haleine, ils virent des vautours qui attendaient pour dévorer celui qui tomberait le premier. Aussi, mettant fin à leur inimitié, ils dirent : « Il vaut mieux devenir amis que de servir de pâture à des vautours et à des corbeaux. »</p>
         <p rend="traduction">Il est beau de mettre fin aux méchantes querelles et aux rivalités ; car l’issue en est dangereuse pour tous les partis.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-205">
         <head>Chambry 205</head>
         <head type="sub">Λέων καὶ λαγωός – Le lion et le lièvre.</head>
         <p rend="indexperry">[P148]</p>
@@ -5626,7 +5626,7 @@
         <p rend="traduction">Un lion, étant tombé sur un lièvre endormi, allait le dévorer ; mais entre temps il vit passer un cerf : il laissa le lièvre et donna la chasse au cerf. Or le lièvre, éveillé par le bruit, prit la fuite ; et le lion, avant poursuivi le cerf au loin, sans pouvoir l’atteindre, revint au lièvre et trouva qu’il s’était sauvé lui aussi. « C’est bien fait pour moi, dit-il, puisque lâchant la pâture que j’avais en main, j’ai préféré l’espoir d’une plus belle proie. »</p>
         <p rend="traduction">Ainsi parfois les hommes, au lieu de se contenter de profils modérés, poursuivent de plus belles espérances, et lâchent imprudemment ce qu’ils ont en main.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-206">
         <head>Chambry 206</head>
         <head type="sub">Λέων καὶ λύκος καὶ ἀλώπηξ – Le lion, le loup et le renard.</head>
         <p rend="indexperry">[P258]</p>
@@ -5636,7 +5636,7 @@
         <p rend="traduction">Le lion devenu vieux était couché, malade, dans son antre, et tous les animaux étaient venus rendre visite à leur prince, à l’exception du renard. Alors le loup, saisissant l’occasion favorable, accusa le renard par-devant le lion : « il n’avait, disait-il, aucun égard pour celui qui était leur maître à tous, et c’est pour cela qu’il n’était même pas venu le visiter. » Sur ces entrefaites le renard arrivait lui aussi, et il entendit les dernières paroles du loup. Alors le lion poussa un rugissement contre le renard. Mais celui-ci, ayant demandé un moment pour se justifier : « Et qui, dit-il, parmi tous ceux qui sont ici réunis, t’a rendu un aussi grand service que moi, qui suis allé partout demander aux médecins un remède pour te guérir, et qui l’ai trouvé ? » Le lion lui enjoignit de dire aussitôt quel était ce remède. Le renard répondit : « C’est d’écorcher vif un loup, et de te revêtir de sa peau toute chaude. » Le loup fut incontinent mis à mort, et le renard dit en riant : « Il ne faut pas exciter le maître à la malveillance, mais à la douceur, »</p>
         <p rend="traduction">Cette fable montre qu’en dressant des embûches à un autre on se tend un piège à soi-même.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-207">
         <head>Chambry 207</head>
         <div>
           <head>Chambry 207.1</head>
@@ -5657,7 +5657,7 @@
           <p rend="manuscrits">Codd. Ba 77 Bb 48.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-208">
         <head>Chambry 208</head>
         <div>
           <head>Chambry 208.1</head>
@@ -5685,7 +5685,7 @@
           <p rend="manuscrits">Cod. Mb 100.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-209">
         <head>Chambry 209</head>
         <head type="sub">Λέων καὶ ὄνος &lt;ὅμου θηρεύοντες&gt; – Le lion et l’âne chassant de compagnie.</head>
         <p rend="indexperry">[P151]</p>
@@ -5695,7 +5695,7 @@
         <p rend="traduction">Le lion et l’âne, ayant lié partie ensemble, étaient sortis pour chasser. Étant arrivés à une caverne où il y avait des chèvres sauvages, le lion se posta à l’entrée pour guetter leur sortie, et l’âne, ayant pénétré à l’intérieur, se mit à bondir au milieu d’elles et à braire pour les faire fuir. Quand le lion en eut pris la plus grande partie, l’âne sortit et lui demanda s’il n’avait pas bravement combattu et poussé les chèvres dehors, « Sache bien, répondit le lion, que tu m’aurais fait peur à moi-même, si je n’avais pas su que tu étais un âne. »</p>
         <p rend="traduction">C’est ainsi que les gens qui se vantent devant ceux qui les connaissent prêtent justement à la moquerie.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-210">
         <head>Chambry 210</head>
         <div>
           <head>Chambry 210.1</head>
@@ -5744,7 +5744,7 @@
           <p rend="manuscrits">Cod. Cd 76.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-211">
         <head>Chambry 211</head>
         <head type="sub">Λέων καὶ Προμηθεὺς καὶ ἐλέφας – Le lion, Prométhée et l’éléphant.</head>
         <p rend="indexperry">[P259]</p>
@@ -5754,7 +5754,7 @@
         <p rend="traduction">Le lion se plaignait souvent de Prométhée. Sans doute Prométhée l’avait fait grand et beau, il lui avait armé la mâchoire de dents et muni les pattes de griffes, il l’avait lait plus fort que tous les autres animaux ; « mais avec tout cela, ajoutait-il, j’ai peur du coq. » Prométhée lui répondit : « Pourquoi m’accuses-tu à la légère ? N’as-tu pas tous les avantages physiques que j’ai pu modeler ? Mais c’est ton âme qui faiblit à ce seul objet. » Le lion déplorait donc son sort et s’accusait de lâcheté ; à la fin il voulut en finir avec la vie. Il était dans ces dispositions, quand il rencontra l’éléphant ; il le salua et s’arrêta pour causer. Ayant remarqué qu’il remuait continuellement les oreilles : « Qu’as-tu, lui demanda-t-il » et pourquoi donc ton oreille ne saurait-elle rester tant soit peu sans bouger ? — Tu vois », répondit l’éléphant, tandis qu’un cousin voltigeait par hasard autour de lui, « tu vois cet être minuscule, qui bourdonne ; s’il pénètre dans le conduit de mon oreille, je suis mort. » Alors le lion se dit : « Qu’ai-je encore besoin de mourir, moi qui suis si puissant et qui surpasse en bonheur l’éléphant autant que le coq surpasse en force le cousin ? »</p>
         <p rend="traduction">On voit que le cousin est assez fort pour faire peur même à l’éléphant.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-212">
         <head>Chambry 212</head>
         <div>
           <head>Chambry 212.1</head>
@@ -5794,7 +5794,7 @@
           <p rend="manuscrits">Cod. Cd 75.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-213">
         <head>Chambry 213</head>
         <div>
           <head>Chambry 213.1</head>
@@ -5818,7 +5818,7 @@
           <p rend="manuscrits">Cod. Mb 89.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-214">
         <head>Chambry 214</head>
         <div>
           <head>Chambry 214.1</head>
@@ -5847,7 +5847,7 @@
           <p rend="manuscrits">Codd. Ba 65 Bb 41.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-215">
         <head>Chambry 215</head>
         <head type="sub">Λῃστὴς καὶ συκάμινος – Le brigand et le mûrier.</head>
         <p rend="indexperry">[P152]</p>
@@ -5857,7 +5857,7 @@
         <p rend="traduction">Un brigand, ayant assassiné un homme sur une route, et se voyant poursuivi par ceux qui se trouvaient là, abandonna sa victime ensanglantée et s’enfuit. Mais des voyageurs qui venaient en sens inverse, lui demandèrent ce qui lui avait souillé les mains ; il répondit qu’il venait de descendre d’un mûrier. Comme il disait cela, ceux qui le poursuivaient le rejoignirent, le saisirent et le pendirent à un mûrier. Et le mûrier lui dit : « Je ne suis pas fâché de servir à ton supplice : c’est toi en effet qui as commis le meurtre, et c’est sur moi que tu en as essuyé le sang. »</p>
         <p rend="traduction">Il arrive souvent ainsi que des hommes naturellement bons, quand ils se voient dénigrer par des calomniateurs, n’hésitent pas à se montrer méchants à leur égard.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-216">
         <head>Chambry 216</head>
         <head type="sub">Λύκοι καὶ κύνες &lt;ἀλλήλοις πολεμοῦντες&gt; – Les loups et les chiens en guerre.</head>
         <p rend="indexperry">[P343]</p>
@@ -5867,7 +5867,7 @@
         <p rend="traduction">Entre les loups et les chiens la haine se déchaîna un jour. Les chiens élurent pour général un chien grec. Or celui-ci ne se pressait pas d’engager la bataille, malgré les violentes menaces des loups, « Savez-vous, leur dit-il, pourquoi je temporise ; c’est que toujours il convient de délibérer avant d’agir. Vous autres, vous êtes tous de même race et de même couleur ; mais nos soldats à nous ont des mœurs très variées et chacun a son pays dont il est fier. Même la couleur n’est pas uniforme et pareille pour tous : les uns sont noirs, les autres roux, d’autres blancs ou cendrés. Comment pourrais-je mener à la guerre des gens qui ne sont pas d’accord et qui sont dissemblables en tout ? »</p>
         <p rend="traduction">Dans toutes les armées, c’est l’unité de volonté et de pensée qui assure la victoire sur les ennemis.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-217">
         <head>Chambry 217</head>
         <div>
           <head>Chambry 217.1</head>
@@ -5906,7 +5906,7 @@
           <p rend="epimythiumprose">Ὅτι οἱ τὰς ἑαυτῶν πατρίδας προδιδόντες τοιούτους μισθοὺς λαμϐάνουσι.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-218">
         <head>Chambry 218</head>
         <head type="sub">Λύκοι καὶ πρόϐατα – Les loups et les moutons.</head>
         <p rend="indexperry">[P153]</p>
@@ -5916,7 +5916,7 @@
         <p rend="traduction">Des loups cherchaient à surprendre un troupeau de moutons. Ne pouvant s’en rendre maîtres, à cause des chiens qui les gardaient, ils résolurent d’user de ruse pour en venir à leurs fins. Ils envoyèrent des députés demander aux moutons de livrer leurs chiens. C’étaient les chiens, disaient-ils, qui étaient cause de leur inimitié ; on n’avait qu’à les leur livrer ; et la paix régnerait entre eux. Les moutons ne prévoyant pas ce qui allait arriver, livrèrent les chiens, et les loups, s’en étant rendus maîtres, égorgèrent facilement le troupeau qui n’était plus gardé.</p>
         <p rend="traduction">Il en est ainsi dans les États : ceux qui livrent facilement leurs orateurs ne se doutent pas qu’ils seront bientôt assujettis à leurs ennemis.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-219">
         <head>Chambry 219</head>
         <head type="sub">Λύκοι καὶ πρόϐατα καὶ κριός – Les loups, les moutons et le bélier.</head>
         <p rend="indexperry">[P153]</p>
@@ -5926,7 +5926,7 @@
         <p rend="traduction">Les loups envoyèrent des députés aux moutons, offrant de faire avec eux une paix perpétuelle, s’ils leur livraient les chiens pour les faire périr. Les stupides moutons convinrent de le faire ; mais un vieux bélier s’écria : « Comment pourrais-je vous croire et vivre avec vous, alors que, même sous la garde des chiens, il m’est impossible de paître en sécurité. »</p>
         <p rend="traduction">Il ne faut pas nous défaire de ce qui assure notre sécurité, en prêtant foi aux serments de nos ennemis irréconciliables.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-220">
         <head>Chambry 220</head>
         <head type="sub">Λύκος &lt;διὰ τὴν ἑαυτοῦ σκιὰν γαυρωθεὶς&gt; καὶ λέων – Le loup fier de son ombre et le lion.</head>
         <p rend="indexperry">[P260]</p>
@@ -5942,7 +5942,7 @@
         <p rend="manuscrits">Cod. Mb 92.</p>
         <p rend="traduction">Un loup errait un jour dans des lieux déserts, à l’heure où le soleil penchait sur son déclin. En voyant son ombre allongée, il dit : « Moi, craindre le lion, avec la taille que j’ai ! avec un plèthre de long, n’est-il pas tout simple que je devienne le roi de tous les animaux ? » Comme il s’abandonnait à l’orgueil, un puissant lion le prit et se mit à le dévorer. Le loup changeant d’avis s’écria : « La présomption nous est une cause de malheur. »</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-221">
         <head>Chambry 221</head>
         <head type="sub">Λύκος καὶ αἴξ – Le loup et la chèvre.</head>
         <p rend="indexperry">[P157]</p>
@@ -5952,7 +5952,7 @@
         <p rend="traduction">Un loup vit une chèvre qui paissait au-dessus d’un antre escarpé. Ne pouvant arriver jusqu’à elle, il l’engagea à descendre ; car elle pourrait, disait-il, tomber par mégarde ; d’ailleurs le pré où il se trouvait était meilleur ; car le gazon y était tout fleuri. Mais la chèvre lui répondit : « Ce n’est pas pour moi que tu m’appelles au pâtis, c’est pour toi qui n’as pas de quoi manger. »</p>
         <p rend="traduction">Ainsi quand les scélérats exercent leur méchanceté parmi des gens qui les connaissent, ils ne gagnent rien à leurs machinations.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-222">
         <head>Chambry 222</head>
         <div>
           <head>Chambry 222.1</head>
@@ -5996,7 +5996,7 @@
           <p rend="manuscrits">Codd. Ba 83 Bb 53.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-223">
         <head>Chambry 223</head>
         <head type="sub">Λύκος καὶ ἀρνίον &lt;εἰς ἱερὸν καταφυγόν&gt; – Le loup et le jeune agneau réfugié dans un temple.</head>
         <p rend="indexperry">[P261]</p>
@@ -6006,7 +6006,7 @@
         <p rend="traduction">Un loup poursuivait un jeune agneau. Celui-ci se réfugia dans un temple. Comme le loup l’appelait à lui et disait que le sacrificateur l’immolerait au dieu, s’il le trouvait là : « Eh bien ! répondit l’agneau, je préfère être victime du dieu que de périr par toi. »</p>
         <p rend="traduction">Cette fable montre que, si l’on est réduit à mourir, il vaut mieux mourir avec honneur.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-224">
         <head>Chambry 224</head>
         <div>
           <head>Chambry 224.1</head>
@@ -6066,7 +6066,7 @@
           <p rend="manuscrits">Codd. Ba 1 Bc 1.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-225">
         <head>Chambry 225</head>
         <div>
           <head>Chambry 225.1</head>
@@ -6120,7 +6120,7 @@
           <p rend="manuscrits">Codd. Ba 84 Bb 54.<space rend="tab">    </space></p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-226">
         <head>Chambry 226</head>
         <head type="sub">Λύκος καὶ ἵππος – Le loup et le cheval.</head>
         <p rend="indexperry">[P154]</p>
@@ -6130,7 +6130,7 @@
         <p rend="traduction">Un loup, passant dans un champ, y trouva de l’orge ; mais ne pouvant en faire sa nourriture, il la laissa et s’en alla. Il rencontra un cheval et l’amena dans le champ ; il avait, disait-il, trouvé de l’orge ; mais, au lieu de la manger lui-même, il la lui avait gardée, vu qu’il avait du plaisir à entendre le bruit de ses dents. Le cheval lui répondit : « Hé ! l’ami, si les loups pouvaient user de l’orge comme nourriture, tu n’aurais jamais préféré tes oreilles à ton ventre. »</p>
         <p rend="traduction">Cette fable montre que ceux qui sont naturellement méchants, même quand ils se targuent d’être bons, n’obtiennent aucune créance.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-227">
         <head>Chambry 227</head>
         <head type="sub">Λύκος καὶ κύων – Le loup et le chien.</head>
         <p rend="indexperry">[P346]</p>
@@ -6140,7 +6140,7 @@
         <p rend="traduction">Un loup voyant un très gros chien attaché par un collier lui demanda : « Qui t’a lié et nourri de la sorte ? — Un chasseur, » répondit le chien. « Ah ! Dieu garde de cela le loup qui m’est cher ! Autant la faim qu’un collier pesant. »</p>
         <p rend="traduction">Cette fable montre que dans le malheur on n’a même pas les plaisirs du ventre.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-228">
         <head>Chambry 228</head>
         <div>
           <head>Chambry 228.1</head>
@@ -6172,7 +6172,7 @@
           <p rend="manuscrits">Cod. Mb 108.<space rend="tab">    </space></p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-229">
         <head>Chambry 229</head>
         <div>
           <head>Chambry 229.1</head>
@@ -6209,7 +6209,7 @@
           <p rend="manuscrits">Cod. Bd 39.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-230">
         <head>Chambry 230</head>
         <head type="sub">Λύκος καὶ Ποιμήν – Le loup et le berger.</head>
         <p rend="indexperry">[P234]</p>
@@ -6219,7 +6219,7 @@
         <p rend="traduction">Un loup suivait un troupeau de moutons sans lui faire de mal. Le berger tout d’abord se gardait de lui comme d’un ennemi et le surveillait peureusement. Mais comme le loup le suivait toujours sans faire la moindre tentative d’enlèvement, il pensa dès lors qu’il avait là un gardien plutôt qu’un ennemi aux aguets ; et comme il avait besoin de se rendre à la ville, il laissa ses moutons près du loup et partit. Le loup, pensant tenir l’occasion, se jeta sur le troupeau et en mit en pièces la plus grande partie. Quand le berger revint et vit son troupeau perdu, il s’écria : « C’est bien fait pour moi ; pourquoi confiais-je des moutons à un loup ? »</p>
         <p rend="traduction">Il en est de même chez les hommes : quand on confie un dépôt à des gens cupides, il est naturel qu’on le perde.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-231">
         <head>Chambry 231</head>
         <div>
           <head>Chambry 231.1</head>
@@ -6271,7 +6271,7 @@
           <p rend="manuscrits">Cod. Mb 4.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-232">
         <head>Chambry 232</head>
         <div>
           <head>Chambry 232.1</head>
@@ -6292,7 +6292,7 @@
           <p rend="manuscrits">Codd. La 110 Lb 78 Le 78 Lf 110 Lh 35 Ml 98.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-233">
         <head>Chambry 233</head>
         <head type="sub">Λύχνος – La lampe.</head>
         <p rend="indexperry">[P349]</p>
@@ -6302,7 +6302,7 @@
         <p rend="traduction">Une lampe enivrée d’huile, jetant une vive lumière, se vantait d’être plus brillante que le soleil. Mais un souffle de vent ayant sifflé, elle s’éteignit aussitôt. Quelqu’un la ralluma et lui dit : « Éclaire, lampe, et tais-toi : l’éclat des astres ne s’éclipse jamais. »</p>
         <p rend="traduction">Il ne faut pas se laisser aveugler par l’orgueil, quand on est en réputation ou en honneur ; car tout ce qui s’acquiert nous est étranger.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-234">
         <head>Chambry 234</head>
         <div>
           <head>Chambry 234.1</head>
@@ -6344,7 +6344,7 @@
           <p rend="manuscrits">Cod. Cd 85.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-235">
         <head>Chambry 235</head>
         <div>
           <head>Chambry 235.1</head>
@@ -6402,7 +6402,7 @@
           <p rend="manuscrits">Cod. Ba 136.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-236">
         <head>Chambry 236</head>
         <div>
           <head>Chambry 236.1</head>
@@ -6423,7 +6423,7 @@
           <p rend="manuscrits">Codd. La 89 Lb 46 Lc 35 Le 46 Lf 89 Lg 35 Md 142 Mg 69 Mi 116 Mj 56 Ml 59 Mm 68.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-237">
         <head>Chambry 237</head>
         <head type="sub">Μηναγύρται – Les ménargytes.</head>
         <p rend="indexperry">[P164]</p>
@@ -6433,7 +6433,7 @@
         <p rend="traduction">Des ménagyrtes avaient un âne qu’ils chargeaient de leurs bagages, quand ils se mettaient en route. Or un jour cet âne mourut de fatigue ; ils le dépouillèrent, firent de sa peau des tambourins, et ils s’en servirent. D’autres ménagyrtes les ayant rencontrés leur demandèrent où était leur âne. « Il est mort, dit-il ; mais il reçoit autant de coups qu’il en a jamais reçus de son vivant. »</p>
         <p rend="traduction">Ainsi parfois les serviteurs, même affranchis de l’esclavage, ne sont pas délivrés des charges de la servitude.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-238">
         <head>Chambry 238</head>
         <div>
           <head>Chambry 238.1</head>
@@ -6469,7 +6469,7 @@
           <p rend="manuscrits">Codd. Ba 88 Bb 56.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-239">
         <head>Chambry 239</head>
         <div>
           <head>Chambry 239.1</head>
@@ -6537,7 +6537,7 @@
           <p rend="manuscrits">Cod. Ma 159.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-240">
         <head>Chambry 240</head>
         <div>
           <head>Chambry 240.1</head>
@@ -6563,7 +6563,7 @@
           <p rend="manuscrits">Cod. Cd 90.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-241">
         <head>Chambry 241</head>
         <div>
           <head>Chambry 241.1</head>
@@ -6584,7 +6584,7 @@
           <p rend="manuscrits">Codd. La 93 Lb 48 Le 48 Lf 93 Me 55 Mf 49 Mg 71 Mj 58 Ml 61.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-242">
         <head>Chambry 242</head>
         <div>
           <head>Chambry 242.1</head>
@@ -6605,7 +6605,7 @@
           <p rend="manuscrits">Codd. La 112 Lb 80 Le 81 Lf 112 Lh 37 Me 114 Mf 96 Mg 108 Ml 109.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-243">
         <head>Chambry 243</head>
         <div>
           <head>Chambry 243.1</head>
@@ -6626,7 +6626,7 @@
           <p rend="manuscrits">Codd. Pf 143 Me 180 Mf 151 Mj 151.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-244">
         <head>Chambry 244</head>
         <div>
           <head>Chambry 244.1</head>
@@ -6683,7 +6683,7 @@
           <p rend="traduction">Cette fable montre qu’il faut payer de retour ses bienfaiteurs.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-245">
         <head>Chambry 245</head>
         <div>
           <head>Chambry 245.1</head>
@@ -6732,7 +6732,7 @@
           <p rend="manuscrits">Cod. Ba 94.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-246">
         <head>Chambry 246</head>
         <div>
           <head>Chambry 246.1</head>
@@ -6778,7 +6778,7 @@
           <p rend="manuscrits">Codex Vaticanus 1745.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-247">
         <head>Chambry 247</head>
         <div>
           <head>Chambry 247.1</head>
@@ -6822,7 +6822,7 @@
           <p rend="manuscrits">Cod. Bd 27.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-248">
         <head>Chambry 248</head>
         <div>
           <head>Chambry 248.1</head>
@@ -6851,7 +6851,7 @@
           <p rend="manuscrits">Codd. La 26 Lb 37 Lc 14 Ld 18 Le 37 Lf 26 Lg 14 Lh 16 Mc 38 Md 44 Me 44 Mf 39 Mg 46 Mj 43 Mk 42 Ml 48 Mm 56 Mn 18.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-249">
         <head>Chambry 249</head>
         <div>
           <head>Chambry 249.1</head>
@@ -6890,7 +6890,7 @@
           <p rend="manuscrits">Cod. Cd 91.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-250">
         <head>Chambry 250</head>
         <div>
           <head>Chambry 250.1</head>
@@ -6938,7 +6938,7 @@
           <p rend="manuscrits">Cod. Cd 92.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-251">
         <head>Chambry 251</head>
         <div>
           <head>Chambry 251.1</head>
@@ -6989,7 +6989,7 @@
           <p rend="manuscrits">Cod. Cd 93.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-252">
         <head>Chambry 252</head>
         <div>
           <head>Chambry 252.1</head>
@@ -7010,7 +7010,7 @@
           <p rend="traduction">Cette fable montre qu’il ne faut pas s’en tenir toujours aux mêmes moyens, mais songer qu’en s’accomodant aux circonstances, on échappe souvent au danger.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-253">
         <head>Chambry 253</head>
         <head type="sub">Ξύλα καὶ ἐλαία – Les arbres et l’olivier.</head>
         <p rend="indexperry">[P262]</p>
@@ -7018,7 +7018,7 @@
         <p rend="manuscrits">Cod. Mb 133.</p>
         <p rend="traduction">Un jour les arbres se mirent en devoir d’élire un roi pour les commander, et ils dirent à l’olivier : « Règne sur nous. » Et l’olivier leur répondit : « Moi, que je renonce à la grasse liqueur si appréciée en moi par Dieu et par les hommes, pour aller régner sur les arbres ! » Et les arbres dirent au figuier : « Viens régner sur nous. » Et le figuier lui aussi répondit : « Moi, que je renonce à la douceur qui est en moi et à l’excellent fruit que je porte, pour aller régner sur les arbres ! » Et les arbres dirent à l’épine : « Viens régner sur nous. » Et l’épine répondit aux arbres : « Si vraiment vous m’oignez pour régner sur vous, venez vous mettre à l’abri sous moi ; sinon, qu’il sorte du feu de l’épine, et qu’il dévore les cèdres du Liban ! »</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-254">
         <head>Chambry 254</head>
         <div>
           <head>Chambry 254.1</head>
@@ -7085,7 +7085,7 @@
           <p rend="manuscrits">Cod. Cd 94.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-255">
         <head>Chambry 255</head>
         <div>
           <head>Chambry 255.1</head>
@@ -7114,7 +7114,7 @@
           <p rend="manuscrits">Cod. Mk 41.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-256">
         <head>Chambry 256</head>
         <head type="sub">Ὁδοιπόροι καὶ κόραξ – Les voyageurs et le corbeau.</head>
         <p rend="indexperry">[P236]</p>
@@ -7124,7 +7124,7 @@
         <p rend="traduction">Des gens, qui voyageaient pour certaine affaire, rencontrèrent un corbeau qui avait perdu un œil. Ils tournèrent leurs regards vers lui, et l’un d’eux leur conseilla de rebrousser chemin ; c’était, à son avis, ce que voulait dire le présage. Mais un autre prenant la parole dit : « Comment cet oiseau pourrait-il nous prédire l’avenir, lui qui n’a même pas prévu, pour l’éviter, la perte de son œil ? »</p>
         <p rend="traduction">Pareillement les hommes qui sont aveugles sur leurs propres intérêts sont mal qualifiés pour conseiller leur prochain.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-257">
         <head>Chambry 257</head>
         <div>
           <head>Chambry 257.1</head>
@@ -7145,7 +7145,7 @@
           <p rend="manuscrits">Codd. La 87 Lb 39 Le 39 Lf 87 Md 140 Mg 54 Mi 114 Mj 45 Ml 50 Mm 141 Ce 39 Cf 42.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-258">
         <head>Chambry 258</head>
         <head type="sub">Ὁδοιπόροι καὶ πλάτανος – Les voyageurs et le platane.</head>
         <p rend="indexperry">[P175]</p>
@@ -7155,7 +7155,7 @@
         <p rend="traduction">En été, vers l’heure de midi, deux voyageurs, fatigués par l’ardeur du soleil, ayant aperçu un platane, se réfugièrent sous ses branches et, s’étendant à son ombre, se reposèrent. Or, ayant levé les yeux vers le platane, ils se dirent l’un à l’autre : « Voilà un arbre qui est stérile et inutile à l’homme. » Le platane prenant la parole : « Ingrats, dit-il, au moment même où vous jouissez de ma bienfaisance, vous me traitez d’inutile et de stérile. »</p>
         <p rend="traduction">Il en est ainsi chez les hommes : certains sont si malchanceux que, même en obligeant leurs voisins, ils ne peuvent faire croire à leur bienfaisance.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-259">
         <head>Chambry 259</head>
         <div>
           <head>Chambry 259.1</head>
@@ -7176,7 +7176,7 @@
           <p rend="traduction">Cette fable montre que certains hommes qui paraissent redoutables parce qu’ils sont inconnus, révèlent leur nullité à la première épreuve.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-260">
         <head>Chambry 260</head>
         <head type="sub">Ὁδοιπόρος καὶ Ἀλήθεια – Le voyageur et la vérité.</head>
         <p rend="indexperry">[P355]</p>
@@ -7186,7 +7186,7 @@
         <p rend="traduction">Un voyageur qui passait dans un désert rencontra une femme solitaire qui tenait ses yeux baissés. « Qui es-tu ? » demanda-t-il. « La Vérité », répondit-elle. « Et pour quel motif as-tu quitté la ville et habites-tu le désert ? » Elle répondit : « Parce que, dans les temps anciens, le mensonge ne se rencontrait que chez un petit nombre d’hommes ; maintenant il est chez tous, quoi qu’on entende et quoi qu’on dise. »</p>
         <p rend="traduction">La vie devient mauvaise et pénible pour les hommes, lorsque le mensonge prévaut sur la vérité.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-261">
         <head>Chambry 261</head>
         <div>
           <head>Chambry 261.1</head>
@@ -7235,7 +7235,7 @@
           <p rend="manuscrits">Cod. Cd 100.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-262">
         <head>Chambry 262</head>
         <div>
           <head>Chambry 262.1</head>
@@ -7291,7 +7291,7 @@
           <p rend="manuscrits">Cod. Bd 16.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-263">
         <head>Chambry 263</head>
         <head type="sub">Ὄνοι πρὸς τὸν Δία – Les ânes s’adressant à Zeus.</head>
         <p rend="indexperry">[P185]</p>
@@ -7301,7 +7301,7 @@
         <p rend="traduction">Un jour, les ânes excédés d’avoir toujours des fardeaux à porter et des fatigues à souffrir, envoyèrent des messagers auprès de Zeus, pour demander qu’il mît un terme à leurs travaux. Zeus, voulant leur démonter que la chose était impossible, leur dit qu’ils seraient délivrés de leur misère, quand ils auraient, en pissant, formé une rivière. Les ânes prirent au sérieux cette réponse, et depuis ce temps jusqu’à nos jours, quand ils voient quelque part de l’urine d’âne, ils s’arrêtent tout autour, eux aussi, pour pisser.</p>
         <p rend="traduction">Cette fable montre qu’on ne peut rien changer à sa destinée.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-264">
         <head>Chambry 264</head>
         <head type="sub">Ὄνον ἀγοράζων – L’homme qui achète un âne.</head>
         <p rend="indexperry">[P237]</p>
@@ -7311,7 +7311,7 @@
         <p rend="traduction">Un homme qui avait dessein d’acheter un âne, le prit à l’essai, et l’ayant amené parmi ses ânes à lui, il le plaça devant le râtelier. Or l’âne, délaissant tous les autres, alla se mettre près du plus paresseux et du plus glouton. Comme il ne faisait rien, l’homme lui passa un licol, l’emmena et le rendit à son propriétaire. Celui-ci lui demandant si l’épreuve qu’il avait faite ainsi était probante, il répondit : « Moi, je n’ai nul besoin d’une autre épreuve : je suis sûr qu’il est tel que le camarade qu’il a choisi entre tous. »</p>
         <p rend="traduction">Cette fable montre qu’on nous juge pareils à ceux dont nous aimons la compagnie.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-265">
         <head>Chambry 265</head>
         <head type="sub">Ὄνος &lt;ἄγριος καὶ ὄνος ἥμερος&gt; – L’âne sauvage et l’âne domestique.</head>
         <p rend="indexperry">[P183]</p>
@@ -7321,7 +7321,7 @@
         <p rend="traduction">Un âne sauvage ayant vu un âne domestique dans un endroit bien exposé au soleil, s’approcha pour le féliciter de son embonpoint et de la pâture dont il jouissait. Mais dans la suite l’ayant vu chargé d’un fardeau et suivi de l’ânier qui le frappait avec un gourdin, il s’écria : « Oh ! je ne te félicite plus ; car je vois que c’est au prix de grands maux que tu jouis de ton abondance. »</p>
         <p rend="traduction">C’est ainsi qu’il n’y a rien d’enviable dans les avantages qu’accompagnent les dangers et les souffrances.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-266">
         <head>Chambry 266</head>
         <div>
           <head>Chambry 266.1</head>
@@ -7368,7 +7368,7 @@
           <p rend="manuscrits">Codd. Ba 92 Bb 59.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-267">
         <head>Chambry 267</head>
         <div>
           <head>Chambry 267.1</head>
@@ -7389,7 +7389,7 @@
           <p rend="manuscrits">Codd. Ba 109 Bb 65.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-268">
         <head>Chambry 268</head>
         <head type="sub">Ὄνος &lt;ἐνδυσάμενος λεοντῆν&gt; καὶ ἀλώπηξ – L’âne revêtu de la peau du lion et le renard.</head>
         <p rend="indexperry">[P188]</p>
@@ -7399,7 +7399,7 @@
         <p rend="traduction">Un âne, ayant revêtu une peau de lion, faisait le tour du pays, effrayant les animaux. Il aperçut un renard et voulut l’effrayer aussi. Mais le renard, qui avait justement entendu sa voix auparavant, lui dit : « N’en doute pas, tu m’aurais fait peur à moi aussi, si je ne t’avais pas entendu braire. »</p>
         <p rend="traduction">C’est ainsi que des gens sans éducation, qui, par leurs dehors fastueux, paraissent être quelque chose, se trahissent par leur démangeaison de parler.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-269">
         <head>Chambry 269</head>
         <div>
           <head>Chambry 269.1</head>
@@ -7439,7 +7439,7 @@
           <p rend="manuscrits">Cod. Ba 103.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-270">
         <head>Chambry 270</head>
         <div>
           <head>Chambry 270.1</head>
@@ -7468,7 +7468,7 @@
           <p rend="traduction">Cette fable montre que souvent on attaque un ennemi qui se fait petit à dessein et qu’on se fait ainsi tuer par lui.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-271">
         <head>Chambry 271</head>
         <head type="sub">Ὄνος καὶ ἀλώπηξ καὶ λέων – L’âne, le renard et le lion.</head>
         <p rend="indexperry">[P191]</p>
@@ -7478,7 +7478,7 @@
         <p rend="traduction">Un âne et un renard, ayant lié société, sortirent pour chasser. Un lion se trouva sur leur chemin. Voyant le danger suspendu sur eux, le renard s’approcha du lion et s’engagea à lui livrer l’âne, si’l lui promettait la sûreté. Le lion ayant déclaré qu’il le laisserait aller, le renard amena l’âne dans un piège où il le fit tomber. Le lion, voyant que l’âne ne pouvait s’échapper, saisit d’abord le renard, et se tourna ensuite vers l’âne.</p>
         <p rend="traduction">Pareillement ceux qui tendent des pièges à leurs associés se perdent souvent inconsciemment avec leurs victimes.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-272">
         <head>Chambry 272</head>
         <head type="sub">Ὄνος καὶ βάτραχοι – L’âne et les grenouilles.</head>
         <p rend="indexperry">[P189]</p>
@@ -7488,7 +7488,7 @@
         <p rend="traduction">Un âne portant une charge de bois traversait un marais. Il glissa et tomba, et, ne pouvant se relever, il se mit à gémir et à se lamenter. Les grenouilles du marais, ayant entendu ses gémissements, lui dirent : « Hé, l’ami ! qu’aurais-tu fait, si tu étais resté ici aussi longtemps que nous, toi qui, tombé ici pour un moment, pousses de pareils soupirs ? »</p>
         <p rend="traduction">Nous pourrions appliquer cette fable à un homme efféminé qui s’impatiente des moindres peines, alors que nous-mêmes, nous supportons facilement des maux plus grands.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-273">
         <head>Chambry 273</head>
         <head type="sub">Ὄνος καὶ ἡμίονος &lt;ἐξ ἴσου ἐμπεφορτισμένοι&gt; – L’âne et le mulet portant la même charge.</head>
         <p rend="indexperry">[P263]</p>
@@ -7498,7 +7498,7 @@
         <p rend="traduction">Un âne et un mulet cheminaient ensemble. Or l’âne, voyant que leurs charges à tous deux étaient égales, s’indignait et se plaignait que le mulet, jugé digne d’une double ration, ne portât pas plus que lui. Mais, quand ils eurent fait un peu de chemin, l’ânier s’apercevant que l’âne n’en pouvait plus, lui ôta une partie de sa charge et la mit et la mit sur le mulet. Quand ils eurent fait encore un bout de chemin, voyant l’âne encore plus épuisé, il lui retira une autre partie de sa charge, et enfin prenant le reste, il l’ôta à l’âne et le fit passer sur le mulet. Alors celui-ci tournant les yeux vers son camarade lui dit : « Eh bien ! mon ami, ne trouves-tu pas juste qu’on m’honore d’une double ration ? »</p>
         <p rend="traduction">Nous aussi, ce n’est point par le commencement, mais par la fin que nous devons juger de la condition de chacun.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-274">
         <head>Chambry 274</head>
         <div>
           <head>Chambry 274.1</head>
@@ -7549,7 +7549,7 @@
           <p rend="manuscrits">Cod. Cd 95.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-275">
         <head>Chambry 275</head>
         <head type="sub">Ὄνος καὶ κόραξ καὶ λύκος – L’âne, le corbeau et le loup.</head>
         <p rend="indexperry">[P190]</p>
@@ -7559,7 +7559,7 @@
         <p rend="traduction">Un âne, qui avait une plaie au dos, paissait dans une prairie. Un corbeau se posa sur lui et piqua sa plaie à coups de bec. L’âne sous l’impression de la douleur se mit à braire et à sauter. L’ânier, qui était à quelque distance, éclata de rire. Un loup qui passait le vit et se dit à lui-même : « Malheureux que nous sommes ! il suffit qu’on nous aperçoive, pour qu’on nous donne la chasse ; mais que ceux-ci osent s’approcher, on leur fait risette. »</p>
         <p rend="traduction">Cette fable fait voir que les gens malfaisants se reconnaissent à leur mine même et à première vue.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-276">
         <head>Chambry 276</head>
         <div>
           <head>Chambry 276.1</head>
@@ -7603,7 +7603,7 @@
           <p rend="manuscrits">Cod. Mb 138.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-277">
         <head>Chambry 277</head>
         <head type="sub">Ὄνος καὶ κύων συνοδοιποροῦντες – L’âne et le chien voyageant de compagnie.</head>
         <p rend="indexperry">[P264]</p>
@@ -7611,7 +7611,7 @@
         <p rend="manuscrits">Cod. Mb 173.</p>
         <p rend="traduction">Un âne et un chien faisaient route ensemble. Ils trouvèrent à terre une lettre cachetée. L’âne la ramassa, rompit le sceau, l’ouvrit et la lut de manière à être entendu du chien. Il y était question de pâture, je veux dire de foi, d’orge et de paille. Le chien s’ennuyait pendant la lecture de l’âne ; aussi lui dit-il : « Descends de quelques lignes, très cher ; peut-être trouveras-tu dans la suite quelque chose qui se rapporte à la viande et aux os. » L’âne ayant parcouru tout l’écrit, sans rien trouver de ce que le chien cherchait, celui-ci reprit la parole : « Jette ce papier à terre, ami ; car il est tout à fait insignifiant. »</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-278">
         <head>Chambry 278</head>
         <div>
           <head>Chambry 278.1</head>
@@ -7632,7 +7632,7 @@
           <p rend="manuscrits">Cod. Ba 107.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-279">
         <head>Chambry 279</head>
         <div>
           <head>Chambry 279.1</head>
@@ -7653,7 +7653,7 @@
           <p rend="manuscrits">Cod. Pb 180.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-280">
         <head>Chambry 280</head>
         <div>
           <head>Chambry 280.1</head>
@@ -7674,7 +7674,7 @@
           <p rend="manuscrits">Cod. Mb 172.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-281">
         <head>Chambry 281</head>
         <div>
           <head>Chambry 281.1</head>
@@ -7698,7 +7698,7 @@
           <p rend="traduction">Cette fable s’adresse à ceux dont la langue profère des propos durs et dangereux.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-282">
         <head>Chambry 282</head>
         <div>
           <head>Chambry 282.1</head>
@@ -7754,7 +7754,7 @@
           <p rend="manuscrits">Codd. Pb 227 Pg 148 Mb 232 Cf 129.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-283">
         <head>Chambry 283</head>
         <head type="sub">Ὀρνιθοθήρας καὶ ἄγριαι καὶ ἥμεραι περιστεραί – L’oiseleur, les pigeons sauvages et les pigeons domestiques.</head>
         <p rend="indexperry">[P238]</p>
@@ -7764,7 +7764,7 @@
         <p rend="traduction">Un oiseleur avait tendu ses filets auxquels il avait attaché des pigeons domestiques. Puis il s’était éloigné, et il observait à distance ce qui allait se passer. Des pigeons sauvages s’approchèrent des captifs et se firent prendre dans les lacets. L’oiseleur accourut et se mit en devoir de les saisir. Comme ils adressaient des reproches aux pigeons domestiques, parce que, étant de la même tribu, ils ne les avaient pas avertis du piège, ceux-ci répondirent : « Nous avons plus d’intérêt à nous garder du mécontentement de nos maîtres qu’à complaire à nos parents. »</p>
         <p rend="traduction">Ainsi en est-il des serviteurs : il ne faut pas les blâmer, quand, par amour de leurs maîtres, ils manquent aux lois de l’amitié envers leurs propres parents.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-284">
         <head>Chambry 284</head>
         <div>
           <head>Chambry 284.1</head>
@@ -7813,7 +7813,7 @@
           <p rend="manuscrits">Cod. Cd 96.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-285">
         <head>Chambry 285</head>
         <div>
           <head>Chambry 285.1</head>
@@ -7883,7 +7883,7 @@
           <p rend="manuscrits">Cod. Bc 12.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-286">
         <head>Chambry 286</head>
         <head type="sub">Ὀρνιθοθήρας καὶ πέρδιξ – L’oiseleur et la perdrix.</head>
         <p rend="indexperry">[P265]</p>
@@ -7893,7 +7893,7 @@
         <p rend="traduction">Un hôte se présenta un peu tard chez un oiseleur. Celui-ci, n’ayant rien à lui offrir, s’en fut vers sa perdrix privée, et il allait la tuer, quand elle lui reprocha son ingratitude : « Ne lui était-elle pas fort utile en appelant les oiseaux de sa tribu et en les lui livrant ? et il allait la tuer ! – Raison de plus pour t’immoler, répondit-il, puisque tu n’épargnes même pas ceux de ta tribu. »</p>
         <p rend="traduction">Cette fable montre que ceux qui trahissent leurs parents sont odieux non seulement à leurs victimes, mais encore à ceux à qui ils les livrent.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-287">
         <head>Chambry 287</head>
         <head type="sub">Ὄρνις καὶ χελιδών – La poule et l’hirondelle.</head>
         <p rend="indexperry">[P192]</p>
@@ -7903,7 +7903,7 @@
         <p rend="traduction">Une poule, ayant trouvé des œufs de serpent, se mit à les couver soigneusement et, après les avoir chauffés, les fit éclore. Une hirondelle, qui l’avait vue faire, lui dit : « Sotte que tu es, pourquoi élèves-tu des êtres qui, une fois grands, commenceront par toi la première le cours de leurs méfaits. »</p>
         <p rend="traduction">La perversité ne se laisse pas apprivoiser, même à force de bienfaits.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-288">
         <head>Chambry 288</head>
         <div>
           <head>Chambry 288.1</head>
@@ -7951,7 +7951,7 @@
           <p rend="manuscrits">Codd. Pa 84 Pb 88 Pe 52.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-289">
         <head>Chambry 289</head>
         <div>
           <head>Chambry 289.1</head>
@@ -7972,7 +7972,7 @@
           <p rend="manuscrits">Cod. Mb 40.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-290">
         <head>Chambry 290</head>
         <head type="sub">Ὄφις καὶ γαλῆ καὶ μύες – Le serpent, la belette et les rats.</head>
         <p rend="indexperry">[P197]</p>
@@ -7982,7 +7982,7 @@
         <p rend="traduction">Un serpent et une belette se battaient dans une maison. Les rats du logis, toujours dévorés par l’un et par l’autre, les voyant combattre, sortirent tranquillement de leurs trous. À la vue des rats, les combattants, renonçant à s’entrebattre, se tournèrent contre eux.</p>
         <p rend="traduction">Il en est de même dans les États : les gens qui s’immiscent dans les querelles des démagogues deviennent sans s’en douter les victimes des deux partis.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-291">
         <head>Chambry 291</head>
         <div>
           <head>Chambry 291.1</head>
@@ -8003,7 +8003,7 @@
           <p rend="manuscrits">Codd. La 71 Lb 98 Le 98 Lf 71 Lh 50 Md 125 Mg 122 Mi 99 Mj 121 Ml 124 Mm 117.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-292">
         <head>Chambry 292</head>
         <head type="sub">Ὄφις πατούμενος καὶ Ζεύς – Le serpent foulé aux pieds.</head>
         <p rend="indexperry">[P198]</p>
@@ -8013,7 +8013,7 @@
         <p rend="traduction">Un serpent, souvent foulé aux pieds par les hommes, alla s’en plaindre à Zeus. Zeus lui dit : « Si tu avais frappé le premier qui t’a marché dessus, le deuxième n’aurait pas essayé d’en faire autant. »</p>
         <p rend="traduction">Cette fable montre que ceux qui tiennent tête aux premiers qui les attaquent se rendent redoutables aux autres.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-293">
         <head>Chambry 293</head>
         <div>
           <head>Chambry 293.1</head>
@@ -8042,7 +8042,7 @@
           <p rend="manuscrits">Cod. Mm 37.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-294">
         <head>Chambry 294</head>
         <div>
           <head>Chambry 294.1</head>
@@ -8091,7 +8091,7 @@
           <p rend="manuscrits">Codd. Ba 119 Bb 71.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-295">
         <head>Chambry 295</head>
         <head type="sub">Παῖς καὶ κόραξ – L’enfant et le corbeau.</head>
         <p rend="indexperry">[P162]</p>
@@ -8099,7 +8099,7 @@
         <p rend="manuscrits">Cod. Pa 159.</p>
         <p rend="traduction">Une femme interrogea les devins sur son fils en bas âge. Ils prédirent qu’il serait tué par un corbeau. Épouvantée de cette prédiction, elle fit construire une arche très grande et l’y enferma, pour l’empêcher d’être tué par un corbeau ; et tous les jours, à des heures déterminées, elle l’ouvrait et donnait à l’enfant la nourriture qu’il lui fallait. Or un jour qu’elle avait ouvert l’arche et remettait le couvercle, l’enfant avait imprudemment passé la tête dehors. Il arriva ainsi que le corbeau de l’arche, s’abattant sur le haut de sa tête, le tua.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-296">
         <head>Chambry 296</head>
         <div>
           <head>Chambry 296.1</head>
@@ -8150,7 +8150,7 @@
           <p rend="manuscrits">Codd. Ca 187 Cb 100 Cd 117 Ch 123 Mb 209 Mc 93.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-297">
         <head>Chambry 297</head>
         <div>
           <head>Chambry 297.1</head>
@@ -8213,7 +8213,7 @@
           <p rend="manuscrits">Codd. La 48 Lb 110 Lc 22 Ld 30 Le 110 Lf 48 Lg 22 Lh 60 Mc 87 Md 97 Mg 134 Mi 13 Mj 131 Ml 137 Mm 119 Mn 30.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-298">
         <head>Chambry 298</head>
         <div>
           <head>Chambry 298.1</head>
@@ -8242,7 +8242,7 @@
           <p rend="manuscrits">Cod. Ba 115.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-299">
         <head>Chambry 299</head>
         <head type="sub">Παρακαταθήκην εἰληφὼς καὶ Ὅρκος – Le dépositaire et le Serment.</head>
         <p rend="indexperry">[P239]</p>
@@ -8252,7 +8252,7 @@
         <p rend="traduction">Un homme qui avait reçu un dépôt d’un ami projetait de l’en frustrer. Comme cet ami l’appelait à prêter serment, pris d’inquiétude, il partit pour la campagne. Arrivé aux portes de la ville, il aperçut un boiteux qui sortait et lui demanda qui il était et où il allait. Celui-ci ayant répondu qu’il était le Serment et qu’il marchait contre les impies, il lui posa une seconde question : « Après combien de temps reviens-tu d’habitude dans les villes ? – Au bout de quarante ans, parfois même de trente », répondit-il. Dès lors l’homme jura le lendemain sans hésiter qu’il n’avait pas reçu le dépôt. Mais il tomba sur le Serment, qui l’emmena pour le précipiter. L’homme récrimina : « Tu m’as déclaré, dit-il, que tu ne revenais qu’au bout de trente ans, et tu ne m’accordes même pas un jour de sécurité. » Le Serment repartit : « Sache bien que, quand on veut m’agacer, j’ai l’habitude de revenir le jour même. »</p>
         <p rend="traduction">Cette fable montre que Dieu n’a pas de jour fixe pour punir les impies.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-300">
         <head>Chambry 300</head>
         <div>
           <head>Chambry 300.1</head>
@@ -8273,7 +8273,7 @@
           <p rend="manuscrits">Codd. La 68 Lb 29 Le 29 Lf 68 Ml 38 Lh 13 Md 122 Mi 96 Mm 47 Me 36 Mf 33 Mj 34.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-301">
         <head>Chambry 301</head>
         <div>
           <head>Chambry 301.1</head>
@@ -8324,7 +8324,7 @@
           <p rend="traduction">Cette fable montre que l’homme qui trame des machinations contre ses amis tombera lui-même dans les embûches et le danger.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-302">
         <head>Chambry 302</head>
         <div>
           <head>Chambry 302.1</head>
@@ -8345,7 +8345,7 @@
           <p rend="manuscrits">Codd. La 124 Lb 114 Le 114 Lf 124 Lh 64 Mg 138 Mj 135 Ml 140.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-303">
         <head>Chambry 303</head>
         <div>
           <head>Chambry 303.1</head>
@@ -8366,7 +8366,7 @@
           <p rend="manuscrits">Codd. Ce 100 Cf 107.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-304">
         <head>Chambry 304</head>
         <div>
           <head>Chambry 304.1</head>
@@ -8387,7 +8387,7 @@
           <p rend="manuscrits">Codd. Mb 196 Ba 50.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-305">
         <head>Chambry 305</head>
         <div>
           <head>Chambry 305.1</head>
@@ -8416,7 +8416,7 @@
           <p rend="manuscrits">Cod. Ba 93.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-306">
         <head>Chambry 306</head>
         <div>
           <head>Chambry 306.1</head>
@@ -8437,7 +8437,7 @@
           <p rend="traduction">Cette fable vise les hommes qui, ne connaissant pas la vérité, pensent en faire accroire aux autres.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-307">
         <head>Chambry 307</head>
         <head type="sub">Πίθηκος καὶ κάμηλος – Le singe et le chameau.</head>
         <p rend="indexperry">[P83]</p>
@@ -8447,7 +8447,7 @@
         <p rend="traduction">Dans une assemblée des bêtes un singe se leva et dansa. Il fut fort apprécié et applaudi de toute l’assistance. Un chameau envieux voulut gagner les mêmes éloges. Il se leva et essaya lui aussi de danser ; mais il fit mainte extravagance, et les animaux indignés le mirent dehors à coups de bâton.</p>
         <p rend="traduction">Cette fable convient à ceux qui par envie rivalisent avec de meilleurs qu’eux.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-308">
         <head>Chambry 308</head>
         <div>
           <head>Chambry 308.1</head>
@@ -8483,7 +8483,7 @@
           <p rend="manuscrits">Cod. Bd 13.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-309">
         <head>Chambry 309</head>
         <head type="sub">Πλέοντες – Les navigateurs.</head>
         <p rend="indexperry">[P78]</p>
@@ -8493,7 +8493,7 @@
         <p rend="traduction">Des gens, étant montés dans un bateau, prirent la mer. Quand ils furent au large, une violente tempête se déclara, et le vaisseau fut sur le point de sombrer. L’un des passagers déchirant ses vêtements invoquait les dieux de son pays avec larmes et gémissements et leur promettait des offrandes en actions de grâces, s’ils sauvaient le vaisseau. Mais la tempête ayant cessé et le calme étant revenu, ils se mirent à faire bonne chère, à danser, à sauter, comme des gens qui viennent d’échapper à un danger inattendu. Alors le pilote, esprit solide, leur dit : « Mes amis, réjouissons-nous, mais comme des gens qui reverront peut-être la tempête. »</p>
         <p rend="traduction">La fable enseigne qu’il ne faut pas trop s’enorgueillir de ses succès, et qu’il faut songer à l’inconstance de la fortune.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-310">
         <head>Chambry 310</head>
         <div>
           <head>Chambry 310.1</head>
@@ -8537,7 +8537,7 @@
           <p rend="manuscrits">Cod. Mb 120.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-311">
         <head>Chambry 311</head>
         <div>
           <head>Chambry 311.1</head>
@@ -8558,7 +8558,7 @@
           <p rend="manuscrits">Cod. Ce 102.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-312">
         <head>Chambry 312</head>
         <div>
           <head>Chambry 312.1</head>
@@ -8587,7 +8587,7 @@
           <p rend="traduction">Cette fable montre que les accidents sont des leçons pour les hommes.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-313">
         <head>Chambry 313</head>
         <div>
           <head>Chambry 313.1</head>
@@ -8608,7 +8608,7 @@
           <p rend="manuscrits">Codd. Ba 123 Bb 74 Mb 189 Mh 86.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-314">
         <head>Chambry 314</head>
         <div>
           <head>Chambry 314.1</head>
@@ -8629,7 +8629,7 @@
           <p rend="manuscrits">Codd. Ce 105 Cf 112.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-315">
         <head>Chambry 315</head>
         <head type="sub">Ποιμὴν καὶ λύκος &lt;σὺν κυσὶ τρεφόμενος&gt; – Le berger et le loup nourri avec les chiens.</head>
         <p rend="indexperry">[P267]</p>
@@ -8639,7 +8639,7 @@
         <p rend="traduction">Un berger, ayant trouvé un louveteau nouveau-né, l’emporta et l’éleva avec ses chiens. Quand le louveteau fut devenu grand, si parfois un loup enlevait un mouton, il lui donnait la chasse lui aussi, avec les chiens. Quand parfois les chiens ne pouvaient pas atteindre le loup et par suite s’en retournaient, lui le suivait jusqu’à ce qu’il le joignît, et qu’il eût, en tant que loup, sa part de la proie ; puis il prenait le chemin du retour. Si un loup n’emportait pas de mouton hors de la bergerie, lui-même en tuait un en cachette et le mangeait avec les chiens. Mais à la fin le berger devina et comprit ce qui se passait, et tua le loup en le pendant à un arbre.</p>
         <p rend="traduction">Cette fable montre qu’un naturel pervers ne peut donner un caractère honnête.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-316">
         <head>Chambry 316</head>
         <head type="sub">Ποιμὴν καὶ λύκου σκύμνος – Le berger et le louveteau.</head>
         <p rend="indexperry">[P366]</p>
@@ -8649,7 +8649,7 @@
         <p rend="traduction">Un berger, ayant trouvé un petit loup, le nourrit ; puis, quand il fut devenu louveteau, il lui apprit à enlever des moutons dans les troupeaux du voisinage. Le loup une fois dressé lui dit : « Maintenant que tu m’as habitué à voler, prends garde qu’il ne te manque beaucoup de moutons. »</p>
         <p rend="traduction">Les gens que la nature a faits redoutables, une fois dressés à la rapine et au vol, ont souvent fait plus de mal à leurs maîtres qu’aux étrangers.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-317">
         <head>Chambry 317</head>
         <div>
           <head>Chambry 317.1</head>
@@ -8678,7 +8678,7 @@
           <p rend="manuscrits">Codd. La 127 Lb 117 Le 117 Lf 127 Lh 66 Mg 141 Mj 138 Ml 142.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-318">
         <head>Chambry 318</head>
         <div>
           <head>Chambry 318.1</head>
@@ -8707,7 +8707,7 @@
           <p rend="manuscrits">Cod. Mb 192.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-319">
         <head>Chambry 319</head>
         <div>
           <head>Chambry 319.1</head>
@@ -8763,7 +8763,7 @@
           <p rend="manuscrits">Codd. Ba 120 Bb 72.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-320">
         <head>Chambry 320</head>
         <head type="sub">Πόλεμος καὶ Ὕϐρις – Le dieu de la guerre et la violence.</head>
         <p rend="indexperry">[P367]</p>
@@ -8773,7 +8773,7 @@
         <p rend="traduction">Tous les dieux ayant décidé de se marier, chacun prit la femme que le sort lui assignait. Le dieu de la guerre, étant resté pour le dernier tirage, ne trouva plus que la Violence. Il s’en éprit follement et l’épousa. Voilà pourquoi il l’accompagne partout où elle va.</p>
         <p rend="traduction">Partout où paraît la violence, dans une cité ou parmi les nations, la guerre et les combats marchent aussitôt après elle.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-321">
         <head>Chambry 321</head>
         <head type="sub">Ποταμὸς καὶ βύρσα – La rivière et la peau.</head>
         <p rend="indexperry">[P368]</p>
@@ -8783,7 +8783,7 @@
         <p rend="recitprose">Une rivière, apercevant une peau de bœuf qu’elle charriait dans ses eaux, lui demanda son nom. « Je m’appelle Dure », répondit-elle. Alors précipitant son courant sur elle : « Cherche un autre nom, dit-elle ; car je t’aurai vite rendue molle. »</p>
         <p rend="recitprose">Souvent les audacieux et les orgueilleux sont terrassés par les malheurs de la vie.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-322">
         <head>Chambry 322</head>
         <div>
           <head>Chambry 322.1</head>
@@ -8822,7 +8822,7 @@
           <p rend="manuscrits">Cod. Mb 229.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-323">
         <head>Chambry 323</head>
         <head type="sub">Προμηθεὺς καὶ ἄνθρωποι – Prométhée et les hommes.</head>
         <p rend="indexperry">[P240]</p>
@@ -8832,7 +8832,7 @@
         <p rend="traduction">Prométhée, sur l’ordre de Zeus, avait modelé les hommes et les bêtes. Mais Zeus, ayant remarqué que les bêtes étaient beaucoup plus nombreuses, lui commanda d’en faire disparaître un certain nombre en les métamorphosant en hommes. Prométhée exécuta cet ordre. Il enr ésulta que ceux qui n’ont pas reçu la forme humaine dès le début ont bien une forme d’homme, mais une âme de bête.</p>
         <p rend="traduction">La fable s’applique aux hommes balourds et brutaux.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-324">
         <head>Chambry 324</head>
         <head type="sub">Ῥόδον καὶ ἀμάραντον – La rose et l’amarante.</head>
         <p rend="indexperry">[P369]</p>
@@ -8842,7 +8842,7 @@
         <p rend="traduction">Une amarante qui avait poussé à côté d’une rose lui dit : « Comme tu es belle ! tu fais les délices des dieux et des hommes. Je te félicite de ta beauté et de ton parfum. – Moi, répondit la rose, je ne vis que peu de jours, amarante, et même si l’on ne me cueille pas, je me flétris ; mais toi, tu es toujours en fleur et tu restes toujours aussi jeune. »</p>
         <p rend="traduction">Il vaut mieux durer en se contentant de peu que vivre dans le luxe quelque temps, pour subir ensuite un changement de fortune et même la mort.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-325">
         <head>Chambry 325</head>
         <div>
           <head>Chambry 325.1</head>
@@ -8871,7 +8871,7 @@
           <p rend="manuscrits">Codd. La 50 Lb 118 Le 118 Lf 50 Lh 67 Md 102 Me 158 Mf 132 Mg 142 Mi 18 Mj 139 Ml 146 Mm 126.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-326">
         <head>Chambry 326</head>
         <div>
           <head>Chambry 326.1</head>
@@ -8916,7 +8916,7 @@
           <p rend="epimythiumprose">Cette fable montre que les plus coupables sont ceux qui excitent au mal les princes méchants et cruels.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-327">
         <head>Chambry 327</head>
         <div>
           <head>Chambry 327.1</head>
@@ -8960,7 +8960,7 @@
           <p rend="manuscrits">Cod. Ba 121.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-328">
         <head>Chambry 328</head>
         <div>
           <head>Chambry 328.1</head>
@@ -8989,7 +8989,7 @@
           <p rend="manuscrits">Codd. La 54 Lb 83 Le 83 Lf 54 Lh 39 Md 114 Me 113 Mg 114 Mi 30 Ml 108 Mm 99.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-329">
         <head>Chambry 329</head>
         <head type="sub">Σῦς &lt;ἄγριος&gt; καὶ ἵππος καὶ κυνηγέτης – Le sanglier, le cheval et le chasseur.</head>
         <p rend="indexperry">[P269]</p>
@@ -8999,7 +8999,7 @@
         <p rend="traduction">Le sanglier et le cheval partageaient le même pâtis. Comme le sanglier à chaque instant détruisait l’herbe et troublait l’eau, le cheval, voulant se venger de lui, recourut à l’aide d’un chasseur. Mais celui-ci ayant déclaré qu’il ne pouvait lui prêter main-forte que s’il consentait à recevoir un frein et à le prendre lui-même sur son dos, le cheval se soumit à toutes ses exigences. Alors le chasseur monté sur son dos mit le sanglier hors de combat, et, emmenant le cheval chez lui, l’attacha au râtelier.</p>
         <p rend="traduction">Ainsi bien des gens, en voulant, sous le coup d’une colère aveugle, se venger de leurs ennemis, se jettent sous le joug d’autrui.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-330">
         <head>Chambry 330</head>
         <div>
           <head>Chambry 330.1</head>
@@ -9028,7 +9028,7 @@
           <p rend="traduction">Cette fable s’adresse aux hommes corrompus qui promettent des services et causent de grands dommages.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-331">
         <head>Chambry 331</head>
         <div>
           <head>Chambry 331.1</head>
@@ -9049,7 +9049,7 @@
           <p rend="manuscrits">Codd. Pe 66 Pf 125 Me 160 Mf 134 Ca 179.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-332">
         <head>Chambry 332</head>
         <div>
           <head>Chambry 332.1</head>
@@ -9070,7 +9070,7 @@
           <p rend="manuscrits">Codd. Ba 72 Bd 46 Mb 93.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-333">
         <head>Chambry 333</head>
         <div>
           <head>Chambry 333.1</head>
@@ -9108,7 +9108,7 @@
           <p rend="manuscrits">Cod. Mb 207.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-334">
         <head>Chambry 334</head>
         <div>
           <head>Chambry 334.1</head>
@@ -9137,7 +9137,7 @@
           <p rend="manuscrits">Codd. La 53 Lb 121 Lc 29 Le 121 Lf 53 Lg 29 Lh 69 Md 104 Me 168 Mf 139 Mg 147 Mi 20 Mj 142 Ml 150 Mm 129.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-335">
         <head>Chambry 335</head>
         <head type="sub">Τέττιξ καὶ ἀλώπηξ – La cigale et le renard.</head>
         <p rend="indexperry">[P241]</p>
@@ -9147,7 +9147,7 @@
         <p rend="traduction">Une cigale chantait sur un arbre élevé. Un renard qui voulait la dévorer imagina la ruse que voici. Il se plaça en face d’elle, il admira sa belle voix et il l’invita à descendre : il désirait, disait-il, voir l’animal qui avait une telle voix. Soupçonnant le piège, la cigale arracha une feuille et la laissa tomber. Le renard accourut, croyant que c’était la cigale. « Tu te trompes, compère, lui dit-elle, si tu as cru que je descendrais : je me défie des renards depuis le jour où j’ai vu dans la fiente de l’un d’eux des ailes de cigale. »</p>
         <p rend="traduction">Les malheurs du voisin assagissent les hommes sensés.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-336">
         <head>Chambry 336</head>
         <div>
           <head>Chambry 336.1</head>
@@ -9210,7 +9210,7 @@
           <p rend="manuscrits">Codd. Ca 195 Cf 132 Pg 151 Ma 143.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-337">
         <head>Chambry 337</head>
         <head type="sub">Τοῖχος καὶ πάλος – La muraille et la cheville.</head>
         <p rend="indexperry">[P270]</p>
@@ -9218,7 +9218,7 @@
         <p rend="manuscrits">Cod. Mb 208.</p>
         <p rend="traduction">Une muraille, percée brutalement pa une cheville, criait : « Pourquoi me perces-tu, moi qui ne t’ai fait aucun mal ? – Ce n’est pas moi, dit la cheville, qui suis la cause de ce que tu souffres, mais celui qui me frappe violemment par derrière. »</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-338">
         <head>Chambry 338</head>
         <div>
           <head>Chambry 338.1</head>
@@ -9261,7 +9261,7 @@
           <p rend="manuscrits">Cod. Mb 206.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-339">
         <head>Chambry 339</head>
         <div>
           <head>Chambry 339.1</head>
@@ -9285,7 +9285,7 @@
           <p rend="manuscrits">Cod. Mb 204.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-340">
         <head>Chambry 340</head>
         <div>
           <head>Chambry 340.1</head>
@@ -9311,7 +9311,7 @@
           <p rend="manuscrits">Cod. Mb 213.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-341">
         <head>Chambry 341</head>
         <head type="sub">Ὕαινα καὶ ἀλώπηξ – L’hyène et le renard.</head>
         <p rend="indexperry">[P242]</p>
@@ -9321,7 +9321,7 @@
         <p rend="traduction">On dit que les hyènes changent de nature tous les ans et deviennent alternativement mâles et femelles. Or une hyène, apercevant un renard, lui reprochait de la repousser, alors qu’elle voulait devenir son amie. « Ce n’est pas à moi qu’il faut t’en prendre, repartit le renard, mais à ta nature, qui fait que j’ignore si j’aurai en toi une amie ou un ami. »</p>
         <p rend="traduction">Ceci vise l’homme ambigu.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-342">
         <head>Chambry 342</head>
         <div>
           <head>Chambry 342.1</head>
@@ -9342,7 +9342,7 @@
           <p rend="traduction">Cette fable montre que les orateurs avisés tournent adroitement à leur éloge les injures de leurs ennemis.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-343">
         <head>Chambry 343</head>
         <div>
           <head>Chambry 343.1</head>
@@ -9363,7 +9363,7 @@
           <p rend="manuscrits">Codd. La 70 Lb 123 Le 123 Lf 70 Lh 70 Md 124 Me 171 Mf 142 Mg 148 Mi 98 Mj 144 Ml 148 Mm 133.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-344">
         <head>Chambry 344</head>
         <head type="sub">Φαλακρὸς ἱππεύς – Le cavalier chauve.</head>
         <p rend="indexperry">[P375]</p>
@@ -9373,7 +9373,7 @@
         <p rend="traduction">Un homme chauve qui portait perruque cheminait à cheval. Le vent, s’étant mis à souffler, lui enleva ses faux cheveux, et les témoins de sa mésaventure se mirent à rire aux éclats. Alors le cavalier, arrêtant son cheval, dit : « Qu’y a-t-il d’étrange à ce que des cheveux qui ne sont pas les miens me quittent, eux qui ont abandonné même leur vrai propriétaire, avec qui la nature les a fait naître ? »</p>
         <p rend="traduction">Il ne faut pas nous affliger des accidents qui nous surviennent : ce qu’on ne tient pas de sa nature dès sa naissance, on ne saurait le garder : nus nous sommes venus, nus nous partirons.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-345">
         <head>Chambry 345</head>
         <div>
           <head>Chambry 345.1</head>
@@ -9410,7 +9410,7 @@
           <p rend="traduction">Cette fable montre que la possession n’est rien, si la jouissance ne s’y joint.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-346">
         <head>Chambry 346</head>
         <div>
           <head>Chambry 346.1</head>
@@ -9457,7 +9457,7 @@
           <p rend="traduction">Les gens endormis et paresseux qui vivent du travail d’autrui se reconnaîtront en cette fable.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-347">
         <head>Chambry 347</head>
         <head type="sub">Χειμὼν καὶ ἔαρ – L’hiver et le printemps.</head>
         <p rend="indexperry">[P271]</p>
@@ -9465,7 +9465,7 @@
         <p rend="manuscrits">Cod. Mb 221.</p>
         <p rend="traduction">L’Hiver un jour se moqua du Printemps et le chargea de reproches. Aussitôt qu’il paraissait, personne ne restait plus en repos ; l’un allait aux prés ou aux bois, se plaisant à cueillir des fleurs, des lis et des roses, à les faire tourner devant ses yeux et à les mettre dans ses cheveux ; l’autre s’embarquait, et, à l’occasion, traversait la mer pour aller voir d’autres hommes ; personne ne prenait plus souci des vents ni des averses épaisses. « Moi, ajoutait-il, je ressemble à un chef et à un monarque absolu. Je veux qu’on tourne ses yeux, non pas vers le ciel, mais en bas vers la terre, et je force les gens à craindre et à trembler, et à se résigner parfois à garder le logis toute la journée. — C’est pour cela, répondit le Printemps, que les hommes ont plaisir à être délivrés de ta présence. De moi, au contraire, le nom même leur semble beau, le plus beau, par Zeus, de tous les noms. Aussi, quand j’ai disparu, ils gardent mon souvenir, et, dès que j’ai paru, ils sont pleins d’allégresse. »</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-348">
         <head>Chambry 348</head>
         <div>
           <head>Chambry 348.1</head>
@@ -9486,7 +9486,7 @@
           <p rend="manuscrits">Codd. Ba 96 Bb 60 Ma 185 Md 86 Mh 78 Mi 2 Mm 104.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-349">
         <head>Chambry 349</head>
         <head type="sub">Χελιδὼν καὶ κορώνη &lt;περὶ κάλλους φιλονεικοῦσαι&gt; – L’hirondelle et la corneille disputant de leur beauté.</head>
         <p rend="indexperry">[P229]</p>
@@ -9496,7 +9496,7 @@
         <p rend="traduction">L’hirondelle et la corneille disputaient de leur beauté. Aux raisons de l’hirondelle la corneille répliqua : « Ta beauté ne fleurit que pendant la saison du printemps, tandis que moi, j’ai un corps qui défie même l’hiver. »</p>
         <p rend="traduction">Cette fable montre qu’il vaut mieux prolonger sa vie que d’être beau.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-350">
         <head>Chambry 350</head>
         <div>
           <head>Chambry 350.1</head>
@@ -9524,7 +9524,7 @@
           <p rend="manuscrits">Cod. Ba 114.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-351">
         <head>Chambry 351</head>
         <div>
           <head>Chambry 351.1</head>
@@ -9544,7 +9544,7 @@
           <p rend="manuscrits">Cod. Bd 23.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-352">
         <head>Chambry 352</head>
         <div>
           <head>Chambry 352.1</head>
@@ -9589,7 +9589,7 @@
           <p rend="traduction">Cette fable montre que souvent, en voulant rivaliser avec d’autres, en dépit des plus sages conseils, on se fait tort à soi-même.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-353">
         <head>Chambry 353</head>
         <div>
           <head>Chambry 353.1</head>
@@ -9633,7 +9633,7 @@
           <p rend="manuscrits">Codd. Ba 129 Bb 77 Md 101 Mh 88 Mi 17 Mm 123.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-354">
         <head>Chambry 354</head>
         <div>
           <head>Chambry 354.1</head>
@@ -9662,7 +9662,7 @@
           <p rend="manuscrits">Codd. La 60 Lc 28 Le 126 Lf 60 Lg 28 Md 110 Mg 152 Mi 26 Mj 147 Ml 153 Mm 136.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-355">
         <head>Chambry 355</head>
         <head type="sub">Χύτραι – Les pots.</head>
         <p rend="indexperry">[P378]</p>
@@ -9672,7 +9672,7 @@
         <p rend="traduction">Un pot de terre et un pot de cuivre étaient emportés par le courant d’une rivière. Le pot de terre dit au pot de cuivre : « Nage loin de moi, pas à mes côtés ; car si tu me touches, je vole en éclats, même si je m’approche de toi sans le vouloir. »</p>
         <p rend="traduction">La vie n’est pas sûre pour le pauvre qui a pour voisin un prince rapace.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-356">
         <head>Chambry 356</head>
         <div>
           <head>Chambry 356.1</head>
@@ -9704,7 +9704,7 @@
           <p rend="manuscrits">Cod. Mb 193.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-357">
         <head>Chambry 357</head>
         <div>
           <head>Chambry 357.1</head>
@@ -9733,7 +9733,7 @@
           <p rend="manuscrits">Codd. La 62 Lb 129 Le 129 Lf 62 Lh 75 Md 112 Mg 156 Mi 28 Mj 150 Ml 156 Mm 139 Pb 230 Ce 122 Cf 131.</p>
         </div>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-358">
         <head>Chambry 358</head>
         <head type="sub">Ψύλλα καὶ ἄνθρωπος – La puce et l’homme.</head>
         <p rend="indexperry">[P272]</p>
@@ -9752,7 +9752,7 @@
         <p rend="traduction">Un jour une puce incommodait un homme sans relâche. Il l’attrapa et lui dit : « Qui es-tu, toi qui t’es repue de tous mes membres, en me piquant à tort et à travers ? » Elle répondit : « C’est notre façon de vivre ; ne ma tue pas ; car je ne puis pas faire grand mal. » L’homme se mit à rire et lui dit : « Tu vas mourir tout de suite, et de ma propre main ; car quel que soit le mal, petit ou grand, il faut absolument l’empêcher de se produire. »</p>
         <p rend="traduction">Cette fable montre qu’il ne faut pas avoir pitié d’un méchant, quel qu’il soit, fort ou faible.</p>
       </div>
-      <div>
+      <div type="poem" xml:id="chambry-359">
         <head>Chambry 359</head>
         <head type="sub">Ψύλλα καὶ βοῦς – La puce et le bœuf.</head>
         <p rend="indexperry">[P273]</p>
