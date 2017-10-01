@@ -52,7 +52,7 @@ echo $conf['title'];
 if ( $doc ) {
 
   echo "\n".'<nav id="download"><small>Télécharger :</small>';
-  echo '<a target="_blank" href="https://obvil.github.io/apollinaire/xml/'.$doc['code'].'.xml" title="Source XML/TEI">tei</a>';
+  echo '<a target="_blank" href="https://obvil.github.io/fabula-numerica/xml/'.$doc['code'].'.xml" title="Source XML/TEI">tei</a>';
   echo ', <a target="_blank" href="epub/'.$doc['code'].'.epub" title="Livre électronique">epub</a>';
   echo ', <a target="_blank" href="kindle/'.$doc['code'].'.mobi" title="Mobi, format propriétaire Amazon">kindle</a>';
   echo ', <a target="_blank" href="markdown/'.$doc['code'].'.md" title="Markdown">texte brut</a>';
@@ -77,7 +77,7 @@ if ( $doc ) {
 // accueil ? formulaire de recherche général
 else {
   echo "\n".'<nav id="download"><small>Téléchagements :</small> ';
-  echo "\n".'<a target="_blank" href="https://github.com/OBVIL/apollinaire/tree/gh-pages/xml" title="Source XML/TEI">tei</a>';
+  echo "\n".'<a target="_blank" href="https://github.com/OBVIL/fabula-numerica/tree/gh-pages/xml" title="Source XML/TEI">tei</a>';
   echo "\n".', <a target="_blank" href="epub/" title="Livre électronique">epub</a>';
   echo "\n".', <a target="_blank" href="kindle/" title="Mobi, format propriétaire Amazon">kindle</a>';
   echo "\n".', <a target="_blank" href="markdown/" title="Markdown">texte brut</a>';
