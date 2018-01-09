@@ -32,6 +32,7 @@ echo $conf['title'];
     ?></title>
     <link rel="stylesheet" type="text/css" href="<?= $teinte ?>tei2html.css" />
     <link rel="stylesheet" type="text/css" href="<?= $basehref ?>../theme/obvil.css"/>
+    <link rel="stylesheet" type="text/css" href="<?= $basehref ?>fabula.css"/>
   </head>
   <body id="top">
     <div id="center">
