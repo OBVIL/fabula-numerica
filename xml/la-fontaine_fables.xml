@@ -127,10 +127,10 @@
           <l met="hepta">Et bien, dansez maintenant.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="la-fontaine_fables/fables2.jpg"/></figure>
           <head type="sur">II.</head>
           <pb ed="perry" n="P124"/>
           <head>Le Corbeau et le Renard.</head>
+          <figure><graphic url="la-fontaine_fables/fables2.jpg"/></figure>
           <l met="deca"><hi rend="b">M</hi>aistre Corbeau sur un arbre perché,</l>
           <l met="octo">Tenoit en son bec un fromage.</l>
           <l met="deca">Maistre Renard par l’odeur alleché</l>
