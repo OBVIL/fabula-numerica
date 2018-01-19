@@ -27,6 +27,10 @@
           <name>Céline Bohnert</name>
           <resp>transcription, relecture, stylage</resp>
         </respStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>Edition TEI [2018]</resp>
+        </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
@@ -95,10 +99,10 @@
       <div>
         <head rend="uc">Livre premier.</head>
         <div type="poem">
-          <figure><graphic url="la-fontaine_fables/fables1.jpg"/></figure>
           <head type="sur" rend="uc">Fable I.</head>
           <pb ed="perry" n="P112/373"/>
           <head>La Cigale et la Fourmy.</head>
+          <figure><graphic url="la-fontaine_fables/fables1.jpg"/></figure>
           <l met="hepta"><hi rend="b">L</hi>a Cigale ayant chanté</l>
           <l met="tri">Tout l’Esté,</l>
           <l met="hepta">Se trouva fort dépourvuë</l>
