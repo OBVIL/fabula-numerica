@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<!--Odette: 2018-04-03T10:02:17+02:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <!--Odette: 2018-04-03T10:02:17+02:00-->
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -201,9 +202,9 @@
                 <cell rend="b">Sources présumées</cell>
               </row>
               <row>
-                <cell>« A i lettori. Del padre, e del figliuolo, che menavan l’asino »</cell>
-                <cell>P721</cell>
-                <cell>Faerno, 100</cell>
+                <cell><p>« A i lettori. Del padre, e del figliuolo, che menavan l’asino »</p></cell>
+                <cell><p rend="hanging noindent">P721</p><p/><p/></cell>
+                <cell><p rend="hanging noindent">Faerno, 100</p><p/><p/></cell>
               </row>
               <row>
                 <cell>1. « Dell’aquila, et della volpe »</cell>
