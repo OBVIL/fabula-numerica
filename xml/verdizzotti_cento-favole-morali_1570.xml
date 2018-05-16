@@ -203,8 +203,8 @@
               </row>
               <row>
                 <cell><p rend="noindent">« A i lettori. Del padre, e del figliuolo, che menavan l’asino »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">P721</p><p/><p/></cell>
-                <cell><p rend="hanging noindent">Faerno, 100</p><p/><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">P721</p><p/><p/><p/></cell>
+                <cell><p rend="hanging noindent">Faerno, 100</p><p/><p/><p/></cell>
               </row>
               <row>
                 <cell><p rend="noindent">1. « Dell’aquila, et della volpe »</p></cell>
@@ -218,7 +218,7 @@
               </row>
               <row>
                 <cell><p rend="noindent">3. « Dell’aquila, et la saetta »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">P276</p></cell>
+                <cell cols="2"><p rend="hanging noindent">P276</p><p/></cell>
                 <cell/>
               </row>
               <row>
@@ -278,8 +278,8 @@
               </row>
               <row>
                 <cell><p rend="noindent">15. « Delli due vasi »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">P378</p></cell>
-                <cell><p rend="hanging noindent">Faerno, 1</p></cell>
+                <cell cols="2"><p rend="hanging noindent">P378</p><p/></cell>
+                <cell><p rend="hanging noindent">Faerno, 1</p><p/></cell>
               </row>
               <row>
                 <cell><p rend="noindent">16. « Dell’agnello e del lupo »</p></cell>
@@ -308,8 +308,8 @@
               </row>
               <row>
                 <cell><p rend="noindent">21. « Del topo giovine, et la gatta, e ’l galletto »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">P716</p><p/><p/></cell>
-                <cell><p rend="hanging noindent">Abstemius, I, 67</p><p/><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">P716</p><p/><p/><p/></cell>
+                <cell><p rend="hanging noindent">Abstemius, I, 67</p><p/><p/><p/></cell>
               </row>
               <row>
                 <cell><p rend="noindent">22. « Del toro e del montone »</p></cell>
@@ -323,7 +323,7 @@
               </row>
               <row>
                 <cell><p rend="noindent">24. « Del gambero, e suo figliuolo »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">P322</p><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">P322</p><p/><p/></cell>
                 <cell/>
               </row>
               <row>
@@ -342,8 +342,8 @@
                 <cell><p rend="hanging noindent">Faerno, 61</p></cell>
               </row>
               <row>
-                <cell><p rend="noindent">28. « Dei lupi e ’l corvo »</p><p/><p/><p/><p/><p/></cell>
-                <cell cols="2"><p rend="hanging noindent">PØ</p><p/><p/><p/><p/><p/><p/></cell>
+                <cell><p rend="noindent">28. « Dei lupi e ’l corvo »</p><p/><p/><p/><p/><p/><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">PØ</p><p/><p/><p/><p/><p/><p/><p/></cell>
                 <cell><p rend="hanging noindent">Giovanni Antonio Campano, in <hi rend="i">Æsopus Dorpii</hi> (Anvers, 1512 <hi
                     rend="i">sqq.</hi>) : « <hi rend="i">Fabella de corvo et lupis, ex Johanne
                     Antonio Campano desumpta</hi> » (ou dans une trad. vernaculaire de l’<hi
@@ -357,12 +357,12 @@
               <row>
                 <cell><p rend="noindent">30. « Della volpe, e del gallo »</p></cell>
                 <cell cols="2"><p rend="hanging noindent">P671</p><p/></cell>
-                <cell><p rend="hanging noindent">Poggio Bracciolini, <hi rend="i">Facetiae</hi>, 79</p><p/></cell>
+                <cell><p rend="hanging noindent">Poggio Bracciolini, <hi rend="i">Facetiae</hi>, 79</p></cell>
               </row>
               <row>
                 <cell><p rend="noindent">31. « Dell’uccellator, et la lodola »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">P193</p><p/></cell>
-                <cell><p rend="hanging noindent">Faerno, 39</p><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">P193</p><p/><p/></cell>
+                <cell><p rend="hanging noindent">Faerno, 39</p><p/><p/></cell>
               </row>
               <row>
                 <cell><p rend="noindent">32. « De i topi »</p></cell>
@@ -376,8 +376,8 @@
               </row>
               <row>
                 <cell><p rend="noindent">34. « Del cervo, et suo figliuolo »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">P351 </p><p/></cell>
-                <cell><p rend="hanging noindent">Faerno, 23</p><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">P351 </p><p/><p/></cell>
+                <cell><p rend="hanging noindent">Faerno, 23</p><p/><p/></cell>
               </row>
               <row>
                 <cell><p rend="noindent">35. « Di due asini »</p></cell>
@@ -386,13 +386,13 @@
               </row>
               <row>
                 <cell><p rend="noindent">36. « La testuggine, et l’aquila »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">P230 </p><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">P230 </p><p/><p/></cell>
                 <cell/>
               </row>
               <row>
                 <cell><p rend="noindent">37. « D’un vecchio, et la morte »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">P60</p><p/></cell>
-                <cell><p rend="hanging noindent">Faerno, 10</p><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">P60</p><p/><p/></cell>
+                <cell><p rend="hanging noindent">Faerno, 10</p><p/><p/></cell>
               </row>
               <row>
                 <cell><p rend="noindent">38. « Della rana, et suo figliuolo »</p></cell>
@@ -406,7 +406,7 @@
               </row>
               <row>
                 <cell><p rend="noindent">40. « Del cervo, e ’l cavallo, e l’huomo »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">P269</p><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">P269</p><p/><p/></cell>
                 <cell/>
               </row>
               <row>
@@ -426,13 +426,13 @@
               </row>
               <row>
                 <cell><p rend="noindent">44. « Del serpente, et Giove »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">P198</p><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">P198</p><p/><p/></cell>
                 <cell/>
               </row>
               <row>
                 <cell><p rend="noindent">45. « Delle formiche, et la cicala »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">P112-373</p><p/></cell>
-                <cell><p rend="hanging noindent">Faerno, 7</p><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">P112-373</p><p/><p/></cell>
+                <cell><p rend="hanging noindent">Faerno, 7</p><p/><p/></cell>
               </row>
               <row>
                 <cell><p rend="noindent">46. « Della volpe, et del pardo »</p></cell>
@@ -441,28 +441,28 @@
               </row>
               <row>
                 <cell><p rend="noindent">47. « Della mosca »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">P167, <hi rend="i">cf</hi>. P80</p></cell>
-                <cell><p rend="hanging noindent">Faerno, 14</p></cell>
+                <cell cols="2"><p rend="hanging noindent">P167, <hi rend="i">cf</hi>. P80</p><p/></cell>
+                <cell><p rend="hanging noindent">Faerno, 14</p><p/></cell>
               </row>
               <row>
                 <cell><p rend="noindent">48. « Dell’asino, che portava il simolacro »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">P182</p><p/></cell>
-                <cell><p rend="hanging noindent">Faerno, 95</p><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">P182</p><p/><p/></cell>
+                <cell><p rend="hanging noindent">Faerno, 95</p><p/><p/></cell>
               </row>
               <row>
-                <cell><p rend="noindent">49. « Di Pallade, et di Giove »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">P508</p><p/></cell>
+                <cell><p rend="noindent">49. « Di Pallade, et di Giove »</p><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">P508</p><p/><p/></cell>
                 <cell><p rend="hanging noindent">Faerno, 2 &lt; Phèdre, III, 17, in Perotti, <hi rend="i">Cornu Copiæ</hi>, I,
                   cv, 10.</p></cell>
               </row>
               <row>
                 <cell><p rend="noindent">50. « Del granchio, et la volpe »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">P116</p><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">P116</p><p/><p/></cell>
                 <cell/>
               </row>
               <row>
                 <cell><p rend="noindent">51. « Delle mosche nel mele »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">P80</p><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">P80</p><p/><p/></cell>
                 <cell/>
               </row>
               <row>
@@ -472,13 +472,13 @@
               </row>
               <row>
                 <cell><p rend="noindent">53. « D’un marito, che cercava al contrario del fiume la moglie affogata »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">P682</p><p/></cell>
-                <cell><p rend="hanging noindent">Faerno, 41</p><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">P682</p><p/><p/><p/></cell>
+                <cell><p rend="hanging noindent">Faerno, 41</p><p/><p/><p/></cell>
               </row>
               <row>
                 <cell><p rend="noindent">54. « Del contadino, et Ercole »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">P291</p><p/></cell>
-                <cell><p rend="hanging noindent">Faerno, 91</p><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">P291</p><p/><p/></cell>
+                <cell><p rend="hanging noindent">Faerno, 91</p><p/><p/></cell>
               </row>
               <row>
                 <cell><p rend="noindent">55. « Del lupo, et della grue »</p></cell>
@@ -487,23 +487,23 @@
               </row>
               <row>
                 <cell><p rend="noindent">56. « Del topo cittadino, e ’l topo villano »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">P352</p><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">P352</p><p/><p/></cell>
                 <cell/>
               </row>
               <row>
                 <cell><p rend="noindent">57. « Del contadino, et del cavalliero » </p></cell>
-                <cell cols="2"><p rend="hanging noindent">P402</p><p/></cell>
-                <cell><p rend="hanging noindent">Faerno, 15</p><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">P402</p><p/><p/></cell>
+                <cell><p rend="hanging noindent">Faerno, 15</p><p/><p/></cell>
               </row>
               <row>
                 <cell><p rend="noindent">58. « Del leone, dell’asino, et della volpe »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">P149</p><p/></cell>
-                <cell><p rend="hanging noindent">Faerno, 3</p><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">P149</p><p/><p/></cell>
+                <cell><p rend="hanging noindent">Faerno, 3</p><p/><p/></cell>
               </row>
               <row>
                 <cell><p rend="noindent">59. « Del figliuol dell’asino, e ’l lupo »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">PØ </p><p/></cell>
-                <cell><p rend="hanging noindent">Faerno, 55</p><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">PØ </p><p/><p/></cell>
+                <cell><p rend="hanging noindent">Faerno, 55</p><p/><p/></cell>
               </row>
               <row>
                 <cell><p rend="noindent">60. « Dell’asino, e del lupo »</p></cell>
@@ -522,8 +522,8 @@
               </row>
               <row>
                 <cell><p rend="noindent">63. « Del leone impazzito, et la capra »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">P341</p><p/></cell>
-                <cell><p rend="hanging noindent">Faerno, 5</p><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">P341</p><p/><p/></cell>
+                <cell><p rend="hanging noindent">Faerno, 5</p><p/><p/></cell>
               </row>
               <row>
                 <cell><p rend="noindent">64. « Dell’asino, e del cinghiale »</p></cell>
@@ -557,7 +557,7 @@
               </row>
               <row>
                 <cell><p rend="noindent">70. « D’un cane, che temeva la pioggia »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">PØ</p><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">PØ</p><p/><p/></cell>
                 <cell><p rend="hanging noindent">Faerno, 67 &lt; Abstemius, II, 17.</p><p/></cell>
               </row>
               <row>
@@ -592,12 +592,12 @@
               </row>
               <row>
                 <cell><p rend="noindent">77. « Del cinghiale, e la volpe »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">P224</p><p/></cell>
-                <cell><p rend="hanging noindent">Faerno, 78</p><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">P224</p><p/><p/></cell>
+                <cell><p rend="hanging noindent">Faerno, 78</p><p/><p/></cell>
               </row>
               <row>
-                <cell><p rend="noindent">78. « Del pardo, e le simie »</p><p/><p/><p/><p/><p/><p/><p/></cell>
-                <cell cols="2"><p rend="hanging noindent">PØ</p><p/><p/><p/><p/><p/><p/><p/><p/></cell>
+                <cell><p rend="noindent">78. « Del pardo, e le simie »</p><p/><p/><p/><p/><p/><p/><p/><p/><p/><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">PØ</p><p/><p/><p/><p/><p/><p/><p/><p/><p/><p/><p/></cell>
                 <cell><p rend="hanging noindent">Érasme in <hi rend="i">Æsopus Dorpii</hi> (« <hi rend="i">Apologi ex
                     Chiliadibus adagiorum Erasmi desumpti</hi> »), ou dans une trad. vernaculaire de
                     l’<hi rend="i">Æsopus Dorpii</hi> &lt; Érasme<hi rend="i">, Adagiorum Chiliades
@@ -616,7 +616,7 @@
               </row>
               <row>
                 <cell><p rend="noindent">81. « Della rondine, e gli altri uccelli »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">P39</p><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">P39</p><p/><p/></cell>
                 <cell/>
               </row>
               <row>
@@ -641,7 +641,7 @@
               </row>
               <row>
                 <cell><p rend="noindent">86. « Dello sparviero che seguiva una colomba »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">???</p><p/><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">???</p><p/><p/><p/></cell>
                 <cell/>
               </row>
               <row>
@@ -666,7 +666,7 @@
               </row>
               <row>
                 <cell><p rend="noindent">91. « Del taglialegna, e Mercurio »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">P173</p><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">P173</p><p/><p/></cell>
                 <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>, 62</p></cell>
               </row>
               <row>
@@ -706,12 +706,12 @@
               </row>
               <row>
                 <cell><p rend="noindent">99. « Del contadino, e Giove »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">PØ</p><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">PØ</p><p/><p/></cell>
                 <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>, 98</p></cell>
               </row>
               <row>
                 <cell><p rend="noindent">100. « Del leone, e ’l lupo, e la volpe »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">P258</p><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">P258</p><p/><p/></cell>
                 <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>, 99</p></cell>
               </row>
             </table>
@@ -1458,8 +1458,9 @@
           </lg>
         </div>
         <div type="poem" xml:id="vernizzotti-011">
-          <head type="sur" rend="center">[11.] DEL CIGNO, ET DELL’OCCA.</head>
+          <head type="sur" rend="center">[11.]</head>
           <pb n="P399"/>
+          <head rend="center i">DEL CIGNO, ET DELL’OCCA.</head>
           <lg rend="i">
             <l>DENTRO un Cortile d’un palazzo altero</l>
             <l>Vivean nudriti insieme un’Oca e un Cigno</l>
