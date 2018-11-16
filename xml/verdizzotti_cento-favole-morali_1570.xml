@@ -964,7 +964,7 @@
             <l><space/>Chi loda il pan mal cotto, e chi l’adusto,</l>
             <l>Né pur Venere stessa a tutti piace.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Chi vuol de l’oprar suo far pago ognuno</l>
             <l><space/>Sé stesso offende, e non contenta alcuno.</l>
           </lg>
@@ -1067,7 +1067,7 @@
             <l>O da Dio stesso egli medesmo colto</l>
             <l>In qualche occasion tardi o per tempo.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Vindice è Dio del giusto a torto offeso.</l>
           </lg>
         </div>
@@ -1102,7 +1102,7 @@
             <l>Perché non trova ne i bisogni sui</l>
             <l>Chi d’un sovvegno se gli mostri grato.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Chi visse rio non ha chi ben li voglia.</l>
           </lg>
         </div>
@@ -1143,7 +1143,7 @@
             <l>Di quell’ingiuria ogn’hor sente la doglia,</l>
             <l>Quanto minor di lei fu la speranza.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>L’offesa de l’amico appar più grave.</l>
           </lg>
         </div>
@@ -1232,7 +1232,7 @@
             <l>E duolsi a torto del giudicio altrui,</l>
             <l>Che drittamente a sé contrario vede.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Ogni bruttezza a sé medesma piace.</l>
           </lg>
         </div>
@@ -1275,7 +1275,7 @@
             <l>Si riconosce suo malgrado, e sente</l>
             <l>Non esser quel che si teneva in prima.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>La buona sorte ogni vil cor fa forte.</l>
           </lg>
         </div>
@@ -1309,7 +1309,7 @@
             <l><space/>Perch’a noi sembrar suol del tutto esterno</l>
             <l>Quel, che si perde allhor, che si riceve.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Il ben, che sempre dura, è vero bene.</l>
           </lg>
         </div>
@@ -1337,7 +1337,7 @@
             <l><space/>Tal il favore ottien da molti spesso,</l>
             <l><space/>Che in altri appar minore un fallo stesso.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Il favore è cagion, che ’l torto regna.</l>
           </lg>
         </div>
@@ -1374,7 +1374,7 @@
             <l>Danno gli nasce di tal cura pieno,</l>
             <l>Che lo conduce a miserabil fine.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Spesso un guadagno ingordo è danno espresso.</l>
           </lg>
         </div>
@@ -1412,7 +1412,7 @@
             <l><space/>Cos’io resterò essempio a gli altri avari,</l>
             <l><space/>Ch’ogn’un del proprio a contentarsi impari.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Chi vuol l’incerto vien del certo a nulla.</l>
           </lg>
         </div>
@@ -1453,7 +1453,7 @@
             <l>E ’l forte et di mal far si vive in pace ;</l>
             <l>Perché chi gli osta ei fa tristo e dolente.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Chi contender non può spesso ha contesa.</l>
           </lg>
         </div>
@@ -1495,7 +1495,7 @@
             <l>E fugge il mal di violente morte</l>
             <l>Col suo sermone, ond’ei gli animi sforza.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Un bel parlar a tempo è gran guadagno.</l>
           </lg>
         </div>
@@ -1539,7 +1539,7 @@
             <l>Al vero fin de la bramata impresa</l>
             <l>Con danno de gli amici et sua vergogna.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Vano è il parlar dove s’attende l’opra.</l>
           </lg>
         </div>
@@ -1608,7 +1608,7 @@
             <l><space/>E prezzar quel, che gli è d’aspro tormento</l>
             <l>Cagione, onde rimane afflitto e mesto.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Non quel, che par ; ma quel, ch’è buono, apprezza.</l>
           </lg>
         </div>
@@ -1676,7 +1676,7 @@
             <l>E ne rendono in cambio ingiuria e biasmo,</l>
             <l>Quando del lor bisogno al fin son giunti.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Prezza colui, che sempre amor ti mostra.</l>
           </lg>
         </div>
@@ -1717,7 +1717,7 @@
             <l>Se brama da perigli esser lontano,</l>
             <l>Et nel suo stato ognihor viver sicuro.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Non prattichi il basso huom sempre col grande.</l>
           </lg>
         </div>
@@ -1754,7 +1754,7 @@
             <l>Assicurato da persona, o loco,</l>
             <l>Che lo difende da l’altrui valore.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>A tempo e loco è il vil talhor ardito.</l>
           </lg>
         </div>
@@ -1798,7 +1798,7 @@
             <l>Tutta, né trova chi gli porga aiuto</l>
             <l>Per giusta ira del ciel, che lo permette.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Se l’huom possente ha de l’huom debil cura,</l>
             <l><space/>E l’uno e l’altro lungamente dura.</l>
           </lg>
@@ -1873,7 +1873,7 @@
             <l>Che colui, che con impeto si move</l>
             <l>In discoperta forza a le sue voglie.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>La destrezza val più, che viva forza.</l>
           </lg>
         </div>
@@ -1942,7 +1942,7 @@
             <l><space/>Per non far al suo mal nova ferita,</l>
             <l>Se le è di viver lungamente caro.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Sopporta e appunta un mal chi non vuol giunta.</l>
           </lg>
         </div>
@@ -1980,7 +1980,7 @@
             <l>Che stando in gran pericol de la vita</l>
             <l>Dar di piangermi a’ miei vera ragione.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Più grave appar, che la vergogna, il danno.</l>
           </lg>
         </div>
@@ -2096,7 +2096,7 @@
             <l>E spesso un, che par rio nel fronte, copre</l>
             <l>Ogni bontà del cor sotto al bel manto.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Non giudicar dal volto il buono, o ’l rio.</l>
           </lg>
         </div>
@@ -2137,7 +2137,7 @@
             <l>Mentre colui, che a maggior cose attende,</l>
             <l>Senza difesa far nol cura, o stima.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>L’oppression del forte è ardir del vile.</l>
           </lg>
         </div>
@@ -2189,7 +2189,7 @@
             <l>Che spesse volte in gran bassezza cade,</l>
             <l>Chi posto vien de la sua rota in cima.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Stolto è chi invidia perigliosa altezza.</l>
           </lg>
         </div>
@@ -2237,7 +2237,7 @@
             <l>Ch’a quel si ridurrian più facilmente,</l>
             <l>Persuadendo più l’opra, che ’l dire.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Non biasmar del tuo vitio un altro mai.</l>
           </lg>
         </div>
@@ -2313,7 +2313,7 @@
             <l>Quel, ch’egli ingannar pensa, esso tradisce ;</l>
             <l>E rende al finto dir finte parole.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Chi con fraude camina in fraude intoppa.</l>
           </lg>
         </div>
@@ -2361,7 +2361,7 @@
             <l><space/>Tu dura altrui resisti, hor morta sei :</l>
             <l><space/>Io cedo a tutti, e sani ho i rami miei.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>L’humil, che cede al suo maggior, ventura</l>
             <l><space/>Miglior s’acquista, e lungamente dura.</l>
           </lg>
@@ -2403,7 +2403,7 @@
             <l>Posponendo il ben publico al privato</l>
             <l>Da l’amor ingannati di sé stessi.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Nuoce al publico ben spesso il privato.</l>
           </lg>
         </div>
@@ -2451,7 +2451,7 @@
           <lg rend="i">
             <l>Prezzano quanto a loro utile rende.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>L’huom disleale offende anchor l’amico.</l>
           </lg>
         </div>
@@ -2501,7 +2501,7 @@
             <l>De l’huom superbo e di feroce core</l>
             <l>Colui, ch’a tempo e loco accorto cede.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Vince più cortesia, che forza d’armi.</l>
           </lg>
         </div>
@@ -2591,7 +2591,7 @@
             <l>Trovar difesa, e trar con doppio scorno,</l>
             <l>Chi coglierlo volea nel proprio inganno.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Talhor chi ingannar pensa, è l’ingannato.</l>
           </lg>
         </div>
@@ -2641,7 +2641,7 @@
             <l>Fanno dishabitar l’ampie cittadi :</l>
             <l>Che abbandonate alfin vanno in ruina.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>L’avaritia dei Re peste è de’ Regni.</l>
           </lg>
         </div>
@@ -2689,7 +2689,7 @@
             <l>Senza pericol di chi ’l pone in opra,</l>
             <l>Se brama esser tenuto al mondo saggio.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Del suo debito fin manca il consiglio,</l>
             <l><space/>In cui de l’eseguir chiaro è ’l periglio.</l>
           </lg>
@@ -2731,7 +2731,7 @@
             <l>De l’infelice vita al fin si vede ;</l>
             <l>Perché l’huom non sa quel, che Dio prescrive.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Pria che morte ti colga esci del vitio.</l>
           </lg>
         </div>
@@ -2773,7 +2773,7 @@
             <l>Ché, se ben fusse chiuso entro ad un muro,</l>
             <l>Però cangiar non può l’antico stile.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>A l’huom, ch’è di cor vil, forza non giova.</l>
           </lg>
         </div>
@@ -2812,7 +2812,7 @@
             <l>D’occasion, di loco, e di valore ;</l>
             <l>Ma in diversa persona opra diversa.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Non quel, che ad un convien, conviensi a tutti.</l>
           </lg>
         </div>
@@ -2888,7 +2888,7 @@
             <l>Ne de’ saggi dà fede a le parole</l>
             <l>Da buon discorso in sua salute spese.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Merta ogni mal chi sprezza il buon consiglio.</l>
           </lg>
         </div>
@@ -2934,7 +2934,7 @@
             <l>Fuggon tremando con la faccia china</l>
             <l>Per non provar di lei la dura sorte.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>L’huom disperato il mal lontano chiama,</l>
             <l><space/>E quando l’ha vicin fuggirlo brama.</l>
           </lg>
@@ -2998,7 +2998,7 @@
             <l>Ché non sta con l’età sempre il sapere :</l>
             <l>Né sempre è gioventù mendace e vana.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Non gli anni, ma il saper pesa e misura.</l>
           </lg>
         </div>
@@ -3037,7 +3037,7 @@
             <l>Di virtute e valor : che nulla acquista</l>
             <l>Chi l’huom combatte, ch’è di lui più forte.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Ceda chi manco vale al più possente.</l>
           </lg>
         </div>
@@ -3132,7 +3132,7 @@
             <l>Chi per un altro il suo metta a periglio,</l>
             <l>Senza speranza di guadagno haverne.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Forza, che d’altrui pende, è vinta e serva.</l>
           </lg>
         </div>
@@ -3175,7 +3175,7 @@
             <l>Stando in quiete, e in dolce almo riposo</l>
             <l>Per goder poi de le tue carni un giorno.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Utile è il mal, che per buon fin si pate.</l>
           </lg>
         </div>
@@ -3218,7 +3218,7 @@
             <l>Ché finalmente il ver da sé si scopre ;</l>
             <l>E l’istessa bugia ne ’l fa palese.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Non può la falsità star sempre occulta.</l>
           </lg>
         </div>
@@ -3266,7 +3266,7 @@
             <l><space/>Né può placar un beneficio pio</l>
             <l><space/>Un cor, che nato sia crudele e rio.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Chi l’empio esalta, è da lui posto al basso.</l>
           </lg>
         </div>
@@ -3296,7 +3296,7 @@
             <l><space/>Fa ch’ogni altro l’ingiuria, e vilipesa :</l>
             <l><space/>E chi suol vendicarsi a lor pon freno.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Chi facile perdona, ingiuria aspetta.</l>
           </lg>
         </div>
@@ -3346,7 +3346,7 @@
             <l>Che l’antico proverbio è cosa vera,</l>
             <l>La vita il fine, il dì loda la sera.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Chi vuol da savio oprar pensi al suo fine.</l>
           </lg>
         </div>
@@ -3400,7 +3400,7 @@
             <l>C’hor chiara sembra, hor con la faccia bruna,</l>
             <l>E sempre forma variar conviene.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Più bello è il bel del cor, che il bel del volto.</l>
           </lg>
         </div>
@@ -3435,7 +3435,7 @@
             <l>E quel, che vuol necessità, seguire,</l>
             <l>Per non parer altrui di bassa mente.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Quel, che schivar non puoi, sopporta in pace.</l>
           </lg>
         </div>
@@ -3475,7 +3475,7 @@
             <l>E non si porta in suo costume, come</l>
             <l>La prudenza richiede a sua natura.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>L’honor dato a l’huom sciocco insano il rende.</l>
           </lg>
         </div>
@@ -3542,7 +3542,7 @@
             <l>Che veramente quella gloria è vana,</l>
             <l>Che da l’util si vede ognihor lontana.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Vero honor non è quel, che in danno torna.</l>
           </lg>
         </div>
@@ -3580,7 +3580,7 @@
             <l>E temerario arditamente passa</l>
             <l>Ove misero cade in stato rio.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Il cercar varia sorte è talhor morte.</l>
           </lg>
         </div>
@@ -3618,7 +3618,7 @@
             <l>Sovente casca in misera fortuna,</l>
             <l>E de la Morte ancor tal volta in mano.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Spesso la gola altrui guida a mal fine.</l>
           </lg>
         </div>
@@ -3650,7 +3650,7 @@
             <l>E nel voler di Dio paghi sua sorte</l>
             <l>De l’affanno maggior, che in altri vede.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Conforto è al proprio il maggior mal d’altrui.</l>
           </lg>
         </div>
@@ -3687,7 +3687,7 @@
             <l>Si lascia, ove invecchiato habbia la mente</l>
             <l>Ostinato voler, che in altri regna.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Chi d’alcun vitio ha in sé mostrato eccesso</l>
             <l><space/>Fa ch’altri, anchor che spento, il crede in esso.</l>
           </lg>
@@ -3736,7 +3736,7 @@
             <l>S’ei da sé stesso del suo ben bramoso</l>
             <l>Ad aiutarsi cominciar non vuole.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Opri sé anchor, chi vuol di Dio l’aiuto.</l>
           </lg>
         </div>
@@ -3770,7 +3770,7 @@
             <l>A quelli, in cui non sian gli ufficii spesi</l>
             <l>De i vitii loro iniqui e scelerati.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>L’huom reo dal non far mal s’arroga merto.</l>
           </lg>
         </div>
@@ -3913,7 +3913,7 @@
             <l>Che viverà nella più nobil forma</l>
             <l>Beato, e morirà con gloria et fama.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Un ben, ch’è mal sicuro, è da sprezzarsi.</l>
           </lg>
         </div>
@@ -3949,7 +3949,7 @@
             <l>Celando il suo pensier con finte note</l>
             <l>Mentre non ne può far ciò, ch’egli vuole.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Volontier dona quel, che non puoi vendere.</l>
           </lg>
         </div>
@@ -3999,7 +3999,7 @@
             <l>Il ritrovar la via di sua salute</l>
             <l>Senza tema di biasmo, o d’alcun danno.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Se vuoi del tuo mistier cavar guadagno,</l>
             <l><space/>D’un tuo maggiore non ti far compagno.</l>
           </lg>
@@ -4035,7 +4035,7 @@
             <l>Se con l’occhio miglior del sano ingegno</l>
             <l>Non vedi qual gli giace il cor nel petto.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Se vivi in rissa, e star vuoi senza pene,</l>
             <l><space/>Sospetta dal nimico anchor del bene.</l>
           </lg>
@@ -4084,7 +4084,7 @@
             <l>Da riuscir con utile et honore,</l>
             <l>Se gir non vuol d’ogni miseria al fondo.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>L’ufficio, in ch’egli vale, ognun far deve.</l>
           </lg>
         </div>
@@ -4114,7 +4114,7 @@
             <l>Reso gli vien dal suo pensier lontano</l>
             <l>Quel, che più d’acquistar s’industria, et ama.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Non cura il savio quel, c’haver non spera.</l>
           </lg>
         </div>
@@ -4159,7 +4159,7 @@
             <l>E di giudicio assai manca e fallisce</l>
             <l>Chi suol fede prestare a finta loda.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>La lode senza merto, è fraude espressa.</l>
           </lg>
         </div>
@@ -4192,7 +4192,7 @@
             <l>È de la mente cieca il rio furore,</l>
             <l>Quando il rigor de la possanza è seco.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>A doppio la pazzia cresce le forze.</l>
           </lg>
         </div>
@@ -4230,7 +4230,7 @@
             <l><space/>Spendendo le sue forze in vil figura,</l>
             <l><space/>La sua virtute, e la sua gloria oscura.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Non mostrar tuo valor con gente vile.</l>
           </lg>
         </div>
@@ -4260,7 +4260,7 @@
             <l>Et fa parer domestiche e sicure</l>
             <l>Le cose horrende, e di perigli piene.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Lo spesso oprar fa l’huomo atto ad ogni opra.</l>
           </lg>
         </div>
@@ -4307,7 +4307,7 @@
             <l>E divenuto favola del volgo</l>
             <l>Con suo danno e dolor schernito giace.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Ogni opra tua col tuo poter misura.</l>
           </lg>
         </div>
@@ -4362,7 +4362,7 @@
             <l>E cor quieto, honore, e lunga pace</l>
             <l>In questa vita di miserie piena.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Alta fortuna alto travaglio apporta.</l>
           </lg>
         </div>
@@ -4407,7 +4407,7 @@
             <l>Di chi per molta esperienza, e lunga</l>
             <l>Prattica non conosce essergli amico.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Non dar favore a chi può farti oltraggio.</l>
           </lg>
         </div>
@@ -4453,7 +4453,7 @@
             <l>Proprio pon freno, e l’opre sue misura</l>
             <l>Con la prudenza ogni hor pensando il fine.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Chi pensa al fin raffrena ogni sua voglia.</l>
           </lg>
         </div>
@@ -4502,7 +4502,7 @@
             <l><space/>Per non cader di novo a sorte tale,</l>
             <l>Di quello ancor, che dee temersi meno.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Il vero mal fa l’huom timido al falso.</l>
           </lg>
         </div>
@@ -4536,7 +4536,7 @@
             <l>Dà spesso impazzo : ché benigno e pio</l>
             <l>L’intende, e che non suol cangiar suo stile.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Contra bontade ogni viltate è ardita.</l>
           </lg>
         </div>
@@ -4583,7 +4583,7 @@
             <l>Et quel fuggendo cade in mille danni</l>
             <l>Che d’improviso gli si movon dietro.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Meglio è soffrir un mal, c’haverne cento.</l>
           </lg>
         </div>
@@ -4650,7 +4650,7 @@
             <l>Preceder deve a la beltà del volto,</l>
             <l>Che nulla giova senz’interno merto.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Esser dee quel, che regge, e saggio, e forte.</l>
           </lg>
         </div>
@@ -4684,7 +4684,7 @@
             <l><space/>Et ama l’ocio per accidia avvezza</l>
             <l>Ad esser de l’honor sempre nimica.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>L’util piacere a l’ignorante giova.</l>
           </lg>
         </div>
@@ -4740,7 +4740,7 @@
             <l>Che sian, nel sen de la nequitia sua ;</l>
             <l>Con cui non val né la ragion, né il vero.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>L’huomo possente e rio ragion non sente.</l>
           </lg>
         </div>
@@ -4774,7 +4774,7 @@
             <l>E la sua ambition si fa palese ;</l>
             <l>Onde additato è con vergogna e scorno.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Chi veste de l’altrui tosto si spoglia.</l>
           </lg>
         </div>
@@ -4816,7 +4816,7 @@
             <l>Perché, se occorre mai sorte importuna,</l>
             <l>Salvo si renda da periglio o morte.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Provedi anzi, ch’ei venga, al tuo bisogno.</l>
           </lg>
         </div>
@@ -4882,7 +4882,7 @@
             <l><space/>Dee con prudenza usar di simil trame :</l>
             <l>Ch’ogni difficultà vince il prudente.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Ove non val la forza, opra l’ingegno.</l>
           </lg>
         </div>
@@ -4920,7 +4920,7 @@
             <l>Si scopre quel, che sua natura il fece,</l>
             <l>Con gran suo scorno, e riso di chi ’l vede.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>D’un folle cor la voce indicio porge.</l>
           </lg>
         </div>
@@ -4995,7 +4995,7 @@
             <l>Con tedio estremo assai peggio, che morto,</l>
             <l>Senza speranza haver d’honore alcuno.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Ingegno e forza a chi non l’opra è nulla.</l>
           </lg>
         </div>
@@ -5089,7 +5089,7 @@
             <l><space/>Et così merta chi a noia molesta</l>
             <l>Prende il consiglio altrui sano e fedele.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Un ostinato cor merta ogni male.</l>
           </lg>
         </div>
@@ -5149,7 +5149,7 @@
             <l>Perché colui, che di valore è ricco,</l>
             <l>Non suol dal van parlare acquistar merto.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Chi meno val, più di parole abonda.</l>
           </lg>
         </div>
@@ -5217,7 +5217,7 @@
             <l>E da la forte man giusta di Dio</l>
             <l>Colto con egual sorte insieme resta.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Talhor prima a sé nuoce un ch’altri offende.</l>
           </lg>
         </div>
@@ -5302,7 +5302,7 @@
             <l>De’ quai bisogna sol creder a l’opre,</l>
             <l>E non a quel, che in lor la lingua suona.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Non il parlar, ma l’opra il core insegna.</l>
           </lg>
         </div>
@@ -5364,7 +5364,7 @@
             <l>Et poi per amor tuo di fame io muoia :</l>
             <l>E detto questo nel condusse a morte.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Ragion non ode huom di mal far disposto.</l>
           </lg>
         </div>
@@ -5401,7 +5401,7 @@
             <l>Né merita da gli altri haver perdono</l>
             <l>Chi fa senza ragione ad altri offesa.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Pietate è l’esser empio a l’huomo ingiusto.</l>
           </lg>
         </div>
@@ -5482,7 +5482,7 @@
             <l>Con cui s’unisce con mirabil modo,</l>
             <l>Quando lascia la terra, e un Dio si rende.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Se viver lieto eternamente vuoi</l>
             <l><space/>Non temer quel, che tu fuggir non puoi.</l>
           </lg>
@@ -5511,7 +5511,7 @@
             <l><space/>E non salvarsi da importante affanno</l>
             <l><space/>In man di chi non sa se non far danno.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Stolto è chi d’huom malvaggio aiuto aspetta.</l>
           </lg>
         </div>
@@ -5588,7 +5588,7 @@
             <l>E lo conduca a l’ultima ruina,</l>
             <l>Senza poter haver da lui contrasto.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>L’huomo, che brama col nimico pace,</l>
             <l><space/>Non lasci mai quel, che lo rende audace.</l>
           </lg>
@@ -5650,7 +5650,7 @@
             <l>Torna in sua lode con risposta honesta</l>
             <l>Quel che di darle infamia appar possente.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Un parlar saggio è scudo ad ogni offesa.</l>
           </lg>
         </div>
@@ -5731,7 +5731,7 @@
             <l>E l’huom malvagio impoverisce, e prende</l>
             <l>Diletto in farlo star sempre depresso.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Bontà trahe spesso l’huom di ria fortuna ;</l>
             <l><space/>E nequitia ogni male in lui raduna.</l>
           </lg>
@@ -5775,7 +5775,7 @@
             <l>Che par che ’l giusto Dio merto gli renda,</l>
             <l>Quand’ei nol crede, eguale al suo peccato.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Non far oltraggio a chi ti fu cortese ;</l>
             <l><space/>Che Dio per lui vendicherà l’offese.</l>
           </lg>
@@ -5857,7 +5857,7 @@
             <l>Mover il cor di chi conosce e vuole</l>
             <l>Far sempre quanto al suo dever conviene.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Chi tien l’honor, e le sue cose a core</l>
             <l><space/>Non cerca mai de gli altri esser Signore :</l>
             <l><space/>E brama haver dominio in altri spesso</l>
@@ -5899,7 +5899,7 @@
             <l>È in gran periglio di sentir la pena</l>
             <l>Del fallo anchor, che non ha in mente havuto.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Chi servo è del Tiran vive in periglio,</l>
             <l><space/>Né li giova innocenza, o buon consiglio.</l>
           </lg>
@@ -5955,7 +5955,7 @@
             <l>Di cose esterior, che ingombran gli occhi,</l>
             <l>Cerca preporsi alla virtute altrui.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Di ciascun l’opra è del valore il saggio<note place="bottom">Var. 1577: L’opra
                 d’ognun, di quel, ch’ei vale, è il saggio.</note>.</l>
           </lg>
@@ -6023,7 +6023,7 @@
             <l>La propria occasion di sua salute</l>
             <l>Ne i simili accidenti, e ne i diversi.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Chi brama di schivar vario periglio,</l>
             <l><space/>Usi vario parlar, vario consiglio.</l>
           </lg>
@@ -6134,7 +6134,7 @@
             <l>Ma pon sé stesso con le voglie ardenti</l>
             <l>A dar debito effetto al suo pensiero.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Non aspettar, s’esser servito vuoi,</l>
             <l><space/>Servitio altrui, se tu servir ti puoi.</l>
           </lg>
@@ -6189,7 +6189,7 @@
             <l><space/>Pur che ne stia de la sua sorte al segno,</l>
             <l>Né provi stato del primier peggiore.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Nulla è il loco cangiar con sorte eguale.</l>
           </lg>
         </div>
@@ -6239,7 +6239,7 @@
             <l>Ch’ei, cui nostro bisogno è manifesto,</l>
             <l>Quel, che convien, ci dà benigno e pio.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Lascia di te la cura al Re del Cielo,</l>
             <l><space/>Se vuoi viver contento al caldo, e al gelo.</l>
           </lg>
@@ -6308,7 +6308,7 @@
             <l>Con falsitate, e non inteso inganno</l>
             <l>L’innocente in assentia al suo Signore.</l>
           </lg>
-          <lg type="morale">
+          <lg type="epimythium">
             <l>Spesso sopra chi ’l fa torna l’inganno.</l>
           </lg>
           <trailer>IL FINE.</trailer>
