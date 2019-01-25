@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="fabula-numerica.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lat">
   <teiHeader>
     <fileDesc>
@@ -34,7 +35,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Hecatomythium primum</title>. Édition de référence : <hi rend="i">Fabulæ per latinissimum uirum Laurentium  Abstemium nuper composite</hi>, Venise, Giovanni Tacuino, 3 août 1495, in-4. <ref target="http://gesamtkatalogderwiegendrucke.de/docs/GW00126.htm"><hi rend="i">GW</hi>, n° 126</ref> ; <ref target="http://istc.bl.uk/search/search.html?operation=record&amp;rsid=247630&amp;q=5">ISTC n° ia00010000</ref>.  Exemplaire : <ref target="https://opacplus.bsb-muenchen.de/cgi-bin/redirect?app=webOPAC&amp;location=http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00045190-7">Munich, Bayerische Staatsbibliothek, [4 Inc.c.a. 1117]</ref>.</bibl>
+        <bibl><title>Hecatomythium primum</title>. Édition de référence : <hi rend="i">Fabulæ per latinissimum uirum Laurentium  Abstemium nuper composite</hi>, Venise, Giovanni Tacuino, 3 août 1495, in-4. <ref target="http://gesamtkatalogderwiegendrucke.de/docs/GW00126.htm">GW, n° 126</ref> ; <ref target="http://istc.bl.uk/search/search.html?operation=record&amp;rsid=247630&amp;q=5">ISTC n° ia00010000</ref>.  Exemplaire : <ref target="https://opacplus.bsb-muenchen.de/cgi-bin/redirect?app=webOPAC&amp;location=http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00045190-7">Munich, Bayerische Staatsbibliothek, [4 Inc.c.a. 1117]</ref>.</bibl>
         <bibl><title>Grunii Corococtæ Porcelli Testamentum Laurentii Abstemii Maceratensis Hecatomythium secundum eiusdem libellus de verbis communibus</title>, Fano, Gershom ben Mosheh  Soncino, 7 mai 1505, in-8°. Exemplaire : British Library, General Reference Collection 1080.f.1.(1.).</bibl>
       </sourceDesc>
     </fileDesc>

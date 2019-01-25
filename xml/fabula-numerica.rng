@@ -13,8 +13,8 @@
     http://relaxng.org/tutorial-20011203.html#IDAVEZR
   -->
   <include
-    href="../../teibook/teibook.rng"
-    h:href="../../teibook/teibook.rng" 
+    href="../../Teinte/teinte.rng"
+    h:href="../../Teinte/teinte.rng" 
     h:title="Schéma Teibook">
     <define name="l">
       <element name="l">

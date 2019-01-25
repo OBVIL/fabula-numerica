@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="fabula-numerica.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
+      <!-- erreur sur la place des figures en début de div ; encodage provisoire des types en milestone ET -->
       <titleStmt>
         <title>Fables choisies, mises en vers</title>
         <author key="La Fontaine, Jean de (1621-1695)">Jean de La Fontaine</author>
@@ -637,7 +639,7 @@
           <l met="alex">Je vive, c’est assez, je suis plus que content. </l>
           <l met="alex">Ne vien jamais ô mort, on [t]’en dit tout autant.   </l>
           <l/>
-          <p rend="i" ana="comment">Ce sujet a esté traité d’une autre façon par Esope, comme la Fable suivante le fera voir. Je composay celle-cy pour une raison qui me contraignoit de rendre la chose ainsi generale. Mais quelqu’un me fit connoistre que j’eusse beaucoup mieux fait de suivre mon original, et que je laissois passer un des plus beaux traits qui fust dans Esope. Cela m’obligea d’y avoir recours. Nous ne sçaurions aller plus avant que les Anciens : ils ne nous ont laissé pour nostre part que la gloire de les bien suivre. Je joints toutefois ma Fable à celle d’Esope : non que la mienne le merite : mais à cause du mot de Mecenas que j’y fais entrer, et qui est si beau et si à propos que je n’ay pas cru le devoir omettre.</p>
+          <p rend="i"><milestone unit="ana:comment"/>Ce sujet a esté traité d’une autre façon par Esope, comme la Fable suivante le fera voir. Je composay celle-cy pour une raison qui me contraignoit de rendre la chose ainsi generale. Mais quelqu’un me fit connoistre que j’eusse beaucoup mieux fait de suivre mon original, et que je laissois passer un des plus beaux traits qui fust dans Esope. Cela m’obligea d’y avoir recours. Nous ne sçaurions aller plus avant que les Anciens : ils ne nous ont laissé pour nostre part que la gloire de les bien suivre. Je joints toutefois ma Fable à celle d’Esope : non que la mienne le merite : mais à cause du mot de Mecenas que j’y fais entrer, et qui est si beau et si à propos que je n’ay pas cru le devoir omettre.</p>
           <l/>
           <l met="alex">   <hi rend="b">U</hi>n pauvre Bucheron tout couvert de ramée, </l>
           <l met="alex">Sous le faix du fagot aussi-bien que des ans, </l>
@@ -991,7 +993,7 @@
           <l met="alex">Le Juge pretendoit qu’à tort et à travers</l>
           <l met="alex">On ne sçauroit manquer condamnant un pervers.</l>
           <l/>
-          <p rend="i" ana="comment">Quelques personnes de bon sens ont cru que l’impossibilité et la contradiction qui est dans le Jugement de ce Singe, estoit une chose à censurer ; mais je ne m’en suis servi qu’aprés Phedre, et c’est en cela que consiste le bon mot, selon mon avis.</p>
+          <p rend="i"><milestone unit="ana:comment"/>Quelques personnes de bon sens ont cru que l’impossibilité et la contradiction qui est dans le Jugement de ce Singe, estoit une chose à censurer ; mais je ne m’en suis servi qu’aprés Phedre, et c’est en cela que consiste le bon mot, selon mon avis.</p>
         </div>
         <div type="poem">
           <figure><graphic url="images/la-fontaine_fables_img024.jpg"/></figure>
