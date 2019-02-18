@@ -10,7 +10,7 @@
         <title>Les fabulistes latins depuis le siècle d’Auguste jusqu’à la fin du moyen âge. Tome
           I : Phèdre et ses anciens imitateurs directs et indirects (2<hi rend="sup"
           >e</hi> éd.)</title>
-        <author key="Hervieux, Léopold (1831-1900)">Léopold Hervieux</author>
+        <author key="Hervieux, Léopold (1831-1900)" ref="https://data.bnf.fr/fr/12998664/leopold_hervieux/">Léopold Hervieux</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -48,10 +48,10 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Léopold Hervieux</author>, <title>Les fabulistes latins depuis le siècle
-            d’Auguste jusqu’à la fin du moyen âge</title>, <biblScope>tome I</biblScope> : <hi
+        <bibl>Léopold Hervieux, <hi rend="i">Les fabulistes latins depuis le siècle
+            d’Auguste jusqu’à la fin du moyen âge</hi>, tome I : <hi
             rend="i">Phèdre et ses anciens imitateurs directs et indirects</hi>, <edition>deuxième
-            edition entièrement refondue</edition>, <pubPlace>Paris</pubPlace>, L<publisher>ibrairie
+            edition entièrement refondue</edition>, <pubPlace>Paris</pubPlace>, <publisher>Librairie
             de Firmin-Didot et Cie</publisher>, <date>1893</date>, XII-848 p. PDF : <ref
             target="http://gallica.bnf.fr/ark:/12148/bpt6k6527660g">Gallica</ref>.</bibl>
       </sourceDesc>
@@ -61,7 +61,7 @@
         <date when="1893"/>
       </creation>
       <langUsage>
-        <language ident="fre">fre</language>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

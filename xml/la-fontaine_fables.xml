@@ -9,7 +9,7 @@
       <!-- erreur sur la place des figures en début de div ; encodage provisoire des types en milestone ET -->
       <titleStmt>
         <title>Fables choisies, mises en vers</title>
-        <author key="La Fontaine, Jean de (1621-1695)">Jean de La Fontaine</author>
+        <author key="La Fontaine, Jean de (1621-1695)" ref="https://data.bnf.fr/fr/11910267/jean_de_la_fontaine/">Jean de La Fontaine</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -35,9 +35,9 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2015"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/fabula-numerica/xml/la-fontaine_fables/</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/fabula-numerica/xml/la-fontaine_fables/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -49,7 +49,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Fables choisies, mises en vers. Par M. de La Fontaine, et par luy revuës, corrigées et augmentées</title>, A <pubPlace>Paris</pubPlace>, chez <pubPlace>Denys Thierry</pubPlace>, ruë S. Jacques, et Claude Barbin, au Palais, [<date>1692</date>].</bibl>
+        <bibl><hi rend="i">Fables choisies, mises en vers. Par M. de La Fontaine, et par luy revuës, corrigées et augmentées</hi>, A <pubPlace>Paris</pubPlace>, chez <publisher>Denys Thierry</publisher>, ruë S. Jacques, et <publisher>Claude Barbin</publisher>, au Palais, [<date>1692</date>].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -57,7 +57,7 @@
         <date when="1692"/>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

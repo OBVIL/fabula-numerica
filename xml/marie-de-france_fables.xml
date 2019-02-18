@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>Fables</title>
-        <author key="Marie de France (11..-11..)">Marie de France</author>
+        <author key="Marie de France (11..-11..)" ref="https://data.bnf.fr/fr/11886884/marie_de_france/">Marie de France</author>
         <editor>Baptiste Laïd, d’après le texte établi par Charles Brucker (deuxième édition, 1998)</editor>
       </titleStmt>
       <editionStmt>
@@ -25,7 +25,7 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2018"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/fabula-numerica/xml/marie-de-france_fables</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/fabula-numerica/xml/marie-de-france_fables</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2018 Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>

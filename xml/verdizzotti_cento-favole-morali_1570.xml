@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>Cento favole morali</title>
-        <author key="Verdizzotti, Giovan Mario (1537/40-1604/07)">Giovan Mario Verdizzotti</author>
+        <author key="Verdizotti, Giovanni Mario (1525-1600?)" ref ="https://data.bnf.fr/fr/12180964/giovanni_mario_verdizotti/">Giovan Mario Verdizzotti</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -28,7 +28,7 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2018"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/fabula-numerica/verdizzotti_cento-favole-morali_1570/</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/fabula-numerica/verdizzotti_cento-favole-morali_1570/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2018 Sorbonne Université, agissant pour le Laboratoire d’Excellence
@@ -50,11 +50,11 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Giovan Mario <author>Verdizzotti</author>, <title>Cento Favole Morali De i piu
+        <bibl>Giovan Mario Verdizzotti, <hi rend="i">Cento Favole Morali De i piu
             illustri antichi, &amp; moderni autori Greci, &amp; Latini, scielte, &amp; trattate in
             varie maniere di versi volgari da M. Gio. Mario Verdizotti : nelle quali oltra
             l’ornamento di varie e belle figure, si contengono molti precetti pertinenti alla
-            prudenza della vita virtuosa &amp; civile</title>, <pubPlace>In Venetia</pubPlace>,
+            prudenza della vita virtuosa &amp; civile</hi>, In <pubPlace>Venetia</pubPlace>,
           appresso <publisher>Giordano Zileti, &amp; compagni</publisher>, <date>M D LXX</date>.
           PDF : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k3136418">Gallica</ref>.</bibl>
       </sourceDesc>

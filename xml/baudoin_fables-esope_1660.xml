@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>Les Fables d’Esope Phrygien</title>
-        <author key="Baudoin, Jean (1590?-1650)">Jean Baudoin</author>
+        <author key="Baudoin, Jean (1590?-1650)" ref="https://data.bnf.fr/fr/11890604/jean_baudoin/">Jean Baudoin</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -24,7 +24,7 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2018"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/fabula-numerica/baudoin_fables-esope_1660/</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/fabula-numerica/baudoin_fables-esope_1660/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2018 Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -36,7 +36,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Jean <author>Baudoin</author>, <title>Les Fables d’Esope Phrygien. Traduction Nouvelle. Illustrée de Discours Moraux, Philosophiques et Politiques, par J. Baudoin. Avec les figures en taille douce</title>. A <pubPlace>Roüen</pubPlace>, chez <publisher>Jean et David Berthelin</publisher>, ruë aux Juifs, et dans la Court du Palais. <date>M. DC. LX</date>.</bibl>
+        <bibl>Jean Baudoin, <hi rend="i">Les Fables d’Esope Phrygien. Traduction Nouvelle. Illustrée de Discours Moraux, Philosophiques et Politiques, par J. Baudoin. Avec les figures en taille douce</hi>. A <pubPlace>Roüen</pubPlace>, chez <publisher>Jean et David Berthelin</publisher>, ruë aux Juifs, et dans la Court du Palais. <date>M. DC. LX</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

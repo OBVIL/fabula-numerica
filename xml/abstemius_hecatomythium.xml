@@ -7,7 +7,7 @@
     <fileDesc>
       <titleStmt>
         <title>HECATOMYTHIUM PRIMUM – HECATOMYTHIUM SECUNDUM</title>
-        <author key="Astemio, Lorenzo (14..-15..)" ref="https://fr.wikipedia.org/wiki/Abstémius">Abstemius</author>
+        <author key="Astemio, Lorenzo (14..-15..)" ref="https://data.bnf.fr/fr/13164017/lorenzo_astemio/">Abstemius</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -21,9 +21,9 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2015"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/fabula-numerica/abstemius_hecatomythium/</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/fabula-numerica/abstemius_hecatomythium/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -35,8 +35,8 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Hecatomythium primum</title>. Édition de référence : <hi rend="i">Fabulæ per latinissimum uirum Laurentium  Abstemium nuper composite</hi>, Venise, Giovanni Tacuino, 3 août 1495, in-4. <ref target="http://gesamtkatalogderwiegendrucke.de/docs/GW00126.htm">GW, n° 126</ref> ; <ref target="http://istc.bl.uk/search/search.html?operation=record&amp;rsid=247630&amp;q=5">ISTC n° ia00010000</ref>.  Exemplaire : <ref target="https://opacplus.bsb-muenchen.de/cgi-bin/redirect?app=webOPAC&amp;location=http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00045190-7">Munich, Bayerische Staatsbibliothek, [4 Inc.c.a. 1117]</ref>.</bibl>
-        <bibl><title>Grunii Corococtæ Porcelli Testamentum Laurentii Abstemii Maceratensis Hecatomythium secundum eiusdem libellus de verbis communibus</title>, Fano, Gershom ben Mosheh  Soncino, 7 mai 1505, in-8°. Exemplaire : British Library, General Reference Collection 1080.f.1.(1.).</bibl>
+        <bibl><hi rend="i">Hecatomythium primum</hi>. Édition de référence : <hi rend="i">Fabulæ per latinissimum uirum Laurentium  Abstemium nuper composite</hi>, Venise, Giovanni Tacuino, 3 août 1495, in-4. <ref target="http://gesamtkatalogderwiegendrucke.de/docs/GW00126.htm">GW, n° 126</ref> ; <ref target="https://data.cerl.org/istc/ia00010000">ISTC n° ia00010000</ref>.  Exemplaire : <ref target="https://opacplus.bsb-muenchen.de/cgi-bin/redirect?app=webOPAC&amp;location=http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00045190-7">Munich, Bayerische Staatsbibliothek, [4 Inc.c.a. 1117]</ref>.</bibl>
+        <bibl><hi rend="i">Grunii Corococtæ Porcelli Testamentum Laurentii Abstemii Maceratensis Hecatomythium secundum eiusdem libellus de verbis communibus</hi>, Fano, Gershom ben Mosheh  Soncino, 7 mai 1505, in-8°. Exemplaire : British Library, General Reference Collection 1080.f.1.(1.).</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -44,7 +44,7 @@
         <date when="1495"/><!-- valider ? -->
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
