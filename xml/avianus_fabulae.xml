@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="fabula-numerica.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lat">
   <teiHeader>
     <fileDesc>
-      <!-- encodage provisoire des types et des promythium/epimythium en milestone -->
       <titleStmt>
         <title>Fabvlae Aviani</title>
         <author key="Avianus, Flavius (03..-04..)"
@@ -20,6 +19,10 @@
         <respStmt>
           <name>Antoine Biscéré</name>
           <resp>relecture, stylage, indexation des motifs</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne-Laure Huet</name>
+          <resp>édition TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
@@ -504,13 +507,13 @@
             <bibl><hi rend="sc">Achelis</hi>, Thomas Otto, « Die Fabeln Avians in Steinhöwel’s
               Æsop », <hi rend="i">Münchener Museum für Philologie des Mittelalters und der
                 Renaissance</hi>, nº 4, 1924, p. 195‑221.</bibl>
-            <quote type="comment">Lenghty discussion of the twenty-seven fables from the Avianus
+            <p ana="analysebiblio" rend="margin">Lenghty discussion of the twenty-seven fables from the Avianus
               collection that Steinhöwel chose and translated for his 1476-1477 Ulm edition. Textual
               problems as well as the choice of fables are discussed with an analysis of those
               fabular motif in Avianus, which had already appeared in early sections of Steinhöwel’s
               collection. Tables of concordance and keys to Halm. Extensively discussed are P70
               (« The Oak and the Reed » (A-T 28C ; TMI J832) and P525 « Bald Man and the Fly » (TMI
-              J2102.3) (P.C.).</quote>
+              J2102.3) (P.C.).</p>
             <bibl><hi rend="sc">Bährens</hi>, Emil, « Ad Avianum », [<hi rend="i">in</hi>]
                 <title>Miscellanea critica</title>, Groningen, in aedibus J. B. Woltersii, 1878,
               p. 176‑194. <hi rend="sc">Baldzuhn</hi>, Michæl, « “<title>Quidquid placet</title>”.
@@ -555,9 +558,9 @@
             <bibl><hi rend="sc">Bedrick</hi>, Theodore, <title>The Prose Adaptations of
                 Avianus</title>, Ann Arbor, University of Illinois at Urbana-Champaign (Ph.D.
               non-publiée), 1941. 219 p.</bibl>
-            <quote type="comment">The medieval rewritings and prose paraphrases of Avianus during
+            <p ana="analysebiblio" rend="margin">The medieval rewritings and prose paraphrases of Avianus during
               the Middle Ages are discussed. The use of Avianus in schools as a medium for the
-              instruction of Latin is highlighted (P.C.)</quote>
+              instruction of Latin is highlighted (P.C.)</p>
             <bibl><hi rend="sc">Bibring</hi>, Tovi, « Réécritures fabulistiques au Moyen Âge.
               Adaptations latine, vernaculaire et hébraïque d’une fable d’Avianus, “<title>De Simia
                 et Natis</title>” », [<hi rend="i">in</hi>] <hi rend="sc">N. Catellani-Dufrêne</hi>,
@@ -618,44 +621,44 @@
               Fabeldichters Avian », <title>Pytanna klasysnoji filolohiji. Questions de philologie
                 classique</title>, nº 14, 1977, p. 83‑90 [article en ukrainien avec résumés en
               allemand et en russe].</bibl>
-            <quote type="comment">Avianus is confirmed as the proper name of the fourth-century
+            <p ana="analysebiblio" rend="margin">Avianus is confirmed as the proper name of the fourth-century
               fable-poet, the carrier of the Babrian tradition, very popular during the Middle Ages.
               Fairly extensive analysis of the arguments for and against the name and reasons for
               the many variants of the name found in the manuscript tradition. Good bibliography
-              (P.C.).</quote>
+              (P.C.).</p>
             <bibl>—, « Essay on the Utilization of a Lexical System for the Comparative Analysis of
               the Fables of Avianus and Babrius », <hi rend="i">Pytanna klasysnoji Filolohiji.
                 Questions de philologie classique</hi>, nº 15, 1978, p. 55‑78 [article en russe avec
               résumés en anglais et en allemand].</bibl>
-            <quote type="comment">Comparative study of the use of various differing terms within
+            <p ana="analysebiblio" rend="margin">Comparative study of the use of various differing terms within
               specific semantic categories results in a very specific close relationship between the
               two poets. There can be no doubt of the influence of Babrius on Avianus, the author
               concludes although the exact nature of this influence is not yet definable
-              (P.C.).</quote>
+              (P.C.).</p>
             <bibl>—, « The Artistic Universe and Lexical Frequency in Poetic Works (on the Example
               of the Classical Literary Fable) », <hi rend="i">Izvestija AN SSR. Ser. literatury i
                 Jazyka</hi>, vol. 37 (nº 5), 1978, p. 453‑461.</bibl>
-            <quote type="comment">An attempt to reconstruct the social and artistic milieu for the
+            <p ana="analysebiblio" rend="margin">An attempt to reconstruct the social and artistic milieu for the
               classical fabulists : Phaedrus, Babrius, and Avianus by means of lexical frequency
-              counts (P.C.).</quote>
+              counts (P.C.).</p>
             <bibl>—, &amp; <hi rend="sc">Kronik</hi>, A. A., « Opyt analiza nekotorkh storon
               sotsial’no-psikhologicheskoy atmosphery antichnoy literaturnoy basni », <hi rend="i"
                 >Vesnik Drevnej Istorii</hi>, nº 145, 1978, p. 157‑168.</bibl>
-            <quote type="comment">This article attempts to describe and evaluate the interpersonal
+            <p ana="analysebiblio" rend="margin">This article attempts to describe and evaluate the interpersonal
               relationships in the fables of Phaedrus, Babrius, and Avianus by means of a close
               analysis of the nouns used in the fables which describe or otherwise contain
               information about the nature of various relationships. A clear idea of the
               social-psychological atmosphere of each poet is determined by a construct of nine
               types of relationships among which the lexical items are distributed. The authors
               suggest that this work is potentially important for research in other Problems
-              connected with these fabulists (P.C.).</quote>
+              connected with these fabulists (P.C.).</p>
             <bibl><hi rend="sc">Cameron</hi>, Alan, « Macrobius, Avienus and Avianus », <title>The
                 Classical Quarterly</title>, vol. 17 (nº 2), déc. 1967, p. 385‑399.</bibl>
-            <quote type="comment">Dating Avianus is aided by Claudian’s <hi rend="i">De bello
+            <p ana="analysebiblio" rend="margin">Dating Avianus is aided by Claudian’s <hi rend="i">De bello
                 gildonico</hi> (398) : Theodosius identified with Macrobius. Cameron suggests that
               Avianus used a Latin translation of Babrius (by Julius Titianus), which solves many
               Problems. Contains a good survey of the cluster of problems of Avianus’ name and
-              concludes that the proper form is Avienus. (P.C.)</quote>
+              concludes that the proper form is Avienus. (P.C.)</p>
             <bibl><hi rend="sc">Catanzaro</hi>, Giuseppe, &amp; <hi rend="sc">Santucci</hi>,
               Francesco (dir.), <title>La favolistica latina in distici elegiaci. Atti del convegno
                 internazionale (Assisi, 26-28 ottobre 1990)</title>, Assisi, Accademia properziana
@@ -665,42 +668,42 @@
               p. 399.</bibl>
             <bibl>—, « The Fables of Avianus (Ellis) », <hi rend="i">Jahrbücher für classische
                 Philologie</hi>, nº 139, 1889, p. 641‑656.</bibl>
-            <quote type="comment">Very comprehensive review of Ellis’ Oxford edition of Avianus.
+            <p ana="analysebiblio" rend="margin">Very comprehensive review of Ellis’ Oxford edition of Avianus.
               Crusius praises Ellis although he suggests that Ellis might have spent more time with
               the manuscripts and should have provided an overview on the comparative relationship
               between Avianus and Babrius. Crusius sees an intermediary of Titian’s Latin prose
               paraphrase between Avianus and Babrius. Long list of emendations, corrections.
-              (P.C.)</quote>
+              (P.C.)</p>
             <bibl>—, « Zu den alten Fabeldichtern. I. Avian und die sogen. <hi rend="i">Apologi
                 Aviani</hi> », <hi rend="i">Philologus. Zeitschrift für antike Literatur und ihre
                 Rezeption</hi>, vol. 54 (nº 3), 1895, p. 474‑488.</bibl>
-            <quote type="comment">Treated Avianus and his dates and the « apologi » fables. The
+            <p ana="analysebiblio" rend="margin">Treated Avianus and his dates and the « apologi » fables. The
               paraphrase of Avianus, for which Heidenhain had claimed a more complete text had been
               used, is demonstrated to be a relatively simple paraphrase of Avianus from a text that
               basically the same of our received text. Therefore we can learn little to help the
               Avianus tradition itself. Ends with a number of notes for the Avianus fables.
-              (P.C.)</quote>
+              (P.C.)</p>
             <bibl>—, « Avianus », [<hi rend="i">in</hi>] <hi rend="sc">G. Wissowa</hi> (dir.),<hi
                 rend="i"> Paulys Real-Encyclopädie der classischen Altertumswissenschaft. Neue
                 Bearbeitung</hi>, Stuttgart, J. B. Metzler, vol. II (<hi rend="i"
                 >Apollon-Barbaroi</hi>), 1896, col. 2373‑2378.</bibl>
-            <quote type="comment">Various theories of the time and person of Avianus are discussed,
+            <p ana="analysebiblio" rend="margin">Various theories of the time and person of Avianus are discussed,
               including an extensive reviex of the ideas of Ellis and Cannegieter. The 42-fables
               Avianus collection is described in terms of its relationship to Babrius, followed by a
-              summary of the life of the collection and its diffusion. (P.C.)</quote>
+              summary of the life of the collection and its diffusion. (P.C.)</p>
             <bibl><hi rend="sc">De Paulis</hi>, Guido, <title>Aviani Index et Lexicon</title>,
               Hidesheim/Zurich/New York, Olms-Weidmann, « Alpha-Omega. Reihe A. Lexika, Indizes,
               Konkordanzen zur klassischen Philologie (184) », 1997, <num>vi</num>-468 p. <hi
                 rend="sc">Draheim</hi>, Johannes, « <title>De Aviani elegis</title> »,
                 <title>Jahrbücher für classische Philologie</title>, nº 143, 1891,
               p. 509-511.</bibl>
-            <quote type="comment">Various notes on the verse forms of Avianus’ fables as
-              reconstructed in part from the corrupt received forms. (P.C.)</quote>
+            <p ana="analysebiblio" rend="margin">Various notes on the verse forms of Avianus’ fables as
+              reconstructed in part from the corrupt received forms. (P.C.)</p>
             <bibl><hi rend="sc">Embach</hi>, Michæl (éd.), <title>Der « Trierer Äsop » (StB Trier,
                 Hs. 1108/55 4°). Eine illustrierte Fabelhandschrift im Kontext ihrer
                 Überlieferung</title>, Trèves, Paulinus, « Kostbarkeiten der Stadtbibliothek Trier
               (3) », 2008. 100 p.</bibl>
-            <quote type="comment">Der dritte Band der « Kostbarkeiten der Stadtbibliothek Trier »
+            <p ana="analysebiblio" rend="margin">Der dritte Band der « Kostbarkeiten der Stadtbibliothek Trier »
               stellt den « Trierer Äsop » vor, eine reichlich illustrierte Handschrift aus der Zeit
               um 1380. Der Kodex enthält illustrierte Ausgaben der Fabeln des Äsop und des Avian,
               jeweils in mittelalterlichen Bearbeitungen sowie ausgestattet mit knappen Auslegungen.
@@ -714,7 +717,7 @@
               14./15. Jahrhundert, sowohl in Versform wie in Prosa, kommentiert oder glossiert, als
               reine Textausgabe wie mit Illustrationen versehen. Darüber hinaus dokumentiert der
               « Trierer Äsop » exemplarisch die Transformation paganer Literatur in einen
-              christlichen Verwendungszusammenhang (présentation d’un libraire).</quote>
+              christlichen Verwendungszusammenhang (présentation d’un libraire).</p>
             <bibl><hi rend="sc">Fröhner</hi>, Wilhelm, « Handschriftliches zum Avianus »,
                 <title>Philologus</title>, vol. 14 (n<hi rend="sup">os</hi> 1-4), 1859, p. 387. <hi
                 rend="sc">Gaide</hi>, Françoise (éd.), <title>Avianus. Fables</title>, Paris, Les
@@ -728,44 +731,44 @@
             <bibl><hi rend="sc">Giurdanella-Fusci</hi>, Giuseppe (éd.), <title>Babrio. Le sue favole
                 e il loro rapporto con le esopiane e con quelle di Fedro e di Aviano</title>,
               Modica, C. Papa, 1910. 141 p.</bibl>
-            <quote type="comment">Investigates the sources of Babrius and his relationship to
+            <p ana="analysebiblio" rend="margin">Investigates the sources of Babrius and his relationship to
               Aesopic tradition. Babrius’ connection to Phaedrus and to Avianus is outlined. Now
-              superseded by Perry and Küppers (P.C.).</quote>
+              superseded by Perry and Küppers (P.C.).</p>
             <bibl><hi rend="sc">Goldschmidt</hi>, Adolph, <title>An Early Manuscript of the Æsop
                 Fables of Avianus and Related Manuscripts</title>, Princeton, Princeton University
               Press, « Studies in Manuscript Illumination (1) », 1947. <num>vii</num>‑63 p. C.R. :
               J. Hammer, <hi rend="i">Scriptorium</hi>, nº 3, 1949, p. 331‑332.</bibl>
-            <quote type="comment">A study of a Carolingian manuscript (Ms. lat. nouv. acq. 1132 in
+            <p ana="analysebiblio" rend="margin">A study of a Carolingian manuscript (Ms. lat. nouv. acq. 1132 in
               the BN) used as the basis for the study of various illumination techniques for fables
               from the fifth through the fifteenth centuries. The manuscript itself is described in
               detail : 40 folios, written in Carolingian miniscule, with a seventeenth- or
               eighteenth-century binding, unknown earlier history. Full illustrations in facsimile
               and Goldschmidt has added headings to facilitate study with comparisons drawn from
-              various illuminated manuscripts and the Bayeux Tapestry. (P.C.)</quote>
+              various illuminated manuscripts and the Bayeux Tapestry. (P.C.)</p>
             <bibl><hi rend="sc">Gottschick</hi>, Reinhold, « Avians Benutzung durch Boner »,
                 <title>Zeitschrift für deutsche Philologie</title>, nº 7, 1876, p. 237‑241.</bibl>
-            <quote type="comment">Discusses the twenty-two Avianus fables in Boner to demonstrate
+            <p ana="analysebiblio" rend="margin">Discusses the twenty-two Avianus fables in Boner to demonstrate
               that, in opposition to Schönbach, Boner did not depend upon the prose paraphrases, the
                 <hi rend="i">Apologi Aviani</hi>, rather used the fables in the received form
-              (P.C.)</quote>
+              (P.C.)</p>
             <bibl><hi rend="sc">Gruber</hi>, Joachim, art. « Avianus », [<hi rend="i">in</hi>]
                 <title>Lexikon des Mittelalters</title>, Munich/Zurich, Artemis, vol. I, 1980, col.
               1298. <hi rend="sc">Guaglianone</hi>, Antonio, « Gli “Epimythia” di Aviano »,
                 <title>Atti dell’Accademia Pontaniana</title>, nº 5, 1956, p. 353‑377.</bibl>
-            <quote type="comment">An edition of the epimythia of Avianus with extensive commentary
-              and notes in an attempt to determine their authenticity. (P.C.)</quote>
+            <p ana="analysebiblio" rend="margin">An edition of the epimythia of Avianus with extensive commentary
+              and notes in an attempt to determine their authenticity. (P.C.)</p>
             <bibl>—, « La tradizione manoscritta di Aviano », <hi rend="i">Rendiconti dell’Accademia
                 di Archeologia, Lettere e Belle Arti di Napoli</hi>, nº 32, 1957, p. 5‑30.</bibl>
-            <quote type="comment">This essay begins with a survey of the direct tradition and the
+            <p ana="analysebiblio" rend="margin">This essay begins with a survey of the direct tradition and the
               quoted and paraphrased tradition of Avianus’ fables and therewith establishes the
               existence of two separate recensions of the fables. These two traditions, however,
               show a tendency to recombine in the late Middle Ages. Guaglianone provides a list of
               the known manuscripts in two categories, according to the recension to which they
-              belong. (P.C.)</quote>
+              belong. (P.C.)</p>
             <bibl>—, « Alcuni codici illustrati e parziali di Aviani », <hi rend="i">Giornale
                 italiano di filologia</hi>, nº 10, 1957, p. 225‑229.</bibl>
-            <quote type="comment">A note on the relationships among the Bruxelles 11193, BM Add.
-              33781, and Parisinus Lat. 1594 manuscripts of Avianus. (P.C.)</quote>
+            <p ana="analysebiblio" rend="margin">A note on the relationships among the Bruxelles 11193, BM Add.
+              33781, and Parisinus Lat. 1594 manuscripts of Avianus. (P.C.)</p>
             <bibl>— (éd.), <hi rend="i">Aviani Fabulæ</hi>, Turin, J. B. Paravia, « Corpus
               Scriptorum Latinorum Paravianum », 1958. <num>lxiv</num>‑122 p.</bibl>
             <bibl>—, <hi rend="i">Corpus epimythiorum in Aviani fabulas inde a saec. <num>x</num>
@@ -777,53 +780,53 @@
             <bibl><hi rend="sc">Heidenhain</hi>, Friedrich, <title>Zu den Apologi Aviani
                 (Wissenschftliche Beilage zum Programm des Königlichen Gymnasiums zu Strasburg,
                 Ostern 1894)</title>, Strasbourg, A. Fuhrich, 1894. 15 p.</bibl>
-            <quote type="comment">The <hi rend="i">apologi Aviani</hi> are prose reworkings of the
+            <p ana="analysebiblio" rend="margin">The <hi rend="i">apologi Aviani</hi> are prose reworkings of the
               fables of Avianus, found in two manuscripts of the Bibliothèque Nationale (Cod. Lat.
               347 A and B) without nos. 19, 25, 26 and 38. Often the paraphrases are somewhat better
               motivated than the originals. Heidenhain feels he has found an older tradition than
               the verse fables in the received tradition. Avianus 9, P65 « Travelers and the Bear »
               (A-T 179 ; TMI J1488), for example, has a lion in the paraphrase, which is taken as
-              evidence of an earlier tradition (P.C.).</quote>
+              evidence of an earlier tradition (P.C.).</p>
             <bibl>—, « Zur Rettung des Avianus. Weitere Bemerkungen über die <hi rend="i">Apologi
                 Aviani</hi> », <hi rend="i">Neue Jahrbücher für classische Philologie und
                 Pädagogik</hi>, n<hi rend="sup">o</hi> 151, 1895, p. 837-855.</bibl>
-            <quote type="comment">Assumes that Avianus used a text as his source that was
+            <p ana="analysebiblio" rend="margin">Assumes that Avianus used a text as his source that was
               fundamentally the same as that we have today and deduces from that that a more
               « complete » text of Avianus lies at the basis of the text we have received. The
               author uses Greek loan words and seemed to know the « Romulus » tradition, having used
               the latter at the end of P230 « Turtle and the Eagle » (A-T 225A; TMI J512, J657.2).
-              (P.C.)</quote>
+              (P.C.)</p>
             <bibl><hi rend="sc">Herrmann</hi>, Léon, « Notes sur deux manuscrits anversois des
               fables d’Avianus », <title>Latomus</title>, nº 3, 1939, p. 119-125.</bibl>
-            <quote type="comment">Collation of MSS 340 and 140 of the Musée Plantin-Movetus
-              (P.C.)</quote>
+            <p ana="analysebiblio" rend="margin">Collation of MSS 340 and 140 of the Musée Plantin-Movetus
+              (P.C.)</p>
             <bibl>—, « L’auteur du <hi rend="i">Querolus</hi> », <hi rend="i">Revue belge de
                 philologie et d’histoire</hi>, n<hi rend="sup">o</hi>  26, 1948, p. 538-540.</bibl>
-            <quote type="comment">The comedy of Querolus is supposed to be the last work by the
-              fabulist Avianus (P.C.)</quote>
+            <p ana="analysebiblio" rend="margin">The comedy of Querolus is supposed to be the last work by the
+              fabulist Avianus (P.C.)</p>
             <bibl>— (éd.), <hi rend="i">Avianus. Œuvres</hi>, Bruxelles, Latomus, « Latomus (96) »,
               1968. 177 p.</bibl>
-            <quote type="comment">The « Œuvres » of Avianus consist not only of the fables but also
+            <p ana="analysebiblio" rend="margin">The « Œuvres » of Avianus consist not only of the fables but also
               of the comedy <hi rend="i">Querolus</hi> and some poems. The fables are discussed in
               detail in the introduction in which the authenticity of the morals is also dealt with.
-              (P.C.)</quote>
+              (P.C.)</p>
             <p>—, « Notes sur le texte d’Avianus », <hi rend="i">Latomus</hi>, nº 28, 1969,
               p. 669-680.</p>
-            <quote type="comment">A series of notes to his edition of Avianus. The first section
+            <p ana="analysebiblio" rend="margin">A series of notes to his edition of Avianus. The first section
               comprises various textual notes to the fables; the second on the putative authorship
               of <hi rend="i">Querolus</hi> ; and the third on the « poems » of Avianus
-              (P.C.).</quote>
+              (P.C.).</p>
             <bibl><hi rend="sc">Holder</hi>, Alfred, « Zu Avianus », <title>Philologus</title>,
               nº 65, 1906, p. 91-96.</bibl>
-            <quote type="comment">Avianus’ Preface and some twenty-nine fables are found in Karlsruh
+            <p ana="analysebiblio" rend="margin">Avianus’ Preface and some twenty-nine fables are found in Karlsruh
               Codex LXXIII from the tenth Century. The manuscript appears to have no new variant
               readings, but the collation has value for determining the family tree of a group of
-              manuscripts. (P.C.)</quote>
+              manuscripts. (P.C.)</p>
             <bibl><hi rend="sc">Huemer</hi>, Johannes, « Zu Avian », <title>Wiener Studien.
                 Zeitschrift für klassische Philologie, Patristik und lateinische Tradition</title>,
               nº 2, 1880, p. 158‑160.</bibl>
-            <quote type="comment">Presents variant readings of distiches from Avianus 22, 10-16; 21,
-              22; 31 and 32. (P.C.)</quote>
+            <p ana="analysebiblio" rend="margin">Presents variant readings of distiches from Avianus 22, 10-16; 21,
+              22; 31 and 32. (P.C.)</p>
             <bibl><hi rend="sc">IJsewijn</hi>, Jozef, « <title>Avianus Titiani fabulas num
                 retractauerit</title> ? », <title>Latinitas</title>, nº 29, 1981, p. 42‑43. <hi
                 rend="sc">Jenkinson</hi>, F., « The Fables of Avian », <title>The Academy</title>,
@@ -835,8 +838,8 @@
             <bibl><hi rend="sc">Jones</hi>, William Robert, <title>The Text Tradition of
                 Avianus</title>, Ann Arbor, University of Illinois at Urbana-Champaign (Ph.D.
               non-publiée), 1940. 44 p.</bibl>
-            <quote type="comment">Works out a complex classification scheme to categorize and
-              evaluate the known manuscripts of Avianus. (P.C.)</quote>
+            <p ana="analysebiblio" rend="margin">Works out a complex classification scheme to categorize and
+              evaluate the known manuscripts of Avianus. (P.C.)</p>
             <bibl>—, « Thomas Nast and the Æsopic fables of Avianus », <hi rend="i">Classical
                 Bulletin</hi>, nº 18, 1941, p. 18-19.</bibl>
             <bibl>—, « Avianus, Flavianus, Theodosius, and Macrobius », [<hi rend="i">in</hi>] <hi
@@ -844,9 +847,9 @@
                 Colleagues at the University of Illinois, 1924-1960</hi>, Urbana, University of
               Illinois Press, « Illinois Studies in Language and Literature (58) », 1969, p.
               203‑209.</bibl>
-            <quote type="comment">Suggests the possible identification of Avianus with Flavianus,
+            <p ana="analysebiblio" rend="margin">Suggests the possible identification of Avianus with Flavianus,
               who was supposedly in favor with the Emperor Theodosius, to whom the fables of Avianus
-              appear to have been dedicated. (P.C.)</quote>
+              appear to have been dedicated. (P.C.)</p>
             <bibl><hi rend="sc">Klein</hi>, Thomas (éd.), « Alexander Neckam <title>Nouus
                 Avianus</title> », [<hi rend="i">in</hi>] <hi rend="sc">F. Bertini</hi> (dir.),
                 <title>Favolisti latini medievali e umanistici VII</title>, Gênes, <hi rend="sc"
@@ -857,22 +860,22 @@
               Klassische Philologie (26) », 1977. 252 p. C.R. : John <hi rend="sc">Henderson</hi>,
                 <hi rend="i">The Classical Review</hi>, vol. 29 (nº 2), oct. 1979,
               p. 312‑313.</bibl>
-            <quote type="comment">Küppers spends much energy in reordering Avianus research by
+            <p ana="analysebiblio" rend="margin">Küppers spends much energy in reordering Avianus research by
               setting aside the previous work of Ellis and Herrmann especially, and to a lesser
               extent, Crusius and Cameron, as well as Jones and Thraede. Küppers deals with all the
               major issues : the name of the poet, the Theodosio problem, and the origin of the
               fables themselves. Küppers deals with the divergences from the Babrian original as
               Avianus’ own artistic contribution and argues for Avianus’ translation as Coming
               directly out of the Greek, rather than through a Latin intermediary. Full and useful
-              bibliographies and indices. (P.C.)</quote>
+              bibliographies and indices. (P.C.)</p>
             <bibl><hi rend="sc">Lachmann</hi>, Karl, <title>De Aviani Fabulis 4, 2, 23, 27
                 (Prooemium indicis lectionum aestivarum a. 1845)</title>, Berolini, 1845 (4 p.) ;
               repris sous le titre « De Aviani fabulis » dans <title>Kleinere Schriften zur
                 classischen Philologie</title>, Berlin G. Heimer, t. 2, 1876, p. 51-56. <hi
                 rend="sc">Lee</hi>, A. G., « Avianus, fabula XXI, 12 », <title>Proceedings of the
                 Cambridge Philological Society</title>, nº 181, 1950-1951, p. 3‑4.</bibl>
-            <quote type="comment">Textual notes to P325 « Lark and Farmer » (A-T 93; TMI J1031).
-              (P.C.)</quote>
+            <p ana="analysebiblio" rend="margin">Textual notes to P325 « Lark and Farmer » (A-T 93; TMI J1031).
+              (P.C.)</p>
             <bibl><hi rend="sc">Luzzatto</hi>, Maria Jogada, « Note su Aviano e sulle raccolte
               esopiche greco‑latine », <title>Prometheus</title>, nº 10, 1984, p. 75‑94. <hi
                 rend="sc">Malein</hi>, A., « Fragments de manuscrits d’Avianus au Musée de
@@ -882,26 +885,26 @@
             <bibl><hi rend="sc">Manitius</hi>, Maximilian, « Beiträge zur Geschichte römischer
               Dichter im Mittelalter. 9. Tibullus ; 10. Propertius ; 11. Serenus Sammonicus ; 12.
               Avianus », <title>Philologus</title>, vol. 51 (nº 3), 1892, p. 530‑535</bibl>
-            <quote type="comment">Notes on various manuscripts of Avianus’ fables (P.C.)</quote>
+            <p ana="analysebiblio" rend="margin">Notes on various manuscripts of Avianus’ fables (P.C.)</p>
             <bibl>—, <hi rend="i">Philologisches aus alten Bibliothekskatalogen (bis 1300)</hi>,
               Francfort-sur-le-Main, J. D. Sauerländer, « Rheinisches Museum für Philologie.
               Ergänzungsheft (47) », 1892. <num>viii</num>‑152 p.</bibl>
-            <quote type="comment">Contains, among much eise, an extensive listing of the manuscripts
+            <p ana="analysebiblio" rend="margin">Contains, among much eise, an extensive listing of the manuscripts
               of Avianus and evaluates their availability at various times and places during the
               Middle Ages, especially the ninth Century. Lists and describes six manuscripts from
               the ninth Century, five from the tenth, seven from the eleventh, nine from the twelfth
-              and seven from the thirteenth. (P.C.)</quote>
+              and seven from the thirteenth. (P.C.)</p>
             <bibl>—, <hi rend="i">Handschriften antiker Autoren in mittelalterlichen
                 Bibliothekskatalogen</hi>, Leipzig, Harrassowitz, « Beiheft zum Zentralblatt für
               Bibliothekswesen (67) », 1935. <num>xi</num>‑357 p.</bibl>
-            <quote type="comment">This posthumously-appearing work lists those classical authors
+            <p ana="analysebiblio" rend="margin">This posthumously-appearing work lists those classical authors
               mentioned in library catalogs from the Middle Ages to 1933. Lists Phaedrus and
               « Aesopus » (<hi rend="i">i.e.</hi> the Romulus tradition), with special attention
-              given to the very widespread Avianus tradition. (P.C.)</quote>
+              given to the very widespread Avianus tradition. (P.C.)</p>
             <bibl><hi rend="sc">Merone</hi>, E., « Suflo e sufflo (a proposito di Aviano 29, 18) »,
                 <title>Giornale italiano di filologia</title>, nº 11, 1958, p. 45‑50.</bibl>
-            <quote type="comment">Textual notes to a passage in Avianus; concludes that no reading
-              is clearly indicated but that some are more difficult to support. (P.C.)</quote>
+            <p ana="analysebiblio" rend="margin">Textual notes to a passage in Avianus; concludes that no reading
+              is clearly indicated but that some are more difficult to support. (P.C.)</p>
             <bibl><hi rend="sc">Mordeglia</hi>, Caterina (éd.), « Il <title>Nouus Auianus</title> di
               Venezia », [<hi rend="i">in</hi>] <title>Favolisti latini medievali e
                 umanistici XI</title>, Gênes, <hi rend="sc">d.ar.fi.cl.et. «</hi> Francesco Della
@@ -922,22 +925,22 @@
               Abbott, « New Manuscript Material for the Study of Avianus », <title>Transactions and
                 Proceedings of the American Philological Association</title>, nº 42, 1911,
               p. 105‑121.</bibl>
-            <quote type="comment">Traces the history of Avianus scholarship, with particular regard
+            <p ana="analysebiblio" rend="margin">Traces the history of Avianus scholarship, with particular regard
               to the establishment of the corpus. Lists numerous manuscripts and the Heinrich
               Steinhöwel’s Esopus which contains twenty-seven fables from Avianus and which is the
               first known (partial) edition, as well as a number of <hi rend="i">florilgeia</hi> and
               other collections. Five newly noted medieval texts and introductions to Avianus are
-              described as are six collections of imitations and paraphrases. (P.C.)</quote>
+              described as are six collections of imitations and paraphrases. (P.C.)</p>
             <bibl>—, « Bibliographical Notes on the Fables of Avianus », <hi rend="i">Papers of the
                 Bibliographical Association of America</hi>, vol. 15 (nº 2), 1921, p. 61-72.</bibl>
-            <quote type="comment">Lists materials not found in Hervieux or incompletely described
+            <p ana="analysebiblio" rend="margin">Lists materials not found in Hervieux or incompletely described
               there. Issues a cali for a systematic bibliography of Avianus, including all
-              incunabula and prose re-workings during the Middle Ages. (P.C.)</quote>
+              incunabula and prose re-workings during the Middle Ages. (P.C.)</p>
             <bibl>—, « A Fleury Text of Avianus », <hi rend="i">Philological Quarterly</hi>, 5,
               1926, p. 20-28.</bibl>
-            <quote type="comment">Builds on Rand’s assumption that the Codex Leidensis Vossianus
+            <p ana="analysebiblio" rend="margin">Builds on Rand’s assumption that the Codex Leidensis Vossianus
               Lat. Q 86 came from Fleury. Oldest known manuscript comes from St. Gallen from which
-              emanate three branches in the manuscript tradition. (P.C.)</quote>
+              emanate three branches in the manuscript tradition. (P.C.)</p>
             <bibl>—, « An Angular Form of a Rare Abbreviation of –s », <hi rend="i">Speculum</hi>,
               vol. 1 (nº 4), 1926, p. 443‑444.</bibl>
             <bibl>—, &amp; <hi rend="sc">McKenzie</hi>, Kenneth (éd.), <hi rend="i"
@@ -945,7 +948,7 @@
               « University of Illinois Studies in Language and Literature (<num>v</num>, 4) »,
                 1919 (<hi rend="i">reprint</hi> New York/Londres, Johnson Reprint,
               1967). 286 p.</bibl>
-            <quote type="comment">The author and editors present here the text of the Walter of
+            <p ana="analysebiblio" rend="margin">The author and editors present here the text of the Walter of
               England collection of sixty-five fables in Latin verse accompanied by a French
               translation from the fourteenth Century, presented in three clearly related
               manuscripts called Isopet I. That portion which stems from the Avianus tradition is
@@ -954,7 +957,7 @@
               history of the fables and their interrelationships as well as a description of the
               manuscripts and their illustrations. With tables of correspondences, an index of
               proper names, a Latin glossary, and a series of illustrations from the manuscripts.
-              (P.C.)</quote>
+              (P.C.)</p>
             <bibl><hi rend="sc">Omont</hi>, Henri, « Manuscrit illustré des <title>Fables</title>
               d’Avianus, notice du ms. latin n. a. 1132, du <num>x</num>e siècle, récemment entré à
               la Bibliothèque nationale », <title>Bibliothèque de l’École des Chartes</title>,
@@ -969,35 +972,35 @@
                 <title>Enzyklopädie des Märchens. Handwörterbuch zur historischen und vergleichenden
                 Erzählforschung, begründet von Kurt Ranke</title>, Berlin, W. de Gruyter, t. I,
               1975-1979, col. 1099‑1105.</bibl>
-            <quote type="comment">A concise survey of Avianus’ life and works insofar as these facts
+            <p ana="analysebiblio" rend="margin">A concise survey of Avianus’ life and works insofar as these facts
               are known. Avianus’ forty-two fables are characterized as coming from Babrius.
-              Bibliographical notes. The article is followed by a note by Kurt Ranke (P.C.)</quote>
+              Bibliographical notes. The article is followed by a note by Kurt Ranke (P.C.)</p>
             <bibl><hi rend="sc">Risse</hi>, Robert Gregory, <title>An Edition of the Commentary on
                 the Fables of Avianus in Erfurt Ms., Amplon. Q.21. The Text and its Place in
                 Medieval Literary Culture</title>, Saint-Louis (Missouri), Washington University
               (Ph.D. non-publiée), 1964. 248 p. [en ligne sur <hi rend="sc">p.q.d.t</hi>. à la date
               du 04.02.2015]</bibl>
-            <quote type="comment">The manuscript used for this edition was chosen as the best
+            <p ana="analysebiblio" rend="margin">The manuscript used for this edition was chosen as the best
               representative of the group of medieval Avianus commentaries, some 47 in number, that
               cannot be resolved to a single text. After statements of editorial principles,
               Avianus’ position in education and the intellectual life of the middle ages is
               discussed, as well as the specific uses of the fable in various medieval forms and by
-              various authors. (P.C.)</quote>
+              various authors. (P.C.)</p>
             <bibl>—, « The Augustinian Paraphrase of Isaiah 14.13-14 in <hi rend="i">Piers
                 Plowman</hi> and the commentary on the <hi rend="i">Fables</hi> of Avianus », <hi
                 rend="i">Philological Quarterly</hi>, vol. 45 (nº 4), 1966, p. 712-717.</bibl>
-            <quote type="comment">Satan’s boast from Isaiah and <hi rend="i">Piers Plowman</hi> in
+            <p ana="analysebiblio" rend="margin">Satan’s boast from Isaiah and <hi rend="i">Piers Plowman</hi> in
               paraphrase is also to be found in commentaries on Avianus, specifically on fables two
               and four, with the paraphrase found twenty-nine times. The use of the paraphrase is
-              discussed in terms of the importance of Avianus in medieval culture. (P.C.)</quote>
+              discussed in terms of the importance of Avianus in medieval culture. (P.C.)</p>
             <bibl><hi rend="sc">Ritschl</hi>, F., « Zu Avianus », <title>Rheinisches Museum für
                 Philologie</title>, nº 17, 1862, p. 474 (= <title>Opuscul. phil</title>., III, 1877,
               p. 811). <hi rend="sc">Ryan</hi>, Eileen P., <title>The Verse Adaptations of Avianus.
                 Part I : The Astensis and its Derivatives</title>, Ann Arbor, University of Illinois
               at Urbana-Champaign (Ph.D. non-publiée), 1940. 44 p.</bibl>
-            <quote type="comment">Text and commentary on the <hi rend="i">Apologi Aviani</hi> [<hi
+            <p ana="analysebiblio" rend="margin">Text and commentary on the <hi rend="i">Apologi Aviani</hi> [<hi
                 rend="i">sic</hi>], now for the most part superseded by Küppers and Gaide.
-              (P.C.)</quote>
+              (P.C.)</p>
             <bibl><hi rend="sc">Scanzo</hi>, Roberto, « Aviano : I suoi modelli, le sue fonti »,
                 <title>Maia</title>, vol. 53 (nº 1), 2001, p. 51‑61.</bibl>
             <bibl>—, « Arguzia e <hi rend="i">lusus</hi> nelle <hi rend="i">Fabulæ</hi> di Aviano :
@@ -1010,9 +1013,9 @@
                 rend="sc">Krüger</hi>, G., art. « Avianus », [<hi rend="i">in</hi>] <title>Römische
                 Literaturgeschichte</title>, München, Beck, t. 4, 2<hi rend="sup">e</hi> partie,
               (1920) 1935, p. 32‑35.</bibl>
-            <quote type="comment">On the poet’s name and time (suggested dates are not past the
+            <p ana="analysebiblio" rend="margin">On the poet’s name and time (suggested dates are not past the
               fourth Century) ; relationship between the fables of Babrius and Avianus. Reviews the
-              textual Problems, the medieval paraphrases. Extensive bibliography. (P.C.)</quote>
+              textual Problems, the medieval paraphrases. Extensive bibliography. (P.C.)</p>
             <bibl><hi rend="sc">Schenkl</hi>, K., « Beiträge zur Texteskritik der Fabulae des
               Avianus », <title>Zeitschrift für die österreichischen Gymnasien</title>, nº 16, 1865,
               p. 397‑413. <hi rend="sc">Schulze-Busacker</hi>, Elisabeth, <title>La didactique
@@ -1020,24 +1023,24 @@
               médiévales (11) », 2012. 282 p. <hi rend="sc">Shackleton Bailey</hi>, D. R.,
               « Avianiana », <title>Harvard Studies in Classical Philology</title>, nº 82, 1978,
               p. 295‑301.</bibl>
-            <quote type="comment">Textual notes on two fables in Avianus. (P.C.)</quote>
+            <p ana="analysebiblio" rend="margin">Textual notes on two fables in Avianus. (P.C.)</p>
             <bibl><hi rend="sc">Solimano</hi>, Giannina (éd. &amp; trad. ital.), <title>Favole di
                 Fedro e Aviano</title>, Turin, <hi rend="i">Unione Tipografico-Editrice</hi>
               Torinese, « Classici latini », 2005. 429 p. <hi rend="sc">Soudée</hi>, Madeleine,
                 <title>Quatre fabulistes : Phèdre, Avianus, Marie de France et La Fontaine</title>,
               Washington (DC), George Washington University (Ph.D. non-publiée), 1977. 285 p.</bibl>
-            <quote type="comment">Sees a unifying consistency of theme and form for each of the four
+            <p ana="analysebiblio" rend="margin">Sees a unifying consistency of theme and form for each of the four
               collections. Phaedrus used his fables for literary polemic; Avianus’ collection is
               seen as a program for an individual’s advance toward self-improvement. Marie de France
               is characterized as writing fables as court propaganda. La Fontaine’s collection as a
               whole comprises a « theater of the world » filled with constant surprise.
-              (P.C.)</quote>
+              (P.C.)</p>
             <bibl>—, « Le dessein d’Avianus. Nouveau critère d’authenticité des fables », <hi
                 rend="i">Échos du monde classique. Classical News and Views</hi>, nº 22, 1978,
               p. 63‑70.</bibl>
-            <quote type="comment">The Avianus collection as a whole forms a structure the design of
+            <p ana="analysebiblio" rend="margin">The Avianus collection as a whole forms a structure the design of
               which is revealed in the intellectual milieu in which they were produced. Neoplatonic,
-              anti-Christian, but intellectual is the poet. (P.C.)</quote>
+              anti-Christian, but intellectual is the poet. (P.C.)</p>
             <bibl><hi rend="sc">Suerbaum</hi>, Almut, « <title>Litterae et mores</title>. Zur
               Textgeschichte der mittelalterlichen Avian-Kommentare », [<hi rend="i">in</hi>] Klaus
                 <hi rend="sc">Grubmüller</hi> (dir.), <title>Schulliteratur im späten
@@ -1049,25 +1052,25 @@
               umanistici (7) », 1998, p. 137-193.</bibl>
             <p><hi rend="sc">Unrein</hi>, Otto, <hi rend="i">De Aviani aetate. Dissertation</hi>,
               Universität Jena, 1885. 64 p.</p>
-            <quote type="comment">Unrein concludes that Avianus lived at the end of the fourth
+            <p ana="analysebiblio" rend="margin">Unrein concludes that Avianus lived at the end of the fourth
               Century or the beginning of the fifth Century A.D. The most important evidence is
               Avianus’ relationship to Titianus, but linguistic evidence is evaluated as well.
-              Excellent survey of critical literature up to his time. (P.C.)</quote>
+              Excellent survey of critical literature up to his time. (P.C.)</p>
             <bibl><hi rend="sc">Vendryes</hi>, J., « Gloses en vieux haut-allemand dans un manuscrit
               d’Avianus », <title>Mémoires de la Société linguistique de Paris</title>, vol. 22
               (nº 6), 1922, p. 273‑276. <hi rend="sc">Weitzmann</hi>, Kurt, « Æsopian Fable », [<hi
                 rend="i">in</hi>] <title>Ancient Book Illumination</title>, Cambridge (Ma.), Harvard
               University Press, 1959, p. 111‑114.</bibl>
-            <quote type="comment">Aesop’s fables’ popularity as a subject for illustrations is here
+            <p ana="analysebiblio" rend="margin">Aesop’s fables’ popularity as a subject for illustrations is here
               attributed to the popularity of the form itself and its “fitness to pictorialization.”
               The article provides a cursory overview of picture cycles that demonstrate illustrated
               Aesop manuscripts in classical antiquity. P1 « Fox and Eagle » (TMI K2295) and P158
-              « Wolf and Nurse » (TMI J2066.5) are shown in various illustrations. (P.C.)</quote>
+              « Wolf and Nurse » (TMI J2066.5) are shown in various illustrations. (P.C.)</p>
             <bibl><hi rend="sc">Winterfeld</hi>, Paul von, « Zu Avianus », <title>Rheinisches Museum
                 für Philologie</title>, nº 57, 1902, p. 167‑168.</bibl>
-            <quote type="comment">Suggests that Lachmann’s dating of Avianus ought to be put down.
+            <p ana="analysebiblio" rend="margin">Suggests that Lachmann’s dating of Avianus ought to be put down.
               Earliest possible date seems to be the second half of the fourth Century because of
-              the metrics the poet used. (P.C.)</quote>
+              the metrics the poet used. (P.C.)</p>
             <bibl><hi rend="sc">Wright</hi>, Aaron Eugene/Tietjen, « “<title>Iste auctor ab aliis
                 differt</title>”. Avianus and His Medieval Readers », [<hi rend="i">in</hi>] <hi
                 rend="sc">W. Harms</hi>, <hi rend="sc">C.S. Jæger</hi>, &amp; <hi rend="sc">A. Stein
@@ -1303,9 +1306,8 @@
         <l met="penta_el">uix miserum uacua delituisse fuga.</l>
         <l met="hexa_dac">Nam quae praeda, rogas, quae spes contingere posset,</l>
         <l met="penta_el">iurgia nutricis cum mihi uerba darent ?</l>
-        <l met="hexa_dac"><milestone unit="ana:epimythium"/>Haec sibi dicta putet seque hac sciat
-          arte notari</l>
-        <l met="penta_el">femineam quisquis credidit esse fidem.</l>
+        <q ana="epimythium"><l met="hexa_dac">Haec sibi dicta putet seque hac sciat arte notari</l>
+          <l met="penta_el">femineam quisquis credidit esse fidem.</l></q>
       </div>
       <div type="poem" xml:id="avianus-02">
         <head type="sur">Avianus 2</head>
@@ -1325,9 +1327,8 @@
         <l met="penta_el">ingemuit uotis haec licuisse suis.</l>
         <l met="hexa_dac">Nam dedit exosae post haec documenta quietis</l>
         <l met="penta_el">mon sine supremo magna labore peti.</l>
-        <l met="hexa_dac"><milestone unit="ana:epimythium"/>Sic quicumque noua sublatus laude
-          tumecit</l>
-        <l met="penta_el">dat merito poenas, dum meliora cupit.</l>
+        <q ana="epimythium"><l met="hexa_dac">Sic quicumque noua sublatus laude tumecit</l>
+          <l met="penta_el">dat merito poenas, dum meliora cupit.</l></q>
       </div>
       <div type="poem" xml:id="avianus-03">
         <head type="sur">Avianus 3</head>
@@ -1371,11 +1372,10 @@
         <head type="sur">Avianus 5</head>
         <pb ed="perry" n="P358 ; cf. P188"/>
         <head>[DE ASINO PELLE LEONIS INDVTA]</head>
-        <l met="hexa_dac">Metiri se quemque decet propriisque iuuari</l>
-        <l met="penta_el">laudibus, alterius nec bona ferre sibi,</l>
-        <l met="hexa_dac">ne detracta grauem faciant miracula risum,</l>
-        <l met="penta_el"><milestone unit="ana:promythium"/>coeperit in solis cum remanere
-          malis.</l>
+        <q ana="promythium"><l met="hexa_dac">Metiri se quemque decet propriisque iuuari</l>
+          <l met="penta_el">laudibus, alterius nec bona ferre sibi,</l>
+          <l met="hexa_dac">ne detracta grauem faciant miracula risum,</l>
+          <l met="penta_el">coeperit in solis cum remanere malis.</l></q>
         <l met="hexa_dac">Exuuias asinus Gaetuli forte leonis</l>
         <l met="penta_el">repperit et spoliis induit ora nouis</l>
         <l met="hexa_dac">aptauitque suis incongrua tegmina membris,</l>
@@ -1412,8 +1412,8 @@
         <head type="sur">Avianus 7</head>
         <pb ed="perry" n="P332"/>
         <head>[FABVLA CANIS MORDACIS]</head>
-        <l met="hexa_dac">Haud facile est prauis innatum mentibus ut se</l>
-        <l met="penta_el"><milestone unit="ana:promythium"/>muneribus dignas supplicioue putent.</l>
+        <q ana="promythium"><l met="hexa_dac">Haud facile est prauis innatum mentibus ut se</l>
+          <l met="penta_el">muneribus dignas supplicioue putent.</l></q>
         <l met="hexa_dac">Forte canis quondam, nullis latratibus horrens</l>
         <l met="penta_el">nec patulis primum rictibus ora trahens,</l>
         <l met="hexa_dac">mollia sed pauidae summittens uerbera caudae,</l>
@@ -1435,11 +1435,10 @@
         <head type="sur">Avianus 8</head>
         <pb ed="perry" n="P117"/>
         <head>[DE CAMELO]</head>
-        <l met="hexa_dac">Contentum propriis sapientem uiuere rebus,</l>
-        <l met="penta_el">nec cupere alterius, nostra fabella monet,</l>
-        <l met="hexa_dac">indignata cito ne stet Fortuna recursu</l>
-        <l met="penta_el"><milestone unit="ana:promythium"/>atque eadem minuat quae dedit ante
-          rota.</l>
+        <q ana="promythium"><l met="hexa_dac">Contentum propriis sapientem uiuere rebus,</l>
+          <l met="penta_el">nec cupere alterius, nostra fabella monet,</l>
+          <l met="hexa_dac">indignata cito ne stet Fortuna recursu</l>
+          <l met="penta_el">atque eadem minuat quae dedit ante rota.</l></q>
         <l met="hexa_dac">Corporis immensis fertur pecus isse per auras</l>
         <l met="penta_el">et magnum precibus sollicitasse Iouem :</l>
         <l met="hexa_dac">turpe nimis cunctis irridendumque uideri</l>
@@ -1610,9 +1609,8 @@
         <l met="penta_el">et quamuis leuibus prouida cedo notis.</l>
         <l met="hexa_dac">In tua praeruptus offendit robora nimbus ;</l>
         <l met="penta_el">motibus aura meis ludificata perit.</l>
-        <l met="hexa_dac"><milestone unit="ana:epimythium"/>Haec nos dicta monent magnisw obsistere
-          frustra</l>
-        <l met="penta_el">paulatimque truces exsuperare minas.</l>
+        <q ana="epimythium"><l met="hexa_dac">Haec nos dicta monent magnisw obsistere frustra</l>
+          <l met="penta_el">paulatimque truces exsuperare minas.</l></q>
       </div>
       <div type="poem" xml:id="avianus-17">
         <head type="sur">Avianus 17</head>
@@ -1760,9 +1758,8 @@
         <l met="penta_el">siue decus busti, seu uelis esse deum.</l>
         <l met="hexa_dac">Subdita namque tibi est magni reuerentia fati,</l>
         <l met="penta_el">atque eadem retines funera nostra manu.</l>
-        <l met="hexa_dac"><milestone unit="ana:epimythium"/>Conuenit hoc illis quibus est permissa
-          potestas</l>
-        <l met="penta_el">an praestare magis, seu nocuisse uelint.</l>
+        <q ana="epimythium"><l met="hexa_dac">Conuenit hoc illis quibus est permissa potestas</l>
+          <l met="penta_el">an praestare magis, seu nocuisse uelint.</l></q>
       </div>
       <div type="poem" xml:id="avianus-24">
         <head type="sur">Avianus 24</head>
@@ -1835,9 +1832,8 @@
         <l met="penta_el">indignata noua calliditate dolos.</l>
         <l met="hexa_dac">Nam breuis immersis accrescens sponte lapillis</l>
         <l met="penta_el">potandi facilem praebuit unda uiam.</l>
-        <l met="hexa_dac"><milestone unit="ana:epimythium"/>Viribus haec docuit quam sit prudentia
-          maior,</l>
-        <l met="penta_el">qua coeptum uolucris explicuisset opus.</l>
+        <q ana="epimythium"><l met="hexa_dac">Viribus haec docuit quam sit prudentia maior,</l>
+          <l met="penta_el">qua coeptum uolucris explicuisset opus.</l></q>
       </div>
       <div type="poem" xml:id="avianus-28">
         <head type="sur">Avianus 28</head>
@@ -1907,9 +1903,8 @@
         <l met="penta_el">affirmans stultum non habuisse suem :</l>
         <l met="hexa_dac">Nam cur membrorum demens in damna redisset</l>
         <l met="penta_el">atque uno totiens posset ab hoste capi ?</l>
-        <l met="hexa_dac"><milestone unit="ana:epimythium"/>Haec illos descripta monent, qui saepius
-          ausi,</l>
-        <l met="penta_el">numquam peccatis abstinuere manus.</l>
+        <q ana="epimythium"><l met="hexa_dac">Haec illos descripta monent, qui saepius ausi,</l>
+          <l met="penta_el">numquam peccatis abstinuere manus.</l></q>
       </div>
       <div type="poem" xml:id="avianus-31">
         <head type="sur">Avianus 31</head>
@@ -1932,8 +1927,7 @@
         <head type="sur">Avianus 32</head>
         <pb ed="perry" n="P291"/>
         <head>[DE HOMINE ET PLAVSTRO]</head>
-        <l met="hexa_dac"><milestone unit="ana:epimythium"/>Haerentem luteo sub gurgite rusticus
-          axem</l>
+        <l met="hexa_dac">Haerentem luteo sub gurgite rusticus axem</l>
         <l met="penta_el">liquerat et nexos ad iuga tarda boues,</l>
         <l met="hexa_dac">frustra depositis confidens numina uotis</l>
         <l met="penta_el">ferre suis rebus, cum resideret, opem.</l>
@@ -1962,19 +1956,17 @@
         <l met="penta_el">Et vacuam solitis fetibus esse uidet,</l>
         <l met="hexa_dac">Ingemuit tantae deceptus scrimine fraudis</l>
         <l met="penta_el">Nam poenam meritis rettulit inde suis.</l>
-        <l met="hexa_dac"><milestone unit="ana:epimythium"/>Sic qui cuncta deos uno male tempore
-          poscunt,</l>
-        <l met="penta_el">Iustius his etiam uota diurna negant.</l>
+        <q ana="epimythium"><l met="hexa_dac">Sic qui cuncta deos uno male tempore poscunt,</l>
+          <l met="penta_el">Iustius his etiam uota diurna negant.</l></q>
       </div>
       <div type="poem" xml:id="avianus-34">
         <head type="sur">Avianus 34</head>
         <pb ed="perry" n="P373 ; cf. P112"/>
         <head>[DE FORMICA ET CICADA]</head>
-        <l met="hexa_dac">Quisquis torpentem passus transisse iuuentam</l>
-        <l met="penta_el">nec timuit uitae prouidus ante mala</l>
-        <l met="hexa_dac">confectus senio, confectus senio, postquam grauis affuit aetas,</l>
-        <l met="penta_el"><milestone unit="ana:promythium"/>heu frustra alterius saepe rogabit
-          opem.</l>
+        <q ana="promythium"><l met="hexa_dac">Quisquis torpentem passus transisse iuuentam</l>
+          <l met="penta_el">nec timuit uitae prouidus ante mala</l>
+          <l met="hexa_dac">confectus senio, confectus senio, postquam grauis affuit aetas,</l>
+          <l met="penta_el">heu frustra alterius saepe rogabit opem.</l></q>
         <l met="hexa_dac">Solibus ereptos hiemi formica labores</l>
         <l met="penta_el">distulit et breuibus condidit ante cauis.</l>
         <l met="hexa_dac">Verum ubi candentes suscepit terra pruinas,</l>
@@ -2010,9 +2002,8 @@
         <l met="penta_el">haeret et inuita cum genitrice fugit.</l>
         <l met="hexa_dac">Mox quoque dilecti succedit in oscula fratris,</l>
         <l met="penta_el">seruatus uetulis unicus heres auis.</l>
-        <l met="hexa_dac"><milestone unit="ana:epimythium"/>Sic multos neglecta iuuant atque, ordine
-          uerso,</l>
-        <l met="penta_el">spes humiles rursus in meliora refert.</l>
+        <q ana="epimythium"><l met="hexa_dac">Sic multos neglecta iuuant atque, ordine uerso,</l>
+          <l met="penta_el">spes humiles rursus in meliora refert.</l></q>
       </div>
       <div type="poem" xml:id="avianus-36">
         <head type="sur">Avianus 36</head>
@@ -2034,9 +2025,8 @@
         <l met="penta_el">expertem nostri quae facit esse iugi.</l>
         <l met="hexa_dac">Proderit ergo graues quamuis perferre labores</l>
         <l met="penta_el">otia quam tenerum mox peritura pati.</l>
-        <l met="hexa_dac"><milestone unit="ana:epimythium"/>Est hominum sors ista, magis felicibus
-          ut mors</l>
-        <l met="penta_el">sit cita, cum miseros uita diurna regat.</l>
+        <q ana="epimythium"><l met="hexa_dac">Est hominum sors ista, magis felicibus ut mors</l>
+          <l met="penta_el">sit cita, cum miseros uita diurna regat.</l></q>
       </div>
       <div type="poem" xml:id="avianus-37">
         <head type="sur">Avianus 37</head>
@@ -2138,9 +2128,8 @@
         <l met="penta_el">Pronior in tenues uicta cucurrit aquas.</l>
         <l met="hexa_dac">Infelix, quae magna sibi cognomina sumens,</l>
         <l met="penta_el">Ausa pharetratis nubibus ista loqui.</l>
-        <l met="hexa_dac"><milestone unit="ana:epimythium"/>Haec poterunt miseros posthac exempla
-          monere</l>
-        <l met="penta_el">Subdita nobilibus ut sua fata gemant.</l>
+        <q ana="epimythium"><l met="hexa_dac">Haec poterunt miseros posthac exempla monere</l>
+          <l met="penta_el">Subdita nobilibus ut sua fata gemant.</l></q>
       </div>
       <div type="poem" xml:id="avianus-42">
         <head type="sur">Avianus 42</head>
@@ -2160,8 +2149,8 @@
         <l met="penta_el">et tecum uiles, improbe, tolle minas.</l>
         <l met="hexa_dac">Nam sat erit sacrum diuis fudisse cruorem</l>
         <l met="penta_el">quam rabido fauces exsaturare lupo.</l>
-        <l met="hexa_dac">Sic quotiens duplici subeuntur tristia casu,</l>
-        <l met="penta_el">expedit insignem promeruisse necem.</l>
+        <q ana="epimythium"><l met="hexa_dac">Sic quotiens duplici subeuntur tristia casu,</l>
+          <l met="penta_el">expedit insignem promeruisse necem.</l></q>
       </div>
     </body>
   </text>
