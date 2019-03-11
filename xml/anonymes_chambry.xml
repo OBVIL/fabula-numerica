@@ -2,9 +2,8 @@
 <?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anonymes_chambry" xml:lang="gre">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anonymes_chambry" xml:lang="fre">
   <teiHeader>
-    <!-- encodage provisoire des types de texte en milestone ET -->
     <fileDesc>
       <titleStmt>
         <title>Fables anonymes grecques attribuées à Ésope (I<hi rend="sup">er</hi>-XIV<hi
