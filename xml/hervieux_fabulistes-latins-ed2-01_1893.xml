@@ -335,12 +335,12 @@
                   L. ac Senecæ. Ex officina Commeliniana. Cum privilegiis Imperat. Aug. ac Regis
                   Galliæ, in-folio.</note>, et comprises dans deux volumes, le premier sans date, le
                 second portant le millésime de 1603, on lit, page 1111, nº 3 :</p>
-              <quote><l met="epigraph" rend="center">D. PHEDIMO. VESTITORI. M</l>
-                <l met="epigraph" rend="center">AVG</l>
-                <l met="epigraph" rend="center">PHAEDER. FRATRI. PIISSIMO</l></quote>
+              <quote ana="epigraph"><l rend="center">D. PHEDIMO. VESTITORI. M</l>
+                <l rend="center">AVG</l>
+                <l rend="center">PHAEDER. FRATRI. PIISSIMO</l></quote>
               <p rend="noindent">et que lui-même il a dans sa propre collection reproduit cette
                 épigraphe inédite d’une pierre florentine :</p>
-              <quote><l met="epigraph" rend="center">RVNCVLANIVS PHAEDER.</l></quote>
+              <quote ana="epigraph"><l rend="center">RVNCVLANIVS PHAEDER.</l></quote>
               <p rend="indent"><pb n="7" xml:id="p7"/>Le principe grammatical, posé par Gude, peut
                 être parfaitement exact ; il faut pourtant reconnaître qu’ici la dérogation n’est
                 pas douteuse ; dans tous les manuscrits d’Avianus on trouve : <quote><hi rend="i"
@@ -995,31 +995,31 @@
                 affranchis, appelés tantôt <hi rend="i">Eutychus</hi> comme l’ami de Phèdre, tantôt
                   <hi rend="i">Eutyches</hi> avec la désinence grecque. Ainsi notamment il cite, en
                 la tirant de sa collection épigraphique, cette inscription :</p>
-              <quote><l met="epigraph" rend="center">TI. CLAVDIVS. EVTYCHVS<note place="bottom"><hi
+              <quote ana="epigraph"><l rend="center">TI. CLAVDIVS. EVTYCHVS<note place="bottom"><hi
                       rend="i">Phædri Aug. Liberti Fabularum Æsopiarum libri V…</hi> curante Petro
                     Burmanno. Amstelædami, CIƆ IƆ CXCVIII, in-8º. (Voyez <hi rend="i">Marquardi
                       Gudii notæ</hi>, p. 254.)</note>,</l></quote>
               <p rend="noindent">qui est relative à un affranchi de Claude, et, en la puisant dans
                 les <hi rend="i">Inscriptiones antiquæ</hi> de Gruter<note place="bottom">Voyez
                   p. 83, 13.</note>, cette autre :</p>
-              <quote><l met="epigraph" rend="center">ISID. REG.</l>
-                <l met="epigraph" rend="center">L. PVBLICIVS. EVTYCHES</l>
-                <l met="epigraph" rend="center">MVN. TAR. LIB.</l></quote>
+              <quote ana="epigraph"><l rend="center">ISID. REG.</l>
+                <l rend="center">L. PVBLICIVS. EVTYCHES</l>
+                <l rend="center">MVN. TAR. LIB.</l></quote>
               <p rend="noindent">c’est-à-dire <hi rend="i">Municipii Tarsensis libertus</hi>. Je
                 dois en outre signaler, dans l’ouvrage de Gruter, cette inscription trouvée dans le
                 couvent bénédictin de Capoue :</p>
-              <quote><l met="epigraph" rend="center">EVTICHVS. VILLIC</l>
-                <l met="epigraph" rend="center">A PLVMBO</l>
-                <l met="epigraph" rend="center">EVAGOGVS. A. F : : : : : : : : : :</l>
-                <l met="epigraph" rend="center">FECERVNT. SIBI. ET. SVIS<note place="bottom">Voyez
+              <quote ana="epigraph"><l rend="center">EVTICHVS. VILLIC</l>
+                <l rend="center">A PLVMBO</l>
+                <l rend="center">EVAGOGVS. A. F : : : : : : : : : :</l>
+                <l rend="center">FECERVNT. SIBI. ET. SVIS<note place="bottom">Voyez
                     p. 640, 10.</note>,</l></quote>
               <p rend="noindent">et cette autre, qui est encore, comme celle conservée par Gude,
                 relative à un affranchi de Claude :</p>
-              <quote><l met="epigraph" rend="center">TI. CL. EVTYCHE. TI. F</l>
-                <l met="epigraph" rend="center">QVI. VIXIT. ANNO. VNO</l>
-                <l met="epigraph" rend="center">M. VII. D. XXVIII. CLAVDIVS</l>
-                <l met="epigraph" rend="center">EVTYCHES. FILIO</l>
-                <l met="epigraph" rend="center">DVLCISSIMO<note place="bottom">Voyez p. 676,
+              <quote ana="epigraph"><l rend="center">TI. CL. EVTYCHE. TI. F</l>
+                <l rend="center">QVI. VIXIT. ANNO. VNO</l>
+                <l rend="center">M. VII. D. XXVIII. CLAVDIVS</l>
+                <l rend="center">EVTYCHES. FILIO</l>
+                <l rend="center">DVLCISSIMO<note place="bottom">Voyez p. 676,
                     8.</note>.</l></quote>
               <p rend="indent">Mais aucun des affranchis, dont il est question dans ces
                 inscriptions, ne me paraît être celui dont nous cherchons la trace ; je la verrais
@@ -1028,16 +1028,16 @@
                   MDCCLXXXIII, in-12. (Voyez p. 124.)</note> emprunte à Bianchini, <pb n="26"
                   xml:id="p26"/>et qui, placée sur la tombe d’affranchis et d’esclaves d’Auguste,
                 était ainsi conçue :</p>
-              <quote><l met="epigraph" rend="center">C. JVLI VTYCHI</l>
-                <l met="epigraph" rend="center">ET QVINTILLIAES AVRAES</l>
-                <l met="epigraph" rend="center">IMMVNIVM.</l>
+              <quote ana="epigraph"><l rend="center">C. JVLI VTYCHI</l>
+                <l rend="center">ET QVINTILLIAES AVRAES</l>
+                <l rend="center">IMMVNIVM.</l>
               </quote>
               <p rend="indent">C’est aussi judicieusement que Rigault cite une inscription romaine
                 ainsi conçue :</p>
-              <quote>
-                <l met="epigraph" rend="center">EVTICHVS. AVG. LIB.</l>
-                <l met="epigraph" rend="center">MERONIANVS. MEDICVS</l>
-                <l met="epigraph" rend="center">LVDI. MATVTINI<note place="bottom"><hi rend="i"
+              <quote ana="epigraph">
+                <l rend="center">EVTICHVS. AVG. LIB.</l>
+                <l rend="center">MERONIANVS. MEDICVS</l>
+                <l rend="center">LVDI. MATVTINI<note place="bottom"><hi rend="i"
                       >Phædri Aug. Liberti Fabularum Æsopiarum libri V…</hi> Parisiis, apud
                     Sebastianum Cramoisy, 1630, in-12. (Voyez p. 84. Cette inscription figure dans
                     les <hi rend="i">Inscriptiones antiquæ</hi> de Gruter, p. 335, 2
@@ -1048,20 +1048,20 @@
                 se rapportant à deux affranchis qui sont nommés l’un <hi rend="sc">Eutychus</hi> et
                 l’autre <hi rend="sc">Eutyches</hi> et dont l’un pourrait bien être l’opulent ami de
                 Phèdre. Voici la première :</p>
-              <quote><l met="epigraph" rend="center">DIVO. AVGVSTO</l>
-                <l met="epigraph" rend="center">C. ARRIVS. OPTATVS</l>
-                <l met="epigraph" rend="center">C. IVLIVS. EVTYCHVS</l>
-                <l met="epigraph" rend="center">AVGVSTALES<note place="bottom">Gruteri <hi rend="i"
+              <quote ana="epigraph"><l rend="center">DIVO. AVGVSTO</l>
+                <l rend="center">C. ARRIVS. OPTATVS</l>
+                <l rend="center">C. IVLIVS. EVTYCHVS</l>
+                <l rend="center">AVGVSTALES<note place="bottom">Gruteri <hi rend="i"
                       >Inscriptiones antiquæ</hi>, p. 227, 8.</note>.</l></quote>
               <p rend="indent">La seconde, recueillie par Jean-Baptiste Doni, est ainsi conçue :</p>
-              <quote><l met="epigraph" rend="center">D. M</l>
-                <l met="epigraph" rend="center">EVTYCHES. AVG. LIB. CVBI</l>
-                <l met="epigraph" rend="center">CVLARIVS. HELLADIO. AVG. LIB.</l>
-                <l met="epigraph" rend="center">DECVRIONI. CVBICVLARIORVM</l>
-                <l met="epigraph" rend="center">PATRI. DVLCISSIMO. BENEME</l>
-                <l met="epigraph" rend="center">RENTI. ET. SIBI. ET. CONIVGI. ET. LIBERTIS</l>
-                <l met="epigraph" rend="center">LIBERTABVSQ. POSTERISQVE</l>
-                <l met="epigraph" rend="center">EORVM<note place="bottom">Io. Baptistæ Donii
+              <quote ana="epigraph"><l rend="center">D. M</l>
+                <l rend="center">EVTYCHES. AVG. LIB. CVBI</l>
+                <l rend="center">CVLARIVS. HELLADIO. AVG. LIB.</l>
+                <l rend="center">DECVRIONI. CVBICVLARIORVM</l>
+                <l rend="center">PATRI. DVLCISSIMO. BENEME</l>
+                <l rend="center">RENTI. ET. SIBI. ET. CONIVGI. ET. LIBERTIS</l>
+                <l rend="center">LIBERTABVSQ. POSTERISQVE</l>
+                <l rend="center">EORVM<note place="bottom">Io. Baptistæ Donii
                     patricii Florentini Inscriptiones antiquæ ab Antonio Francisco Gorio publico
                     historiarum professore… Florentiæ, anno СӀƆ. ӀƆ. CC. XXXI. Ex regia typographia
                     magni ducis Etruriæ. (Voyez Classis septima, p. 280, nº 2.)</note>.</l></quote>
@@ -1165,21 +1165,21 @@
                 nomme Philète. Ici le doute sur la qualité du protecteur n’est pas possible : des
                 inscriptions lapidaires l’établissent. Dans les <hi rend="i">Inscriptiones
                   antiquæ</hi> de Gruter on lit, page 352, nº 4 :</p>
-              <quote><l met="epigraph" rend="center">ANEROS. ASIATICVS. <hi rend="u">VI</hi>.
+              <quote ana="epigraph"><l rend="center">ANEROS. ASIATICVS. <hi rend="u">VI</hi>.
                   VIR</l>
-                <l met="epigraph" rend="center">SIBI. ET. VALERIAE. Ɔ. L. TRYPHERAE</l>
-                <l met="epigraph" rend="center">VXORI, ET. PHILETO. LIBERTO</l>
+                <l rend="center">SIBI. ET. VALERIAE. Ɔ. L. TRYPHERAE</l>
+                <l rend="center">VXORI, ET. PHILETO. LIBERTO</l>
               </quote>
               <p rend="noindent"><pb n="30" xml:id="p30"/>et page 677, nº 2 :</p>
-              <quote>
-                <l met="epigraph" rend="center">TI. CLAVDI. PHILETI</l>
-                <l met="epigraph" rend="center">V. A. VI. M. III. D. XXI</l>
-                <l met="epigraph" rend="center">TI. CLAVDIVS. PHILETVS.</l>
+              <quote ana="epigraph">
+                <l rend="center">TI. CLAVDI. PHILETI</l>
+                <l rend="center">V. A. VI. M. III. D. XXI</l>
+                <l rend="center">TI. CLAVDIVS. PHILETVS.</l>
               </quote>
               <p rend="noindent">Gude signale en outre cette inscription comme se trouvant à
                 Velletri sur l’une des dalles de la cathédrale :</p>
-              <quote><l met="epigraph" rend="center">D. M. CL. VICTORINAI</l>
-                <l met="epigraph" rend="center">TI. CL. PHILETVS. LIB. BENEMERENTI<note
+              <quote ana="epigraph"><l rend="center">D. M. CL. VICTORINAI</l>
+                <l rend="center">TI. CL. PHILETVS. LIB. BENEMERENTI<note
                     place="bottom"><hi rend="i">Phædri Augusti Liberti Fabularum Æsopiarum,
                       libri V</hi>,… curante Petro Burmanno. Amstelædami, CIƆ IƆ CXCVIII, in-8º.
                     (Voyez les notes de Gude sur <hi rend="i">Phèdre</hi>,
@@ -1189,21 +1189,21 @@
               <p rend="indent">On rencontre encore dans les <hi rend="i">Inscriptiones antiquæ</hi>
                 de Gruler les inscriptions suivantes, qui ne me paraissent pas se rapporter aussi
                 bien au protecteur du fabuliste ; d’abord :</p>
-              <quote><l met="epigraph" rend="center">FILETE. ARISTIA. PHILETVS. M. AEMILIVS</l>
-                <l met="epigraph" rend="center">C. AQVILIVS. M. CAELIVS</l>
-                <l met="epigraph" rend="center">CLAVDIVS FILINVS<note place="bottom">Voyez, dans
+              <quote ana="epigraph"><l rend="center">FILETE. ARISTIA. PHILETVS. M. AEMILIVS</l>
+                <l rend="center">C. AQVILIVS. M. CAELIVS</l>
+                <l rend="center">CLAVDIVS FILINVS<note place="bottom">Voyez, dans
                     l’édition de Burmann de 1698, les notes de Gude, p. 324.</note></l></quote>
               <p rend="noindent">puis, pages 345, nº 3, et 346, nº 2 :</p>
-              <quote><l met="epigraph" rend="center">ET. FILETVS. ACTOR</l></quote>
+              <quote ana="epigraph"><l rend="center">ET. FILETVS. ACTOR</l></quote>
               <p rend="noindent">page 728, nº 10 :</p>
-              <quote><l met="epigraph" rend="center">PHILETVS. CVM. NIPHADE</l>
-                <l met="epigraph" rend="center">MATRE. FECIT</l>
+              <quote ana="epigraph"><l rend="center">PHILETVS. CVM. NIPHADE</l>
+                <l rend="center">MATRE. FECIT</l>
               </quote>
               <p rend="noindent">page 1039, nº 1 :</p>
-              <quote><l met="epigraph" rend="center">PHILETO. ET. MOSCHIDI</l>
-                <l met="epigraph" rend="center">Q. VOLSIVS. VICTORINVS</l></quote>
+              <quote ana="epigraph"><l rend="center">PHILETO. ET. MOSCHIDI</l>
+                <l rend="center">Q. VOLSIVS. VICTORINVS</l></quote>
               <p rend="noindent">et page 1093, nº 10 :</p>
-              <quote><l met="epigraph" rend="center">PHILETVS. ET. FVSCVS. L. F. C.</l></quote>
+              <quote ana="epigraph"><l rend="center">PHILETVS. ET. FVSCVS. L. F. C.</l></quote>
               <p rend="indent"><pb n="31" xml:id="p31"/>Le cinquième livre, dédié à Philète, est
                 loin de nous être parvenu tout entier. Par suite de divisions arbitraires, dans les
                 éditions imprimées il se compose de dix fables ; mais en réalité il n’en comprend
