@@ -2,12 +2,13 @@
 <?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Fables choisies, mises en vers</title>
-        <author key="La Fontaine, Jean de (1621-1695)" ref="https://data.bnf.fr/fr/11910267/jean_de_la_fontaine/">Jean de La Fontaine</author>
+        <author key="La Fontaine, Jean de (1621-1695)"
+          ref="https://data.bnf.fr/fr/11910267/jean_de_la_fontaine/">Jean de La Fontaine</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -38,16 +39,29 @@
         <idno>http://obvil.sorbonne-universite.fr/corpus/fabula-numerica/xml/la-fontaine_fables/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+              « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC
+              BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+              Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+              électronique, notamment en intégrant toutes les contributions extérieures, la
+              diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><hi rend="i">Fables choisies, mises en vers. Par M. de La Fontaine, et par luy revuës, corrigées et augmentées</hi>, A <pubPlace>Paris</pubPlace>, chez <publisher>Denys Thierry</publisher>, ruë S. Jacques, et <publisher>Claude Barbin</publisher>, au Palais, [<date>1692</date>].</bibl>
+        <bibl>Jean de La Fontaine, <hi rend="i">Fables choisies, mises en vers. Par M. de La Fontaine, et par luy revuës,
+            corrigées et augmentées</hi>, <pubPlace>Paris</pubPlace>, <publisher>Denys
+            Thierry</publisher>, ruë S. Jacques, et <publisher>Claude Barbin</publisher>, au Palais,
+            <date>1692</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -63,15 +77,65 @@
     <front>
       <div>
         <head>Source</head>
-        <p rend="indent"><hi rend="b">Texte</hi>. Cette édition électronique est fondée sur le texte de la dernière édition des <hi rend="i">Fables</hi> revue et corrigée par La Fontaine : <hi rend="i">Fables choisies, mises en vers. Par M. de La Fontaine, et par luy revuës, corrigées et augmentées</hi>, A Paris, chez Denys Thierry, ruë S. Jacques, et Claude Barbin, au Palais, [1692] (la page de titre porte la date de 1678, mais le privilège est daté du 12 septembre 1692), 4 vol. in‑12º (les vol. I et II comportent les livres I-III et IV-VI de la première partie ; les vol. III et IV, les livres I-II et III-V de la seconde partie, actuels livres VII-VIII et IX-XI d’après la numérotation adoptée depuis l’édition Charpentier de 1709) ; <hi rend="i">Fables choisies. Par Mr de La Fontaine</hi>, A Paris, chez Claude Barbin, au Palais, sur le second Perron de la Sainte Chapelle, 1694, 1 vol. in‑12<hi rend="sup">o</hi> (ce dernier volume comporte les fables de l’actuel livre XII, alors publié comme un « livre septième » dont on ignore si La Fontaine considérait effectivement qu’il devait trouver place après l’actuel livre VI de la première partie, ou s’il ne doit cette surprenante numérotation qu’à une inadvertance de l’éditeur, sinon de l’auteur lui-même…). Le texte a été transcrit d’après les exemplaires conservés à la Bibliothèque nationale de France sous les cotes [Rés.Ye-3309] (Barbin/Thierry, 1692, vol. I)  ; [Rés.Ye.3310] (vol. II) ; [Rés.Ye.3312] (vol. III) ; [Rés.Ye.3311] (vol. IV) ; [Rés.Ye-3313] (Barbin, 1694), tous accessibles en ligne sur Gallica.</p>
-        <p><hi rend="b">Gravures</hi>. Les vignettes gravées à l’eau-forte qui accompagnent les <hi rend="i">Fables</hi> dans leurs éditions originales seront prochainement reproduites d’après les exemplaires conservés à la bibliothèque de la Fondation Martin Bodmer (Coligny, Genève).</p>
-        <p>Pour de plus amples précisions sur l’histoire éditoriale des <hi rend="i">Fables choisies mises en vers</hi>, on se reportera à la notice analytique du recueil (prochainement mise en ligne).</p>
+        <p rend="indent"><hi rend="b">Texte</hi>. Cette édition électronique est fondée sur le texte
+          de la dernière édition des <hi rend="i">Fables</hi> revue et corrigée par La Fontaine :
+            <hi rend="i">Fables choisies, mises en vers. Par M. de La Fontaine, et par luy revuës,
+            corrigées et augmentées</hi>, A Paris, chez Denys Thierry, ruë S. Jacques, et Claude
+          Barbin, au Palais, [1692] (la page de titre porte la date de 1678, mais le privilège est
+          daté du 12 septembre 1692), 4 vol. in‑12º (les vol. I et II comportent les livres I-III
+          et IV-VI de la première partie ; les vol. III et IV, les livres I-II et III-V de la
+          seconde partie, actuels livres VII-VIII et IX-XI d’après la numérotation adoptée depuis
+          l’édition Charpentier de 1709) ; <hi rend="i">Fables choisies. Par Mr de La Fontaine</hi>,
+          A Paris, chez Claude Barbin, au Palais, sur le second Perron de la Sainte Chapelle, 1694,
+          1 vol. in‑12<hi rend="sup">o</hi> (ce dernier volume comporte les fables de l’actuel
+          livre XII, alors publié comme un « livre septième » dont on ignore si La Fontaine
+          considérait effectivement qu’il devait trouver place après l’actuel livre VI de la
+          première partie, ou s’il ne doit cette surprenante numérotation qu’à une inadvertance de
+          l’éditeur, sinon de l’auteur lui-même…). Le texte a été transcrit d’après les exemplaires
+          conservés à la Bibliothèque nationale de France sous les cotes [Rés.Ye-3309]
+          (Barbin/Thierry, 1692, vol. I)  ; [Rés.Ye.3310] (vol. II) ; [Rés.Ye.3312] (vol. III) ;
+          [Rés.Ye.3311] (vol. IV) ; [Rés.Ye-3313] (Barbin, 1694), tous accessibles en ligne sur
+          Gallica.</p>
+        <p><hi rend="b">Gravures</hi>. Les vignettes gravées à l’eau-forte qui accompagnent les <hi
+            rend="i">Fables</hi> dans leurs éditions originales seront prochainement reproduites
+          d’après les exemplaires conservés à la bibliothèque de la Fondation Martin Bodmer
+          (Coligny, Genève).</p>
+        <p>Pour de plus amples précisions sur l’histoire éditoriale des <hi rend="i">Fables choisies
+            mises en vers</hi>, on se reportera à la notice analytique du recueil (prochainement
+          mise en ligne).</p>
       </div>
       <div>
         <head>Principes de transcription.</head>
-        <p>Cette édition électronique suit les normes éditoriales établies par l’équipe du projet <hi rend="i">Fabula numerica</hi>. La graphie, l’accentuation et la ponctuation des documents originaux ont ainsi été scrupuleusement respectées, sauf dans les cas — fort rares — d’erreurs typographiques évidentes (le texte a notamment été corrigé à la lumière des <hi rend="i">errata</hi>, et lorsqu’un état suspect du texte ne s’y trouvait pas déjà signalé, celui-ci a été revu sur la base d’une comparaison avec des éditions antérieures). Ce parti pris philologique se justifie notamment par le soin qu’apportait La Fontaine à la correction orthographique et à la ponctuation de ses manuscrits et de leurs éditions. Si l’on en croit Mathieu Marais, le fabuliste « marquoit bien toutes les plus petites divisions du discours, les points, les virgules, les interjections, enfin toutes les commodités de l’impression, si utiles à ceux qui savent bien lire : talent plus rare qu’on ne pense » (<hi rend="i">Histoire de la vie et des ouvrages de M. de La Fontaine</hi>, ca. 1723, éd. 1811, p. 58). En outre, d’après Terence Allott, La Fontaine « continuait à veiller sur son texte en cours d’impression et une fois imprimé. Selon certains indices, ses corrections concernaient même des éléments minimes de la ponctuation, par exemple la présence ou l’absence d’un tréma ou d’un trait d’union » (« Les éditions des <hi rend="i">Fables choisies mises en vers</hi> publiées du vivant de l’auteur et leur illustration », <hi rend="i">Le Fablier</hi>, n<hi rend="sup">o</hi> 12, 2000, p. 10).</p>
-        <p>La présente édition s’efforce également de respecter la mise en forme et la disposition des éléments typographiques (vignettes, numérotation et titres des fables, notes explicatives…) propres au document original. En particulier, — et conformément aux règles traditionnelles de la composition typographique - chacun des différents mètres utilisés par le poète, du dissyllabe à l’alexandrin, fait l’objet d’un « renfoncement » à droite spécifique, afin de rendre immédiatement perceptible les variations métriques auxquelles se prête La Fontaine et les effets visuels de cette hétérométrie. La plupart des éditions critiques des <hi rend="i">Fables</hi> actuellement disponibles n’en rendent malheureusement qu’imparfaitement compte.</p>
-        <p>Nous vous serions très reconnaissants de nous signaler d’éventuelles coquilles en écrivant à l’adresse suivante : <ref target="mailto:fabula-numerica@outlook.fr">fabula-numerica@outlook.fr</ref></p>
+        <p>Cette édition électronique suit les normes éditoriales établies par l’équipe du projet
+            <hi rend="i">Fabula numerica</hi>. La graphie, l’accentuation et la ponctuation des
+          documents originaux ont ainsi été scrupuleusement respectées, sauf dans les cas — fort
+          rares — d’erreurs typographiques évidentes (le texte a notamment été corrigé à la lumière
+          des <hi rend="i">errata</hi>, et lorsqu’un état suspect du texte ne s’y trouvait pas déjà
+          signalé, celui-ci a été revu sur la base d’une comparaison avec des éditions antérieures).
+          Ce parti pris philologique se justifie notamment par le soin qu’apportait La Fontaine à la
+          correction orthographique et à la ponctuation de ses manuscrits et de leurs éditions. Si
+          l’on en croit Mathieu Marais, le fabuliste « marquoit bien toutes les plus petites
+          divisions du discours, les points, les virgules, les interjections, enfin toutes les
+          commodités de l’impression, si utiles à ceux qui savent bien lire : talent plus rare qu’on
+          ne pense » (<hi rend="i">Histoire de la vie et des ouvrages de M. de La Fontaine</hi>,
+          ca. 1723, éd. 1811, p. 58). En outre, d’après Terence Allott, La Fontaine « continuait à
+          veiller sur son texte en cours d’impression et une fois imprimé. Selon certains indices,
+          ses corrections concernaient même des éléments minimes de la ponctuation, par exemple la
+          présence ou l’absence d’un tréma ou d’un trait d’union » (« Les éditions des <hi rend="i"
+            >Fables choisies mises en vers</hi> publiées du vivant de l’auteur et leur
+          illustration », <hi rend="i">Le Fablier</hi>, n<hi rend="sup">o</hi> 12, 2000, p. 10).</p>
+        <p>La présente édition s’efforce également de respecter la mise en forme et la disposition
+          des éléments typographiques (vignettes, numérotation et titres des fables, notes
+          explicatives…) propres au document original. En particulier, — et conformément aux règles
+          traditionnelles de la composition typographique - chacun des différents mètres utilisés
+          par le poète, du dissyllabe à l’alexandrin, fait l’objet d’un « renfoncement » à droite
+          spécifique, afin de rendre immédiatement perceptible les variations métriques auxquelles
+          se prête La Fontaine et les effets visuels de cette hétérométrie. La plupart des éditions
+          critiques des <hi rend="i">Fables</hi> actuellement disponibles n’en rendent
+          malheureusement qu’imparfaitement compte.</p>
+        <p>Nous vous serions très reconnaissants de nous signaler d’éventuelles coquilles en
+          écrivant à l’adresse suivante : <ref target="mailto:fabula-numerica@outlook.fr"
+            >fabula-numerica@outlook.fr</ref></p>
         <signed>(A.B.)</signed>
       </div>
     </front>
@@ -99,7 +163,10 @@
       <div>
         <head rend="uc">Livre premier.</head>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img001.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img001.jpg"/>
+          </figure>
           <head type="sur" rend="uc">Fable I. </head>
           <pb ed="perry" n="P112/373"/>
           <head>La Cigale et la Fourmy.</head>
@@ -127,7 +194,10 @@
           <l met="hepta">Et bien, dansez maintenant.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img002.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img002.jpg"/>
+          </figure>
           <head type="sur">II. </head>
           <pb ed="perry" n="P124"/>
           <head>Le Corbeau et le Renard.</head>
@@ -151,7 +221,10 @@
           <l met="alex">Jura, mais un peu tard, qu’on ne l’y prendroit plus.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img003.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img003.jpg"/>
+          </figure>
           <head type="sur">III. </head>
           <pb ed="perry" n="P376"/>
           <head>La Grenoüille qui se veut faire<lb/>aussi grosse que le Bœuf.</head>
@@ -171,7 +244,10 @@
           <l met="octo">Tout Marquis veut avoir des Pages.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img004.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img004.jpg"/>
+          </figure>
           <head type="sur">IV. </head>
           <pb ed="perry" n="P491"/>
           <head>Les deux Mulets.</head>
@@ -196,7 +272,10 @@
           <l met="octo">Tu ne serois pas si malade.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img005.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img005.jpg"/>
+          </figure>
           <head type="sur">V. </head>
           <pb ed="perry" n="P346"/>
           <head>Le Loup et le Chien.</head>
@@ -243,7 +322,10 @@
           <l met="alex"> Cela dit, Maistre Loup s’enfuit, et court encor.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img006.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img006.jpg"/>
+          </figure>
           <head type="sur">VI. </head>
           <pb ed="perry" n="P339 ; cf. P149"/>
           <head>La Genisse, la Chevre et la Brebis en societé avec le Lion.</head>
@@ -267,7 +349,10 @@
           <l met="octo">Je l’étrangleray tout d’abord.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img007.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img007.jpg"/>
+          </figure>
           <head type="sur">VII. </head>
           <pb ed="perry" n="P266"/>
           <head>La Besace.</head>
@@ -308,7 +393,10 @@
           <l met="alex"> Et celle de devant pour les défauts d’autruy.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img008.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img008.jpg"/>
+          </figure>
           <head type="sur">VIII. </head>
           <pb ed="perry" n="P39"/>
           <head>L’Hirondelle et les petits Oyseaux.</head>
@@ -372,7 +460,10 @@
           <l met="alex"> Et ne croyons le mal que quand il est venu.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img009.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img009.jpg"/>
+          </figure>
           <head type="sur">IX. </head>
           <pb ed="perry" n="P352"/>
           <head>Le Rat de Ville, et le Rat des Champs.</head>
@@ -412,7 +503,10 @@
           <l met="hepta"> Que la crainte peut corrompre.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img010.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img010.jpg"/>
+          </figure>
           <head type="sur">X. </head>
           <pb ed="perry" n="P155"/>
           <head>Le Loup et l’Agneau.</head>
@@ -447,7 +541,10 @@
           <l met="octo">Sans autre forme de procés.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img011.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img011.jpg"/>
+          </figure>
           <head type="sur">XI. </head>
           <pb ed="perry" n="PØ"/>
           <head>L’homme, et son Image.</head>
@@ -482,7 +579,10 @@
           <l met="deca"> Que chacun sçait, le Livre des Maximes.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img012.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img012.jpg"/>
+          </figure>
           <head type="sur">XII. </head>
           <pb ed="perry" n="PØ"/>
           <head>Le Dragon à plusieurs testes, et le Dragon à plusieurs queuës.</head>
@@ -516,7 +616,10 @@
           <l met="octo">De vostre Empereur et du nostre.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img013.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img013.jpg"/>
+          </figure>
           <head type="sur">XIII. </head>
           <pb ed="perry" n="Cf. P147"/>
           <head>Les Voleurs et l’Asne.</head>
@@ -537,7 +640,10 @@
           <l met="octo">En se saisissant du Baudet.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img014.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img014.jpg"/>
+          </figure>
           <head type="sur">XIV. </head>
           <pb ed="perry" n="P522"/>
           <head>Simonide préservé par les Dieux.</head>
@@ -616,7 +722,10 @@
           <head>La mort et le Malheureux.</head>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img015.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img015.jpg"/>
+          </figure>
           <head type="sur">XVI. </head>
           <pb ed="perry" n="P60"/>
           <head>La mort et le Buscheron.</head>
@@ -637,7 +746,15 @@
           <l met="alex">Je vive, c’est assez, je suis plus que content. </l>
           <l met="alex">Ne vien jamais ô mort, on [t]’en dit tout autant.   </l>
           <l/>
-          <p ana="comment" rend="i">Ce sujet a esté traité d’une autre façon par Esope, comme la Fable suivante le fera voir. Je composay celle-cy pour une raison qui me contraignoit de rendre la chose ainsi generale. Mais quelqu’un me fit connoistre que j’eusse beaucoup mieux fait de suivre mon original, et que je laissois passer un des plus beaux traits qui fust dans Esope. Cela m’obligea d’y avoir recours. Nous ne sçaurions aller plus avant que les Anciens : ils ne nous ont laissé pour nostre part que la gloire de les bien suivre. Je joints toutefois ma Fable à celle d’Esope : non que la mienne le merite : mais à cause du mot de Mecenas que j’y fais entrer, et qui est si beau et si à propos que je n’ay pas cru le devoir omettre.</p>
+          <p ana="comment" rend="i">Ce sujet a esté traité d’une autre façon par Esope, comme la
+            Fable suivante le fera voir. Je composay celle-cy pour une raison qui me contraignoit de
+            rendre la chose ainsi generale. Mais quelqu’un me fit connoistre que j’eusse beaucoup
+            mieux fait de suivre mon original, et que je laissois passer un des plus beaux traits
+            qui fust dans Esope. Cela m’obligea d’y avoir recours. Nous ne sçaurions aller plus
+            avant que les Anciens : ils ne nous ont laissé pour nostre part que la gloire de les
+            bien suivre. Je joints toutefois ma Fable à celle d’Esope : non que la mienne le
+            merite : mais à cause du mot de Mecenas que j’y fais entrer, et qui est si beau et si à
+            propos que je n’ay pas cru le devoir omettre.</p>
           <l/>
           <l met="alex">   <hi rend="b">U</hi>n pauvre Bucheron tout couvert de ramée, </l>
           <l met="alex">Sous le faix du fagot aussi-bien que des ans, </l>
@@ -662,7 +779,10 @@
           <l met="hepta">C’est la devise des hommes.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img016.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img016.jpg"/>
+          </figure>
           <head type="sur">XVII. </head>
           <pb ed="perry" n="P31"/>
           <head>L’Homme entre deux âges, et ses deux Maistresses.</head>
@@ -699,7 +819,10 @@
           <l met="alex">Je vous suis obligé, Belles, de la leçon.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img017.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img017.jpg"/>
+          </figure>
           <head type="sur">XVIII. </head>
           <pb ed="perry" n="P426"/>
           <head>Le Renard et la Cicogne.</head>
@@ -733,7 +856,10 @@
           <l met="octo">Attendez-vous à la pareille.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img018.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img018.jpg"/>
+          </figure>
           <head type="sur">XIX. </head>
           <pb ed="perry" n="P211"/>
           <head>L’Enfant et le Maistre d’Ecole.</head>
@@ -766,7 +892,10 @@
           <l met="octo">Tu feras aprés ta harangue.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img019.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img019.jpg"/>
+          </figure>
           <head type="sur">XX. </head>
           <pb ed="perry" n="P503"/>
           <head>Le Coq et la Perle.</head>
@@ -827,7 +956,10 @@
           <l met="octo">Les écailles pour les plaideurs.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img020.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img020.jpg"/>
+          </figure>
           <head type="sur">XXII. </head>
           <pb ed="perry" n="P70"/>
           <head>Le Chesne et le Rozeau.</head>
@@ -867,7 +999,10 @@
       </div>
       <div>
         <head rend="uc">Livre deuxiéme.</head>
-        <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img021.jpg"/></figure>
+        <figure>
+          <graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img021.jpg"
+          />
+        </figure>
         <div type="poem">
           <head type="sur">FABLE I. </head>
           <pb ed="perry" n="PØ"/>
@@ -930,7 +1065,10 @@
           <l met="octo">Rien ne sçauroit les satisfaire.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img022.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img022.jpg"/>
+          </figure>
           <head type="sur">II. </head>
           <pb ed="perry" n="P613"/>
           <head>Conseil tenu par les Rats.</head>
@@ -969,7 +1107,10 @@
           <l met="octo">L’on ne rencontre plus personne.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img023.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img023.jpg"/>
+          </figure>
           <head type="sur">III. </head>
           <pb ed="perry" n="P474"/>
           <head>Le Loup plaidant contre le Renard pardevant le Singe.</head>
@@ -991,10 +1132,16 @@
           <l met="alex">Le Juge pretendoit qu’à tort et à travers</l>
           <l met="alex">On ne sçauroit manquer condamnant un pervers.</l>
           <l/>
-          <p ana="comment" rend="i">Quelques personnes de bon sens ont cru que l’impossibilité et la contradiction qui est dans le Jugement de ce Singe, estoit une chose à censurer ; mais je ne m’en suis servi qu’aprés Phedre, et c’est en cela que consiste le bon mot, selon mon avis.</p>
+          <p ana="comment" rend="i">Quelques personnes de bon sens ont cru que l’impossibilité et la
+            contradiction qui est dans le Jugement de ce Singe, estoit une chose à censurer ; mais
+            je ne m’en suis servi qu’aprés Phedre, et c’est en cela que consiste le bon mot, selon
+            mon avis.</p>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img024.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img024.jpg"/>
+          </figure>
           <head type="sur">IV. </head>
           <pb ed="perry" n="P485"/>
           <head>Les deux Taureaux et une Grenoüille.</head>
@@ -1020,7 +1167,10 @@
           <l met="alex">Les petits ont pati des sottises des grands.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img025.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img025.jpg"/>
+          </figure>
           <head type="sur">V. </head>
           <pb ed="perry" n="P172"/>
           <head>La Chauvesouris et les deux Belettes.</head>
@@ -1061,7 +1211,10 @@
           <l met="octo">Vive le Roi, vive la Ligue.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img026.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img026.jpg"/>
+          </figure>
           <head type="sur">VI. </head>
           <pb ed="perry" n="P276"/>
           <head>L’Oyseau blessé d’une fléche.</head>
@@ -1077,7 +1230,10 @@
           <l met="octo">Fournira des armes à l’autre.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img027.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img027.jpg"/>
+          </figure>
           <head type="sur">VII. </head>
           <pb ed="perry" n="P480"/>
           <head>La Lice et sa Compagne.</head>
@@ -1104,7 +1260,10 @@
           <l met="octo">Ils en auront bien-tôt pris quatre.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img028.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img028.jpg"/>
+          </figure>
           <head type="sur">VIII. </head>
           <pb ed="perry" n="P3"/>
           <head>L’Aigle et l’Escarbot.</head>
@@ -1164,7 +1323,10 @@
           <l met="octo">Se cache et ne voit point le jour.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img029.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img029.jpg"/>
+          </figure>
           <head type="sur">IX. </head>
           <pb ed="perry" n="P255"/>
           <head>Le Lion et le Moucheron.</head>
@@ -1209,7 +1371,10 @@
           <l met="octo">Qui perit pour la moindre affaire.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img030.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img030.jpg"/>
+          </figure>
           <head type="sur">X. </head>
           <pb ed="perry" n="P180"/>
           <head>L’Asne chargé d’éponges, et l’Asne chargé de sel.</head>
@@ -1250,7 +1415,10 @@
           <l met="octo">J’en voulois venir à ce point.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img031.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img031.jpg"/>
+          </figure>
           <head type="sur">XI. </head>
           <pb ed="perry" n="P150"/>
           <head>Le Lion et le Rat.</head>
@@ -1299,7 +1467,10 @@
           <l met="octo">Point de Pigeon pour une obole.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img032.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img032.jpg"/>
+          </figure>
           <head type="sur">XIII. </head>
           <pb ed="perry" n="P40"/>
           <head>L’Astrologue qui se laisse tomber dans un puits.</head>
@@ -1354,7 +1525,10 @@
           <l met="octo">Soit pour eux, soit pour leurs affaires.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img033.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img033.jpg"/>
+          </figure>
           <head type="sur">XIV. </head>
           <pb ed="perry" n="P138"/>
           <head>Le Lievre et les Grenoüilles.</head>
@@ -1393,7 +1567,10 @@
           <l met="alex">Qui ne puisse trouver un plus poltron que soy.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img034.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img034.jpg"/>
+          </figure>
           <head type="sur">XV. </head>
           <pb ed="perry" n="P671"/>
           <head>Le Coq et le Renard.</head>
@@ -1431,7 +1608,10 @@
           <l met="alex">Car c’est double plaisir de tromper le trompeur.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img035.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img035.jpg"/>
+          </figure>
           <head type="sur">XVI. </head>
           <pb ed="perry" n="P2"/>
           <head>Le Corbeau voulant imiter l’Aigle.</head>
@@ -1464,7 +1644,10 @@
           <l met="alex">Où la Guespe a passé, le Mouscheron demeure.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img036.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img036.jpg"/>
+          </figure>
           <head type="sur">XViI. </head>
           <pb ed="perry" n="P509"/>
           <head>Le Paon se plaignant à Junon.</head>
@@ -1497,7 +1680,10 @@
           <l met="hepta">Je t’osteray ton plumage.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img037.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img037.jpg"/>
+          </figure>
           <head type="sur">XVIII. </head>
           <pb ed="perry" n="P50"/>
           <head>La Chate metamorphosée en Femme.</head>
@@ -1545,7 +1731,10 @@
           <l met="octo">Il reviendra par les fenestres.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img038.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img038.jpg"/>
+          </figure>
           <head type="sur">XIX. </head>
           <pb ed="perry" n="P151"/>
           <head>Le Lion et l’Asne chassant.</head>
@@ -1578,7 +1767,10 @@
           <l met="octo">Ce n’est pas là leur caractere.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img039.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img039.jpg"/>
+          </figure>
           <head type="sur">XX. </head>
           <pb ed="perry" n="P512"/>
           <head>Testament expliqué par Esope.</head>
@@ -1680,7 +1872,10 @@
       <div>
         <head rend="uc">Livre troisiéme.</head>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img040.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img040.jpg"/>
+          </figure>
           <head type="sur">FABLE I. </head>
           <pb ed="perry" n="P721"/>
           <head>Le Meusnier, son Fils, et l’Asne.</head>
@@ -1773,7 +1968,10 @@
           <l met="alex">Les gens en parleront, n’en doutez nullement.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img041.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img041.jpg"/>
+          </figure>
           <head type="sur">II. </head>
           <pb ed="perry" n="P130"/>
           <head>Les Membres et l’Estomach.</head>
@@ -1823,7 +2021,10 @@
           <l met="octo">Les ramena dans leur devoir.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img042.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img042.jpg"/>
+          </figure>
           <head type="sur">III. </head>
           <pb ed="perry" n="P451"/>
           <head>Le Loup devenu Berger.</head>
@@ -1839,7 +2040,8 @@
           <l met="alex">C’est moy qui suis Guillot Berger de ce troupeau. </l>
           <l met="octo">Sa personne estant ainsi faite,</l>
           <l met="alex"> Et ses pieds de devant posez sur sa houlette, </l>
-          <l met="alex">Guillot le <note resp="author">Trompeur.</note>Sycophante approche doucement. </l>
+          <l met="alex">Guillot le <note resp="author">Trompeur.</note>Sycophante approche
+            doucement. </l>
           <l met="alex">Guillot le vray Guillot étendu sur l’herbette, </l>
           <l met="octo">Dormoit alors profondément. </l>
           <l met="alex">Son chien dormoit aussi, comme aussi sa musette.</l>
@@ -1863,7 +2065,10 @@
           <l met="octo">C’est le plus certain de beaucoup.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img043.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img043.jpg"/>
+          </figure>
           <head type="sur">IV. </head>
           <pb ed="perry" n="P44"/>
           <head>Les Grenoüilles qui demandent un Roy.</head>
@@ -1906,7 +2111,10 @@
           <l met="octo">De peur d’en rencontrer un pire.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img044.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img044.jpg"/>
+          </figure>
           <head type="sur">V. </head>
           <pb ed="perry" n="P9"/>
           <head>Le Renard et le Bouc.</head>
@@ -1943,7 +2151,10 @@
           <l met="alex">En toute chose il faut considerer la fin.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img045.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img045.jpg"/>
+          </figure>
           <head type="sur">VI. </head>
           <pb ed="perry" n="P488"/>
           <head>L’Aigle, la Laye, et la Chate.</head>
@@ -1994,7 +2205,10 @@
           <l met="hepta">C’est la fourbe à mon avis.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img046.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img046.jpg"/>
+          </figure>
           <head type="sur">VII. </head>
           <pb ed="perry" n="P246"/>
           <head>L’Yvrogne et sa femme.</head>
@@ -2028,7 +2242,10 @@
           <l met="octo">Tu ne leur portes point à boire ?</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img047.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img047.jpg"/>
+          </figure>
           <head type="sur">VIII. </head>
           <pb ed="perry" n="P587"/>
           <head>La Goute et l’Araignée.</head>
@@ -2078,7 +2295,10 @@
           <l met="alex">Et fit trés-sagement de changer de logis.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img048.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img048.jpg"/>
+          </figure>
           <head type="sur">IX. </head>
           <pb ed="perry" n="P156"/>
           <head>Le Loup et la Cicogne.</head>
@@ -2101,7 +2321,10 @@
           <l met="octo">Ne tombez jamais sous ma patte.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img049.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img049.jpg"/>
+          </figure>
           <head type="sur">X. </head>
           <pb ed="perry" n="P284"/>
           <head>Le Lion abattu par l’Homme.</head>
@@ -2119,7 +2342,10 @@
           <l met="octo">Si mes confreres sçavoient peindre.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img050.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img050.jpg"/>
+          </figure>
           <head type="sur">XI. </head>
           <pb ed="perry" n="P15"/>
           <head>Le Renard et les Raisins.</head>
@@ -2133,7 +2359,10 @@
           <l met="octo">Fit-il pas mieux que de se plaindre ?</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img051.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img051.jpg"/>
+          </figure>
           <head type="sur">XII. </head>
           <pb ed="perry" n="P399"/>
           <head>Le Cigne et le Cuisinier.</head>
@@ -2161,7 +2390,10 @@
           <l met="octo">Le doux parler ne nuit de rien.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img052.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img052.jpg"/>
+          </figure>
           <head type="sur">XIII. </head>
           <pb ed="perry" n="P153"/>
           <head>Les Loups et les Brebis.</head>
@@ -2195,7 +2427,10 @@
           <l met="octo">Avec des ennemis sans foy ?</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img053.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img053.jpg"/>
+          </figure>
           <head type="sur">XIV. </head>
           <pb ed="perry" n="P481"/>
           <head>Le Lion devenu vieux.</head>
@@ -2213,7 +2448,10 @@
           <l met="alex">Mais c’est mourir deux fois que souffrir tes atteintes.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img054.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img054.jpg"/>
+          </figure>
           <head type="sur">XV. </head>
           <pb ed="perry" n="P277"/>
           <head>Philomele et Progné.</head>
@@ -2243,7 +2481,10 @@
           <l met="octo">Il m’en souvient bien davantage.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img055.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img055.jpg"/>
+          </figure>
           <head type="sur">XVI. </head>
           <pb ed="perry" n="P682"/>
           <head>La Femme noyée.</head>
@@ -2283,7 +2524,10 @@
           <l met="octo">Et, s’il peut, encor par-delà.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img056.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img056.jpg"/>
+          </figure>
           <head type="sur">XVII. </head>
           <pb ed="perry" n="P24"/>
           <head>La Belette entrée dans un Grenier.</head>
@@ -2310,7 +2554,10 @@
           <l met="octo">Leurs affaires avec les vostres.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img057.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img057.jpg"/>
+          </figure>
           <head type="sur">XVIII. </head>
           <pb ed="perry" n="P79/511"/>
           <head>Le Chat et un vieux Rat.</head>
@@ -2372,7 +2619,10 @@
       <div>
         <head rend="uc">Livre quatriéme.</head>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img058.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img058.jpg"/>
+          </figure>
           <head type="sur">FABLE I. </head>
           <pb ed="perry" n="P140"/>
           <head>Le Lion amoureux.</head>
@@ -2443,10 +2693,14 @@
           <l met="octo">Helas comment pourrois-tu faire</l>
           <l met="octo">Que les Bestes devinssent Gens,</l>
           <l met="octo">Si tu nuis aux plus sages testes,</l>
-          <l met="octo">Et fais les Gens devenir Bestes !]<note resp="editor">Ces six derniers vers furent supprimés à partir de l’édition de 1678.</note></l>
+          <l met="octo">Et fais les Gens devenir Bestes !]<note resp="editor">Ces six derniers vers
+              furent supprimés à partir de l’édition de 1678.</note></l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img059.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img059.jpg"/>
+          </figure>
           <head type="sur">II. </head>
           <pb ed="perry" n="P207"/>
           <head>Le Berger et la Mer.</head>
@@ -2484,7 +2738,10 @@
           <l met="alex">Fiez-vous-y, les vents et les voleurs viendront.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img060.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img060.jpg"/>
+          </figure>
           <head type="sur">III. </head>
           <pb ed="perry" n="P521"/>
           <head>La Moûche et la Fourmy.</head>
@@ -2542,7 +2799,10 @@
           <l met="octo">Ne se remplit à babiller.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img061.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img061.jpg"/>
+          </figure>
           <head type="sur">IV. </head>
           <pb ed="perry" n="PØ"/>
           <head>Le Jardinier et son Seigneur.</head>
@@ -2610,7 +2870,10 @@
           <l met="octo">Ni les faire entrer sur vos terres.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img062.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img062.jpg"/>
+          </figure>
           <head type="sur">V. </head>
           <pb ed="perry" n="P91"/>
           <head>L’Asne et le petit Chien.</head>
@@ -2645,7 +2908,10 @@
           <l met="octo">Ainsi finit la Comedie.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img063.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img063.jpg"/>
+          </figure>
           <head type="sur">VI. </head>
           <pb ed="perry" n="P165"/>
           <head>Le combat des Rats et des Belettes.</head>
@@ -2707,7 +2973,10 @@
           <l met="hepta">Les grands ne le peuvent faire.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img064.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img064.jpg"/>
+          </figure>
           <head type="sur">VII. </head>
           <pb ed="perry" n="P73"/>
           <head>Le Singe et le Daufin.</head>
@@ -2757,7 +3026,10 @@
           <l met="octo">Quelque homme afin de le sauver.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img065.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img065.jpg"/>
+          </figure>
           <head type="sur">VIII. </head>
           <pb ed="perry" n="P285"/>
           <head>L’Homme et l’Idole de bois.</head>
@@ -2787,7 +3059,10 @@
           <l met="octo">J’ay bien fait de changer de ton.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img066.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img066.jpg"/>
+          </figure>
           <head type="sur">IX. </head>
           <pb ed="perry" n="P101/472"/>
           <head>Le Geay paré des plumes du Paon.</head>
@@ -2807,7 +3082,10 @@
           <l met="octo">Ce ne sont pas là mes affaires.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img067.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img067.jpg"/>
+          </figure>
           <head type="sur">X. </head>
           <pb ed="perry" n="P195+P177"/>
           <head>Le Chameau, et les Bastons flotans.</head>
@@ -2832,7 +3110,10 @@
           <l met="alex">De loin c’est quelque chose, et de prés ce n’est rien.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img068.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img068.jpg"/>
+          </figure>
           <head type="sur">XI. </head>
           <pb ed="perry" n="P384"/>
           <head>La Grenoüille et le Rat.</head>
@@ -2884,7 +3165,10 @@
           <l met="hepta">Retourne sur son autheur.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img069.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img069.jpg"/>
+          </figure>
           <head type="sur">XII. </head>
           <pb ed="perry" n="PØ ; cf. P339"/>
           <head>Tribut envoyé par les Animaux à Alexandre.</head>
@@ -2965,7 +3249,10 @@
           <l met="alex">L’un l’autre s’attaquant ne font pas leurs affaires.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img070.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img070.jpg"/>
+          </figure>
           <head type="sur">XIII. </head>
           <pb ed="perry" n="P269"/>
           <head>Le Cheval s’estant voulu vanger du Cerf.</head>
@@ -3005,7 +3292,10 @@
           <l met="octo">Sans qui les autres ne sont rien.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img071.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img071.jpg"/>
+          </figure>
           <head type="sur">XIV. </head>
           <pb ed="perry" n="P27"/>
           <head>Le Renard et le Buste.</head>
@@ -3023,7 +3313,10 @@
           <l met="alex">Combien de grands Seigneurs sont Bustes en ce point ?</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img072.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img072.jpg"/>
+          </figure>
           <head type="sur">XV. </head>
           <pb ed="perry" n="P572"/>
           <head>Le Loup, la Chevre, et le Chevreau.</head>
@@ -3099,7 +3392,10 @@
           <l met="octo" rend="i">Mere tenchent chen fieux qui crie.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img073.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img073.jpg"/>
+          </figure>
           <head type="sur">XVII. </head>
           <pb ed="perry" n="P500"/>
           <head>Parole de Socrate.</head>
@@ -3119,7 +3415,10 @@
           <l met="octo">Rien n’est plus rare que la chose.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img074.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img074.jpg"/>
+          </figure>
           <head type="sur">XVIII. </head>
           <pb ed="perry" n="P53"/>
           <head>Le Vieillard et ses enfans.</head>
@@ -3173,7 +3472,10 @@
           <l met="alex">Profiter de ces dards unis et pris à part.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img075.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img075.jpg"/>
+          </figure>
           <head type="sur">XIX. </head>
           <pb ed="perry" n="P36"/>
           <head>L’Oracle et l’Impie.</head>
@@ -3199,7 +3501,10 @@
           <l met="octo">Je vois de loin, j’atteins de même.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img076.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img076.jpg"/>
+          </figure>
           <head type="sur">XX. </head>
           <pb ed="perry" n="P225"/>
           <head>L’Avare qui a perdu son tresor.</head>
@@ -3243,7 +3548,10 @@
           <l met="octo">Elle vous vaudra tout autant.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img077.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img077.jpg"/>
+          </figure>
           <head type="sur">XXI. </head>
           <pb ed="perry" n="P492"/>
           <head>L’œil du Maistre.</head>
@@ -3288,7 +3596,10 @@
           <l met="alex">Quant à moy, j’y mettrois encor l’œil de l’Amant.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img078.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img078.jpg"/>
+          </figure>
           <head type="sur">XXII. </head>
           <pb ed="perry" n="P325"/>
           <head>L’Aloüette et ses petits, avec le Maistre d’un champ.</head>
@@ -3365,7 +3676,10 @@
       <div>
         <head rend="uc">Livre cinquiéme.</head>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img079.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img079.jpg"/>
+          </figure>
           <head type="sur">FABLE I. </head>
           <pb ed="perry" n="P173"/>
           <head>Le Buscheron et Mercure.</head>
@@ -3443,7 +3757,10 @@
           <l met="deca">Que sert cela ? Jupiter n’est pas dupe.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img080.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img080.jpg"/>
+          </figure>
           <head type="sur">II. </head>
           <pb ed="perry" n="P378"/>
           <head>Le Pot de terre et le Pot de fer.</head>
@@ -3480,7 +3797,10 @@
           <l met="hepta">Le destin d’un de ces pots.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img081.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img081.jpg"/>
+          </figure>
           <head type="sur">III. </head>
           <pb ed="perry" n="P18"/>
           <head>Le petit Poisson et le Pescheur</head>
@@ -3512,7 +3832,10 @@
           <l met="octo">L’un est seur, l’autre ne l’est pas.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img082.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img082.jpg"/>
+          </figure>
           <head type="sur">IV. </head>
           <pb ed="perry" n="PØ"/>
           <head>Les Oreilles du Liévre.</head>
@@ -3540,7 +3863,10 @@
           <l met="octo">Iront aux petites Maisons.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img083.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img083.jpg"/>
+          </figure>
           <head type="sur">V. </head>
           <pb ed="perry" n="P17"/>
           <head>Le Renard ayant la queuë coupée.</head>
@@ -3565,7 +3891,10 @@
           <l met="octo">La mode en fut continuée.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img084.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img084.jpg"/>
+          </figure>
           <head type="sur">VI. </head>
           <pb ed="perry" n="P55"/>
           <head>La Vieille et les deux Servantes.</head>
@@ -3602,7 +3931,10 @@
           <l met="hexa">De Caribde en Sylla.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img085.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img085.jpg"/>
+          </figure>
           <head type="sur">VII. </head>
           <pb ed="perry" n="P35"/>
           <head>Le Satyre et le Passant.</head>
@@ -3642,7 +3974,10 @@
           <l met="hepta">Souffle le chaud et le froid.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img086.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img086.jpg"/>
+          </figure>
           <head type="sur">VIII. </head>
           <pb ed="perry" n="P187"/>
           <head>Le Cheval et le Loup.</head>
@@ -3684,7 +4019,10 @@
           <l met="octo">Et ne fus jamais que Boucher.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img087.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img087.jpg"/>
+          </figure>
           <head type="sur">IX. </head>
           <pb ed="perry" n="P42"/>
           <head>Le Laboureur et ses enfans.</head>
@@ -3708,7 +4046,10 @@
           <l met="octo">Que le travail est un tresor.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img088.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img088.jpg"/>
+          </figure>
           <head type="sur">X. </head>
           <pb ed="perry" n="P520"/>
           <head>La Montagne qui accouche.</head>
@@ -3729,7 +4070,10 @@
           <l met="dis">Du vent.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img089.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img089.jpg"/>
+          </figure>
           <head type="sur">XI. </head>
           <pb ed="perry" n="P174"/>
           <head>La Fortune et le jeune Enfant.</head>
@@ -3758,7 +4102,10 @@
           <l met="octo">Bref la Fortune a toujours tort.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img090.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img090.jpg"/>
+          </figure>
           <head type="sur">XII. </head>
           <pb ed="perry" n="Cf. P114 ; P170"/>
           <head>Les Medecins.</head>
@@ -3774,7 +4121,10 @@
           <l met="alex">S’il m’eust cru, disoit l’autre, il seroit plein de vie.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img091.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img091.jpg"/>
+          </figure>
           <head type="sur">XIII. </head>
           <pb ed="perry" n="P87"/>
           <head>La Poule aux œufs d’or.</head>
@@ -3792,7 +4142,10 @@
           <l met="octo">Pour vouloir trop tost estre riches ?</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img092.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img092.jpg"/>
+          </figure>
           <head type="sur">XIV. </head>
           <pb ed="perry" n="P182"/>
           <head>L’Asne portant des Reliques.</head>
@@ -3810,7 +4163,10 @@
           <l met="hepta">C’est la Robe qu’on saluë.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img093.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img093.jpg"/>
+          </figure>
           <head type="sur">XV. </head>
           <pb ed="perry" n="P77"/>
           <head>Le Cerf et la Vigne.</head>
@@ -3830,7 +4186,10 @@
           <l met="hexa">Qui les a conservez.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img094.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img094.jpg"/>
+          </figure>
           <head type="sur">XVI. </head>
           <pb ed="perry" n="P93"/>
           <head>Le Serpent et la Lime.</head>
@@ -3856,7 +4215,10 @@
           <l met="alex">Ils sont pour vous d’airain, d’acier, de diamant.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img095.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img095.jpg"/>
+          </figure>
           <head type="sur">XVII. </head>
           <pb ed="perry" n="P473"/>
           <head>Le Liévre et la Perdrix.</head>
@@ -3888,7 +4250,10 @@
           <l met="octo">Sans l’Autour aux serres cruelles.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img096.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img096.jpg"/>
+          </figure>
           <head type="sur">XVIII. </head>
           <pb ed="perry" n="PØ"/>
           <head>L’Aigle et le Hibou.</head>
@@ -3935,7 +4300,10 @@
           <l met="octo">En avoient-ils le moindre trait ?</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img097.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img097.jpg"/>
+          </figure>
           <head type="sur">XIX. </head>
           <pb ed="perry" n="PØ"/>
           <head>Le Lion s’en allant en guerre.</head>
@@ -3962,7 +4330,10 @@
           <l met="alex">Il n’est rien d’inutile aux personnes de sens.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img098.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img098.jpg"/>
+          </figure>
           <head type="sur">XX. </head>
           <pb ed="perry" n="P65"/>
           <head>L’Ours et les deux Compagnons.</head>
@@ -4006,7 +4377,10 @@
           <l met="alex">Vendre la peau de l’Ours qu’on ne l’ait mis par terre.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img099.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img099.jpg"/>
+          </figure>
           <head type="sur">XXI. </head>
           <pb ed="perry" n="P188/358"/>
           <head>L’Asne vestu de la peau du Lion.</head>
@@ -4032,7 +4406,10 @@
       <div>
         <head rend="uc">Livre sixiéme.</head>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img100.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img100.jpg"/>
+          </figure>
           <head type="sur">FABLE I. </head>
           <pb ed="perry" n="P49"/>
           <head>Le Pâtre et le Lion.</head>
@@ -4053,7 +4430,8 @@
           <l met="alex">On ne voit point chez eux de parole perduë.</l>
           <l met="alex">Phedre estoit si succint, qu’aucuns l’en ont blâmé.</l>
           <l met="alex">Esope en moins de mots s’est encore exprimé.</l>
-          <l met="alex">Mais sur tous certain <note resp="author">Gabrias</note>Grec rencherit et se pique</l>
+          <l met="alex">Mais sur tous certain <note resp="author">Gabrias</note>Grec rencherit et se
+            pique</l>
           <l met="octo">D’une élegance Laconique.</l>
           <l met="alex">Il renferme toujours son conte en quatre Vers ;</l>
           <l met="alex">Bien ou mal, je le laisse à juger aux Experts.</l>
@@ -4105,7 +4483,10 @@
           <l met="octo">S’enfuit aussi-tost qu’il le void.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img101.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img101.jpg"/>
+          </figure>
           <head type="sur">III. </head>
           <pb ed="perry" n="P46"/>
           <head>Phœbus et Borée.</head>
@@ -4151,7 +4532,10 @@
           <l met="octo">Plus fait douceur que violence.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img102.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img102.jpg"/>
+          </figure>
           <head type="sur">IV. </head>
           <pb ed="perry" n="PØ"/>
           <head>Jupiter et le Métayer.</head>
@@ -4188,7 +4572,10 @@
           <l met="octo">Sçait ce qu’il nous faut, mieux que nous.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img103.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img103.jpg"/>
+          </figure>
           <head type="sur">V. </head>
           <pb ed="perry" n="P716"/>
           <head>Le Cochet, le Chat et le Souriceau.</head>
@@ -4236,7 +4623,10 @@
           <l met="octo">De juger des gens sur la mine.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img104.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img104.jpg"/>
+          </figure>
           <head type="sur">VI. </head>
           <pb ed="perry" n="P81"/>
           <head>Le Renard, le Singe, et les Animaux.</head>
@@ -4273,7 +4663,10 @@
           <l met="deca">Qu’à peu de gens convient le Diadême.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img105.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img105.jpg"/>
+          </figure>
           <head type="sur">VII. </head>
           <pb ed="perry" n="P315"/>
           <head>Le Mulet se vantant de sa Genealogie.</head>
@@ -4294,7 +4687,10 @@
           <l met="octo">Qu’on le dit bon à quelque chose.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img106.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img106.jpg"/>
+          </figure>
           <head type="sur">VIII. </head>
           <pb ed="perry" n="P476"/>
           <head>Le Vieillard et l’Asne.</head>
@@ -4316,7 +4712,10 @@
           <l met="octo">Je vous le dis en bon François.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img107.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img107.jpg"/>
+          </figure>
           <head type="sur">IX. </head>
           <pb ed="perry" n="P74"/>
           <head>Le Cerf se voyant dans l’eau</head>
@@ -4347,7 +4746,10 @@
           <l met="octo">Il estime un bois qui luy nuit.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img108.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img108.jpg"/>
+          </figure>
           <head type="sur">X. </head>
           <pb ed="perry" n="P226"/>
           <head>Le Lievre et la Tortuë.</head>
@@ -4388,7 +4790,10 @@
           <l met="octo">Si vous portiez une maison ?</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img109.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img109.jpg"/>
+          </figure>
           <head type="sur">XI. </head>
           <pb ed="perry" n="P179"/>
           <head>L’Asne et ses Maistres.</head>
@@ -4425,7 +4830,10 @@
           <l met="octo">Nous luy romprons encor la teste.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img110.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img110.jpg"/>
+          </figure>
           <head type="sur">XII. </head>
           <pb ed="perry" n="P314"/>
           <head>Le Soleil et les Grenoüilles.</head>
@@ -4448,7 +4856,10 @@
           <l met="alex">Grenoüilles, à mon sens, ne raisonnoient pas mal.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img111.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img111.jpg"/>
+          </figure>
           <head type="sur">XIII. </head>
           <pb ed="perry" n="P176"/>
           <head>Le Villageois et le Serpent</head>
@@ -4483,7 +4894,10 @@
           <l met="octo">Qui ne meure enfin miserable.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img112.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img112.jpg"/>
+          </figure>
           <head type="sur">XIV. </head>
           <pb ed="perry" n="P142"/>
           <head>Le Lion malade, et le Renard.</head>
@@ -4513,7 +4927,10 @@
           <l met="octo">Et ne vois pas comme on en sort.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img113.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img113.jpg"/>
+          </figure>
           <head type="sur">XV. </head>
           <pb ed="perry" n="PØ"/>
           <head>L’Oiseleur, l’Autour et l’Aloüette.</head>
@@ -4537,7 +4954,10 @@
           <l met="octo">T’en avoit-il fait davantage ?</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img114.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img114.jpg"/>
+          </figure>
           <head type="sur">XVI. </head>
           <pb ed="perry" n="P181"/>
           <head>Le Cheval et l’Asne.</head>
@@ -4559,7 +4979,10 @@
           <l met="octo">Et la peau par dessus encor.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img115.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img115.jpg"/>
+          </figure>
           <head type="sur">XVII. </head>
           <pb ed="perry" n="P133"/>
           <head>Le Chien qui lâche sa proye pour l’ombre.</head>
@@ -4576,7 +4999,10 @@
           <l met="octo">Et n’eut ny l’ombre ny le corps.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img116.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img116.jpg"/>
+          </figure>
           <head type="sur">XVIII. </head>
           <pb ed="perry" n="P291"/>
           <head>Le Chartier embourbé.</head>
@@ -4615,7 +5041,10 @@
           <l met="octo">Aide-toy, le Ciel t’aidera.</l>
         </div>
         <div type="poem">
-          <figure><graphic url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img117.jpg"/></figure>
+          <figure>
+            <graphic
+              url="http://obvil.github.io/fabula-numerica/images/la-fontaine_fables_img117.jpg"/>
+          </figure>
           <head type="sur">XIX. </head>
           <pb ed="perry" n="PØ"/>
           <head>Le Charlatan.</head>
