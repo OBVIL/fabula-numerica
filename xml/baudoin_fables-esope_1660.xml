@@ -3,7 +3,7 @@
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <!--Odette: 2018-04-03T10:01:49+02:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,7 +36,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Jean Baudoin, <hi rend="i">Les Fables d’Esope Phrygien. Traduction Nouvelle. Illustrée de Discours Moraux, Philosophiques et Politiques, par J. Baudoin. Avec les figures en taille douce</hi>. A <pubPlace>Roüen</pubPlace>, chez <publisher>Jean et David Berthelin</publisher>, ruë aux Juifs, et dans la Court du Palais. <date>M. DC. LX</date>.</bibl>
+        <bibl>Jean Baudoin, <hi rend="i">Les Fables d’Esope Phrygien. Traduction Nouvelle. Illustrée de Discours Moraux, Philosophiques et Politiques, par J. Baudoin. Avec les figures en taille douce</hi>, <pubPlace>Roüen</pubPlace>, <publisher>Jean et David Berthelin</publisher>, ruë aux Juifs, et dans la Court du Palais, M. DC. LX.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -44,7 +44,7 @@
         <date when="1660"/>
       </creation>
       <langUsage>
-        <language ident="fre">fre</language>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

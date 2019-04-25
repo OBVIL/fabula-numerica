@@ -2,7 +2,7 @@
 <?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lat">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -50,7 +50,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl/>
+        <bibl>Flavius Avianus, <hi rend="i">Fabvlae Aviani</hi></bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -58,7 +58,7 @@
         <date when="0400"/>
       </creation>
       <langUsage>
-        <language ident="fre"/>
+        <language ident="lat"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
