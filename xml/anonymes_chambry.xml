@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="mul">
@@ -8,7 +8,8 @@
       <titleStmt>
         <title>Fables anonymes grecques attribuées à Ésope (I<hi rend="sup">er</hi>-XIV<hi
             rend="sup">e</hi> s.)</title>
-        <author>Anonymes</author>
+        <author role="author" key="Anonymes">Anonymes</author>
+        <author role="translator" key="Chambry, Émile (1864-1951)" ref="https://data.bnf.fr/fr/12326910/emile_chambry/">Emile Chambry</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -42,8 +43,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Anonymes, <hi rend="i">Fables anonymes grecques attribuées à Ésope</hi>, <edition>Édition Chambry <hi rend="i">maior</hi></edition>,
-          1925-1926. </bibl>
+        <bibl><author>Emile Chambry</author>, <title>Aesopi fabulae</title>, <pubPlace>Paris</pubPlace>, <publisher>Les Belles Lettres</publisher>, <date>1925-1926</date>, <biblScope>2 vol.</biblScope></bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -54,6 +54,16 @@
         <language ident="mul"/>
       </langUsage>
     </profileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>[@ana="story"] : récit de la fable.</p>
+        <p>[@ana="epimythium"] : moralité de la fable, apparaissant à la fin.</p>
+        <p>[@ana="promythium"] : section du texte présent avant le récit.</p>
+        <p>[@ana="comment"] : commentaire de l'auteur.</p>
+        <p>[@ana="epigraph"] : épigraphe.</p>
+        <p>[@ana="analysebiblio"] : analyse bibliographique propre à l'édition numérique.</p>
+      </projectDesc>
+    </encodingDesc>
   </teiHeader>
   <text>
     <body>
