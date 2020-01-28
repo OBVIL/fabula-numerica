@@ -2,13 +2,15 @@
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ita">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <!--Odette: 2018-04-03T10:02:17+02:00-->
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Cento favole morali</title>
-        <author key="Verdizotti, Giovanni Mario (1525-1600?)" ref ="https://data.bnf.fr/fr/12180964/giovanni_mario_verdizotti/">Giovan Mario Verdizzotti</author>
+        <author key="Verdizotti, Giovanni Mario (1525-1600?)"
+          ref="https://data.bnf.fr/fr/12180964/giovanni_mario_verdizotti/">Giovan Mario
+          Verdizzotti</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -26,21 +28,23 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
+        <date when="2019"/>
+        <idno>https://obvil.sorbonne-universite.fr/corpus/fabula-numerica/verdizzotti_cento-favole-morali_1570</idno>
         <publisher>Sorbonne Université, Labex OBVIL</publisher>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
               Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle
-              sur les bases de données (L341-1) est mise à disposition de la communauté
-              scientifique internationale par l’OBVIL, selon les termes de la licence Creative
-              Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
-              3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication
-              dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
-              l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
-              toute utilisation commerciale est interdite.</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
+              (CCBY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+              Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite.</p>
             <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
               électronique, notamment en intégrant toutes les contributions extérieures, la
               diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
@@ -48,13 +52,13 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Giovan Mario Verdizzotti, <hi rend="i">Cento Favole Morali De i piu
-            illustri antichi, &amp; moderni autori Greci, &amp; Latini, scielte, &amp; trattate in
-            varie maniere di versi volgari da M. Gio. Mario Verdizotti : nelle quali oltra
-            l’ornamento di varie e belle figure, si contengono molti precetti pertinenti alla
-            prudenza della vita virtuosa &amp; civile</hi>, <pubPlace>Venetia</pubPlace>,
-          <publisher>Giordano Zileti, &amp; compagni</publisher>, <date>M D LXX</date>.
-          PDF : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k3136418">Gallica</ref>.</bibl>
+        <bibl>Giovan Mario Verdizzotti, <hi rend="i">Cento Favole Morali De i piu illustri antichi,
+            &amp; moderni autori Greci, &amp; Latini, scielte, &amp; trattate in varie maniere di
+            versi volgari da M. Gio. Mario Verdizotti : nelle quali oltra l’ornamento di varie e
+            belle figure, si contengono molti precetti pertinenti alla prudenza della vita virtuosa
+            &amp; civile</hi>, <pubPlace>Venetia</pubPlace>, <publisher>Giordano Zileti, &amp;
+            compagni</publisher>, <date>M D LXX</date>. PDF : <ref
+            target="http://gallica.bnf.fr/ark:/12148/bpt6k3136418">Gallica</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -194,10 +198,9 @@
           <div>
             <head>Illustration (par ordre chronologique)</head>
             <list type="ul">
-              <item>[1570] Gravures originales réalisées par Verdizzotti lui-même pour
-                  chacune des cent et une fables et reprises dans la plupart des éditions
-                  successives.
-                <hi rend="i">Cf.</hi>
+              <item>[1570] Gravures originales réalisées par Verdizzotti lui-même pour chacune des
+                cent et une fables et reprises dans la plupart des éditions successives. <hi
+                  rend="i">Cf.</hi>
                 <hi rend="sc">Bodemann</hi>, 1998, nº 42.</item>
             </list>
           </div>
@@ -210,7 +213,8 @@
                 <cell><p rend="hanging"><hi rend="b">Sources présumées</hi></p><p/><p/></cell>
               </row>
               <row>
-                <cell><p rend="noindent">« A i lettori. Del padre, e del figliuolo, che menavan l’asino »</p></cell>
+                <cell><p rend="noindent">« A i lettori. Del padre, e del figliuolo, che menavan
+                    l’asino »</p></cell>
                 <cell cols="2"><p rend="hanging noindent">P721</p><p/><p/><p/></cell>
                 <cell><p rend="hanging noindent">Faerno, 100</p><p/><p/><p/></cell>
               </row>
@@ -231,7 +235,8 @@
               </row>
               <row>
                 <cell><p rend="noindent">4. « Dell’aquila, e ’l guffo »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">PØ — <hi rend="i">cf</hi>. LF V, 18</p></cell>
+                <cell cols="2"><p rend="hanging noindent">PØ — <hi rend="i">cf</hi>. LF V,
+                  18</p></cell>
                 <cell/>
               </row>
               <row>
@@ -271,7 +276,8 @@
               </row>
               <row>
                 <cell><p rend="noindent">12. « Della volpe, e ’l lupo »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">PØ — <hi rend="i">cf</hi>. P211 &amp; P593</p></cell>
+                <cell cols="2"><p rend="hanging noindent">PØ — <hi rend="i">cf</hi>. P211 &amp;
+                    P593</p></cell>
                 <cell><p rend="hanging noindent">Faerno, 49</p><p/></cell>
               </row>
               <row>
@@ -315,7 +321,8 @@
                 <cell><p rend="hanging noindent">Faerno, 46</p><p/></cell>
               </row>
               <row>
-                <cell><p rend="noindent">21. « Del topo giovine, et la gatta, e ’l galletto »</p></cell>
+                <cell><p rend="noindent">21. « Del topo giovine, et la gatta, e ’l
+                  galletto »</p></cell>
                 <cell cols="2"><p rend="hanging noindent">P716</p><p/><p/><p/></cell>
                 <cell><p rend="hanging noindent">Abstemius, I, 67</p><p/><p/><p/></cell>
               </row>
@@ -350,12 +357,13 @@
                 <cell><p rend="hanging noindent">Faerno, 61</p></cell>
               </row>
               <row>
-                <cell><p rend="noindent">28. « Dei lupi e ’l corvo »</p><p/><p/><p/><p/><p/><p/></cell>
+                <cell><p rend="noindent">28. « Dei lupi e ’l
+                  corvo »</p><p/><p/><p/><p/><p/><p/></cell>
                 <cell cols="2"><p rend="hanging noindent">PØ</p><p/><p/><p/><p/><p/><p/><p/></cell>
-                <cell><p rend="hanging noindent">Giovanni Antonio Campano, in <hi rend="i">Æsopus Dorpii</hi> (Anvers, 1512 <hi
-                    rend="i">sqq.</hi>) : « <hi rend="i">Fabella de corvo et lupis, ex Johanne
-                    Antonio Campano desumpta</hi> » (ou dans une trad. vernaculaire de l’<hi
-                    rend="i">Æsopus Dorpii</hi>).</p></cell>
+                <cell><p rend="hanging noindent">Giovanni Antonio Campano, in <hi rend="i">Æsopus
+                      Dorpii</hi> (Anvers, 1512 <hi rend="i">sqq.</hi>) : « <hi rend="i">Fabella de
+                      corvo et lupis, ex Johanne Antonio Campano desumpta</hi> » (ou dans une trad.
+                    vernaculaire de l’<hi rend="i">Æsopus Dorpii</hi>).</p></cell>
               </row>
               <row>
                 <cell><p rend="noindent">29. « Della cornacchia, et del cane »</p></cell>
@@ -365,7 +373,8 @@
               <row>
                 <cell><p rend="noindent">30. « Della volpe, e del gallo »</p></cell>
                 <cell cols="2"><p rend="hanging noindent">P671</p><p/></cell>
-                <cell><p rend="hanging noindent">Poggio Bracciolini, <hi rend="i">Facetiae</hi>, 79</p></cell>
+                <cell><p rend="hanging noindent">Poggio Bracciolini, <hi rend="i">Facetiae</hi>,
+                    79</p></cell>
               </row>
               <row>
                 <cell><p rend="noindent">31. « Dell’uccellator, et la lodola »</p></cell>
@@ -449,7 +458,8 @@
               </row>
               <row>
                 <cell><p rend="noindent">47. « Della mosca »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">P167, <hi rend="i">cf</hi>. P80</p><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">P167, <hi rend="i">cf</hi>.
+                  P80</p><p/></cell>
                 <cell><p rend="hanging noindent">Faerno, 14</p><p/></cell>
               </row>
               <row>
@@ -460,8 +470,8 @@
               <row>
                 <cell><p rend="noindent">49. « Di Pallade, et di Giove »</p><p/></cell>
                 <cell cols="2"><p rend="hanging noindent">P508</p><p/><p/></cell>
-                <cell><p rend="hanging noindent">Faerno, 2 &lt; Phèdre, III, 17, in Perotti, <hi rend="i">Cornu Copiæ</hi>, I,
-                  cv, 10.</p></cell>
+                <cell><p rend="hanging noindent">Faerno, 2 &lt; Phèdre, III, 17, in Perotti, <hi
+                      rend="i">Cornu Copiæ</hi>, I, cv, 10.</p></cell>
               </row>
               <row>
                 <cell><p rend="noindent">50. « Del granchio, et la volpe »</p></cell>
@@ -479,7 +489,8 @@
                 <cell><p rend="hanging noindent">Faerno, 43</p><p/></cell>
               </row>
               <row>
-                <cell><p rend="noindent">53. « D’un marito, che cercava al contrario del fiume la moglie affogata »</p></cell>
+                <cell><p rend="noindent">53. « D’un marito, che cercava al contrario del fiume la
+                    moglie affogata »</p></cell>
                 <cell cols="2"><p rend="hanging noindent">P682</p><p/><p/><p/></cell>
                 <cell><p rend="hanging noindent">Faerno, 41</p><p/><p/><p/></cell>
               </row>
@@ -561,7 +572,8 @@
               <row>
                 <cell><p rend="noindent">69. « Di due rane c’havean sete »</p></cell>
                 <cell cols="2"><p rend="hanging noindent">P43</p><p/></cell>
-                <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>, 37</p></cell>
+                <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>,
+                    37</p></cell>
               </row>
               <row>
                 <cell><p rend="noindent">70. « D’un cane, che temeva la pioggia »</p></cell>
@@ -575,7 +587,8 @@
               </row>
               <row>
                 <cell><p rend="noindent">72. « Dell’orso, e le api »</p></cell>
-                <cell cols="2"><p rend="hanging noindent">PØ ; <hi rend="i">cf</hi>. P400</p><p/></cell>
+                <cell cols="2"><p rend="hanging noindent">PØ ; <hi rend="i">cf</hi>.
+                  P400</p><p/></cell>
                 <cell><p rend="hanging noindent">Abstemius, I, 38.</p><p/></cell>
               </row>
               <row>
@@ -604,18 +617,21 @@
                 <cell><p rend="hanging noindent">Faerno, 78</p><p/><p/></cell>
               </row>
               <row>
-                <cell><p rend="noindent">78. « Del pardo, e le simie »</p><p/><p/><p/><p/><p/><p/><p/><p/><p/><p/></cell>
-                <cell cols="2"><p rend="hanging noindent">PØ</p><p/><p/><p/><p/><p/><p/><p/><p/><p/><p/><p/></cell>
-                <cell><p rend="hanging noindent">Érasme in <hi rend="i">Æsopus Dorpii</hi> (« <hi rend="i">Apologi ex
-                    Chiliadibus adagiorum Erasmi desumpti</hi> »), ou dans une trad. vernaculaire de
-                    l’<hi rend="i">Æsopus Dorpii</hi> &lt; Érasme<hi rend="i">, Adagiorum Chiliades
-                    tres</hi>, Venise, A. Manuce, 1508, II, 369, f. 148r-v : « <hi rend="i">Pardalis
-                    mortem adsimulat</hi> »</p></cell>
+                <cell><p rend="noindent">78. « Del pardo, e le
+                  simie »</p><p/><p/><p/><p/><p/><p/><p/><p/><p/><p/></cell>
+                <cell cols="2"><p rend="hanging noindent"
+                  >PØ</p><p/><p/><p/><p/><p/><p/><p/><p/><p/><p/><p/></cell>
+                <cell><p rend="hanging noindent">Érasme in <hi rend="i">Æsopus Dorpii</hi> (« <hi
+                      rend="i">Apologi ex Chiliadibus adagiorum Erasmi desumpti</hi> »), ou dans une
+                    trad. vernaculaire de l’<hi rend="i">Æsopus Dorpii</hi> &lt; Érasme<hi rend="i"
+                      >, Adagiorum Chiliades tres</hi>, Venise, A. Manuce, 1508, II, 369,
+                    f. 148r-v : « <hi rend="i">Pardalis mortem adsimulat</hi> »</p></cell>
               </row>
               <row>
                 <cell><p rend="noindent">79. « Dell’asino, et della volpe »</p></cell>
                 <cell cols="2"><p rend="hanging noindent">P188</p><p/></cell>
-                <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>, 88</p></cell>
+                <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>,
+                    88</p></cell>
               </row>
               <row>
                 <cell><p rend="noindent">80. « Della lepre e la testuggine »</p></cell>
@@ -640,12 +656,14 @@
               <row>
                 <cell><p rend="noindent">84. « Del leone invecchiato, et la volpe »</p></cell>
                 <cell cols="2"><p rend="hanging noindent">P142</p><p/><p/></cell>
-                <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>, 74</p><p/></cell>
+                <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>,
+                    74</p><p/></cell>
               </row>
               <row>
                 <cell><p rend="noindent">85. « Del gatto, e del gallo »</p></cell>
                 <cell cols="2"><p rend="hanging noindent">P16</p><p/></cell>
-                <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>, 42</p></cell>
+                <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>,
+                    42</p></cell>
               </row>
               <row>
                 <cell><p rend="noindent">86. « Dello sparviero che seguiva una colomba »</p></cell>
@@ -660,7 +678,8 @@
               <row>
                 <cell><p rend="noindent">88. « Della volpe, e lo spino »</p></cell>
                 <cell cols="2"><p rend="hanging noindent">P95</p><p/></cell>
-                <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>, 65</p></cell>
+                <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>,
+                    65</p></cell>
               </row>
               <row>
                 <cell><p rend="noindent">89. « Del leone innamorato, e del contadino »</p></cell>
@@ -670,27 +689,32 @@
               <row>
                 <cell><p rend="noindent">90. « Della scrofa, e la cagna »</p></cell>
                 <cell cols="2"><p rend="hanging noindent">P222</p><p/></cell>
-                <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>, 9</p></cell>
+                <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>,
+                    9</p></cell>
               </row>
               <row>
                 <cell><p rend="noindent">91. « Del taglialegna, e Mercurio »</p></cell>
                 <cell cols="2"><p rend="hanging noindent">P173</p><p/><p/></cell>
-                <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>, 62</p></cell>
+                <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>,
+                    62</p></cell>
               </row>
               <row>
                 <cell><p rend="noindent">92. « Della cervia, et la vite »</p></cell>
                 <cell cols="2"><p rend="hanging noindent">P77</p><p/></cell>
-                <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>, 70</p></cell>
+                <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>,
+                    70</p></cell>
               </row>
               <row>
                 <cell><p rend="noindent">93. « De gli arbori, e del pruno »</p></cell>
                 <cell cols="2"><p rend="hanging noindent">P262</p><p/></cell>
-                <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>, 93</p></cell>
+                <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>,
+                    93</p></cell>
               </row>
               <row>
                 <cell><p rend="noindent">94. « Della volpe, et della simia »</p></cell>
                 <cell cols="2"><p rend="hanging noindent">???</p><p/></cell>
-                <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>, 97 </p></cell>
+                <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>,
+                    97 </p></cell>
               </row>
               <row>
                 <cell><p rend="noindent">95. « Del nibio, e dello sparviero »</p></cell>
@@ -700,12 +724,14 @@
               <row>
                 <cell><p rend="noindent">96. « Del vespertiglio, et della donnola »</p></cell>
                 <cell cols="2"><p rend="hanging noindent">P172</p><p/><p/></cell>
-                <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>, 77</p><p/></cell>
+                <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>,
+                    77</p><p/></cell>
               </row>
               <row>
                 <cell><p rend="noindent">97. « Dell’allodola »</p><p/></cell>
                 <cell cols="2"><p rend="hanging noindent">P325</p><p/></cell>
-                <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>, 96</p></cell>
+                <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>,
+                    96</p></cell>
               </row>
               <row>
                 <cell><p rend="noindent">98. « Dell’asino, e del vitello »</p></cell>
@@ -715,12 +741,14 @@
               <row>
                 <cell><p rend="noindent">99. « Del contadino, e Giove »</p></cell>
                 <cell cols="2"><p rend="hanging noindent">PØ</p><p/><p/></cell>
-                <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>, 98</p></cell>
+                <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>,
+                    98</p></cell>
               </row>
               <row>
                 <cell><p rend="noindent">100. « Del leone, e ’l lupo, e la volpe »</p></cell>
                 <cell cols="2"><p rend="hanging noindent">P258</p><p/><p/></cell>
-                <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>, 99</p></cell>
+                <cell><p rend="hanging noindent">Gabriele Faerno, <hi rend="i">Fabulae centum</hi>,
+                    99</p></cell>
               </row>
             </table>
           </div>
@@ -6267,9 +6295,9 @@
             <l>E già sul colmo de l’accuse egli era</l>
             <l>Quando la Volpe già di questo accorta</l>
             <l>S’appresentò dinanzi al fier Leone,</l>
-            <l>Che era dal ragionar<note resp="author" place="bottom">[NdA] Nous corrigeons le texte de 1570
-                (« per quel ragionar ») selon la leçon de 1577 (« era dal ragionar ») qui supplée le
-                verbe de la proposition relative.</note>, che fatto il Lupo</l>
+            <l>Che era dal ragionar<note resp="author" place="bottom">[NdA] Nous corrigeons le texte
+                de 1570 (« per quel ragionar ») selon la leçon de 1577 (« era dal ragionar ») qui
+                supplée le verbe de la proposition relative.</note>, che fatto il Lupo</l>
             <l>Havea contra di lei, con lei sì forte</l>
             <l>Sdegnato, che volea mangiarla viva.</l>
             <l>Onde l’astuta al meglio che potea</l>

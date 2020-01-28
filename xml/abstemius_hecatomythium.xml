@@ -2,7 +2,7 @@
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lat">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="mul">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,21 +34,23 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
+        <date when="2019"/>
+        <idno>https://obvil.sorbonne-universite.fr/corpus/fabula-numerica/abstemius_hecatomythium</idno>
         <publisher>Sorbonne Université, Labex OBVIL</publisher>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
               Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle
-              sur les bases de données (L341-1) est mise à disposition de la communauté
-              scientifique internationale par l’OBVIL, selon les termes de la licence Creative
-              Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
-              3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication
-              dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
-              l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
-              toute utilisation commerciale est interdite.</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
+              (CCBY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+              Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite.</p>
             <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
               électronique, notamment en intégrant toutes les contributions extérieures, la
               diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
@@ -59,13 +61,15 @@
         <bibl><hi rend="i">Hecatomythium primum</hi>. Édition de référence : Laurentius Abstemius,
             <hi rend="i">Fabulæ per latinissimum uirum Laurentium</hi>, <edition>Domicus Palladius
             Soranus</edition>, <pubPlace>Venise</pubPlace>, <publisher>Johannes
-          Tacuinus</publisher>, 3 août 1495, in-4., GW, n° 126 ; ISTC n° ia00010000. PDF : <ref
+          Tacuinus</publisher>, <date>3 août 1495</date>, in-4., GW, n° 126 ; ISTC n° ia00010000.
+          PDF : <ref
             target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00045190-7"
             >Munich, Bayerische Staatsbibliothek, [4 Inc.c.a. 1117]</ref></bibl>
         <bibl>Laurentius Abstemius, <hi rend="i">Grunii Corococtæ Porcelli Testamentum Laurentii
             Abstemii Maceratensis Hecatomythium secundum eiusdem libellus de verbis communibus</hi>,
-            <pubPlace>Fano</pubPlace>, <publisher>Gershom ben Mosheh  Soncino</publisher>, 7 mai
-          1505, in-8°. PDF : British Library, General Reference Collection 1080.f.1.(1.).</bibl>
+            <pubPlace>Fano</pubPlace>, <publisher>Gershom ben Mosheh  Soncino</publisher>, <date>7
+            mai 1505</date>, in-8°. PDF : British Library, General Reference Collection
+          1080.f.1.(1.).</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
