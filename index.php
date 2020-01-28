@@ -8,6 +8,7 @@ if ( !file_exists( $path = dirname(__FILE__)."/conf.php" ) ) {
 else {
   $conf = include( $path );
 }
+include( dirname(dirname(__FILE__))."/Teinte/Web.php" );
 include( dirname(dirname(__FILE__))."/Teinte/Base.php" );
 $path = Teinte_Web::pathinfo(); // document demandé
 $basehref = Teinte_Web::basehref(); //
@@ -42,10 +43,11 @@ echo $conf['title'];
             echo '<a href="'.$basehref.'">'.$conf['title'].'</a>';
           }
           else {
-            echo '<a href="'.$basehref.'?'.$_COOKIE['lastsearch'].'">'.$conf['title'].'</a>';
+            # echo '<a href="'.$basehref.'?'.$_COOKIE['lastsearch'].'">'.$conf['title'].'</a>';
+            echo '<a href="http://132.227.201.10:8086/projets/fabula-numerica">Projet : '.$conf['title'].'</a>';
           }
         ?></h1>
-        <a class="logo" href="http://obvil.paris-sorbonne.fr/"><img class="logo" src="<?php echo $basehref; ?>../theme/img/logo-obvil.png" alt="OBVIL"></a>
+        <a class="logo" href="http://132.227.201.10:8086/"><img class="logo" src="<?php echo $basehref; ?>../theme/img/logo-obvil.png" alt="OBVIL"></a>
       </header>
       <div id="contenu">
         <aside id="aside">

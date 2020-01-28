@@ -1,2 +1,10 @@
-
+article/
+toc/
+epub/
+kindle/
+*.sqlite
+conf.php
 .DS_Store
+markdown/
+iramuteq/
+html/
